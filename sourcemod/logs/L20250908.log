@@ -1,0 +1,9 @@
+L 09/08/2025 - 22:02:00: SourceMod log file session started (file "e:\steamlibrary\steamapps\common\left 4 dead 2\left4dead2\addons\sourcemod\logs\L20250908.log") (Version "1.12.0.7207")
+L 09/08/2025 - 22:02:00: [GEOIP] GeoIP2 database loaded: GeoLite2-ASN (2024-08-21 08:15:21 UTC) (e:\steamlibrary\steamapps\common\left 4 dead 2\left4dead2\addons\sourcemod\configs\geoip\GeoLite2-ASN.mmdb)
+L 09/08/2025 - 22:02:00: [GEOIP] GeoIP2 supported languages: en
+L 09/08/2025 - 22:02:00: [GEOIP] Your database is older than 90 days. You should consider downloading a newer version from e.g. https://dev.maxmind.com/geoip/geolite2-free-geolocation-data
+L 09/08/2025 - 22:02:14: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_consistency") (value "0")
+L 09/08/2025 - 22:02:14: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_allow_lobby_connect_only") (value "0")
+L 09/08/2025 - 22:02:14: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxplayers") (value "8")
+L 09/08/2025 - 22:02:14: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_visiblemaxplayers") (value "-1")
+L 09/08/2025 - 22:04:27: Log file closed.

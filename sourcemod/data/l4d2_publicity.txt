@@ -1,0 +1,51 @@
+﻿//==========//COLORS TAGS//
+//{blue}, {orange}, {olive} = green, {lightgreen}, 
+//{default} = white, {red}
+
+"publicity" {
+
+    "1" {
+        "msg" "{default}[T-T] {olive}Recuerda: Si rageas, pierdes tu hombria"
+    }
+
+    "2" {
+        "msg" "{default}[T-T] {red}Recuerda: {default}El que muere... es rosquete"
+    }
+
+    "3" {
+        "msg" "{default}[T-T] {blue}Tip: {default}Juega con calma, que la prisa mata"
+    }
+
+    "4" {
+        "msg" "{default}[T-T] {red}Recuerda: {default}A los tanks... con cariño y a la cabeza"
+    }
+
+    "5" {
+        "msg" "{default}[T-T] {blue}Tip: {default}¡No te lances solo, que el teamwork es la clave!"
+    }
+
+    "6" {
+        "msg" "{default}[T-T] {red}Recuerda: ¡El tank siempre tiene sorpresas!"
+    }
+
+    "7" {
+        "msg" "{default}[T-T] {lightgreen}Recuerda: ¡Mantén la buena vibra!"
+    }
+
+    "8" {
+        "msg" "{default}[T-T] {default}Recuerda: Si te tumban, devuélvesela con estilo"
+    }
+
+    "9" {
+        "msg" "{default}[T-T] {default}Recuerda: La witch puede ser... muy cariñosa"
+    }
+
+    "10" {
+        "msg" "{blue}[T-T]XD: {default}¿Alguien vio a Zoey... en modo playa?"
+    }
+
+    "11" {
+        "msg" "{default}[T-T] te pasamos el mod por {blue}Discord {olive}https://discord.gg/PXkdvvZFV7"
+    }
+
+}

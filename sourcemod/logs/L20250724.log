@@ -1,0 +1,130 @@
+L 07/24/2025 - 00:00:47: SourceMod log file session started (file "e:\steamlibrary\steamapps\common\left 4 dead 2\left4dead2\addons\sourcemod\logs\L20250724.log") (Version "1.12.0.7207")
+L 07/24/2025 - 00:00:47: -------- Mapchange to C1_mario1_4 --------
+L 07/24/2025 - 00:00:53: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_consistency") (value "0")
+L 07/24/2025 - 00:00:53: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_allow_lobby_connect_only") (value "0")
+L 07/24/2025 - 00:00:53: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxplayers") (value "8")
+L 07/24/2025 - 00:00:53: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_visiblemaxplayers") (value "-1")
+L 07/24/2025 - 00:06:41: -------- Mapchange to c13m1_alpinecreek --------
+L 07/24/2025 - 00:06:48: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_consistency") (value "0")
+L 07/24/2025 - 00:06:48: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_allow_lobby_connect_only") (value "0")
+L 07/24/2025 - 00:06:48: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxplayers") (value "8")
+L 07/24/2025 - 00:06:48: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_visiblemaxplayers") (value "-1")
+L 07/24/2025 - 00:07:35: [playercommands.smx] "[T-T]MoY<920><STEAM_1:0:511491787><>" slayed "coca cola espuma<1023><STEAM_1:1:642356345><>"
+L 07/24/2025 - 00:07:35: [playercommands.smx] "[T-T]MoY<920><STEAM_1:0:511491787><>" slayed "CHI YIUNG<923><STEAM_1:0:942816046><>"
+L 07/24/2025 - 00:07:35: [playercommands.smx] "[T-T]MoY<920><STEAM_1:0:511491787><>" slayed "Tank<1039><BOT><>"
+L 07/24/2025 - 00:07:35: [playercommands.smx] "[T-T]MoY<920><STEAM_1:0:511491787><>" slayed "czbart29<929><STEAM_1:1:951294877><>"
+L 07/24/2025 - 00:07:35: [playercommands.smx] "[T-T]MoY<920><STEAM_1:0:511491787><>" slayed "¡¡Dark*Merxis!!<934><STEAM_1:1:737611236><>"
+L 07/24/2025 - 00:14:07: -------- Mapchange to c13m2_southpinestream --------
+L 07/24/2025 - 00:14:14: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_consistency") (value "0")
+L 07/24/2025 - 00:14:14: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_allow_lobby_connect_only") (value "0")
+L 07/24/2025 - 00:14:14: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxplayers") (value "8")
+L 07/24/2025 - 00:14:14: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_visiblemaxplayers") (value "-1")
+L 07/24/2025 - 00:18:02: -------- Mapchange to c13m3_memorialbridge --------
+L 07/24/2025 - 00:18:09: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_consistency") (value "0")
+L 07/24/2025 - 00:18:09: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_allow_lobby_connect_only") (value "0")
+L 07/24/2025 - 00:18:09: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxplayers") (value "8")
+L 07/24/2025 - 00:18:09: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_visiblemaxplayers") (value "-1")
+L 07/24/2025 - 00:27:42: -------- Mapchange to c13m4_cutthroatcreek --------
+L 07/24/2025 - 00:27:49: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_consistency") (value "0")
+L 07/24/2025 - 00:27:49: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_allow_lobby_connect_only") (value "0")
+L 07/24/2025 - 00:27:49: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxplayers") (value "8")
+L 07/24/2025 - 00:27:49: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_visiblemaxplayers") (value "-1")
+L 07/24/2025 - 00:34:13: [funvotes.smx] "[T-T]MoY<920><STEAM_1:0:511491787><>" initiated a slay vote against "CHI YIUNG<923><STEAM_1:0:942816046><>"
+L 07/24/2025 - 00:34:33: [funvotes.smx] Vote slay successful, slaying "CHI YIUNG<923><STEAM_1:0:942816046><>"
+L 07/24/2025 - 22:14:56: SourceMod log file session started (file "e:\steamlibrary\steamapps\common\left 4 dead 2\left4dead2\addons\sourcemod\logs\L20250724.log") (Version "1.12.0.7207")
+L 07/24/2025 - 22:14:56: [GEOIP] GeoIP2 database loaded: GeoLite2-ASN (2024-08-21 08:15:21 UTC) (e:\steamlibrary\steamapps\common\left 4 dead 2\left4dead2\addons\sourcemod\configs\geoip\GeoLite2-ASN.mmdb)
+L 07/24/2025 - 22:14:56: [GEOIP] GeoIP2 supported languages: en
+L 07/24/2025 - 22:14:56: [GEOIP] Your database is older than 90 days. You should consider downloading a newer version from e.g. https://dev.maxmind.com/geoip/geolite2-free-geolocation-data
+L 07/24/2025 - 22:15:12: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_consistency") (value "0")
+L 07/24/2025 - 22:15:12: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_allow_lobby_connect_only") (value "0")
+L 07/24/2025 - 22:15:12: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxplayers") (value "8")
+L 07/24/2025 - 22:15:12: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_visiblemaxplayers") (value "-1")
+L 07/24/2025 - 22:15:45: [funvotes.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" initiated a gravity vote.
+L 07/24/2025 - 22:15:46: [funvotes.smx] Changing gravity to 200 due to vote.
+L 07/24/2025 - 22:15:54: [basecommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" changed cvar (cvar "z_common_limit") (value "0")
+L 07/24/2025 - 22:20:58: [playercommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" slayed "Tank<30><BOT><>"
+L 07/24/2025 - 22:20:59: [playercommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" slayed "Boomer<29><BOT><>"
+L 07/24/2025 - 22:21:00: [playercommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" slayed "Smoker<32><BOT><>"
+L 07/24/2025 - 22:21:06: [playercommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" slayed "Jockey<33><BOT><>"
+L 07/24/2025 - 22:21:07: [playercommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" slayed "Charger<34><BOT><>"
+L 07/24/2025 - 22:21:09: [playercommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" slayed "(1)Charger<35><BOT><>"
+L 07/24/2025 - 22:22:19: [playercommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" slayed "Charger<42><BOT><>"
+L 07/24/2025 - 22:22:19: [playercommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" slayed "Tank<47><BOT><>"
+L 07/24/2025 - 22:22:20: [playercommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" slayed "Hunter<48><BOT><>"
+L 07/24/2025 - 22:22:20: [playercommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" slayed "Boomer<49><BOT><>"
+L 07/24/2025 - 22:22:20: [playercommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" slayed "Spitter<50><BOT><>"
+L 07/24/2025 - 22:22:20: [playercommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" slayed "Smoker<41><BOT><>"
+L 07/24/2025 - 22:22:45: [playercommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" slayed "Jockey<51><BOT><>"
+L 07/24/2025 - 22:22:45: [playercommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" slayed "(1)Jockey<52><BOT><>"
+L 07/24/2025 - 22:22:46: [playercommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" slayed "(2)Jockey<53><BOT><>"
+L 07/24/2025 - 22:22:46: [playercommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" slayed "(1)Charger<55><BOT><>"
+L 07/24/2025 - 22:22:46: [playercommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" slayed "Hunter<56><BOT><>"
+L 07/24/2025 - 22:23:00: [playercommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" slayed "Spitter<58><BOT><>"
+L 07/24/2025 - 22:23:03: [playercommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" slayed "Smoker<59><BOT><>"
+L 07/24/2025 - 22:23:04: [playercommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" slayed "(1)Smoker<60><BOT><>"
+L 07/24/2025 - 22:23:04: [playercommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" slayed "(2)Smoker<61><BOT><>"
+L 07/24/2025 - 22:23:04: [playercommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" slayed "(3)Smoker<62><BOT><>"
+L 07/24/2025 - 22:23:04: [playercommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" slayed "Jockey<63><BOT><>"
+L 07/24/2025 - 22:23:11: [playercommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" slayed "Tank<65><BOT><>"
+L 07/24/2025 - 22:23:11: [playercommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" slayed "(1)Charger<66><BOT><>"
+L 07/24/2025 - 22:23:20: [playercommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" slayed "Boomer<67><BOT><>"
+L 07/24/2025 - 22:23:20: [playercommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" slayed "(1)Tank<68><BOT><>"
+L 07/24/2025 - 22:23:20: [playercommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" slayed "Hunter<69><BOT><>"
+L 07/24/2025 - 22:23:20: [playercommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" slayed "Spitter<70><BOT><>"
+L 07/24/2025 - 22:23:21: [playercommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" slayed "(1)Hunter<71><BOT><>"
+L 07/24/2025 - 22:23:21: [playercommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" slayed "Jockey<72><BOT><>"
+L 07/24/2025 - 22:23:21: [playercommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" slayed "(1)Jockey<73><BOT><>"
+L 07/24/2025 - 22:23:28: [playercommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" slayed "Smoker<74><BOT><>"
+L 07/24/2025 - 22:23:28: [playercommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" slayed "(1)Smoker<75><BOT><>"
+L 07/24/2025 - 22:23:37: [playercommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" slayed "Charger<76><BOT><>"
+L 07/24/2025 - 22:23:37: [playercommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" slayed "(1)Charger<77><BOT><>"
+L 07/24/2025 - 22:23:37: [playercommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" slayed "Hunter<78><BOT><>"
+L 07/24/2025 - 22:23:37: [playercommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" slayed "(1)Hunter<79><BOT><>"
+L 07/24/2025 - 22:23:38: [playercommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" slayed "(2)Hunter<80><BOT><>"
+L 07/24/2025 - 22:23:38: [playercommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" slayed "Jockey<81><BOT><>"
+L 07/24/2025 - 22:23:45: [playercommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" slayed "Boomer<82><BOT><>"
+L 07/24/2025 - 22:23:45: [playercommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" slayed "Spitter<83><BOT><>"
+L 07/24/2025 - 22:23:57: [playercommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" slayed "Smoker<84><BOT><>"
+L 07/24/2025 - 22:23:57: [playercommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" slayed "(1)Smoker<85><BOT><>"
+L 07/24/2025 - 22:23:57: [playercommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" slayed "(2)Smoker<86><BOT><>"
+L 07/24/2025 - 22:23:58: [playercommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" slayed "(3)Smoker<87><BOT><>"
+L 07/24/2025 - 22:23:58: [playercommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" slayed "Jockey<88><BOT><>"
+L 07/24/2025 - 22:23:58: [playercommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" slayed "(1)Jockey<89><BOT><>"
+L 07/24/2025 - 22:24:04: [playercommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" slayed "[T-T]MoY<2><STEAM_1:0:511491787><>"
+L 07/24/2025 - 22:24:59: [playercommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" slayed "Hunter<92><BOT><>"
+L 07/24/2025 - 22:25:02: [playercommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" slayed "Boomer<93><BOT><>"
+L 07/24/2025 - 22:25:07: [playercommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" slayed "Charger<94><BOT><>"
+L 07/24/2025 - 22:25:28: [playercommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" slayed "Smoker<95><BOT><>"
+L 07/24/2025 - 22:25:28: [playercommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" slayed "Jockey<96><BOT><>"
+L 07/24/2025 - 22:25:28: [playercommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" slayed "Spitter<97><BOT><>"
+L 07/24/2025 - 22:25:34: [playercommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" slayed "Tank<98><BOT><>"
+L 07/24/2025 - 22:26:11: [playercommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" slayed "Charger<101><BOT><>"
+L 07/24/2025 - 22:26:11: [playercommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" slayed "Smoker<102><BOT><>"
+L 07/24/2025 - 22:26:35: [playercommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" slayed "Jockey<103><BOT><>"
+L 07/24/2025 - 22:26:35: [playercommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" slayed "Boomer<105><BOT><>"
+L 07/24/2025 - 22:26:35: [playercommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" slayed "(1)Jockey<106><BOT><>"
+L 07/24/2025 - 22:29:16: Log file closed.
+L 07/24/2025 - 22:44:25: SourceMod log file session started (file "e:\steamlibrary\steamapps\common\left 4 dead 2\left4dead2\addons\sourcemod\logs\L20250724.log") (Version "1.12.0.7207")
+L 07/24/2025 - 22:44:25: [GEOIP] GeoIP2 database loaded: GeoLite2-ASN (2024-08-21 08:15:21 UTC) (e:\steamlibrary\steamapps\common\left 4 dead 2\left4dead2\addons\sourcemod\configs\geoip\GeoLite2-ASN.mmdb)
+L 07/24/2025 - 22:44:25: [GEOIP] GeoIP2 supported languages: en
+L 07/24/2025 - 22:44:25: [GEOIP] Your database is older than 90 days. You should consider downloading a newer version from e.g. https://dev.maxmind.com/geoip/geolite2-free-geolocation-data
+L 07/24/2025 - 22:44:34: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_consistency") (value "0")
+L 07/24/2025 - 22:44:34: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_allow_lobby_connect_only") (value "0")
+L 07/24/2025 - 22:44:34: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxplayers") (value "8")
+L 07/24/2025 - 22:44:34: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_visiblemaxplayers") (value "-1")
+L 07/24/2025 - 22:45:50: [basecommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" changed cvar (cvar "sv_gravity") (value "200")
+L 07/24/2025 - 22:47:32: -------- Mapchange to c2m1_highway --------
+L 07/24/2025 - 22:47:38: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_consistency") (value "0")
+L 07/24/2025 - 22:47:38: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_allow_lobby_connect_only") (value "0")
+L 07/24/2025 - 22:47:38: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxplayers") (value "8")
+L 07/24/2025 - 22:47:38: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_visiblemaxplayers") (value "-1")
+L 07/24/2025 - 22:54:23: -------- Mapchange to c2m2_fairgrounds --------
+L 07/24/2025 - 22:54:29: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_consistency") (value "0")
+L 07/24/2025 - 22:54:29: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_allow_lobby_connect_only") (value "0")
+L 07/24/2025 - 22:54:29: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxplayers") (value "8")
+L 07/24/2025 - 22:54:29: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_visiblemaxplayers") (value "-1")
+L 07/24/2025 - 23:01:37: -------- Mapchange to c2m3_coaster --------
+L 07/24/2025 - 23:01:43: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_consistency") (value "0")
+L 07/24/2025 - 23:01:43: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_allow_lobby_connect_only") (value "0")
+L 07/24/2025 - 23:01:43: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxplayers") (value "8")
+L 07/24/2025 - 23:01:43: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_visiblemaxplayers") (value "-1")

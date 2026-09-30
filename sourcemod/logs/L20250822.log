@@ -1,0 +1,97 @@
+L 08/22/2025 - 00:17:50: SourceMod log file session started (file "e:\steamlibrary\steamapps\common\left 4 dead 2\left4dead2\addons\sourcemod\logs\L20250822.log") (Version "1.12.0.7207")
+L 08/22/2025 - 00:17:50: [GEOIP] GeoIP2 database loaded: GeoLite2-ASN (2024-08-21 08:15:21 UTC) (e:\steamlibrary\steamapps\common\left 4 dead 2\left4dead2\addons\sourcemod\configs\geoip\GeoLite2-ASN.mmdb)
+L 08/22/2025 - 00:17:50: [GEOIP] GeoIP2 supported languages: en
+L 08/22/2025 - 00:17:50: [GEOIP] Your database is older than 90 days. You should consider downloading a newer version from e.g. https://dev.maxmind.com/geoip/geolite2-free-geolocation-data
+L 08/22/2025 - 00:18:04: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_consistency") (value "0")
+L 08/22/2025 - 00:18:04: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_allow_lobby_connect_only") (value "0")
+L 08/22/2025 - 00:18:04: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxplayers") (value "8")
+L 08/22/2025 - 00:18:04: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_visiblemaxplayers") (value "-1")
+L 08/22/2025 - 00:18:50: [basecommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" changed cvar (cvar "sv_gravity") (value "200")
+L 08/22/2025 - 00:21:01: -------- Mapchange to c1m2_streets --------
+L 08/22/2025 - 00:21:08: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_consistency") (value "0")
+L 08/22/2025 - 00:21:08: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_allow_lobby_connect_only") (value "0")
+L 08/22/2025 - 00:21:08: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxplayers") (value "8")
+L 08/22/2025 - 00:21:08: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_visiblemaxplayers") (value "-1")
+L 08/22/2025 - 00:37:07: -------- Mapchange to c1m3_mall --------
+L 08/22/2025 - 00:37:14: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_consistency") (value "0")
+L 08/22/2025 - 00:37:14: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_allow_lobby_connect_only") (value "0")
+L 08/22/2025 - 00:37:14: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxplayers") (value "8")
+L 08/22/2025 - 00:37:14: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_visiblemaxplayers") (value "-1")
+L 08/22/2025 - 00:53:15: -------- Mapchange to c1m4_atrium --------
+L 08/22/2025 - 00:53:22: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_consistency") (value "0")
+L 08/22/2025 - 00:53:22: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_allow_lobby_connect_only") (value "0")
+L 08/22/2025 - 00:53:22: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxplayers") (value "8")
+L 08/22/2025 - 00:53:22: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_visiblemaxplayers") (value "-1")
+L 08/22/2025 - 00:53:29: Log file closed.
+L 08/22/2025 - 22:55:30: SourceMod log file session started (file "e:\steamlibrary\steamapps\common\left 4 dead 2\left4dead2\addons\sourcemod\logs\L20250822.log") (Version "1.12.0.7207")
+L 08/22/2025 - 22:55:30: [GEOIP] GeoIP2 database loaded: GeoLite2-ASN (2024-08-21 08:15:21 UTC) (e:\steamlibrary\steamapps\common\left 4 dead 2\left4dead2\addons\sourcemod\configs\geoip\GeoLite2-ASN.mmdb)
+L 08/22/2025 - 22:55:30: [GEOIP] GeoIP2 supported languages: en
+L 08/22/2025 - 22:55:30: [GEOIP] Your database is older than 90 days. You should consider downloading a newer version from e.g. https://dev.maxmind.com/geoip/geolite2-free-geolocation-data
+L 08/22/2025 - 22:55:47: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_consistency") (value "0")
+L 08/22/2025 - 22:55:47: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_allow_lobby_connect_only") (value "0")
+L 08/22/2025 - 22:55:47: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxplayers") (value "8")
+L 08/22/2025 - 22:55:47: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_visiblemaxplayers") (value "-1")
+L 08/22/2025 - 22:59:01: SourceMod log file session started (file "e:\steamlibrary\steamapps\common\left 4 dead 2\left4dead2\addons\sourcemod\logs\L20250822.log") (Version "1.12.0.7207")
+L 08/22/2025 - 22:59:01: [GEOIP] GeoIP2 database loaded: GeoLite2-ASN (2024-08-21 08:15:21 UTC) (e:\steamlibrary\steamapps\common\left 4 dead 2\left4dead2\addons\sourcemod\configs\geoip\GeoLite2-ASN.mmdb)
+L 08/22/2025 - 22:59:01: [GEOIP] GeoIP2 supported languages: en
+L 08/22/2025 - 22:59:01: [GEOIP] Your database is older than 90 days. You should consider downloading a newer version from e.g. https://dev.maxmind.com/geoip/geolite2-free-geolocation-data
+L 08/22/2025 - 22:59:12: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_consistency") (value "0")
+L 08/22/2025 - 22:59:12: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_allow_lobby_connect_only") (value "0")
+L 08/22/2025 - 22:59:12: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxplayers") (value "8")
+L 08/22/2025 - 22:59:12: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_visiblemaxplayers") (value "-1")
+L 08/22/2025 - 23:01:22: SourceMod log file session started (file "e:\steamlibrary\steamapps\common\left 4 dead 2\left4dead2\addons\sourcemod\logs\L20250822.log") (Version "1.12.0.7207")
+L 08/22/2025 - 23:01:22: [GEOIP] GeoIP2 database loaded: GeoLite2-ASN (2024-08-21 08:15:21 UTC) (e:\steamlibrary\steamapps\common\left 4 dead 2\left4dead2\addons\sourcemod\configs\geoip\GeoLite2-ASN.mmdb)
+L 08/22/2025 - 23:01:22: [GEOIP] GeoIP2 supported languages: en
+L 08/22/2025 - 23:01:22: [GEOIP] Your database is older than 90 days. You should consider downloading a newer version from e.g. https://dev.maxmind.com/geoip/geolite2-free-geolocation-data
+L 08/22/2025 - 23:01:32: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_consistency") (value "0")
+L 08/22/2025 - 23:01:32: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_allow_lobby_connect_only") (value "0")
+L 08/22/2025 - 23:01:32: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxplayers") (value "8")
+L 08/22/2025 - 23:01:32: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_visiblemaxplayers") (value "-1")
+L 08/22/2025 - 23:02:30: [basecommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" changed cvar (cvar "sv_gravity") (value "200")
+L 08/22/2025 - 23:04:33: -------- Mapchange to c1m2_streets --------
+L 08/22/2025 - 23:04:40: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_consistency") (value "0")
+L 08/22/2025 - 23:04:40: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_allow_lobby_connect_only") (value "0")
+L 08/22/2025 - 23:04:40: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxplayers") (value "8")
+L 08/22/2025 - 23:04:40: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_visiblemaxplayers") (value "-1")
+L 08/22/2025 - 23:07:23: [basecommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" changed map to "c1m2_streets"
+L 08/22/2025 - 23:07:26: [SM] Changed map to "c1m2_streets"
+L 08/22/2025 - 23:07:27: -------- Mapchange to c1m2_streets --------
+L 08/22/2025 - 23:07:34: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_consistency") (value "0")
+L 08/22/2025 - 23:07:34: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_allow_lobby_connect_only") (value "0")
+L 08/22/2025 - 23:07:34: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxplayers") (value "8")
+L 08/22/2025 - 23:07:34: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_visiblemaxplayers") (value "-1")
+L 08/22/2025 - 23:14:59: -------- Mapchange to c2m1_highway --------
+L 08/22/2025 - 23:15:06: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_consistency") (value "0")
+L 08/22/2025 - 23:15:06: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_allow_lobby_connect_only") (value "0")
+L 08/22/2025 - 23:15:06: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxplayers") (value "8")
+L 08/22/2025 - 23:15:06: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_visiblemaxplayers") (value "-1")
+L 08/22/2025 - 23:19:59: -------- Mapchange to c2m2_fairgrounds --------
+L 08/22/2025 - 23:20:06: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_consistency") (value "0")
+L 08/22/2025 - 23:20:06: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_allow_lobby_connect_only") (value "0")
+L 08/22/2025 - 23:20:06: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxplayers") (value "8")
+L 08/22/2025 - 23:20:06: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_visiblemaxplayers") (value "-1")
+L 08/22/2025 - 23:23:59: -------- Mapchange to c2m3_coaster --------
+L 08/22/2025 - 23:24:06: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_consistency") (value "0")
+L 08/22/2025 - 23:24:06: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_allow_lobby_connect_only") (value "0")
+L 08/22/2025 - 23:24:06: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxplayers") (value "8")
+L 08/22/2025 - 23:24:06: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_visiblemaxplayers") (value "-1")
+L 08/22/2025 - 23:33:52: [playercommands.smx] "[T-T]MoY<47><STEAM_1:0:511491787><>" slayed "coca cola espuma<73><STEAM_1:1:642356345><>"
+L 08/22/2025 - 23:37:13: [playercommands.smx] "[T-T]MoY<47><STEAM_1:0:511491787><>" slayed "Tank<139><BOT><>"
+L 08/22/2025 - 23:37:24: [playercommands.smx] "[T-T]MoY<47><STEAM_1:0:511491787><>" slayed "(1)Tank<140><BOT><>"
+L 08/22/2025 - 23:37:40: [playercommands.smx] "[T-T]MoY<47><STEAM_1:0:511491787><>" slayed "Tank<141><BOT><>"
+L 08/22/2025 - 23:44:23: -------- Mapchange to c2m4_barns --------
+L 08/22/2025 - 23:44:30: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_consistency") (value "0")
+L 08/22/2025 - 23:44:30: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_allow_lobby_connect_only") (value "0")
+L 08/22/2025 - 23:44:30: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxplayers") (value "8")
+L 08/22/2025 - 23:44:30: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_visiblemaxplayers") (value "-1")
+L 08/22/2025 - 23:53:36: -------- Mapchange to c2m5_concert --------
+L 08/22/2025 - 23:53:43: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_consistency") (value "0")
+L 08/22/2025 - 23:53:43: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_allow_lobby_connect_only") (value "0")
+L 08/22/2025 - 23:53:43: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxplayers") (value "8")
+L 08/22/2025 - 23:53:43: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_visiblemaxplayers") (value "-1")
+L 08/22/2025 - 23:57:30: -------- Mapchange to c5m1_waterfront --------
+L 08/22/2025 - 23:57:37: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_consistency") (value "0")
+L 08/22/2025 - 23:57:37: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_allow_lobby_connect_only") (value "0")
+L 08/22/2025 - 23:57:37: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxplayers") (value "8")
+L 08/22/2025 - 23:57:37: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_visiblemaxplayers") (value "-1")
+L 08/23/2025 - 00:00:00: Log file closed.

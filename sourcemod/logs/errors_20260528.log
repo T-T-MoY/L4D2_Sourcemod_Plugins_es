@@ -1,0 +1,1638 @@
+L 05/28/2026 - 22:15:46: SourceMod error session started
+L 05/28/2026 - 22:15:46: Info (map "c1m2_streets") (file "d:\steamlibrary\steamapps\common\left 4 dead 2\left4dead2\addons\sourcemod\logs\errors_20260528.log")
+L 05/28/2026 - 22:15:46: [SM] Failed to load plugin "cannounce.smx": Get a dedicated server. This plugin does not work on Listen servers..
+L 05/28/2026 - 22:15:46: [SM] Failed to load plugin "LMCL4D1CDeathHandler.smx": Plugin only supports Left 4 Dead.
+L 05/28/2026 - 22:15:46: [SM] Failed to load plugin "LMCL4D1SetTransmit.smx": Plugin only supports Left 4 Dead.
+L 05/28/2026 - 22:15:46: [SM] Failed to load plugin "LMC_L4D1_Menu_Choosing.smx": Plugin only supports Left 4 Dead.
+L 05/28/2026 - 22:15:46: [SM] Failed to load plugin "LMC_L4D1_RandomSpawns.smx": Plugin only supports Left 4 Dead.
+L 05/28/2026 - 22:15:46: [SM] Failed to load plugin "nextmap.smx": Nextmap is incompatible with this game.
+L 05/28/2026 - 22:15:46: [SM] Failed to load plugin "[L4D2] Left4dhooks.smx": 
+====================
+This plugin replaces Left4Downtown. Delete the extension to run.
+====================.
+L 05/28/2026 - 22:15:46: [SM] Fatal error encountered parsing translation file "l4d_nth.phrases.txt"
+L 05/28/2026 - 22:15:46: [SM] Error (line 0, column 0): Stream failed to open
+L 05/28/2026 - 22:15:46: [SM] Fatal error encountered parsing translation file "chargersteering.phrases.txt"
+L 05/28/2026 - 22:15:46: [SM] Error (line 0, column 0): Stream failed to open
+L 05/28/2026 - 22:15:46: [l4d2_publicity.smx] [Publicity] No se encontraron mensajes en el archivo de configuración
+L 05/28/2026 - 22:15:46: [SM] Fatal error encountered parsing translation file "l4dmultislots.phrases.txt"
+L 05/28/2026 - 22:15:46: [SM] Error (line 0, column 0): Stream failed to open
+L 05/28/2026 - 22:15:47: [SM] Unable to load plugin "lilac_by_l4d2.smx": Native "IRC_MsgFlaggedChannels" was not found
+L 05/28/2026 - 22:15:56: [l4d2_publicity.smx] [Publicity] No se encontraron mensajes en el archivo de configuración
+L 05/28/2026 - 22:15:56: [SM] Exception reported: Array index out-of-bounds (index 12, limit 12)
+L 05/28/2026 - 22:15:56: [SM] Blaming: l4d2_tank_props_rock_v3.smx
+L 05/28/2026 - 22:15:56: [SM] Call stack trace:
+L 05/28/2026 - 22:15:56: [SM]   [1] Line 142, D:\SteamLibrary\steamapps\common\Left 4 Dead 2\left4dead2\addons\sourcemod\scripting\l4d2_tank_props_rock_v3.sp::OnMapStart
+L 05/28/2026 - 22:17:56: [SM] Exception reported: Array index out-of-bounds (index 12, limit 12)
+L 05/28/2026 - 22:17:56: [SM] Blaming: l4d2_tank_props_rock_v3.smx
+L 05/28/2026 - 22:17:56: [SM] Call stack trace:
+L 05/28/2026 - 22:17:56: [SM]   [1] Line 222, D:\SteamLibrary\steamapps\common\Left 4 Dead 2\left4dead2\addons\sourcemod\scripting\l4d2_tank_props_rock_v3.sp::Throw
+L 05/28/2026 - 22:18:40: [SM] Exception reported: Property "m_vecAngularVelocity" not found (entity 120/weapon_smg_silenced)
+L 05/28/2026 - 22:18:40: [SM] Blaming: l4d2_tank_core v4_5_1.smx
+L 05/28/2026 - 22:18:40: [SM] Call stack trace:
+L 05/28/2026 - 22:18:40: [SM]   [0] SetEntPropVector
+L 05/28/2026 - 22:18:40: [SM]   [1] Line 606, D:\SteamLibrary\steamapps\common\Left 4 Dead 2\left4dead2\addons\sourcemod\scripting\l4d2_tank_core v4_5_1.sp::DropItemsPhysically
+L 05/28/2026 - 22:18:40: [SM]   [2] Line 535, D:\SteamLibrary\steamapps\common\Left 4 Dead 2\left4dead2\addons\sourcemod\scripting\l4d2_tank_core v4_5_1.sp::Event_PlayerHurt
+L 05/28/2026 - 22:18:43: [SM] Exception reported: Array index out-of-bounds (index 14, limit 12)
+L 05/28/2026 - 22:18:43: [SM] Blaming: l4d2_tank_props_rock_v3.smx
+L 05/28/2026 - 22:18:43: [SM] Call stack trace:
+L 05/28/2026 - 22:18:43: [SM]   [1] Line 222, D:\SteamLibrary\steamapps\common\Left 4 Dead 2\left4dead2\addons\sourcemod\scripting\l4d2_tank_props_rock_v3.sp::Throw
+L 05/28/2026 - 22:18:43: [SM] Exception reported: Array index out-of-bounds (index 14, limit 12)
+L 05/28/2026 - 22:18:43: [SM] Blaming: l4d2_tank_props_rock_v3.smx
+L 05/28/2026 - 22:18:43: [SM] Call stack trace:
+L 05/28/2026 - 22:18:43: [SM]   [1] Line 222, D:\SteamLibrary\steamapps\common\Left 4 Dead 2\left4dead2\addons\sourcemod\scripting\l4d2_tank_props_rock_v3.sp::Throw
+L 05/28/2026 - 22:18:43: [SM] Exception reported: Array index out-of-bounds (index 12, limit 12)
+L 05/28/2026 - 22:18:43: [SM] Blaming: l4d2_tank_props_rock_v3.smx
+L 05/28/2026 - 22:18:43: [SM] Call stack trace:
+L 05/28/2026 - 22:18:43: [SM]   [1] Line 222, D:\SteamLibrary\steamapps\common\Left 4 Dead 2\left4dead2\addons\sourcemod\scripting\l4d2_tank_props_rock_v3.sp::Throw
+L 05/28/2026 - 22:18:50: [SM] Exception reported: Language phrase "Please wait to be revived or rescued" not found (arg 6)
+L 05/28/2026 - 22:18:50: [SM] Blaming: l4dmultislots.smx
+L 05/28/2026 - 22:18:50: [SM] Call stack trace:
+L 05/28/2026 - 22:18:50: [SM]   [0] PrintToChat
+L 05/28/2026 - 22:18:50: [SM]   [1] Line 953, d:\Github\Private-Work\L4D2-插件\scripting_1.11\l4dmultislots.sp::Timer_SpecCheck
+L 05/28/2026 - 22:20:13: [SM] Exception reported: Array index out-of-bounds (index 15, limit 12)
+L 05/28/2026 - 22:20:13: [SM] Blaming: l4d2_tank_props_rock_v3.smx
+L 05/28/2026 - 22:20:13: [SM] Call stack trace:
+L 05/28/2026 - 22:20:13: [SM]   [1] Line 222, D:\SteamLibrary\steamapps\common\Left 4 Dead 2\left4dead2\addons\sourcemod\scripting\l4d2_tank_props_rock_v3.sp::Throw
+L 05/28/2026 - 22:20:13: [SM] Exception reported: Array index out-of-bounds (index 13, limit 12)
+L 05/28/2026 - 22:20:13: [SM] Blaming: l4d2_tank_props_rock_v3.smx
+L 05/28/2026 - 22:20:13: [SM] Call stack trace:
+L 05/28/2026 - 22:20:13: [SM]   [1] Line 222, D:\SteamLibrary\steamapps\common\Left 4 Dead 2\left4dead2\addons\sourcemod\scripting\l4d2_tank_props_rock_v3.sp::Throw
+L 05/28/2026 - 22:20:30: [SM] Exception reported: Array index out-of-bounds (index 14, limit 12)
+L 05/28/2026 - 22:20:30: [SM] Blaming: l4d2_tank_props_rock_v3.smx
+L 05/28/2026 - 22:20:30: [SM] Call stack trace:
+L 05/28/2026 - 22:20:30: [SM]   [1] Line 222, D:\SteamLibrary\steamapps\common\Left 4 Dead 2\left4dead2\addons\sourcemod\scripting\l4d2_tank_props_rock_v3.sp::Throw
+L 05/28/2026 - 22:20:33: [SM] Exception reported: Language phrase "Please wait to be revived or rescued" not found (arg 6)
+L 05/28/2026 - 22:20:33: [SM] Blaming: l4dmultislots.smx
+L 05/28/2026 - 22:20:33: [SM] Call stack trace:
+L 05/28/2026 - 22:20:33: [SM]   [0] PrintToChat
+L 05/28/2026 - 22:20:33: [SM]   [1] Line 953, d:\Github\Private-Work\L4D2-插件\scripting_1.11\l4dmultislots.sp::Timer_SpecCheck
+L 05/28/2026 - 22:20:55: [SM] Exception reported: Property "m_vecAngularVelocity" not found (entity 206/weapon_pumpshotgun)
+L 05/28/2026 - 22:20:55: [SM] Blaming: l4d2_tank_core v4_5_1.smx
+L 05/28/2026 - 22:20:55: [SM] Call stack trace:
+L 05/28/2026 - 22:20:55: [SM]   [0] SetEntPropVector
+L 05/28/2026 - 22:20:55: [SM]   [1] Line 606, D:\SteamLibrary\steamapps\common\Left 4 Dead 2\left4dead2\addons\sourcemod\scripting\l4d2_tank_core v4_5_1.sp::DropItemsPhysically
+L 05/28/2026 - 22:20:55: [SM]   [2] Line 535, D:\SteamLibrary\steamapps\common\Left 4 Dead 2\left4dead2\addons\sourcemod\scripting\l4d2_tank_core v4_5_1.sp::Event_PlayerHurt
+L 05/28/2026 - 22:20:58: [SM] Exception reported: Language phrase "Please wait to be revived or rescued" not found (arg 6)
+L 05/28/2026 - 22:20:58: [SM] Blaming: l4dmultislots.smx
+L 05/28/2026 - 22:20:58: [SM] Call stack trace:
+L 05/28/2026 - 22:20:58: [SM]   [0] PrintToChat
+L 05/28/2026 - 22:20:58: [SM]   [1] Line 953, d:\Github\Private-Work\L4D2-插件\scripting_1.11\l4dmultislots.sp::Timer_SpecCheck
+L 05/28/2026 - 22:22:01: [SM] Exception reported: Array index out-of-bounds (index 13, limit 12)
+L 05/28/2026 - 22:22:01: [SM] Blaming: l4d2_tank_props_rock_v3.smx
+L 05/28/2026 - 22:22:01: [SM] Call stack trace:
+L 05/28/2026 - 22:22:01: [SM]   [1] Line 222, D:\SteamLibrary\steamapps\common\Left 4 Dead 2\left4dead2\addons\sourcemod\scripting\l4d2_tank_props_rock_v3.sp::Throw
+L 05/28/2026 - 22:22:53: [SM] Exception reported: Language phrase "Please wait to be revived or rescued" not found (arg 6)
+L 05/28/2026 - 22:22:53: [SM] Blaming: l4dmultislots.smx
+L 05/28/2026 - 22:22:53: [SM] Call stack trace:
+L 05/28/2026 - 22:22:53: [SM]   [0] PrintToChat
+L 05/28/2026 - 22:22:53: [SM]   [1] Line 953, d:\Github\Private-Work\L4D2-插件\scripting_1.11\l4dmultislots.sp::Timer_SpecCheck
+L 05/28/2026 - 22:23:58: [SM] Exception reported: Language phrase "Please wait to be revived or rescued" not found (arg 6)
+L 05/28/2026 - 22:23:58: [SM] Blaming: l4dmultislots.smx
+L 05/28/2026 - 22:23:58: [SM] Call stack trace:
+L 05/28/2026 - 22:23:58: [SM]   [0] PrintToChat
+L 05/28/2026 - 22:23:58: [SM]   [1] Line 953, d:\Github\Private-Work\L4D2-插件\scripting_1.11\l4dmultislots.sp::Timer_SpecCheck
+L 05/28/2026 - 22:24:15: [SM] Exception reported: Array index out-of-bounds (index 15, limit 12)
+L 05/28/2026 - 22:24:15: [SM] Blaming: l4d2_tank_props_rock_v3.smx
+L 05/28/2026 - 22:24:15: [SM] Call stack trace:
+L 05/28/2026 - 22:24:15: [SM]   [1] Line 222, D:\SteamLibrary\steamapps\common\Left 4 Dead 2\left4dead2\addons\sourcemod\scripting\l4d2_tank_props_rock_v3.sp::Throw
+L 05/28/2026 - 22:24:23: [SM] Exception reported: Language phrase "Please wait to be revived or rescued" not found (arg 6)
+L 05/28/2026 - 22:24:23: [SM] Blaming: l4dmultislots.smx
+L 05/28/2026 - 22:24:23: [SM] Call stack trace:
+L 05/28/2026 - 22:24:23: [SM]   [0] PrintToChat
+L 05/28/2026 - 22:24:23: [SM]   [1] Line 953, d:\Github\Private-Work\L4D2-插件\scripting_1.11\l4dmultislots.sp::Timer_SpecCheck
+L 05/28/2026 - 22:24:48: [SM] Exception reported: Language phrase "Please wait to be revived or rescued" not found (arg 6)
+L 05/28/2026 - 22:24:48: [SM] Blaming: l4dmultislots.smx
+L 05/28/2026 - 22:24:48: [SM] Call stack trace:
+L 05/28/2026 - 22:24:48: [SM]   [0] PrintToChat
+L 05/28/2026 - 22:24:48: [SM]   [1] Line 953, d:\Github\Private-Work\L4D2-插件\scripting_1.11\l4dmultislots.sp::Timer_SpecCheck
+L 05/28/2026 - 22:24:55: [SM] Exception reported: Invalid Handle 0 (error 4)
+L 05/28/2026 - 22:24:55: [SM] Blaming: l4dafkfix.smx
+L 05/28/2026 - 22:24:55: [SM] Call stack trace:
+L 05/28/2026 - 22:24:55: [SM]   [0] SDKCall
+L 05/28/2026 - 22:24:55: [SM]   [1] Line 235, /home/forums/content/files/4/8/2/4/5/73422.attach::TakeOverBot
+L 05/28/2026 - 22:24:55: [SM]   [2] Line 148, /home/forums/content/files/4/8/2/4/5/73422.attach::Event_PlayerDeath
+L 05/28/2026 - 22:25:19: [SM] Exception reported: Array index out-of-bounds (index 12, limit 12)
+L 05/28/2026 - 22:25:19: [SM] Blaming: l4d2_tank_props_rock_v3.smx
+L 05/28/2026 - 22:25:19: [SM] Call stack trace:
+L 05/28/2026 - 22:25:19: [SM]   [1] Line 222, D:\SteamLibrary\steamapps\common\Left 4 Dead 2\left4dead2\addons\sourcemod\scripting\l4d2_tank_props_rock_v3.sp::Throw
+L 05/28/2026 - 22:25:31: [SM] Exception reported: Language phrase "Type in chat !join To join the survivors" not found (arg 6)
+L 05/28/2026 - 22:25:31: [SM] Blaming: l4dmultislots.smx
+L 05/28/2026 - 22:25:31: [SM] Call stack trace:
+L 05/28/2026 - 22:25:31: [SM]   [0] VFormat
+L 05/28/2026 - 22:25:31: [SM]   [1] Line 71, D:\Github\Private-Work\L4D2-插件\scripting_1.11\include\multicolors.inc::CPrintToChat
+L 05/28/2026 - 22:25:31: [SM]   [2] Line 938, d:\Github\Private-Work\L4D2-插件\scripting_1.11\l4dmultislots.sp::Timer_SpecCheck
+L 05/28/2026 - 22:25:56: [SM] Exception reported: Language phrase "Please wait to be revived or rescued" not found (arg 6)
+L 05/28/2026 - 22:25:56: [SM] Blaming: l4dmultislots.smx
+L 05/28/2026 - 22:25:56: [SM] Call stack trace:
+L 05/28/2026 - 22:25:56: [SM]   [0] PrintToChat
+L 05/28/2026 - 22:25:56: [SM]   [1] Line 953, d:\Github\Private-Work\L4D2-插件\scripting_1.11\l4dmultislots.sp::Timer_SpecCheck
+L 05/28/2026 - 22:26:21: [SM] Exception reported: Language phrase "Please wait to be revived or rescued" not found (arg 6)
+L 05/28/2026 - 22:26:21: [SM] Blaming: l4dmultislots.smx
+L 05/28/2026 - 22:26:21: [SM] Call stack trace:
+L 05/28/2026 - 22:26:21: [SM]   [0] PrintToChat
+L 05/28/2026 - 22:26:21: [SM]   [1] Line 953, d:\Github\Private-Work\L4D2-插件\scripting_1.11\l4dmultislots.sp::Timer_SpecCheck
+L 05/28/2026 - 22:26:46: [SM] Exception reported: Language phrase "Please wait to be revived or rescued" not found (arg 6)
+L 05/28/2026 - 22:26:46: [SM] Blaming: l4dmultislots.smx
+L 05/28/2026 - 22:26:46: [SM] Call stack trace:
+L 05/28/2026 - 22:26:46: [SM]   [0] PrintToChat
+L 05/28/2026 - 22:26:46: [SM]   [1] Line 953, d:\Github\Private-Work\L4D2-插件\scripting_1.11\l4dmultislots.sp::Timer_SpecCheck
+L 05/28/2026 - 22:27:11: [SM] Exception reported: Language phrase "Please wait to be revived or rescued" not found (arg 6)
+L 05/28/2026 - 22:27:11: [SM] Blaming: l4dmultislots.smx
+L 05/28/2026 - 22:27:11: [SM] Call stack trace:
+L 05/28/2026 - 22:27:11: [SM]   [0] PrintToChat
+L 05/28/2026 - 22:27:11: [SM]   [1] Line 953, d:\Github\Private-Work\L4D2-插件\scripting_1.11\l4dmultislots.sp::Timer_SpecCheck
+L 05/28/2026 - 22:27:21: [SM] Exception reported: Invalid timer handle 17c0055f (error 1)
+L 05/28/2026 - 22:27:21: [SM] Blaming: l4d2_playerjoining_v2.smx
+L 05/28/2026 - 22:27:21: [SM] Call stack trace:
+L 05/28/2026 - 22:27:21: [SM]   [0] KillTimer
+L 05/28/2026 - 22:27:21: [SM]   [1] Line 53, C:\Users\Moises\Downloads\Compressed\sourcemod-1.11.0-git6968-windows\addons\sourcemod\scripting\l4d2_playerjoining_v2.sp::OnClientDisconnect
+L 05/28/2026 - 22:27:36: [SM] Exception reported: Language phrase "Please wait to be revived or rescued" not found (arg 6)
+L 05/28/2026 - 22:27:36: [SM] Blaming: l4dmultislots.smx
+L 05/28/2026 - 22:27:36: [SM] Call stack trace:
+L 05/28/2026 - 22:27:36: [SM]   [0] PrintToChat
+L 05/28/2026 - 22:27:36: [SM]   [1] Line 953, d:\Github\Private-Work\L4D2-插件\scripting_1.11\l4dmultislots.sp::Timer_SpecCheck
+L 05/28/2026 - 22:28:01: [SM] Exception reported: Language phrase "Please wait to be revived or rescued" not found (arg 6)
+L 05/28/2026 - 22:28:01: [SM] Blaming: l4dmultislots.smx
+L 05/28/2026 - 22:28:01: [SM] Call stack trace:
+L 05/28/2026 - 22:28:01: [SM]   [0] PrintToChat
+L 05/28/2026 - 22:28:01: [SM]   [1] Line 953, d:\Github\Private-Work\L4D2-插件\scripting_1.11\l4dmultislots.sp::Timer_SpecCheck
+L 05/28/2026 - 22:28:16: [SM] Exception reported: Array index out-of-bounds (index 12, limit 12)
+L 05/28/2026 - 22:28:16: [SM] Blaming: l4d2_tank_props_rock_v3.smx
+L 05/28/2026 - 22:28:16: [SM] Call stack trace:
+L 05/28/2026 - 22:28:16: [SM]   [1] Line 222, D:\SteamLibrary\steamapps\common\Left 4 Dead 2\left4dead2\addons\sourcemod\scripting\l4d2_tank_props_rock_v3.sp::Throw
+L 05/28/2026 - 22:28:26: [SM] Exception reported: Language phrase "Please wait to be revived or rescued" not found (arg 6)
+L 05/28/2026 - 22:28:26: [SM] Blaming: l4dmultislots.smx
+L 05/28/2026 - 22:28:26: [SM] Call stack trace:
+L 05/28/2026 - 22:28:26: [SM]   [0] PrintToChat
+L 05/28/2026 - 22:28:26: [SM]   [1] Line 953, d:\Github\Private-Work\L4D2-插件\scripting_1.11\l4dmultislots.sp::Timer_SpecCheck
+L 05/28/2026 - 22:28:43: [SM] Exception reported: Invalid timer handle 17c0055f (error 1)
+L 05/28/2026 - 22:28:43: [SM] Blaming: l4d2_playerjoining_v2.smx
+L 05/28/2026 - 22:28:43: [SM] Call stack trace:
+L 05/28/2026 - 22:28:43: [SM]   [0] KillTimer
+L 05/28/2026 - 22:28:43: [SM]   [1] Line 53, C:\Users\Moises\Downloads\Compressed\sourcemod-1.11.0-git6968-windows\addons\sourcemod\scripting\l4d2_playerjoining_v2.sp::OnClientDisconnect
+L 05/28/2026 - 22:28:46: Error log file session closed.
+L 05/28/2026 - 22:28:46: SourceMod error session started
+L 05/28/2026 - 22:28:46: Info (map "c1m3_mall") (file "d:\steamlibrary\steamapps\common\left 4 dead 2\left4dead2\addons\sourcemod\logs\errors_20260528.log")
+L 05/28/2026 - 22:28:46: [SM] Fatal error encountered parsing translation file "l4d_nth.phrases.txt"
+L 05/28/2026 - 22:28:46: [SM] Error (line 0, column 0): Stream failed to open
+L 05/28/2026 - 22:28:46: [SM] Fatal error encountered parsing translation file "chargersteering.phrases.txt"
+L 05/28/2026 - 22:28:46: [SM] Error (line 0, column 0): Stream failed to open
+L 05/28/2026 - 22:28:46: [SM] Fatal error encountered parsing translation file "l4dmultislots.phrases.txt"
+L 05/28/2026 - 22:28:46: [SM] Error (line 0, column 0): Stream failed to open
+L 05/28/2026 - 22:28:48: [l4d2_publicity.smx] [Publicity] No se encontraron mensajes en el archivo de configuración
+L 05/28/2026 - 22:28:49: [SM] Exception reported: Array index out-of-bounds (index 12, limit 12)
+L 05/28/2026 - 22:28:49: [SM] Blaming: l4d2_tank_props_rock_v3.smx
+L 05/28/2026 - 22:28:49: [SM] Call stack trace:
+L 05/28/2026 - 22:28:49: [SM]   [1] Line 142, D:\SteamLibrary\steamapps\common\Left 4 Dead 2\left4dead2\addons\sourcemod\scripting\l4d2_tank_props_rock_v3.sp::OnMapStart
+L 05/28/2026 - 22:29:18: [SM] Exception reported: Invalid timer handle 17c0055f (error 1)
+L 05/28/2026 - 22:29:18: [SM] Blaming: l4d2_playerjoining_v2.smx
+L 05/28/2026 - 22:29:18: [SM] Call stack trace:
+L 05/28/2026 - 22:29:18: [SM]   [0] KillTimer
+L 05/28/2026 - 22:29:18: [SM]   [1] Line 53, C:\Users\Moises\Downloads\Compressed\sourcemod-1.11.0-git6968-windows\addons\sourcemod\scripting\l4d2_playerjoining_v2.sp::OnClientDisconnect
+L 05/28/2026 - 22:30:49: [SM] Exception reported: Language phrase "Please wait to be revived or rescued" not found (arg 6)
+L 05/28/2026 - 22:30:49: [SM] Blaming: l4dmultislots.smx
+L 05/28/2026 - 22:30:49: [SM] Call stack trace:
+L 05/28/2026 - 22:30:49: [SM]   [0] PrintToChat
+L 05/28/2026 - 22:30:49: [SM]   [1] Line 953, d:\Github\Private-Work\L4D2-插件\scripting_1.11\l4dmultislots.sp::Timer_SpecCheck
+L 05/28/2026 - 22:31:14: [SM] Exception reported: Language phrase "Please wait to be revived or rescued" not found (arg 6)
+L 05/28/2026 - 22:31:14: [SM] Blaming: l4dmultislots.smx
+L 05/28/2026 - 22:31:14: [SM] Call stack trace:
+L 05/28/2026 - 22:31:14: [SM]   [0] PrintToChat
+L 05/28/2026 - 22:31:14: [SM]   [1] Line 953, d:\Github\Private-Work\L4D2-插件\scripting_1.11\l4dmultislots.sp::Timer_SpecCheck
+L 05/28/2026 - 22:31:23: [SM] Exception reported: Array index out-of-bounds (index 15, limit 12)
+L 05/28/2026 - 22:31:23: [SM] Blaming: l4d2_tank_props_rock_v3.smx
+L 05/28/2026 - 22:31:23: [SM] Call stack trace:
+L 05/28/2026 - 22:31:23: [SM]   [1] Line 222, D:\SteamLibrary\steamapps\common\Left 4 Dead 2\left4dead2\addons\sourcemod\scripting\l4d2_tank_props_rock_v3.sp::Throw
+L 05/28/2026 - 22:31:36: [SM] Exception reported: Property "m_vecAngularVelocity" not found (entity 172/weapon_rifle_ak47)
+L 05/28/2026 - 22:31:36: [SM] Blaming: l4d2_tank_core v4_5_1.smx
+L 05/28/2026 - 22:31:36: [SM] Call stack trace:
+L 05/28/2026 - 22:31:36: [SM]   [0] SetEntPropVector
+L 05/28/2026 - 22:31:36: [SM]   [1] Line 606, D:\SteamLibrary\steamapps\common\Left 4 Dead 2\left4dead2\addons\sourcemod\scripting\l4d2_tank_core v4_5_1.sp::DropItemsPhysically
+L 05/28/2026 - 22:31:36: [SM]   [2] Line 535, D:\SteamLibrary\steamapps\common\Left 4 Dead 2\left4dead2\addons\sourcemod\scripting\l4d2_tank_core v4_5_1.sp::Event_PlayerHurt
+L 05/28/2026 - 22:31:39: [SM] Exception reported: Language phrase "Please wait to be revived or rescued" not found (arg 6)
+L 05/28/2026 - 22:31:39: [SM] Blaming: l4dmultislots.smx
+L 05/28/2026 - 22:31:39: [SM] Call stack trace:
+L 05/28/2026 - 22:31:39: [SM]   [0] PrintToChat
+L 05/28/2026 - 22:31:39: [SM]   [1] Line 953, d:\Github\Private-Work\L4D2-插件\scripting_1.11\l4dmultislots.sp::Timer_SpecCheck
+L 05/28/2026 - 22:32:04: [SM] Exception reported: Language phrase "Please wait to be revived or rescued" not found (arg 6)
+L 05/28/2026 - 22:32:04: [SM] Blaming: l4dmultislots.smx
+L 05/28/2026 - 22:32:04: [SM] Call stack trace:
+L 05/28/2026 - 22:32:04: [SM]   [0] PrintToChat
+L 05/28/2026 - 22:32:04: [SM]   [1] Line 953, d:\Github\Private-Work\L4D2-插件\scripting_1.11\l4dmultislots.sp::Timer_SpecCheck
+L 05/28/2026 - 22:32:23: [SM] Exception reported: Array index out-of-bounds (index 13, limit 12)
+L 05/28/2026 - 22:32:23: [SM] Blaming: l4d2_tank_props_rock_v3.smx
+L 05/28/2026 - 22:32:23: [SM] Call stack trace:
+L 05/28/2026 - 22:32:23: [SM]   [1] Line 222, D:\SteamLibrary\steamapps\common\Left 4 Dead 2\left4dead2\addons\sourcemod\scripting\l4d2_tank_props_rock_v3.sp::Throw
+L 05/28/2026 - 22:32:29: [SM] Exception reported: Language phrase "Please wait to be revived or rescued" not found (arg 6)
+L 05/28/2026 - 22:32:29: [SM] Blaming: l4dmultislots.smx
+L 05/28/2026 - 22:32:29: [SM] Call stack trace:
+L 05/28/2026 - 22:32:29: [SM]   [0] PrintToChat
+L 05/28/2026 - 22:32:29: [SM]   [1] Line 953, d:\Github\Private-Work\L4D2-插件\scripting_1.11\l4dmultislots.sp::Timer_SpecCheck
+L 05/28/2026 - 22:32:47: [SM] Exception reported: Invalid timer handle 17c0055f (error 3)
+L 05/28/2026 - 22:32:47: [SM] Blaming: l4d2_playerjoining_v2.smx
+L 05/28/2026 - 22:32:47: [SM] Call stack trace:
+L 05/28/2026 - 22:32:47: [SM]   [0] KillTimer
+L 05/28/2026 - 22:32:47: [SM]   [1] Line 53, C:\Users\Moises\Downloads\Compressed\sourcemod-1.11.0-git6968-windows\addons\sourcemod\scripting\l4d2_playerjoining_v2.sp::OnClientDisconnect
+L 05/28/2026 - 22:32:47: [SM] Exception reported: Invalid timer handle 8410053d (error 1)
+L 05/28/2026 - 22:32:47: [SM] Blaming: l4d2_playerjoining_v2.smx
+L 05/28/2026 - 22:32:47: [SM] Call stack trace:
+L 05/28/2026 - 22:32:47: [SM]   [0] KillTimer
+L 05/28/2026 - 22:32:47: [SM]   [1] Line 53, C:\Users\Moises\Downloads\Compressed\sourcemod-1.11.0-git6968-windows\addons\sourcemod\scripting\l4d2_playerjoining_v2.sp::OnClientDisconnect
+L 05/28/2026 - 22:32:49: Error log file session closed.
+L 05/28/2026 - 22:32:49: SourceMod error session started
+L 05/28/2026 - 22:32:49: Info (map "c1m4_atrium") (file "d:\steamlibrary\steamapps\common\left 4 dead 2\left4dead2\addons\sourcemod\logs\errors_20260528.log")
+L 05/28/2026 - 22:32:49: [SM] Fatal error encountered parsing translation file "l4d_nth.phrases.txt"
+L 05/28/2026 - 22:32:49: [SM] Error (line 0, column 0): Stream failed to open
+L 05/28/2026 - 22:32:49: [SM] Fatal error encountered parsing translation file "chargersteering.phrases.txt"
+L 05/28/2026 - 22:32:49: [SM] Error (line 0, column 0): Stream failed to open
+L 05/28/2026 - 22:32:49: [SM] Fatal error encountered parsing translation file "l4dmultislots.phrases.txt"
+L 05/28/2026 - 22:32:49: [SM] Error (line 0, column 0): Stream failed to open
+L 05/28/2026 - 22:32:51: [l4d2_publicity.smx] [Publicity] No se encontraron mensajes en el archivo de configuración
+L 05/28/2026 - 22:32:51: [SM] Exception reported: Array index out-of-bounds (index 12, limit 12)
+L 05/28/2026 - 22:32:51: [SM] Blaming: l4d2_tank_props_rock_v3.smx
+L 05/28/2026 - 22:32:51: [SM] Call stack trace:
+L 05/28/2026 - 22:32:51: [SM]   [1] Line 142, D:\SteamLibrary\steamapps\common\Left 4 Dead 2\left4dead2\addons\sourcemod\scripting\l4d2_tank_props_rock_v3.sp::OnMapStart
+L 05/28/2026 - 22:33:29: [SM] Exception reported: Invalid timer handle 17c0055f (error 1)
+L 05/28/2026 - 22:33:29: [SM] Blaming: l4d2_playerjoining_v2.smx
+L 05/28/2026 - 22:33:29: [SM] Call stack trace:
+L 05/28/2026 - 22:33:29: [SM]   [0] KillTimer
+L 05/28/2026 - 22:33:29: [SM]   [1] Line 53, C:\Users\Moises\Downloads\Compressed\sourcemod-1.11.0-git6968-windows\addons\sourcemod\scripting\l4d2_playerjoining_v2.sp::OnClientDisconnect
+L 05/28/2026 - 22:33:29: [SM] Exception reported: Invalid timer handle 8410053d (error 1)
+L 05/28/2026 - 22:33:29: [SM] Blaming: l4d2_playerjoining_v2.smx
+L 05/28/2026 - 22:33:29: [SM] Call stack trace:
+L 05/28/2026 - 22:33:29: [SM]   [0] KillTimer
+L 05/28/2026 - 22:33:29: [SM]   [1] Line 53, C:\Users\Moises\Downloads\Compressed\sourcemod-1.11.0-git6968-windows\addons\sourcemod\scripting\l4d2_playerjoining_v2.sp::OnClientDisconnect
+L 05/28/2026 - 22:33:45: [SM] Exception reported: Property "m_vecAngularVelocity" not found (entity 362/weapon_sniper_military)
+L 05/28/2026 - 22:33:45: [SM] Blaming: l4d2_tank_core v4_5_1.smx
+L 05/28/2026 - 22:33:45: [SM] Call stack trace:
+L 05/28/2026 - 22:33:45: [SM]   [0] SetEntPropVector
+L 05/28/2026 - 22:33:45: [SM]   [1] Line 606, D:\SteamLibrary\steamapps\common\Left 4 Dead 2\left4dead2\addons\sourcemod\scripting\l4d2_tank_core v4_5_1.sp::DropItemsPhysically
+L 05/28/2026 - 22:33:45: [SM]   [2] Line 535, D:\SteamLibrary\steamapps\common\Left 4 Dead 2\left4dead2\addons\sourcemod\scripting\l4d2_tank_core v4_5_1.sp::Event_PlayerHurt
+L 05/28/2026 - 22:33:52: [SM] Exception reported: Property "m_vecAngularVelocity" not found (entity 200/weapon_rifle)
+L 05/28/2026 - 22:33:52: [SM] Blaming: l4d2_tank_core v4_5_1.smx
+L 05/28/2026 - 22:33:52: [SM] Call stack trace:
+L 05/28/2026 - 22:33:52: [SM]   [0] SetEntPropVector
+L 05/28/2026 - 22:33:52: [SM]   [1] Line 606, D:\SteamLibrary\steamapps\common\Left 4 Dead 2\left4dead2\addons\sourcemod\scripting\l4d2_tank_core v4_5_1.sp::DropItemsPhysically
+L 05/28/2026 - 22:33:52: [SM]   [2] Line 535, D:\SteamLibrary\steamapps\common\Left 4 Dead 2\left4dead2\addons\sourcemod\scripting\l4d2_tank_core v4_5_1.sp::Event_PlayerHurt
+L 05/28/2026 - 22:33:54: [SM] Exception reported: Property "m_vecAngularVelocity" not found (entity 351/weapon_melee)
+L 05/28/2026 - 22:33:54: [SM] Blaming: l4d2_tank_core v4_5_1.smx
+L 05/28/2026 - 22:33:54: [SM] Call stack trace:
+L 05/28/2026 - 22:33:54: [SM]   [0] SetEntPropVector
+L 05/28/2026 - 22:33:54: [SM]   [1] Line 606, D:\SteamLibrary\steamapps\common\Left 4 Dead 2\left4dead2\addons\sourcemod\scripting\l4d2_tank_core v4_5_1.sp::DropItemsPhysically
+L 05/28/2026 - 22:33:54: [SM]   [2] Line 535, D:\SteamLibrary\steamapps\common\Left 4 Dead 2\left4dead2\addons\sourcemod\scripting\l4d2_tank_core v4_5_1.sp::Event_PlayerHurt
+L 05/28/2026 - 22:33:58: [SM] Exception reported: Property "m_vecAngularVelocity" not found (entity 356/weapon_autoshotgun)
+L 05/28/2026 - 22:33:58: [SM] Blaming: l4d2_tank_core v4_5_1.smx
+L 05/28/2026 - 22:33:58: [SM] Call stack trace:
+L 05/28/2026 - 22:33:58: [SM]   [0] SetEntPropVector
+L 05/28/2026 - 22:33:58: [SM]   [1] Line 606, D:\SteamLibrary\steamapps\common\Left 4 Dead 2\left4dead2\addons\sourcemod\scripting\l4d2_tank_core v4_5_1.sp::DropItemsPhysically
+L 05/28/2026 - 22:33:58: [SM]   [2] Line 535, D:\SteamLibrary\steamapps\common\Left 4 Dead 2\left4dead2\addons\sourcemod\scripting\l4d2_tank_core v4_5_1.sp::Event_PlayerHurt
+L 05/28/2026 - 22:34:00: [SM] Exception reported: Property "m_vecAngularVelocity" not found (entity 409/weapon_pistol_magnum)
+L 05/28/2026 - 22:34:00: [SM] Blaming: l4d2_tank_core v4_5_1.smx
+L 05/28/2026 - 22:34:00: [SM] Call stack trace:
+L 05/28/2026 - 22:34:00: [SM]   [0] SetEntPropVector
+L 05/28/2026 - 22:34:00: [SM]   [1] Line 606, D:\SteamLibrary\steamapps\common\Left 4 Dead 2\left4dead2\addons\sourcemod\scripting\l4d2_tank_core v4_5_1.sp::DropItemsPhysically
+L 05/28/2026 - 22:34:00: [SM]   [2] Line 535, D:\SteamLibrary\steamapps\common\Left 4 Dead 2\left4dead2\addons\sourcemod\scripting\l4d2_tank_core v4_5_1.sp::Event_PlayerHurt
+L 05/28/2026 - 22:34:01: [SM] Exception reported: Language phrase "Please wait to be revived or rescued" not found (arg 6)
+L 05/28/2026 - 22:34:01: [SM] Blaming: l4dmultislots.smx
+L 05/28/2026 - 22:34:01: [SM] Call stack trace:
+L 05/28/2026 - 22:34:01: [SM]   [0] PrintToChat
+L 05/28/2026 - 22:34:01: [SM]   [1] Line 953, d:\Github\Private-Work\L4D2-插件\scripting_1.11\l4dmultislots.sp::Timer_SpecCheck
+L 05/28/2026 - 22:34:10: [SM] Exception reported: Invalid timer handle 17c0055f (error 3)
+L 05/28/2026 - 22:34:10: [SM] Blaming: l4d2_playerjoining_v2.smx
+L 05/28/2026 - 22:34:10: [SM] Call stack trace:
+L 05/28/2026 - 22:34:10: [SM]   [0] KillTimer
+L 05/28/2026 - 22:34:10: [SM]   [1] Line 53, C:\Users\Moises\Downloads\Compressed\sourcemod-1.11.0-git6968-windows\addons\sourcemod\scripting\l4d2_playerjoining_v2.sp::OnClientDisconnect
+L 05/28/2026 - 22:34:26: [SM] Exception reported: Language phrase "Please wait to be revived or rescued" not found (arg 6)
+L 05/28/2026 - 22:34:26: [SM] Blaming: l4dmultislots.smx
+L 05/28/2026 - 22:34:26: [SM] Call stack trace:
+L 05/28/2026 - 22:34:26: [SM]   [0] PrintToChat
+L 05/28/2026 - 22:34:26: [SM]   [1] Line 953, d:\Github\Private-Work\L4D2-插件\scripting_1.11\l4dmultislots.sp::Timer_SpecCheck
+L 05/28/2026 - 22:34:29: [SM] Exception reported: Invalid timer handle 720057e (error 1)
+L 05/28/2026 - 22:34:29: [SM] Blaming: l4d2_playerjoining_v2.smx
+L 05/28/2026 - 22:34:29: [SM] Call stack trace:
+L 05/28/2026 - 22:34:29: [SM]   [0] KillTimer
+L 05/28/2026 - 22:34:29: [SM]   [1] Line 53, C:\Users\Moises\Downloads\Compressed\sourcemod-1.11.0-git6968-windows\addons\sourcemod\scripting\l4d2_playerjoining_v2.sp::OnClientDisconnect
+L 05/28/2026 - 22:34:49: [SM] Exception reported: Array index out-of-bounds (index 12, limit 12)
+L 05/28/2026 - 22:34:49: [SM] Blaming: l4d2_tank_props_rock_v3.smx
+L 05/28/2026 - 22:34:49: [SM] Call stack trace:
+L 05/28/2026 - 22:34:49: [SM]   [1] Line 222, D:\SteamLibrary\steamapps\common\Left 4 Dead 2\left4dead2\addons\sourcemod\scripting\l4d2_tank_props_rock_v3.sp::Throw
+L 05/28/2026 - 22:34:51: [SM] Exception reported: Language phrase "Please wait to be revived or rescued" not found (arg 6)
+L 05/28/2026 - 22:34:51: [SM] Blaming: l4dmultislots.smx
+L 05/28/2026 - 22:34:51: [SM] Call stack trace:
+L 05/28/2026 - 22:34:51: [SM]   [0] PrintToChat
+L 05/28/2026 - 22:34:51: [SM]   [1] Line 953, d:\Github\Private-Work\L4D2-插件\scripting_1.11\l4dmultislots.sp::Timer_SpecCheck
+L 05/28/2026 - 22:35:16: [SM] Exception reported: Language phrase "Please wait to be revived or rescued" not found (arg 6)
+L 05/28/2026 - 22:35:16: [SM] Blaming: l4dmultislots.smx
+L 05/28/2026 - 22:35:16: [SM] Call stack trace:
+L 05/28/2026 - 22:35:16: [SM]   [0] PrintToChat
+L 05/28/2026 - 22:35:16: [SM]   [1] Line 953, d:\Github\Private-Work\L4D2-插件\scripting_1.11\l4dmultislots.sp::Timer_SpecCheck
+L 05/28/2026 - 22:35:41: [SM] Exception reported: Language phrase "Please wait to be revived or rescued" not found (arg 6)
+L 05/28/2026 - 22:35:41: [SM] Blaming: l4dmultislots.smx
+L 05/28/2026 - 22:35:41: [SM] Call stack trace:
+L 05/28/2026 - 22:35:41: [SM]   [0] PrintToChat
+L 05/28/2026 - 22:35:41: [SM]   [1] Line 953, d:\Github\Private-Work\L4D2-插件\scripting_1.11\l4dmultislots.sp::Timer_SpecCheck
+L 05/28/2026 - 22:35:47: [SM] Exception reported: Property "m_vecAngularVelocity" not found (entity 553/weapon_sniper_military)
+L 05/28/2026 - 22:35:47: [SM] Blaming: l4d2_tank_core v4_5_1.smx
+L 05/28/2026 - 22:35:47: [SM] Call stack trace:
+L 05/28/2026 - 22:35:47: [SM]   [0] SetEntPropVector
+L 05/28/2026 - 22:35:47: [SM]   [1] Line 606, D:\SteamLibrary\steamapps\common\Left 4 Dead 2\left4dead2\addons\sourcemod\scripting\l4d2_tank_core v4_5_1.sp::DropItemsPhysically
+L 05/28/2026 - 22:35:47: [SM]   [2] Line 535, D:\SteamLibrary\steamapps\common\Left 4 Dead 2\left4dead2\addons\sourcemod\scripting\l4d2_tank_core v4_5_1.sp::Event_PlayerHurt
+L 05/28/2026 - 22:35:53: [SM] Exception reported: Property "m_vecAngularVelocity" not found (entity 441/weapon_first_aid_kit)
+L 05/28/2026 - 22:35:53: [SM] Blaming: l4d2_tank_core v4_5_1.smx
+L 05/28/2026 - 22:35:53: [SM] Call stack trace:
+L 05/28/2026 - 22:35:53: [SM]   [0] SetEntPropVector
+L 05/28/2026 - 22:35:53: [SM]   [1] Line 606, D:\SteamLibrary\steamapps\common\Left 4 Dead 2\left4dead2\addons\sourcemod\scripting\l4d2_tank_core v4_5_1.sp::DropItemsPhysically
+L 05/28/2026 - 22:35:53: [SM]   [2] Line 535, D:\SteamLibrary\steamapps\common\Left 4 Dead 2\left4dead2\addons\sourcemod\scripting\l4d2_tank_core v4_5_1.sp::Event_PlayerHurt
+L 05/28/2026 - 22:35:53: [SM] Exception reported: Invalid timer handle 720057e (error 1)
+L 05/28/2026 - 22:35:53: [SM] Blaming: l4d2_playerjoining_v2.smx
+L 05/28/2026 - 22:35:53: [SM] Call stack trace:
+L 05/28/2026 - 22:35:53: [SM]   [0] KillTimer
+L 05/28/2026 - 22:35:53: [SM]   [1] Line 53, C:\Users\Moises\Downloads\Compressed\sourcemod-1.11.0-git6968-windows\addons\sourcemod\scripting\l4d2_playerjoining_v2.sp::OnClientDisconnect
+L 05/28/2026 - 22:36:04: [SM] Exception reported: Array index out-of-bounds (index 14, limit 12)
+L 05/28/2026 - 22:36:04: [SM] Blaming: l4d2_tank_props_rock_v3.smx
+L 05/28/2026 - 22:36:04: [SM] Call stack trace:
+L 05/28/2026 - 22:36:04: [SM]   [1] Line 222, D:\SteamLibrary\steamapps\common\Left 4 Dead 2\left4dead2\addons\sourcemod\scripting\l4d2_tank_props_rock_v3.sp::Throw
+L 05/28/2026 - 22:36:06: [SM] Exception reported: Language phrase "Please wait to be revived or rescued" not found (arg 6)
+L 05/28/2026 - 22:36:06: [SM] Blaming: l4dmultislots.smx
+L 05/28/2026 - 22:36:06: [SM] Call stack trace:
+L 05/28/2026 - 22:36:06: [SM]   [0] PrintToChat
+L 05/28/2026 - 22:36:06: [SM]   [1] Line 953, d:\Github\Private-Work\L4D2-插件\scripting_1.11\l4dmultislots.sp::Timer_SpecCheck
+L 05/28/2026 - 22:36:31: [SM] Exception reported: Language phrase "Please wait to be revived or rescued" not found (arg 6)
+L 05/28/2026 - 22:36:31: [SM] Blaming: l4dmultislots.smx
+L 05/28/2026 - 22:36:31: [SM] Call stack trace:
+L 05/28/2026 - 22:36:31: [SM]   [0] PrintToChat
+L 05/28/2026 - 22:36:31: [SM]   [1] Line 953, d:\Github\Private-Work\L4D2-插件\scripting_1.11\l4dmultislots.sp::Timer_SpecCheck
+L 05/28/2026 - 22:36:49: [SM] Exception reported: Language phrase "No Any Dead Survivor" not found (arg 6)
+L 05/28/2026 - 22:36:49: [SM] Blaming: l4d_sm_respawn.smx
+L 05/28/2026 - 22:36:49: [SM] Call stack trace:
+L 05/28/2026 - 22:36:49: [SM]   [0] FormatEx
+L 05/28/2026 - 22:36:49: [SM]   [1] Line 202, d:\Github\Private-Work\L4D2-插件\scripting_1.11\l4d_sm_respawn.sp::MenuClientsToSpawn
+L 05/28/2026 - 22:36:49: [SM]   [2] Line 239, d:\Github\Private-Work\L4D2-插件\scripting_1.11\l4d_sm_respawn.sp::MenuHandler_MenuList
+L 05/28/2026 - 22:37:43: [SM] Exception reported: Invalid timer handle 51500510 (error 1)
+L 05/28/2026 - 22:37:43: [SM] Blaming: l4d2_playerjoining_v2.smx
+L 05/28/2026 - 22:37:43: [SM] Call stack trace:
+L 05/28/2026 - 22:37:43: [SM]   [0] KillTimer
+L 05/28/2026 - 22:37:43: [SM]   [1] Line 53, C:\Users\Moises\Downloads\Compressed\sourcemod-1.11.0-git6968-windows\addons\sourcemod\scripting\l4d2_playerjoining_v2.sp::OnClientDisconnect
+L 05/28/2026 - 22:37:44: [SM] Exception reported: Language phrase "No Any Dead Survivor" not found (arg 6)
+L 05/28/2026 - 22:37:44: [SM] Blaming: l4d_sm_respawn.smx
+L 05/28/2026 - 22:37:44: [SM] Call stack trace:
+L 05/28/2026 - 22:37:44: [SM]   [0] FormatEx
+L 05/28/2026 - 22:37:44: [SM]   [1] Line 202, d:\Github\Private-Work\L4D2-插件\scripting_1.11\l4d_sm_respawn.sp::MenuClientsToSpawn
+L 05/28/2026 - 22:37:44: [SM]   [2] Line 239, d:\Github\Private-Work\L4D2-插件\scripting_1.11\l4d_sm_respawn.sp::MenuHandler_MenuList
+L 05/28/2026 - 22:37:52: [SM] Exception reported: Array index out-of-bounds (index 14, limit 12)
+L 05/28/2026 - 22:37:52: [SM] Blaming: l4d2_tank_props_rock_v3.smx
+L 05/28/2026 - 22:37:52: [SM] Call stack trace:
+L 05/28/2026 - 22:37:52: [SM]   [1] Line 222, D:\SteamLibrary\steamapps\common\Left 4 Dead 2\left4dead2\addons\sourcemod\scripting\l4d2_tank_props_rock_v3.sp::Throw
+L 05/28/2026 - 22:38:05: [SM] Exception reported: Language phrase "No Any Dead Survivor" not found (arg 6)
+L 05/28/2026 - 22:38:05: [SM] Blaming: l4d_sm_respawn.smx
+L 05/28/2026 - 22:38:05: [SM] Call stack trace:
+L 05/28/2026 - 22:38:05: [SM]   [0] FormatEx
+L 05/28/2026 - 22:38:05: [SM]   [1] Line 202, d:\Github\Private-Work\L4D2-插件\scripting_1.11\l4d_sm_respawn.sp::MenuClientsToSpawn
+L 05/28/2026 - 22:38:05: [SM]   [2] Line 239, d:\Github\Private-Work\L4D2-插件\scripting_1.11\l4d_sm_respawn.sp::MenuHandler_MenuList
+L 05/28/2026 - 22:38:09: [SM] Exception reported: Array index out-of-bounds (index 12, limit 12)
+L 05/28/2026 - 22:38:09: [SM] Blaming: l4d2_tank_props_rock_v3.smx
+L 05/28/2026 - 22:38:09: [SM] Call stack trace:
+L 05/28/2026 - 22:38:09: [SM]   [1] Line 222, D:\SteamLibrary\steamapps\common\Left 4 Dead 2\left4dead2\addons\sourcemod\scripting\l4d2_tank_props_rock_v3.sp::Throw
+L 05/28/2026 - 22:38:32: [SM] Exception reported: Language phrase "No Any Dead Survivor" not found (arg 6)
+L 05/28/2026 - 22:38:32: [SM] Blaming: l4d_sm_respawn.smx
+L 05/28/2026 - 22:38:32: [SM] Call stack trace:
+L 05/28/2026 - 22:38:32: [SM]   [0] FormatEx
+L 05/28/2026 - 22:38:32: [SM]   [1] Line 202, d:\Github\Private-Work\L4D2-插件\scripting_1.11\l4d_sm_respawn.sp::MenuClientsToSpawn
+L 05/28/2026 - 22:38:32: [SM]   [2] Line 239, d:\Github\Private-Work\L4D2-插件\scripting_1.11\l4d_sm_respawn.sp::MenuHandler_MenuList
+L 05/28/2026 - 22:38:32: [SM] Exception reported: Array index out-of-bounds (index 12, limit 12)
+L 05/28/2026 - 22:38:32: [SM] Blaming: l4d2_tank_props_rock_v3.smx
+L 05/28/2026 - 22:38:32: [SM] Call stack trace:
+L 05/28/2026 - 22:38:32: [SM]   [1] Line 222, D:\SteamLibrary\steamapps\common\Left 4 Dead 2\left4dead2\addons\sourcemod\scripting\l4d2_tank_props_rock_v3.sp::Throw
+L 05/28/2026 - 22:38:32: [SM] Exception reported: Array index out-of-bounds (index 15, limit 12)
+L 05/28/2026 - 22:38:32: [SM] Blaming: l4d2_tank_props_rock_v3.smx
+L 05/28/2026 - 22:38:32: [SM] Call stack trace:
+L 05/28/2026 - 22:38:32: [SM]   [1] Line 222, D:\SteamLibrary\steamapps\common\Left 4 Dead 2\left4dead2\addons\sourcemod\scripting\l4d2_tank_props_rock_v3.sp::Throw
+L 05/28/2026 - 22:38:36: [SM] Exception reported: Language phrase "Please wait to be revived or rescued" not found (arg 6)
+L 05/28/2026 - 22:38:36: [SM] Blaming: l4dmultislots.smx
+L 05/28/2026 - 22:38:36: [SM] Call stack trace:
+L 05/28/2026 - 22:38:36: [SM]   [0] PrintToChat
+L 05/28/2026 - 22:38:36: [SM]   [1] Line 953, d:\Github\Private-Work\L4D2-插件\scripting_1.11\l4dmultislots.sp::Timer_SpecCheck
+L 05/28/2026 - 22:38:41: [SM] Exception reported: Invalid timer handle 9cc00515 (error 1)
+L 05/28/2026 - 22:38:41: [SM] Blaming: l4d2_playerjoining_v2.smx
+L 05/28/2026 - 22:38:41: [SM] Call stack trace:
+L 05/28/2026 - 22:38:41: [SM]   [0] KillTimer
+L 05/28/2026 - 22:38:41: [SM]   [1] Line 53, C:\Users\Moises\Downloads\Compressed\sourcemod-1.11.0-git6968-windows\addons\sourcemod\scripting\l4d2_playerjoining_v2.sp::OnClientDisconnect
+L 05/28/2026 - 22:38:52: [SM] Exception reported: Language phrase "No Any Dead Survivor" not found (arg 6)
+L 05/28/2026 - 22:38:52: [SM] Blaming: l4d_sm_respawn.smx
+L 05/28/2026 - 22:38:52: [SM] Call stack trace:
+L 05/28/2026 - 22:38:52: [SM]   [0] FormatEx
+L 05/28/2026 - 22:38:52: [SM]   [1] Line 202, d:\Github\Private-Work\L4D2-插件\scripting_1.11\l4d_sm_respawn.sp::MenuClientsToSpawn
+L 05/28/2026 - 22:38:52: [SM]   [2] Line 239, d:\Github\Private-Work\L4D2-插件\scripting_1.11\l4d_sm_respawn.sp::MenuHandler_MenuList
+L 05/28/2026 - 22:39:01: [SM] Exception reported: Language phrase "Please wait to be revived or rescued" not found (arg 6)
+L 05/28/2026 - 22:39:01: [SM] Blaming: l4dmultislots.smx
+L 05/28/2026 - 22:39:01: [SM] Call stack trace:
+L 05/28/2026 - 22:39:01: [SM]   [0] PrintToChat
+L 05/28/2026 - 22:39:01: [SM]   [1] Line 953, d:\Github\Private-Work\L4D2-插件\scripting_1.11\l4dmultislots.sp::Timer_SpecCheck
+L 05/28/2026 - 22:39:09: [SM] Exception reported: Language phrase "No Any Dead Survivor" not found (arg 6)
+L 05/28/2026 - 22:39:09: [SM] Blaming: l4d_sm_respawn.smx
+L 05/28/2026 - 22:39:09: [SM] Call stack trace:
+L 05/28/2026 - 22:39:09: [SM]   [0] FormatEx
+L 05/28/2026 - 22:39:09: [SM]   [1] Line 202, d:\Github\Private-Work\L4D2-插件\scripting_1.11\l4d_sm_respawn.sp::MenuClientsToSpawn
+L 05/28/2026 - 22:39:09: [SM]   [2] Line 239, d:\Github\Private-Work\L4D2-插件\scripting_1.11\l4d_sm_respawn.sp::MenuHandler_MenuList
+L 05/28/2026 - 22:39:13: [SM] Exception reported: Array index out-of-bounds (index 12, limit 12)
+L 05/28/2026 - 22:39:13: [SM] Blaming: l4d2_tank_props_rock_v3.smx
+L 05/28/2026 - 22:39:13: [SM] Call stack trace:
+L 05/28/2026 - 22:39:13: [SM]   [1] Line 222, D:\SteamLibrary\steamapps\common\Left 4 Dead 2\left4dead2\addons\sourcemod\scripting\l4d2_tank_props_rock_v3.sp::Throw
+L 05/28/2026 - 22:39:26: [SM] Exception reported: Invalid timer handle 720057e (error 1)
+L 05/28/2026 - 22:39:26: [SM] Blaming: l4d2_playerjoining_v2.smx
+L 05/28/2026 - 22:39:26: [SM] Call stack trace:
+L 05/28/2026 - 22:39:26: [SM]   [0] KillTimer
+L 05/28/2026 - 22:39:26: [SM]   [1] Line 53, C:\Users\Moises\Downloads\Compressed\sourcemod-1.11.0-git6968-windows\addons\sourcemod\scripting\l4d2_playerjoining_v2.sp::OnClientDisconnect
+L 05/28/2026 - 22:39:26: [SM] Exception reported: Language phrase "Please wait to be revived or rescued" not found (arg 6)
+L 05/28/2026 - 22:39:26: [SM] Blaming: l4dmultislots.smx
+L 05/28/2026 - 22:39:26: [SM] Call stack trace:
+L 05/28/2026 - 22:39:26: [SM]   [0] PrintToChat
+L 05/28/2026 - 22:39:26: [SM]   [1] Line 953, d:\Github\Private-Work\L4D2-插件\scripting_1.11\l4dmultislots.sp::Timer_SpecCheck
+L 05/28/2026 - 22:39:32: [SM] Exception reported: Language phrase "No Any Dead Survivor" not found (arg 6)
+L 05/28/2026 - 22:39:32: [SM] Blaming: l4d_sm_respawn.smx
+L 05/28/2026 - 22:39:32: [SM] Call stack trace:
+L 05/28/2026 - 22:39:32: [SM]   [0] FormatEx
+L 05/28/2026 - 22:39:32: [SM]   [1] Line 202, d:\Github\Private-Work\L4D2-插件\scripting_1.11\l4d_sm_respawn.sp::MenuClientsToSpawn
+L 05/28/2026 - 22:39:32: [SM]   [2] Line 239, d:\Github\Private-Work\L4D2-插件\scripting_1.11\l4d_sm_respawn.sp::MenuHandler_MenuList
+L 05/28/2026 - 22:39:52: [SM] Exception reported: Array index out-of-bounds (index 14, limit 12)
+L 05/28/2026 - 22:39:52: [SM] Blaming: l4d2_tank_props_rock_v3.smx
+L 05/28/2026 - 22:39:52: [SM] Call stack trace:
+L 05/28/2026 - 22:39:52: [SM]   [1] Line 222, D:\SteamLibrary\steamapps\common\Left 4 Dead 2\left4dead2\addons\sourcemod\scripting\l4d2_tank_props_rock_v3.sp::Throw
+L 05/28/2026 - 22:39:52: [SM] Exception reported: Array index out-of-bounds (index 15, limit 12)
+L 05/28/2026 - 22:39:52: [SM] Blaming: l4d2_tank_props_rock_v3.smx
+L 05/28/2026 - 22:39:52: [SM] Call stack trace:
+L 05/28/2026 - 22:39:52: [SM]   [1] Line 222, D:\SteamLibrary\steamapps\common\Left 4 Dead 2\left4dead2\addons\sourcemod\scripting\l4d2_tank_props_rock_v3.sp::Throw
+L 05/28/2026 - 22:40:30: [SM] Exception reported: Array index out-of-bounds (index 13, limit 12)
+L 05/28/2026 - 22:40:30: [SM] Blaming: l4d2_tank_props_rock_v3.smx
+L 05/28/2026 - 22:40:30: [SM] Call stack trace:
+L 05/28/2026 - 22:40:30: [SM]   [1] Line 222, D:\SteamLibrary\steamapps\common\Left 4 Dead 2\left4dead2\addons\sourcemod\scripting\l4d2_tank_props_rock_v3.sp::Throw
+L 05/28/2026 - 22:40:31: [SM] Exception reported: Array index out-of-bounds (index 13, limit 12)
+L 05/28/2026 - 22:40:31: [SM] Blaming: l4d2_tank_props_rock_v3.smx
+L 05/28/2026 - 22:40:31: [SM] Call stack trace:
+L 05/28/2026 - 22:40:31: [SM]   [1] Line 222, D:\SteamLibrary\steamapps\common\Left 4 Dead 2\left4dead2\addons\sourcemod\scripting\l4d2_tank_props_rock_v3.sp::Throw
+L 05/28/2026 - 22:40:31: [SM] Exception reported: Array index out-of-bounds (index 13, limit 12)
+L 05/28/2026 - 22:40:31: [SM] Blaming: l4d2_tank_props_rock_v3.smx
+L 05/28/2026 - 22:40:31: [SM] Call stack trace:
+L 05/28/2026 - 22:40:31: [SM]   [1] Line 222, D:\SteamLibrary\steamapps\common\Left 4 Dead 2\left4dead2\addons\sourcemod\scripting\l4d2_tank_props_rock_v3.sp::Throw
+L 05/28/2026 - 22:40:34: [SM] Exception reported: Invalid timer handle 9cc00515 (error 3)
+L 05/28/2026 - 22:40:34: [SM] Blaming: l4d2_playerjoining_v2.smx
+L 05/28/2026 - 22:40:34: [SM] Call stack trace:
+L 05/28/2026 - 22:40:34: [SM]   [0] KillTimer
+L 05/28/2026 - 22:40:34: [SM]   [1] Line 53, C:\Users\Moises\Downloads\Compressed\sourcemod-1.11.0-git6968-windows\addons\sourcemod\scripting\l4d2_playerjoining_v2.sp::OnClientDisconnect
+L 05/28/2026 - 22:41:06: [SM] Exception reported: Language phrase "Please wait to be revived or rescued" not found (arg 6)
+L 05/28/2026 - 22:41:06: [SM] Blaming: l4dmultislots.smx
+L 05/28/2026 - 22:41:06: [SM] Call stack trace:
+L 05/28/2026 - 22:41:06: [SM]   [0] PrintToChat
+L 05/28/2026 - 22:41:06: [SM]   [1] Line 953, d:\Github\Private-Work\L4D2-插件\scripting_1.11\l4dmultislots.sp::Timer_SpecCheck
+L 05/28/2026 - 22:41:31: [SM] Exception reported: Language phrase "Please wait to be revived or rescued" not found (arg 6)
+L 05/28/2026 - 22:41:31: [SM] Blaming: l4dmultislots.smx
+L 05/28/2026 - 22:41:31: [SM] Call stack trace:
+L 05/28/2026 - 22:41:31: [SM]   [0] PrintToChat
+L 05/28/2026 - 22:41:31: [SM]   [1] Line 953, d:\Github\Private-Work\L4D2-插件\scripting_1.11\l4dmultislots.sp::Timer_SpecCheck
+L 05/28/2026 - 22:41:38: [SM] Exception reported: Property "m_vecAngularVelocity" not found (entity 67/weapon_smg)
+L 05/28/2026 - 22:41:38: [SM] Blaming: l4d2_tank_core v4_5_1.smx
+L 05/28/2026 - 22:41:38: [SM] Call stack trace:
+L 05/28/2026 - 22:41:38: [SM]   [0] SetEntPropVector
+L 05/28/2026 - 22:41:38: [SM]   [1] Line 606, D:\SteamLibrary\steamapps\common\Left 4 Dead 2\left4dead2\addons\sourcemod\scripting\l4d2_tank_core v4_5_1.sp::DropItemsPhysically
+L 05/28/2026 - 22:41:38: [SM]   [2] Line 535, D:\SteamLibrary\steamapps\common\Left 4 Dead 2\left4dead2\addons\sourcemod\scripting\l4d2_tank_core v4_5_1.sp::Event_PlayerHurt
+L 05/28/2026 - 22:42:21: [SM] Exception reported: Invalid timer handle 720057e (error 3)
+L 05/28/2026 - 22:42:21: [SM] Blaming: l4d2_playerjoining_v2.smx
+L 05/28/2026 - 22:42:21: [SM] Call stack trace:
+L 05/28/2026 - 22:42:21: [SM]   [0] KillTimer
+L 05/28/2026 - 22:42:21: [SM]   [1] Line 53, C:\Users\Moises\Downloads\Compressed\sourcemod-1.11.0-git6968-windows\addons\sourcemod\scripting\l4d2_playerjoining_v2.sp::OnClientDisconnect
+L 05/28/2026 - 22:42:21: [SM] Exception reported: Invalid timer handle 9cc00515 (error 1)
+L 05/28/2026 - 22:42:21: [SM] Blaming: l4d2_playerjoining_v2.smx
+L 05/28/2026 - 22:42:21: [SM] Call stack trace:
+L 05/28/2026 - 22:42:21: [SM]   [0] KillTimer
+L 05/28/2026 - 22:42:21: [SM]   [1] Line 53, C:\Users\Moises\Downloads\Compressed\sourcemod-1.11.0-git6968-windows\addons\sourcemod\scripting\l4d2_playerjoining_v2.sp::OnClientDisconnect
+L 05/28/2026 - 22:42:21: [SM] Exception reported: Invalid timer handle 51500510 (error 1)
+L 05/28/2026 - 22:42:21: [SM] Blaming: l4d2_playerjoining_v2.smx
+L 05/28/2026 - 22:42:21: [SM] Call stack trace:
+L 05/28/2026 - 22:42:21: [SM]   [0] KillTimer
+L 05/28/2026 - 22:42:21: [SM]   [1] Line 53, C:\Users\Moises\Downloads\Compressed\sourcemod-1.11.0-git6968-windows\addons\sourcemod\scripting\l4d2_playerjoining_v2.sp::OnClientDisconnect
+L 05/28/2026 - 22:42:24: Error log file session closed.
+L 05/28/2026 - 22:42:24: SourceMod error session started
+L 05/28/2026 - 22:42:24: Info (map "c2m1_highway") (file "d:\steamlibrary\steamapps\common\left 4 dead 2\left4dead2\addons\sourcemod\logs\errors_20260528.log")
+L 05/28/2026 - 22:42:24: [SM] Fatal error encountered parsing translation file "l4d_nth.phrases.txt"
+L 05/28/2026 - 22:42:24: [SM] Error (line 0, column 0): Stream failed to open
+L 05/28/2026 - 22:42:24: [SM] Fatal error encountered parsing translation file "chargersteering.phrases.txt"
+L 05/28/2026 - 22:42:24: [SM] Error (line 0, column 0): Stream failed to open
+L 05/28/2026 - 22:42:24: [SM] Fatal error encountered parsing translation file "l4dmultislots.phrases.txt"
+L 05/28/2026 - 22:42:24: [SM] Error (line 0, column 0): Stream failed to open
+L 05/28/2026 - 22:42:26: [l4d2_publicity.smx] [Publicity] No se encontraron mensajes en el archivo de configuración
+L 05/28/2026 - 22:42:26: [SM] Exception reported: Array index out-of-bounds (index 12, limit 12)
+L 05/28/2026 - 22:42:26: [SM] Blaming: l4d2_tank_props_rock_v3.smx
+L 05/28/2026 - 22:42:26: [SM] Call stack trace:
+L 05/28/2026 - 22:42:26: [SM]   [1] Line 142, D:\SteamLibrary\steamapps\common\Left 4 Dead 2\left4dead2\addons\sourcemod\scripting\l4d2_tank_props_rock_v3.sp::OnMapStart
+L 05/28/2026 - 22:42:54: [SM] Exception reported: Invalid timer handle 720057e (error 1)
+L 05/28/2026 - 22:42:54: [SM] Blaming: l4d2_playerjoining_v2.smx
+L 05/28/2026 - 22:42:54: [SM] Call stack trace:
+L 05/28/2026 - 22:42:54: [SM]   [0] KillTimer
+L 05/28/2026 - 22:42:54: [SM]   [1] Line 53, C:\Users\Moises\Downloads\Compressed\sourcemod-1.11.0-git6968-windows\addons\sourcemod\scripting\l4d2_playerjoining_v2.sp::OnClientDisconnect
+L 05/28/2026 - 22:43:38: [SM] Exception reported: Array index out-of-bounds (index 12, limit 12)
+L 05/28/2026 - 22:43:38: [SM] Blaming: l4d2_tank_props_rock_v3.smx
+L 05/28/2026 - 22:43:38: [SM] Call stack trace:
+L 05/28/2026 - 22:43:38: [SM]   [1] Line 222, D:\SteamLibrary\steamapps\common\Left 4 Dead 2\left4dead2\addons\sourcemod\scripting\l4d2_tank_props_rock_v3.sp::Throw
+L 05/28/2026 - 22:44:33: [SM] Exception reported: Array index out-of-bounds (index 12, limit 12)
+L 05/28/2026 - 22:44:33: [SM] Blaming: l4d2_tank_props_rock_v3.smx
+L 05/28/2026 - 22:44:33: [SM] Call stack trace:
+L 05/28/2026 - 22:44:33: [SM]   [1] Line 222, D:\SteamLibrary\steamapps\common\Left 4 Dead 2\left4dead2\addons\sourcemod\scripting\l4d2_tank_props_rock_v3.sp::Throw
+L 05/28/2026 - 22:44:55: [SM] Exception reported: Array index out-of-bounds (index 15, limit 12)
+L 05/28/2026 - 22:44:55: [SM] Blaming: l4d2_tank_props_rock_v3.smx
+L 05/28/2026 - 22:44:55: [SM] Call stack trace:
+L 05/28/2026 - 22:44:55: [SM]   [1] Line 222, D:\SteamLibrary\steamapps\common\Left 4 Dead 2\left4dead2\addons\sourcemod\scripting\l4d2_tank_props_rock_v3.sp::Throw
+L 05/28/2026 - 22:45:04: [SM] Exception reported: Invalid timer handle 9cc00515 (error 3)
+L 05/28/2026 - 22:45:04: [SM] Blaming: l4d2_playerjoining_v2.smx
+L 05/28/2026 - 22:45:04: [SM] Call stack trace:
+L 05/28/2026 - 22:45:04: [SM]   [0] KillTimer
+L 05/28/2026 - 22:45:04: [SM]   [1] Line 53, C:\Users\Moises\Downloads\Compressed\sourcemod-1.11.0-git6968-windows\addons\sourcemod\scripting\l4d2_playerjoining_v2.sp::OnClientDisconnect
+L 05/28/2026 - 22:45:17: [SM] Exception reported: Language phrase "Please wait to be revived or rescued" not found (arg 6)
+L 05/28/2026 - 22:45:17: [SM] Blaming: l4dmultislots.smx
+L 05/28/2026 - 22:45:17: [SM] Call stack trace:
+L 05/28/2026 - 22:45:17: [SM]   [0] PrintToChat
+L 05/28/2026 - 22:45:17: [SM]   [1] Line 953, d:\Github\Private-Work\L4D2-插件\scripting_1.11\l4dmultislots.sp::Timer_SpecCheck
+L 05/28/2026 - 22:45:38: [SM] Exception reported: Invalid timer handle 720057e (error 3)
+L 05/28/2026 - 22:45:38: [SM] Blaming: l4d2_playerjoining_v2.smx
+L 05/28/2026 - 22:45:38: [SM] Call stack trace:
+L 05/28/2026 - 22:45:38: [SM]   [0] KillTimer
+L 05/28/2026 - 22:45:38: [SM]   [1] Line 53, C:\Users\Moises\Downloads\Compressed\sourcemod-1.11.0-git6968-windows\addons\sourcemod\scripting\l4d2_playerjoining_v2.sp::OnClientDisconnect
+L 05/28/2026 - 22:45:43: [SM] Exception reported: Invalid timer handle 9cc00515 (error 3)
+L 05/28/2026 - 22:45:43: [SM] Blaming: l4d2_playerjoining_v2.smx
+L 05/28/2026 - 22:45:43: [SM] Call stack trace:
+L 05/28/2026 - 22:45:43: [SM]   [0] KillTimer
+L 05/28/2026 - 22:45:43: [SM]   [1] Line 53, C:\Users\Moises\Downloads\Compressed\sourcemod-1.11.0-git6968-windows\addons\sourcemod\scripting\l4d2_playerjoining_v2.sp::OnClientDisconnect
+L 05/28/2026 - 22:45:45: Error log file session closed.
+L 05/28/2026 - 22:45:45: SourceMod error session started
+L 05/28/2026 - 22:45:45: Info (map "c2m2_fairgrounds") (file "d:\steamlibrary\steamapps\common\left 4 dead 2\left4dead2\addons\sourcemod\logs\errors_20260528.log")
+L 05/28/2026 - 22:45:45: [SM] Fatal error encountered parsing translation file "l4d_nth.phrases.txt"
+L 05/28/2026 - 22:45:45: [SM] Error (line 0, column 0): Stream failed to open
+L 05/28/2026 - 22:45:45: [SM] Fatal error encountered parsing translation file "chargersteering.phrases.txt"
+L 05/28/2026 - 22:45:45: [SM] Error (line 0, column 0): Stream failed to open
+L 05/28/2026 - 22:45:45: [SM] Fatal error encountered parsing translation file "l4dmultislots.phrases.txt"
+L 05/28/2026 - 22:45:45: [SM] Error (line 0, column 0): Stream failed to open
+L 05/28/2026 - 22:45:48: [l4d2_publicity.smx] [Publicity] No se encontraron mensajes en el archivo de configuración
+L 05/28/2026 - 22:45:48: [SM] Exception reported: Array index out-of-bounds (index 12, limit 12)
+L 05/28/2026 - 22:45:48: [SM] Blaming: l4d2_tank_props_rock_v3.smx
+L 05/28/2026 - 22:45:48: [SM] Call stack trace:
+L 05/28/2026 - 22:45:48: [SM]   [1] Line 142, D:\SteamLibrary\steamapps\common\Left 4 Dead 2\left4dead2\addons\sourcemod\scripting\l4d2_tank_props_rock_v3.sp::OnMapStart
+L 05/28/2026 - 22:46:03: [SM] Exception reported: Invalid timer handle 9cc00515 (error 1)
+L 05/28/2026 - 22:46:03: [SM] Blaming: l4d2_playerjoining_v2.smx
+L 05/28/2026 - 22:46:03: [SM] Call stack trace:
+L 05/28/2026 - 22:46:03: [SM]   [0] KillTimer
+L 05/28/2026 - 22:46:03: [SM]   [1] Line 53, C:\Users\Moises\Downloads\Compressed\sourcemod-1.11.0-git6968-windows\addons\sourcemod\scripting\l4d2_playerjoining_v2.sp::OnClientDisconnect
+L 05/28/2026 - 22:46:16: [SM] Exception reported: Invalid timer handle 720057e (error 1)
+L 05/28/2026 - 22:46:16: [SM] Blaming: l4d2_playerjoining_v2.smx
+L 05/28/2026 - 22:46:16: [SM] Call stack trace:
+L 05/28/2026 - 22:46:16: [SM]   [0] KillTimer
+L 05/28/2026 - 22:46:16: [SM]   [1] Line 53, C:\Users\Moises\Downloads\Compressed\sourcemod-1.11.0-git6968-windows\addons\sourcemod\scripting\l4d2_playerjoining_v2.sp::OnClientDisconnect
+L 05/28/2026 - 22:46:40: [SM] Exception reported: Array index out-of-bounds (index 15, limit 12)
+L 05/28/2026 - 22:46:40: [SM] Blaming: l4d2_tank_props_rock_v3.smx
+L 05/28/2026 - 22:46:40: [SM] Call stack trace:
+L 05/28/2026 - 22:46:40: [SM]   [1] Line 222, D:\SteamLibrary\steamapps\common\Left 4 Dead 2\left4dead2\addons\sourcemod\scripting\l4d2_tank_props_rock_v3.sp::Throw
+L 05/28/2026 - 22:47:24: [SM] Exception reported: Property "m_vecAngularVelocity" not found (entity 401/weapon_shotgun_chrome)
+L 05/28/2026 - 22:47:24: [SM] Blaming: l4d2_tank_core v4_5_1.smx
+L 05/28/2026 - 22:47:24: [SM] Call stack trace:
+L 05/28/2026 - 22:47:24: [SM]   [0] SetEntPropVector
+L 05/28/2026 - 22:47:24: [SM]   [1] Line 606, D:\SteamLibrary\steamapps\common\Left 4 Dead 2\left4dead2\addons\sourcemod\scripting\l4d2_tank_core v4_5_1.sp::DropItemsPhysically
+L 05/28/2026 - 22:47:24: [SM]   [2] Line 535, D:\SteamLibrary\steamapps\common\Left 4 Dead 2\left4dead2\addons\sourcemod\scripting\l4d2_tank_core v4_5_1.sp::Event_PlayerHurt
+L 05/28/2026 - 22:47:29: [SM] Exception reported: Property "m_vecAngularVelocity" not found (entity 399/weapon_pistol_magnum)
+L 05/28/2026 - 22:47:29: [SM] Blaming: l4d2_tank_core v4_5_1.smx
+L 05/28/2026 - 22:47:29: [SM] Call stack trace:
+L 05/28/2026 - 22:47:29: [SM]   [0] SetEntPropVector
+L 05/28/2026 - 22:47:29: [SM]   [1] Line 606, D:\SteamLibrary\steamapps\common\Left 4 Dead 2\left4dead2\addons\sourcemod\scripting\l4d2_tank_core v4_5_1.sp::DropItemsPhysically
+L 05/28/2026 - 22:47:29: [SM]   [2] Line 535, D:\SteamLibrary\steamapps\common\Left 4 Dead 2\left4dead2\addons\sourcemod\scripting\l4d2_tank_core v4_5_1.sp::Event_PlayerHurt
+L 05/28/2026 - 22:48:01: [SM] Exception reported: Array index out-of-bounds (index 12, limit 12)
+L 05/28/2026 - 22:48:01: [SM] Blaming: l4d2_tank_props_rock_v3.smx
+L 05/28/2026 - 22:48:01: [SM] Call stack trace:
+L 05/28/2026 - 22:48:01: [SM]   [1] Line 222, D:\SteamLibrary\steamapps\common\Left 4 Dead 2\left4dead2\addons\sourcemod\scripting\l4d2_tank_props_rock_v3.sp::Throw
+L 05/28/2026 - 22:48:18: [SM] Exception reported: Property "m_vecAngularVelocity" not found (entity 690/weapon_first_aid_kit)
+L 05/28/2026 - 22:48:18: [SM] Blaming: l4d2_tank_core v4_5_1.smx
+L 05/28/2026 - 22:48:18: [SM] Call stack trace:
+L 05/28/2026 - 22:48:18: [SM]   [0] SetEntPropVector
+L 05/28/2026 - 22:48:18: [SM]   [1] Line 606, D:\SteamLibrary\steamapps\common\Left 4 Dead 2\left4dead2\addons\sourcemod\scripting\l4d2_tank_core v4_5_1.sp::DropItemsPhysically
+L 05/28/2026 - 22:48:18: [SM]   [2] Line 535, D:\SteamLibrary\steamapps\common\Left 4 Dead 2\left4dead2\addons\sourcemod\scripting\l4d2_tank_core v4_5_1.sp::Event_PlayerHurt
+L 05/28/2026 - 22:48:22: [SM] Exception reported: Array index out-of-bounds (index 13, limit 12)
+L 05/28/2026 - 22:48:22: [SM] Blaming: l4d2_tank_props_rock_v3.smx
+L 05/28/2026 - 22:48:22: [SM] Call stack trace:
+L 05/28/2026 - 22:48:22: [SM]   [1] Line 222, D:\SteamLibrary\steamapps\common\Left 4 Dead 2\left4dead2\addons\sourcemod\scripting\l4d2_tank_props_rock_v3.sp::Throw
+L 05/28/2026 - 22:48:22: [SM] Exception reported: Array index out-of-bounds (index 13, limit 12)
+L 05/28/2026 - 22:48:22: [SM] Blaming: l4d2_tank_props_rock_v3.smx
+L 05/28/2026 - 22:48:22: [SM] Call stack trace:
+L 05/28/2026 - 22:48:22: [SM]   [1] Line 222, D:\SteamLibrary\steamapps\common\Left 4 Dead 2\left4dead2\addons\sourcemod\scripting\l4d2_tank_props_rock_v3.sp::Throw
+L 05/28/2026 - 22:48:23: [SM] Exception reported: Property "m_vecAngularVelocity" not found (entity 285/weapon_smg_silenced)
+L 05/28/2026 - 22:48:23: [SM] Blaming: l4d2_tank_core v4_5_1.smx
+L 05/28/2026 - 22:48:23: [SM] Call stack trace:
+L 05/28/2026 - 22:48:23: [SM]   [0] SetEntPropVector
+L 05/28/2026 - 22:48:23: [SM]   [1] Line 606, D:\SteamLibrary\steamapps\common\Left 4 Dead 2\left4dead2\addons\sourcemod\scripting\l4d2_tank_core v4_5_1.sp::DropItemsPhysically
+L 05/28/2026 - 22:48:23: [SM]   [2] Line 535, D:\SteamLibrary\steamapps\common\Left 4 Dead 2\left4dead2\addons\sourcemod\scripting\l4d2_tank_core v4_5_1.sp::Event_PlayerHurt
+L 05/28/2026 - 22:48:25: [SM] Exception reported: Invalid timer handle 720057e (error 3)
+L 05/28/2026 - 22:48:25: [SM] Blaming: l4d2_playerjoining_v2.smx
+L 05/28/2026 - 22:48:25: [SM] Call stack trace:
+L 05/28/2026 - 22:48:25: [SM]   [0] KillTimer
+L 05/28/2026 - 22:48:25: [SM]   [1] Line 53, C:\Users\Moises\Downloads\Compressed\sourcemod-1.11.0-git6968-windows\addons\sourcemod\scripting\l4d2_playerjoining_v2.sp::OnClientDisconnect
+L 05/28/2026 - 22:48:26: [SM] Exception reported: Property "m_vecAngularVelocity" not found (entity 432/weapon_melee)
+L 05/28/2026 - 22:48:26: [SM] Blaming: l4d2_tank_core v4_5_1.smx
+L 05/28/2026 - 22:48:26: [SM] Call stack trace:
+L 05/28/2026 - 22:48:26: [SM]   [0] SetEntPropVector
+L 05/28/2026 - 22:48:26: [SM]   [1] Line 606, D:\SteamLibrary\steamapps\common\Left 4 Dead 2\left4dead2\addons\sourcemod\scripting\l4d2_tank_core v4_5_1.sp::DropItemsPhysically
+L 05/28/2026 - 22:48:26: [SM]   [2] Line 535, D:\SteamLibrary\steamapps\common\Left 4 Dead 2\left4dead2\addons\sourcemod\scripting\l4d2_tank_core v4_5_1.sp::Event_PlayerHurt
+L 05/28/2026 - 22:48:36: [SM] Exception reported: Property "m_vecAngularVelocity" not found (entity 675/weapon_shotgun_spas)
+L 05/28/2026 - 22:48:36: [SM] Blaming: l4d2_tank_core v4_5_1.smx
+L 05/28/2026 - 22:48:36: [SM] Call stack trace:
+L 05/28/2026 - 22:48:36: [SM]   [0] SetEntPropVector
+L 05/28/2026 - 22:48:36: [SM]   [1] Line 606, D:\SteamLibrary\steamapps\common\Left 4 Dead 2\left4dead2\addons\sourcemod\scripting\l4d2_tank_core v4_5_1.sp::DropItemsPhysically
+L 05/28/2026 - 22:48:36: [SM]   [2] Line 535, D:\SteamLibrary\steamapps\common\Left 4 Dead 2\left4dead2\addons\sourcemod\scripting\l4d2_tank_core v4_5_1.sp::Event_PlayerHurt
+L 05/28/2026 - 22:48:37: [SM] Exception reported: Invalid timer handle 9cc00515 (error 3)
+L 05/28/2026 - 22:48:37: [SM] Blaming: l4d2_playerjoining_v2.smx
+L 05/28/2026 - 22:48:37: [SM] Call stack trace:
+L 05/28/2026 - 22:48:37: [SM]   [0] KillTimer
+L 05/28/2026 - 22:48:37: [SM]   [1] Line 53, C:\Users\Moises\Downloads\Compressed\sourcemod-1.11.0-git6968-windows\addons\sourcemod\scripting\l4d2_playerjoining_v2.sp::OnClientDisconnect
+L 05/28/2026 - 22:48:56: [SM] Exception reported: Language phrase "Please wait to be revived or rescued" not found (arg 6)
+L 05/28/2026 - 22:48:56: [SM] Blaming: l4dmultislots.smx
+L 05/28/2026 - 22:48:56: [SM] Call stack trace:
+L 05/28/2026 - 22:48:56: [SM]   [0] PrintToChat
+L 05/28/2026 - 22:48:56: [SM]   [1] Line 953, d:\Github\Private-Work\L4D2-插件\scripting_1.11\l4dmultislots.sp::Timer_SpecCheck
+L 05/28/2026 - 22:49:21: [SM] Exception reported: Language phrase "Please wait to be revived or rescued" not found (arg 6)
+L 05/28/2026 - 22:49:21: [SM] Blaming: l4dmultislots.smx
+L 05/28/2026 - 22:49:21: [SM] Call stack trace:
+L 05/28/2026 - 22:49:21: [SM]   [0] PrintToChat
+L 05/28/2026 - 22:49:21: [SM]   [1] Line 953, d:\Github\Private-Work\L4D2-插件\scripting_1.11\l4dmultislots.sp::Timer_SpecCheck
+L 05/28/2026 - 22:49:28: [SM] Exception reported: Property "m_vecAngularVelocity" not found (entity 237/weapon_rifle_desert)
+L 05/28/2026 - 22:49:28: [SM] Blaming: l4d2_tank_core v4_5_1.smx
+L 05/28/2026 - 22:49:28: [SM] Call stack trace:
+L 05/28/2026 - 22:49:28: [SM]   [0] SetEntPropVector
+L 05/28/2026 - 22:49:28: [SM]   [1] Line 606, D:\SteamLibrary\steamapps\common\Left 4 Dead 2\left4dead2\addons\sourcemod\scripting\l4d2_tank_core v4_5_1.sp::DropItemsPhysically
+L 05/28/2026 - 22:49:28: [SM]   [2] Line 535, D:\SteamLibrary\steamapps\common\Left 4 Dead 2\left4dead2\addons\sourcemod\scripting\l4d2_tank_core v4_5_1.sp::Event_PlayerHurt
+L 05/28/2026 - 22:49:30: [SM] Exception reported: Invalid timer handle 720057e (error 3)
+L 05/28/2026 - 22:49:30: [SM] Blaming: l4d2_playerjoining_v2.smx
+L 05/28/2026 - 22:49:30: [SM] Call stack trace:
+L 05/28/2026 - 22:49:30: [SM]   [0] KillTimer
+L 05/28/2026 - 22:49:30: [SM]   [1] Line 53, C:\Users\Moises\Downloads\Compressed\sourcemod-1.11.0-git6968-windows\addons\sourcemod\scripting\l4d2_playerjoining_v2.sp::OnClientDisconnect
+L 05/28/2026 - 22:49:46: [SM] Exception reported: Language phrase "Please wait to be revived or rescued" not found (arg 6)
+L 05/28/2026 - 22:49:46: [SM] Blaming: l4dmultislots.smx
+L 05/28/2026 - 22:49:46: [SM] Call stack trace:
+L 05/28/2026 - 22:49:46: [SM]   [0] PrintToChat
+L 05/28/2026 - 22:49:46: [SM]   [1] Line 953, d:\Github\Private-Work\L4D2-插件\scripting_1.11\l4dmultislots.sp::Timer_SpecCheck
+L 05/28/2026 - 22:49:46: [SM] Exception reported: Array index out-of-bounds (index 12, limit 12)
+L 05/28/2026 - 22:49:46: [SM] Blaming: l4d2_tank_props_rock_v3.smx
+L 05/28/2026 - 22:49:46: [SM] Call stack trace:
+L 05/28/2026 - 22:49:46: [SM]   [1] Line 222, D:\SteamLibrary\steamapps\common\Left 4 Dead 2\left4dead2\addons\sourcemod\scripting\l4d2_tank_props_rock_v3.sp::Throw
+L 05/28/2026 - 22:49:54: [SM] Exception reported: Property "m_vecAngularVelocity" not found (entity 458/weapon_shotgun_chrome)
+L 05/28/2026 - 22:49:54: [SM] Blaming: l4d2_tank_core v4_5_1.smx
+L 05/28/2026 - 22:49:54: [SM] Call stack trace:
+L 05/28/2026 - 22:49:54: [SM]   [0] SetEntPropVector
+L 05/28/2026 - 22:49:54: [SM]   [1] Line 606, D:\SteamLibrary\steamapps\common\Left 4 Dead 2\left4dead2\addons\sourcemod\scripting\l4d2_tank_core v4_5_1.sp::DropItemsPhysically
+L 05/28/2026 - 22:49:54: [SM]   [2] Line 535, D:\SteamLibrary\steamapps\common\Left 4 Dead 2\left4dead2\addons\sourcemod\scripting\l4d2_tank_core v4_5_1.sp::Event_PlayerHurt
+L 05/28/2026 - 22:50:10: [SM] Exception reported: Invalid timer handle 9cc00515 (error 1)
+L 05/28/2026 - 22:50:10: [SM] Blaming: l4d2_playerjoining_v2.smx
+L 05/28/2026 - 22:50:10: [SM] Call stack trace:
+L 05/28/2026 - 22:50:10: [SM]   [0] KillTimer
+L 05/28/2026 - 22:50:10: [SM]   [1] Line 53, C:\Users\Moises\Downloads\Compressed\sourcemod-1.11.0-git6968-windows\addons\sourcemod\scripting\l4d2_playerjoining_v2.sp::OnClientDisconnect
+L 05/28/2026 - 22:50:10: [SM] Exception reported: Invalid timer handle 720057e (error 1)
+L 05/28/2026 - 22:50:10: [SM] Blaming: l4d2_playerjoining_v2.smx
+L 05/28/2026 - 22:50:10: [SM] Call stack trace:
+L 05/28/2026 - 22:50:10: [SM]   [0] KillTimer
+L 05/28/2026 - 22:50:10: [SM]   [1] Line 53, C:\Users\Moises\Downloads\Compressed\sourcemod-1.11.0-git6968-windows\addons\sourcemod\scripting\l4d2_playerjoining_v2.sp::OnClientDisconnect
+L 05/28/2026 - 22:51:23: [SM] Exception reported: Property "m_vecAngularVelocity" not found (entity 294/weapon_smg_silenced)
+L 05/28/2026 - 22:51:23: [SM] Blaming: l4d2_tank_core v4_5_1.smx
+L 05/28/2026 - 22:51:23: [SM] Call stack trace:
+L 05/28/2026 - 22:51:23: [SM]   [0] SetEntPropVector
+L 05/28/2026 - 22:51:23: [SM]   [1] Line 606, D:\SteamLibrary\steamapps\common\Left 4 Dead 2\left4dead2\addons\sourcemod\scripting\l4d2_tank_core v4_5_1.sp::DropItemsPhysically
+L 05/28/2026 - 22:51:23: [SM]   [2] Line 535, D:\SteamLibrary\steamapps\common\Left 4 Dead 2\left4dead2\addons\sourcemod\scripting\l4d2_tank_core v4_5_1.sp::Event_PlayerHurt
+L 05/28/2026 - 22:51:38: [SM] Exception reported: Property "m_vecAngularVelocity" not found (entity 341/weapon_shotgun_chrome)
+L 05/28/2026 - 22:51:38: [SM] Blaming: l4d2_tank_core v4_5_1.smx
+L 05/28/2026 - 22:51:38: [SM] Call stack trace:
+L 05/28/2026 - 22:51:38: [SM]   [0] SetEntPropVector
+L 05/28/2026 - 22:51:38: [SM]   [1] Line 606, D:\SteamLibrary\steamapps\common\Left 4 Dead 2\left4dead2\addons\sourcemod\scripting\l4d2_tank_core v4_5_1.sp::DropItemsPhysically
+L 05/28/2026 - 22:51:38: [SM]   [2] Line 535, D:\SteamLibrary\steamapps\common\Left 4 Dead 2\left4dead2\addons\sourcemod\scripting\l4d2_tank_core v4_5_1.sp::Event_PlayerHurt
+L 05/28/2026 - 22:51:49: [SM] Exception reported: Invalid timer handle 720057e (error 1)
+L 05/28/2026 - 22:51:49: [SM] Blaming: l4d2_playerjoining_v2.smx
+L 05/28/2026 - 22:51:49: [SM] Call stack trace:
+L 05/28/2026 - 22:51:49: [SM]   [0] KillTimer
+L 05/28/2026 - 22:51:49: [SM]   [1] Line 53, C:\Users\Moises\Downloads\Compressed\sourcemod-1.11.0-git6968-windows\addons\sourcemod\scripting\l4d2_playerjoining_v2.sp::OnClientDisconnect
+L 05/28/2026 - 22:51:50: [SM] Exception reported: Language phrase "Please wait to be revived or rescued" not found (arg 6)
+L 05/28/2026 - 22:51:50: [SM] Blaming: l4dmultislots.smx
+L 05/28/2026 - 22:51:50: [SM] Call stack trace:
+L 05/28/2026 - 22:51:50: [SM]   [0] PrintToChat
+L 05/28/2026 - 22:51:50: [SM]   [1] Line 953, d:\Github\Private-Work\L4D2-插件\scripting_1.11\l4dmultislots.sp::Timer_SpecCheck
+L 05/28/2026 - 22:52:15: [SM] Exception reported: Language phrase "Please wait to be revived or rescued" not found (arg 6)
+L 05/28/2026 - 22:52:15: [SM] Blaming: l4dmultislots.smx
+L 05/28/2026 - 22:52:15: [SM] Call stack trace:
+L 05/28/2026 - 22:52:15: [SM]   [0] PrintToChat
+L 05/28/2026 - 22:52:15: [SM]   [1] Line 953, d:\Github\Private-Work\L4D2-插件\scripting_1.11\l4dmultislots.sp::Timer_SpecCheck
+L 05/28/2026 - 22:52:28: [SM] Exception reported: Array index out-of-bounds (index 15, limit 12)
+L 05/28/2026 - 22:52:28: [SM] Blaming: l4d2_tank_props_rock_v3.smx
+L 05/28/2026 - 22:52:28: [SM] Call stack trace:
+L 05/28/2026 - 22:52:28: [SM]   [1] Line 222, D:\SteamLibrary\steamapps\common\Left 4 Dead 2\left4dead2\addons\sourcemod\scripting\l4d2_tank_props_rock_v3.sp::Throw
+L 05/28/2026 - 22:52:39: [SM] Exception reported: Array index out-of-bounds (index 13, limit 12)
+L 05/28/2026 - 22:52:39: [SM] Blaming: l4d2_tank_props_rock_v3.smx
+L 05/28/2026 - 22:52:39: [SM] Call stack trace:
+L 05/28/2026 - 22:52:39: [SM]   [1] Line 222, D:\SteamLibrary\steamapps\common\Left 4 Dead 2\left4dead2\addons\sourcemod\scripting\l4d2_tank_props_rock_v3.sp::Throw
+L 05/28/2026 - 22:52:40: [SM] Exception reported: Language phrase "Please wait to be revived or rescued" not found (arg 6)
+L 05/28/2026 - 22:52:40: [SM] Blaming: l4dmultislots.smx
+L 05/28/2026 - 22:52:40: [SM] Call stack trace:
+L 05/28/2026 - 22:52:40: [SM]   [0] PrintToChat
+L 05/28/2026 - 22:52:40: [SM]   [1] Line 953, d:\Github\Private-Work\L4D2-插件\scripting_1.11\l4dmultislots.sp::Timer_SpecCheck
+L 05/28/2026 - 22:52:41: [SM] Exception reported: Invalid timer handle 9cc00515 (error 3)
+L 05/28/2026 - 22:52:41: [SM] Blaming: l4d2_playerjoining_v2.smx
+L 05/28/2026 - 22:52:41: [SM] Call stack trace:
+L 05/28/2026 - 22:52:41: [SM]   [0] KillTimer
+L 05/28/2026 - 22:52:41: [SM]   [1] Line 53, C:\Users\Moises\Downloads\Compressed\sourcemod-1.11.0-git6968-windows\addons\sourcemod\scripting\l4d2_playerjoining_v2.sp::OnClientDisconnect
+L 05/28/2026 - 22:53:05: [SM] Exception reported: Language phrase "Please wait to be revived or rescued" not found (arg 6)
+L 05/28/2026 - 22:53:05: [SM] Blaming: l4dmultislots.smx
+L 05/28/2026 - 22:53:05: [SM] Call stack trace:
+L 05/28/2026 - 22:53:05: [SM]   [0] PrintToChat
+L 05/28/2026 - 22:53:05: [SM]   [1] Line 953, d:\Github\Private-Work\L4D2-插件\scripting_1.11\l4dmultislots.sp::Timer_SpecCheck
+L 05/28/2026 - 22:53:30: [SM] Exception reported: Language phrase "Please wait to be revived or rescued" not found (arg 6)
+L 05/28/2026 - 22:53:30: [SM] Blaming: l4dmultislots.smx
+L 05/28/2026 - 22:53:30: [SM] Call stack trace:
+L 05/28/2026 - 22:53:30: [SM]   [0] PrintToChat
+L 05/28/2026 - 22:53:30: [SM]   [1] Line 953, d:\Github\Private-Work\L4D2-插件\scripting_1.11\l4dmultislots.sp::Timer_SpecCheck
+L 05/28/2026 - 22:53:55: [SM] Exception reported: Language phrase "Please wait to be revived or rescued" not found (arg 6)
+L 05/28/2026 - 22:53:55: [SM] Blaming: l4dmultislots.smx
+L 05/28/2026 - 22:53:55: [SM] Call stack trace:
+L 05/28/2026 - 22:53:55: [SM]   [0] PrintToChat
+L 05/28/2026 - 22:53:55: [SM]   [1] Line 953, d:\Github\Private-Work\L4D2-插件\scripting_1.11\l4dmultislots.sp::Timer_SpecCheck
+L 05/28/2026 - 22:54:20: [SM] Exception reported: Language phrase "Please wait to be revived or rescued" not found (arg 6)
+L 05/28/2026 - 22:54:20: [SM] Blaming: l4dmultislots.smx
+L 05/28/2026 - 22:54:20: [SM] Call stack trace:
+L 05/28/2026 - 22:54:20: [SM]   [0] PrintToChat
+L 05/28/2026 - 22:54:20: [SM]   [1] Line 953, d:\Github\Private-Work\L4D2-插件\scripting_1.11\l4dmultislots.sp::Timer_SpecCheck
+L 05/28/2026 - 22:54:26: [SM] Exception reported: Property "m_vecAngularVelocity" not found (entity 588/weapon_pumpshotgun)
+L 05/28/2026 - 22:54:26: [SM] Blaming: l4d2_tank_core v4_5_1.smx
+L 05/28/2026 - 22:54:26: [SM] Call stack trace:
+L 05/28/2026 - 22:54:26: [SM]   [0] SetEntPropVector
+L 05/28/2026 - 22:54:26: [SM]   [1] Line 606, D:\SteamLibrary\steamapps\common\Left 4 Dead 2\left4dead2\addons\sourcemod\scripting\l4d2_tank_core v4_5_1.sp::DropItemsPhysically
+L 05/28/2026 - 22:54:26: [SM]   [2] Line 535, D:\SteamLibrary\steamapps\common\Left 4 Dead 2\left4dead2\addons\sourcemod\scripting\l4d2_tank_core v4_5_1.sp::Event_PlayerHurt
+L 05/28/2026 - 22:54:31: [SM] Exception reported: Invalid timer handle 720057e (error 1)
+L 05/28/2026 - 22:54:31: [SM] Blaming: l4d2_playerjoining_v2.smx
+L 05/28/2026 - 22:54:31: [SM] Call stack trace:
+L 05/28/2026 - 22:54:31: [SM]   [0] KillTimer
+L 05/28/2026 - 22:54:31: [SM]   [1] Line 53, C:\Users\Moises\Downloads\Compressed\sourcemod-1.11.0-git6968-windows\addons\sourcemod\scripting\l4d2_playerjoining_v2.sp::OnClientDisconnect
+L 05/28/2026 - 22:54:36: [SM] Exception reported: Property "m_vecAngularVelocity" not found (entity 535/weapon_pistol_magnum)
+L 05/28/2026 - 22:54:36: [SM] Blaming: l4d2_tank_core v4_5_1.smx
+L 05/28/2026 - 22:54:36: [SM] Call stack trace:
+L 05/28/2026 - 22:54:36: [SM]   [0] SetEntPropVector
+L 05/28/2026 - 22:54:36: [SM]   [1] Line 606, D:\SteamLibrary\steamapps\common\Left 4 Dead 2\left4dead2\addons\sourcemod\scripting\l4d2_tank_core v4_5_1.sp::DropItemsPhysically
+L 05/28/2026 - 22:54:36: [SM]   [2] Line 535, D:\SteamLibrary\steamapps\common\Left 4 Dead 2\left4dead2\addons\sourcemod\scripting\l4d2_tank_core v4_5_1.sp::Event_PlayerHurt
+L 05/28/2026 - 22:54:45: [SM] Exception reported: Language phrase "Please wait to be revived or rescued" not found (arg 6)
+L 05/28/2026 - 22:54:45: [SM] Blaming: l4dmultislots.smx
+L 05/28/2026 - 22:54:45: [SM] Call stack trace:
+L 05/28/2026 - 22:54:45: [SM]   [0] PrintToChat
+L 05/28/2026 - 22:54:45: [SM]   [1] Line 953, d:\Github\Private-Work\L4D2-插件\scripting_1.11\l4dmultislots.sp::Timer_SpecCheck
+L 05/28/2026 - 22:54:47: [SM] Exception reported: Invalid timer handle 9cc00515 (error 3)
+L 05/28/2026 - 22:54:47: [SM] Blaming: l4d2_playerjoining_v2.smx
+L 05/28/2026 - 22:54:47: [SM] Call stack trace:
+L 05/28/2026 - 22:54:47: [SM]   [0] KillTimer
+L 05/28/2026 - 22:54:47: [SM]   [1] Line 53, C:\Users\Moises\Downloads\Compressed\sourcemod-1.11.0-git6968-windows\addons\sourcemod\scripting\l4d2_playerjoining_v2.sp::OnClientDisconnect
+L 05/28/2026 - 22:54:54: [SM] Exception reported: Invalid timer handle d0a00531 (error 1)
+L 05/28/2026 - 22:54:54: [SM] Blaming: l4d2_playerjoining_v2.smx
+L 05/28/2026 - 22:54:54: [SM] Call stack trace:
+L 05/28/2026 - 22:54:54: [SM]   [0] KillTimer
+L 05/28/2026 - 22:54:54: [SM]   [1] Line 53, C:\Users\Moises\Downloads\Compressed\sourcemod-1.11.0-git6968-windows\addons\sourcemod\scripting\l4d2_playerjoining_v2.sp::OnClientDisconnect
+L 05/28/2026 - 22:54:54: [SM] Exception reported: Invalid timer handle 720057e (error 1)
+L 05/28/2026 - 22:54:54: [SM] Blaming: l4d2_playerjoining_v2.smx
+L 05/28/2026 - 22:54:54: [SM] Call stack trace:
+L 05/28/2026 - 22:54:54: [SM]   [0] KillTimer
+L 05/28/2026 - 22:54:54: [SM]   [1] Line 53, C:\Users\Moises\Downloads\Compressed\sourcemod-1.11.0-git6968-windows\addons\sourcemod\scripting\l4d2_playerjoining_v2.sp::OnClientDisconnect
+L 05/28/2026 - 22:55:44: [SM] Exception reported: Language phrase "Please wait to be revived or rescued" not found (arg 6)
+L 05/28/2026 - 22:55:44: [SM] Blaming: l4dmultislots.smx
+L 05/28/2026 - 22:55:44: [SM] Call stack trace:
+L 05/28/2026 - 22:55:44: [SM]   [0] PrintToChat
+L 05/28/2026 - 22:55:44: [SM]   [1] Line 953, d:\Github\Private-Work\L4D2-插件\scripting_1.11\l4dmultislots.sp::Timer_SpecCheck
+L 05/28/2026 - 22:56:09: [SM] Exception reported: Language phrase "Please wait to be revived or rescued" not found (arg 6)
+L 05/28/2026 - 22:56:09: [SM] Blaming: l4dmultislots.smx
+L 05/28/2026 - 22:56:09: [SM] Call stack trace:
+L 05/28/2026 - 22:56:09: [SM]   [0] PrintToChat
+L 05/28/2026 - 22:56:09: [SM]   [1] Line 953, d:\Github\Private-Work\L4D2-插件\scripting_1.11\l4dmultislots.sp::Timer_SpecCheck
+L 05/28/2026 - 22:56:16: [SM] Exception reported: Array index out-of-bounds (index 12, limit 12)
+L 05/28/2026 - 22:56:16: [SM] Blaming: l4d2_tank_props_rock_v3.smx
+L 05/28/2026 - 22:56:16: [SM] Call stack trace:
+L 05/28/2026 - 22:56:16: [SM]   [1] Line 222, D:\SteamLibrary\steamapps\common\Left 4 Dead 2\left4dead2\addons\sourcemod\scripting\l4d2_tank_props_rock_v3.sp::Throw
+L 05/28/2026 - 22:56:16: [SM] Exception reported: Array index out-of-bounds (index 15, limit 12)
+L 05/28/2026 - 22:56:16: [SM] Blaming: l4d2_tank_props_rock_v3.smx
+L 05/28/2026 - 22:56:16: [SM] Call stack trace:
+L 05/28/2026 - 22:56:16: [SM]   [1] Line 222, D:\SteamLibrary\steamapps\common\Left 4 Dead 2\left4dead2\addons\sourcemod\scripting\l4d2_tank_props_rock_v3.sp::Throw
+L 05/28/2026 - 22:56:16: [SM] Exception reported: Array index out-of-bounds (index 14, limit 12)
+L 05/28/2026 - 22:56:16: [SM] Blaming: l4d2_tank_props_rock_v3.smx
+L 05/28/2026 - 22:56:16: [SM] Call stack trace:
+L 05/28/2026 - 22:56:16: [SM]   [1] Line 222, D:\SteamLibrary\steamapps\common\Left 4 Dead 2\left4dead2\addons\sourcemod\scripting\l4d2_tank_props_rock_v3.sp::Throw
+L 05/28/2026 - 22:56:29: [SM] Exception reported: Invalid timer handle 720057e (error 3)
+L 05/28/2026 - 22:56:29: [SM] Blaming: l4d2_playerjoining_v2.smx
+L 05/28/2026 - 22:56:29: [SM] Call stack trace:
+L 05/28/2026 - 22:56:29: [SM]   [0] KillTimer
+L 05/28/2026 - 22:56:29: [SM]   [1] Line 53, C:\Users\Moises\Downloads\Compressed\sourcemod-1.11.0-git6968-windows\addons\sourcemod\scripting\l4d2_playerjoining_v2.sp::OnClientDisconnect
+L 05/28/2026 - 22:56:33: [SM] Exception reported: Property "m_vecAngularVelocity" not found (entity 696/weapon_smg)
+L 05/28/2026 - 22:56:33: [SM] Blaming: l4d2_tank_core v4_5_1.smx
+L 05/28/2026 - 22:56:33: [SM] Call stack trace:
+L 05/28/2026 - 22:56:33: [SM]   [0] SetEntPropVector
+L 05/28/2026 - 22:56:33: [SM]   [1] Line 606, D:\SteamLibrary\steamapps\common\Left 4 Dead 2\left4dead2\addons\sourcemod\scripting\l4d2_tank_core v4_5_1.sp::DropItemsPhysically
+L 05/28/2026 - 22:56:33: [SM]   [2] Line 535, D:\SteamLibrary\steamapps\common\Left 4 Dead 2\left4dead2\addons\sourcemod\scripting\l4d2_tank_core v4_5_1.sp::Event_PlayerHurt
+L 05/28/2026 - 22:56:40: [SM] Exception reported: Invalid timer handle d0a00531 (error 1)
+L 05/28/2026 - 22:56:40: [SM] Blaming: l4d2_playerjoining_v2.smx
+L 05/28/2026 - 22:56:40: [SM] Call stack trace:
+L 05/28/2026 - 22:56:40: [SM]   [0] KillTimer
+L 05/28/2026 - 22:56:40: [SM]   [1] Line 53, C:\Users\Moises\Downloads\Compressed\sourcemod-1.11.0-git6968-windows\addons\sourcemod\scripting\l4d2_playerjoining_v2.sp::OnClientDisconnect
+L 05/28/2026 - 22:57:15: [SM] Exception reported: Invalid timer handle 9cc00515 (error 3)
+L 05/28/2026 - 22:57:15: [SM] Blaming: l4d2_playerjoining_v2.smx
+L 05/28/2026 - 22:57:15: [SM] Call stack trace:
+L 05/28/2026 - 22:57:15: [SM]   [0] KillTimer
+L 05/28/2026 - 22:57:15: [SM]   [1] Line 53, C:\Users\Moises\Downloads\Compressed\sourcemod-1.11.0-git6968-windows\addons\sourcemod\scripting\l4d2_playerjoining_v2.sp::OnClientDisconnect
+L 05/28/2026 - 22:57:40: [SM] Exception reported: Invalid timer handle 720057e (error 3)
+L 05/28/2026 - 22:57:40: [SM] Blaming: l4d2_playerjoining_v2.smx
+L 05/28/2026 - 22:57:40: [SM] Call stack trace:
+L 05/28/2026 - 22:57:40: [SM]   [0] KillTimer
+L 05/28/2026 - 22:57:40: [SM]   [1] Line 53, C:\Users\Moises\Downloads\Compressed\sourcemod-1.11.0-git6968-windows\addons\sourcemod\scripting\l4d2_playerjoining_v2.sp::OnClientDisconnect
+L 05/28/2026 - 22:57:49: [SM] Exception reported: Language phrase "Please wait to be revived or rescued" not found (arg 6)
+L 05/28/2026 - 22:57:49: [SM] Blaming: l4dmultislots.smx
+L 05/28/2026 - 22:57:49: [SM] Call stack trace:
+L 05/28/2026 - 22:57:49: [SM]   [0] PrintToChat
+L 05/28/2026 - 22:57:49: [SM]   [1] Line 953, d:\Github\Private-Work\L4D2-插件\scripting_1.11\l4dmultislots.sp::Timer_SpecCheck
+L 05/28/2026 - 22:58:14: [SM] Exception reported: Language phrase "Please wait to be revived or rescued" not found (arg 6)
+L 05/28/2026 - 22:58:14: [SM] Blaming: l4dmultislots.smx
+L 05/28/2026 - 22:58:14: [SM] Call stack trace:
+L 05/28/2026 - 22:58:14: [SM]   [0] PrintToChat
+L 05/28/2026 - 22:58:14: [SM]   [1] Line 953, d:\Github\Private-Work\L4D2-插件\scripting_1.11\l4dmultislots.sp::Timer_SpecCheck
+L 05/28/2026 - 22:58:21: [SM] Exception reported: Invalid timer handle d0a00531 (error 3)
+L 05/28/2026 - 22:58:21: [SM] Blaming: l4d2_playerjoining_v2.smx
+L 05/28/2026 - 22:58:21: [SM] Call stack trace:
+L 05/28/2026 - 22:58:21: [SM]   [0] KillTimer
+L 05/28/2026 - 22:58:21: [SM]   [1] Line 53, C:\Users\Moises\Downloads\Compressed\sourcemod-1.11.0-git6968-windows\addons\sourcemod\scripting\l4d2_playerjoining_v2.sp::OnClientDisconnect
+L 05/28/2026 - 22:58:39: [SM] Exception reported: Language phrase "Please wait to be revived or rescued" not found (arg 6)
+L 05/28/2026 - 22:58:39: [SM] Blaming: l4dmultislots.smx
+L 05/28/2026 - 22:58:39: [SM] Call stack trace:
+L 05/28/2026 - 22:58:39: [SM]   [0] PrintToChat
+L 05/28/2026 - 22:58:39: [SM]   [1] Line 953, d:\Github\Private-Work\L4D2-插件\scripting_1.11\l4dmultislots.sp::Timer_SpecCheck
+L 05/28/2026 - 22:58:49: [SM] Exception reported: Invalid timer handle 720057e (error 3)
+L 05/28/2026 - 22:58:49: [SM] Blaming: l4d2_playerjoining_v2.smx
+L 05/28/2026 - 22:58:49: [SM] Call stack trace:
+L 05/28/2026 - 22:58:49: [SM]   [0] KillTimer
+L 05/28/2026 - 22:58:49: [SM]   [1] Line 53, C:\Users\Moises\Downloads\Compressed\sourcemod-1.11.0-git6968-windows\addons\sourcemod\scripting\l4d2_playerjoining_v2.sp::OnClientDisconnect
+L 05/28/2026 - 22:59:04: [SM] Exception reported: Language phrase "Please wait to be revived or rescued" not found (arg 6)
+L 05/28/2026 - 22:59:04: [SM] Blaming: l4dmultislots.smx
+L 05/28/2026 - 22:59:04: [SM] Call stack trace:
+L 05/28/2026 - 22:59:04: [SM]   [0] PrintToChat
+L 05/28/2026 - 22:59:04: [SM]   [1] Line 953, d:\Github\Private-Work\L4D2-插件\scripting_1.11\l4dmultislots.sp::Timer_SpecCheck
+L 05/28/2026 - 22:59:16: [SM] Exception reported: Invalid timer handle d0a00531 (error 1)
+L 05/28/2026 - 22:59:16: [SM] Blaming: l4d2_playerjoining_v2.smx
+L 05/28/2026 - 22:59:16: [SM] Call stack trace:
+L 05/28/2026 - 22:59:16: [SM]   [0] KillTimer
+L 05/28/2026 - 22:59:16: [SM]   [1] Line 53, C:\Users\Moises\Downloads\Compressed\sourcemod-1.11.0-git6968-windows\addons\sourcemod\scripting\l4d2_playerjoining_v2.sp::OnClientDisconnect
+L 05/28/2026 - 22:59:16: [SM] Exception reported: Invalid timer handle 9cc00515 (error 3)
+L 05/28/2026 - 22:59:16: [SM] Blaming: l4d2_playerjoining_v2.smx
+L 05/28/2026 - 22:59:16: [SM] Call stack trace:
+L 05/28/2026 - 22:59:16: [SM]   [0] KillTimer
+L 05/28/2026 - 22:59:16: [SM]   [1] Line 53, C:\Users\Moises\Downloads\Compressed\sourcemod-1.11.0-git6968-windows\addons\sourcemod\scripting\l4d2_playerjoining_v2.sp::OnClientDisconnect
+L 05/28/2026 - 22:59:18: Error log file session closed.
+L 05/28/2026 - 22:59:18: SourceMod error session started
+L 05/28/2026 - 22:59:18: Info (map "c2m3_coaster") (file "d:\steamlibrary\steamapps\common\left 4 dead 2\left4dead2\addons\sourcemod\logs\errors_20260528.log")
+L 05/28/2026 - 22:59:18: [SM] Fatal error encountered parsing translation file "l4d_nth.phrases.txt"
+L 05/28/2026 - 22:59:18: [SM] Error (line 0, column 0): Stream failed to open
+L 05/28/2026 - 22:59:18: [SM] Fatal error encountered parsing translation file "chargersteering.phrases.txt"
+L 05/28/2026 - 22:59:18: [SM] Error (line 0, column 0): Stream failed to open
+L 05/28/2026 - 22:59:18: [SM] Fatal error encountered parsing translation file "l4dmultislots.phrases.txt"
+L 05/28/2026 - 22:59:18: [SM] Error (line 0, column 0): Stream failed to open
+L 05/28/2026 - 22:59:20: [l4d2_publicity.smx] [Publicity] No se encontraron mensajes en el archivo de configuración
+L 05/28/2026 - 22:59:20: [SM] Exception reported: Array index out-of-bounds (index 12, limit 12)
+L 05/28/2026 - 22:59:20: [SM] Blaming: l4d2_tank_props_rock_v3.smx
+L 05/28/2026 - 22:59:20: [SM] Call stack trace:
+L 05/28/2026 - 22:59:20: [SM]   [1] Line 142, D:\SteamLibrary\steamapps\common\Left 4 Dead 2\left4dead2\addons\sourcemod\scripting\l4d2_tank_props_rock_v3.sp::OnMapStart
+L 05/28/2026 - 22:59:42: [SM] Exception reported: Invalid timer handle d0a00531 (error 3)
+L 05/28/2026 - 22:59:42: [SM] Blaming: l4d2_playerjoining_v2.smx
+L 05/28/2026 - 22:59:42: [SM] Call stack trace:
+L 05/28/2026 - 22:59:42: [SM]   [0] KillTimer
+L 05/28/2026 - 22:59:42: [SM]   [1] Line 53, C:\Users\Moises\Downloads\Compressed\sourcemod-1.11.0-git6968-windows\addons\sourcemod\scripting\l4d2_playerjoining_v2.sp::OnClientDisconnect
+L 05/28/2026 - 22:59:53: [SM] Exception reported: Array index out-of-bounds (index 15, limit 12)
+L 05/28/2026 - 22:59:53: [SM] Blaming: l4d2_tank_props_rock_v3.smx
+L 05/28/2026 - 22:59:53: [SM] Call stack trace:
+L 05/28/2026 - 22:59:53: [SM]   [1] Line 222, D:\SteamLibrary\steamapps\common\Left 4 Dead 2\left4dead2\addons\sourcemod\scripting\l4d2_tank_props_rock_v3.sp::Throw
+L 05/28/2026 - 23:00:09: [SM] Exception reported: Property "m_vecAngularVelocity" not found (entity 1087/weapon_shotgun_chrome)
+L 05/28/2026 - 23:00:09: [SM] Blaming: l4d2_tank_core v4_5_1.smx
+L 05/28/2026 - 23:00:09: [SM] Call stack trace:
+L 05/28/2026 - 23:00:09: [SM]   [0] SetEntPropVector
+L 05/28/2026 - 23:00:09: [SM]   [1] Line 606, D:\SteamLibrary\steamapps\common\Left 4 Dead 2\left4dead2\addons\sourcemod\scripting\l4d2_tank_core v4_5_1.sp::DropItemsPhysically
+L 05/28/2026 - 23:00:09: [SM]   [2] Line 535, D:\SteamLibrary\steamapps\common\Left 4 Dead 2\left4dead2\addons\sourcemod\scripting\l4d2_tank_core v4_5_1.sp::Event_PlayerHurt
+L 05/28/2026 - 23:00:24: [SM] Exception reported: Property "m_vecAngularVelocity" not found (entity 127/weapon_hunting_rifle)
+L 05/28/2026 - 23:00:24: [SM] Blaming: l4d2_tank_core v4_5_1.smx
+L 05/28/2026 - 23:00:24: [SM] Call stack trace:
+L 05/28/2026 - 23:00:24: [SM]   [0] SetEntPropVector
+L 05/28/2026 - 23:00:24: [SM]   [1] Line 606, D:\SteamLibrary\steamapps\common\Left 4 Dead 2\left4dead2\addons\sourcemod\scripting\l4d2_tank_core v4_5_1.sp::DropItemsPhysically
+L 05/28/2026 - 23:00:24: [SM]   [2] Line 535, D:\SteamLibrary\steamapps\common\Left 4 Dead 2\left4dead2\addons\sourcemod\scripting\l4d2_tank_core v4_5_1.sp::Event_PlayerHurt
+L 05/28/2026 - 23:00:48: [SM] Exception reported: Language phrase "Please wait to be revived or rescued" not found (arg 6)
+L 05/28/2026 - 23:00:48: [SM] Blaming: l4dmultislots.smx
+L 05/28/2026 - 23:00:48: [SM] Call stack trace:
+L 05/28/2026 - 23:00:48: [SM]   [0] PrintToChat
+L 05/28/2026 - 23:00:48: [SM]   [1] Line 953, d:\Github\Private-Work\L4D2-插件\scripting_1.11\l4dmultislots.sp::Timer_SpecCheck
+L 05/28/2026 - 23:01:13: [SM] Exception reported: Language phrase "Please wait to be revived or rescued" not found (arg 6)
+L 05/28/2026 - 23:01:13: [SM] Blaming: l4dmultislots.smx
+L 05/28/2026 - 23:01:13: [SM] Call stack trace:
+L 05/28/2026 - 23:01:13: [SM]   [0] PrintToChat
+L 05/28/2026 - 23:01:13: [SM]   [1] Line 953, d:\Github\Private-Work\L4D2-插件\scripting_1.11\l4dmultislots.sp::Timer_SpecCheck
+L 05/28/2026 - 23:01:18: [SM] Exception reported: Invalid timer handle d0a00531 (error 3)
+L 05/28/2026 - 23:01:18: [SM] Blaming: l4d2_playerjoining_v2.smx
+L 05/28/2026 - 23:01:18: [SM] Call stack trace:
+L 05/28/2026 - 23:01:18: [SM]   [0] KillTimer
+L 05/28/2026 - 23:01:18: [SM]   [1] Line 53, C:\Users\Moises\Downloads\Compressed\sourcemod-1.11.0-git6968-windows\addons\sourcemod\scripting\l4d2_playerjoining_v2.sp::OnClientDisconnect
+L 05/28/2026 - 23:01:37: [SM] Exception reported: Invalid timer handle 9cc00515 (error 1)
+L 05/28/2026 - 23:01:37: [SM] Blaming: l4d2_playerjoining_v2.smx
+L 05/28/2026 - 23:01:37: [SM] Call stack trace:
+L 05/28/2026 - 23:01:37: [SM]   [0] KillTimer
+L 05/28/2026 - 23:01:37: [SM]   [1] Line 53, C:\Users\Moises\Downloads\Compressed\sourcemod-1.11.0-git6968-windows\addons\sourcemod\scripting\l4d2_playerjoining_v2.sp::OnClientDisconnect
+L 05/28/2026 - 23:02:27: [SM] Exception reported: Language phrase "Please wait to be revived or rescued" not found (arg 6)
+L 05/28/2026 - 23:02:27: [SM] Blaming: l4dmultislots.smx
+L 05/28/2026 - 23:02:27: [SM] Call stack trace:
+L 05/28/2026 - 23:02:27: [SM]   [0] PrintToChat
+L 05/28/2026 - 23:02:27: [SM]   [1] Line 953, d:\Github\Private-Work\L4D2-插件\scripting_1.11\l4dmultislots.sp::Timer_SpecCheck
+L 05/28/2026 - 23:02:52: [SM] Exception reported: Language phrase "Please wait to be revived or rescued" not found (arg 6)
+L 05/28/2026 - 23:02:52: [SM] Blaming: l4dmultislots.smx
+L 05/28/2026 - 23:02:52: [SM] Call stack trace:
+L 05/28/2026 - 23:02:52: [SM]   [0] PrintToChat
+L 05/28/2026 - 23:02:52: [SM]   [1] Line 953, d:\Github\Private-Work\L4D2-插件\scripting_1.11\l4dmultislots.sp::Timer_SpecCheck
+L 05/28/2026 - 23:03:05: [SM] Exception reported: Array index out-of-bounds (index 14, limit 12)
+L 05/28/2026 - 23:03:05: [SM] Blaming: l4d2_tank_props_rock_v3.smx
+L 05/28/2026 - 23:03:05: [SM] Call stack trace:
+L 05/28/2026 - 23:03:05: [SM]   [1] Line 222, D:\SteamLibrary\steamapps\common\Left 4 Dead 2\left4dead2\addons\sourcemod\scripting\l4d2_tank_props_rock_v3.sp::Throw
+L 05/28/2026 - 23:03:05: [SM] Exception reported: Array index out-of-bounds (index 15, limit 12)
+L 05/28/2026 - 23:03:05: [SM] Blaming: l4d2_tank_props_rock_v3.smx
+L 05/28/2026 - 23:03:05: [SM] Call stack trace:
+L 05/28/2026 - 23:03:05: [SM]   [1] Line 222, D:\SteamLibrary\steamapps\common\Left 4 Dead 2\left4dead2\addons\sourcemod\scripting\l4d2_tank_props_rock_v3.sp::Throw
+L 05/28/2026 - 23:03:42: [SM] Exception reported: Language phrase "Please wait to be revived or rescued" not found (arg 6)
+L 05/28/2026 - 23:03:42: [SM] Blaming: l4dmultislots.smx
+L 05/28/2026 - 23:03:42: [SM] Call stack trace:
+L 05/28/2026 - 23:03:42: [SM]   [0] PrintToChat
+L 05/28/2026 - 23:03:42: [SM]   [1] Line 953, d:\Github\Private-Work\L4D2-插件\scripting_1.11\l4dmultislots.sp::Timer_SpecCheck
+L 05/28/2026 - 23:04:02: [SM] Exception reported: Property "m_vecAngularVelocity" not found (entity 437/weapon_smg)
+L 05/28/2026 - 23:04:02: [SM] Blaming: l4d2_tank_core v4_5_1.smx
+L 05/28/2026 - 23:04:02: [SM] Call stack trace:
+L 05/28/2026 - 23:04:02: [SM]   [0] SetEntPropVector
+L 05/28/2026 - 23:04:02: [SM]   [1] Line 606, D:\SteamLibrary\steamapps\common\Left 4 Dead 2\left4dead2\addons\sourcemod\scripting\l4d2_tank_core v4_5_1.sp::DropItemsPhysically
+L 05/28/2026 - 23:04:02: [SM]   [2] Line 535, D:\SteamLibrary\steamapps\common\Left 4 Dead 2\left4dead2\addons\sourcemod\scripting\l4d2_tank_core v4_5_1.sp::Event_PlayerHurt
+L 05/28/2026 - 23:04:07: [SM] Exception reported: Invalid timer handle d0a00531 (error 3)
+L 05/28/2026 - 23:04:07: [SM] Blaming: l4d2_playerjoining_v2.smx
+L 05/28/2026 - 23:04:07: [SM] Call stack trace:
+L 05/28/2026 - 23:04:07: [SM]   [0] KillTimer
+L 05/28/2026 - 23:04:07: [SM]   [1] Line 53, C:\Users\Moises\Downloads\Compressed\sourcemod-1.11.0-git6968-windows\addons\sourcemod\scripting\l4d2_playerjoining_v2.sp::OnClientDisconnect
+L 05/28/2026 - 23:04:07: [SM] Exception reported: Language phrase "Please wait to be revived or rescued" not found (arg 6)
+L 05/28/2026 - 23:04:07: [SM] Blaming: l4dmultislots.smx
+L 05/28/2026 - 23:04:07: [SM] Call stack trace:
+L 05/28/2026 - 23:04:07: [SM]   [0] PrintToChat
+L 05/28/2026 - 23:04:07: [SM]   [1] Line 953, d:\Github\Private-Work\L4D2-插件\scripting_1.11\l4dmultislots.sp::Timer_SpecCheck
+L 05/28/2026 - 23:04:16: [SM] Exception reported: Invalid timer handle 9cc00515 (error 3)
+L 05/28/2026 - 23:04:16: [SM] Blaming: l4d2_playerjoining_v2.smx
+L 05/28/2026 - 23:04:16: [SM] Call stack trace:
+L 05/28/2026 - 23:04:16: [SM]   [0] KillTimer
+L 05/28/2026 - 23:04:16: [SM]   [1] Line 53, C:\Users\Moises\Downloads\Compressed\sourcemod-1.11.0-git6968-windows\addons\sourcemod\scripting\l4d2_playerjoining_v2.sp::OnClientDisconnect
+L 05/28/2026 - 23:04:57: [SM] Exception reported: Language phrase "Please wait to be revived or rescued" not found (arg 6)
+L 05/28/2026 - 23:04:57: [SM] Blaming: l4dmultislots.smx
+L 05/28/2026 - 23:04:57: [SM] Call stack trace:
+L 05/28/2026 - 23:04:57: [SM]   [0] PrintToChat
+L 05/28/2026 - 23:04:57: [SM]   [1] Line 953, d:\Github\Private-Work\L4D2-插件\scripting_1.11\l4dmultislots.sp::Timer_SpecCheck
+L 05/28/2026 - 23:05:16: [SM] Exception reported: Invalid timer handle d0a00531 (error 3)
+L 05/28/2026 - 23:05:16: [SM] Blaming: l4d2_playerjoining_v2.smx
+L 05/28/2026 - 23:05:16: [SM] Call stack trace:
+L 05/28/2026 - 23:05:16: [SM]   [0] KillTimer
+L 05/28/2026 - 23:05:16: [SM]   [1] Line 53, C:\Users\Moises\Downloads\Compressed\sourcemod-1.11.0-git6968-windows\addons\sourcemod\scripting\l4d2_playerjoining_v2.sp::OnClientDisconnect
+L 05/28/2026 - 23:05:17: [SM] Exception reported: Invalid timer handle 9cc00515 (error 3)
+L 05/28/2026 - 23:05:17: [SM] Blaming: l4d2_playerjoining_v2.smx
+L 05/28/2026 - 23:05:17: [SM] Call stack trace:
+L 05/28/2026 - 23:05:17: [SM]   [0] KillTimer
+L 05/28/2026 - 23:05:17: [SM]   [1] Line 53, C:\Users\Moises\Downloads\Compressed\sourcemod-1.11.0-git6968-windows\addons\sourcemod\scripting\l4d2_playerjoining_v2.sp::OnClientDisconnect
+L 05/28/2026 - 23:05:17: [SM] Exception reported: Invalid timer handle f6600530 (error 3)
+L 05/28/2026 - 23:05:17: [SM] Blaming: l4d2_playerjoining_v2.smx
+L 05/28/2026 - 23:05:17: [SM] Call stack trace:
+L 05/28/2026 - 23:05:17: [SM]   [0] KillTimer
+L 05/28/2026 - 23:05:17: [SM]   [1] Line 53, C:\Users\Moises\Downloads\Compressed\sourcemod-1.11.0-git6968-windows\addons\sourcemod\scripting\l4d2_playerjoining_v2.sp::OnClientDisconnect
+L 05/28/2026 - 23:05:19: Error log file session closed.
+L 05/28/2026 - 23:05:19: SourceMod error session started
+L 05/28/2026 - 23:05:19: Info (map "c2m4_barns") (file "d:\steamlibrary\steamapps\common\left 4 dead 2\left4dead2\addons\sourcemod\logs\errors_20260528.log")
+L 05/28/2026 - 23:05:19: [SM] Fatal error encountered parsing translation file "l4d_nth.phrases.txt"
+L 05/28/2026 - 23:05:19: [SM] Error (line 0, column 0): Stream failed to open
+L 05/28/2026 - 23:05:19: [SM] Fatal error encountered parsing translation file "chargersteering.phrases.txt"
+L 05/28/2026 - 23:05:19: [SM] Error (line 0, column 0): Stream failed to open
+L 05/28/2026 - 23:05:19: [SM] Fatal error encountered parsing translation file "l4dmultislots.phrases.txt"
+L 05/28/2026 - 23:05:19: [SM] Error (line 0, column 0): Stream failed to open
+L 05/28/2026 - 23:05:22: [l4d2_publicity.smx] [Publicity] No se encontraron mensajes en el archivo de configuración
+L 05/28/2026 - 23:05:22: [SM] Exception reported: Array index out-of-bounds (index 12, limit 12)
+L 05/28/2026 - 23:05:22: [SM] Blaming: l4d2_tank_props_rock_v3.smx
+L 05/28/2026 - 23:05:22: [SM] Call stack trace:
+L 05/28/2026 - 23:05:22: [SM]   [1] Line 142, D:\SteamLibrary\steamapps\common\Left 4 Dead 2\left4dead2\addons\sourcemod\scripting\l4d2_tank_props_rock_v3.sp::OnMapStart
+L 05/28/2026 - 23:05:45: [SM] Exception reported: Invalid timer handle d0a00531 (error 3)
+L 05/28/2026 - 23:05:45: [SM] Blaming: l4d2_playerjoining_v2.smx
+L 05/28/2026 - 23:05:45: [SM] Call stack trace:
+L 05/28/2026 - 23:05:45: [SM]   [0] KillTimer
+L 05/28/2026 - 23:05:45: [SM]   [1] Line 53, C:\Users\Moises\Downloads\Compressed\sourcemod-1.11.0-git6968-windows\addons\sourcemod\scripting\l4d2_playerjoining_v2.sp::OnClientDisconnect
+L 05/28/2026 - 23:06:20: [SM] Exception reported: Array index out-of-bounds (index 14, limit 12)
+L 05/28/2026 - 23:06:20: [SM] Blaming: l4d2_tank_props_rock_v3.smx
+L 05/28/2026 - 23:06:20: [SM] Call stack trace:
+L 05/28/2026 - 23:06:20: [SM]   [1] Line 222, D:\SteamLibrary\steamapps\common\Left 4 Dead 2\left4dead2\addons\sourcemod\scripting\l4d2_tank_props_rock_v3.sp::Throw
+L 05/28/2026 - 23:06:20: [SM] Exception reported: Array index out-of-bounds (index 15, limit 12)
+L 05/28/2026 - 23:06:20: [SM] Blaming: l4d2_tank_props_rock_v3.smx
+L 05/28/2026 - 23:06:20: [SM] Call stack trace:
+L 05/28/2026 - 23:06:20: [SM]   [1] Line 222, D:\SteamLibrary\steamapps\common\Left 4 Dead 2\left4dead2\addons\sourcemod\scripting\l4d2_tank_props_rock_v3.sp::Throw
+L 05/28/2026 - 23:06:32: [SM] Exception reported: Language phrase "Please wait to be revived or rescued" not found (arg 6)
+L 05/28/2026 - 23:06:32: [SM] Blaming: l4dmultislots.smx
+L 05/28/2026 - 23:06:32: [SM] Call stack trace:
+L 05/28/2026 - 23:06:32: [SM]   [0] PrintToChat
+L 05/28/2026 - 23:06:32: [SM]   [1] Line 953, d:\Github\Private-Work\L4D2-插件\scripting_1.11\l4dmultislots.sp::Timer_SpecCheck
+L 05/28/2026 - 23:06:57: [SM] Exception reported: Language phrase "Please wait to be revived or rescued" not found (arg 6)
+L 05/28/2026 - 23:06:57: [SM] Blaming: l4dmultislots.smx
+L 05/28/2026 - 23:06:57: [SM] Call stack trace:
+L 05/28/2026 - 23:06:57: [SM]   [0] PrintToChat
+L 05/28/2026 - 23:06:57: [SM]   [1] Line 953, d:\Github\Private-Work\L4D2-插件\scripting_1.11\l4dmultislots.sp::Timer_SpecCheck
+L 05/28/2026 - 23:07:22: [SM] Exception reported: Language phrase "Please wait to be revived or rescued" not found (arg 6)
+L 05/28/2026 - 23:07:22: [SM] Blaming: l4dmultislots.smx
+L 05/28/2026 - 23:07:22: [SM] Call stack trace:
+L 05/28/2026 - 23:07:22: [SM]   [0] PrintToChat
+L 05/28/2026 - 23:07:22: [SM]   [1] Line 953, d:\Github\Private-Work\L4D2-插件\scripting_1.11\l4dmultislots.sp::Timer_SpecCheck
+L 05/28/2026 - 23:07:36: [SM] Exception reported: Array index out-of-bounds (index 15, limit 12)
+L 05/28/2026 - 23:07:36: [SM] Blaming: l4d2_tank_props_rock_v3.smx
+L 05/28/2026 - 23:07:36: [SM] Call stack trace:
+L 05/28/2026 - 23:07:36: [SM]   [1] Line 222, D:\SteamLibrary\steamapps\common\Left 4 Dead 2\left4dead2\addons\sourcemod\scripting\l4d2_tank_props_rock_v3.sp::Throw
+L 05/28/2026 - 23:07:47: [SM] Exception reported: Language phrase "Please wait to be revived or rescued" not found (arg 6)
+L 05/28/2026 - 23:07:47: [SM] Blaming: l4dmultislots.smx
+L 05/28/2026 - 23:07:47: [SM] Call stack trace:
+L 05/28/2026 - 23:07:47: [SM]   [0] PrintToChat
+L 05/28/2026 - 23:07:47: [SM]   [1] Line 953, d:\Github\Private-Work\L4D2-插件\scripting_1.11\l4dmultislots.sp::Timer_SpecCheck
+L 05/28/2026 - 23:08:02: [SM] Exception reported: Array index out-of-bounds (index 12, limit 12)
+L 05/28/2026 - 23:08:02: [SM] Blaming: l4d2_tank_props_rock_v3.smx
+L 05/28/2026 - 23:08:02: [SM] Call stack trace:
+L 05/28/2026 - 23:08:02: [SM]   [1] Line 222, D:\SteamLibrary\steamapps\common\Left 4 Dead 2\left4dead2\addons\sourcemod\scripting\l4d2_tank_props_rock_v3.sp::Throw
+L 05/28/2026 - 23:08:09: [SM] Exception reported: Invalid timer handle 4b100591 (error 3)
+L 05/28/2026 - 23:08:09: [SM] Blaming: l4d2_playerjoining_v2.smx
+L 05/28/2026 - 23:08:09: [SM] Call stack trace:
+L 05/28/2026 - 23:08:09: [SM]   [0] KillTimer
+L 05/28/2026 - 23:08:09: [SM]   [1] Line 53, C:\Users\Moises\Downloads\Compressed\sourcemod-1.11.0-git6968-windows\addons\sourcemod\scripting\l4d2_playerjoining_v2.sp::OnClientDisconnect
+L 05/28/2026 - 23:08:12: [SM] Exception reported: Language phrase "Please wait to be revived or rescued" not found (arg 6)
+L 05/28/2026 - 23:08:12: [SM] Blaming: l4dmultislots.smx
+L 05/28/2026 - 23:08:12: [SM] Call stack trace:
+L 05/28/2026 - 23:08:12: [SM]   [0] PrintToChat
+L 05/28/2026 - 23:08:12: [SM]   [1] Line 953, d:\Github\Private-Work\L4D2-插件\scripting_1.11\l4dmultislots.sp::Timer_SpecCheck
+L 05/28/2026 - 23:08:35: [SM] Exception reported: Invalid timer handle d0a00531 (error 3)
+L 05/28/2026 - 23:08:35: [SM] Blaming: l4d2_playerjoining_v2.smx
+L 05/28/2026 - 23:08:35: [SM] Call stack trace:
+L 05/28/2026 - 23:08:35: [SM]   [0] KillTimer
+L 05/28/2026 - 23:08:35: [SM]   [1] Line 53, C:\Users\Moises\Downloads\Compressed\sourcemod-1.11.0-git6968-windows\addons\sourcemod\scripting\l4d2_playerjoining_v2.sp::OnClientDisconnect
+L 05/28/2026 - 23:08:37: [SM] Exception reported: Language phrase "Please wait to be revived or rescued" not found (arg 6)
+L 05/28/2026 - 23:08:37: [SM] Blaming: l4dmultislots.smx
+L 05/28/2026 - 23:08:37: [SM] Call stack trace:
+L 05/28/2026 - 23:08:37: [SM]   [0] PrintToChat
+L 05/28/2026 - 23:08:37: [SM]   [1] Line 953, d:\Github\Private-Work\L4D2-插件\scripting_1.11\l4dmultislots.sp::Timer_SpecCheck
+L 05/28/2026 - 23:09:09: [SM] Exception reported: Invalid timer handle 4b100591 (error 3)
+L 05/28/2026 - 23:09:09: [SM] Blaming: l4d2_playerjoining_v2.smx
+L 05/28/2026 - 23:09:09: [SM] Call stack trace:
+L 05/28/2026 - 23:09:09: [SM]   [0] KillTimer
+L 05/28/2026 - 23:09:09: [SM]   [1] Line 53, C:\Users\Moises\Downloads\Compressed\sourcemod-1.11.0-git6968-windows\addons\sourcemod\scripting\l4d2_playerjoining_v2.sp::OnClientDisconnect
+L 05/28/2026 - 23:09:09: [SM] Exception reported: Invalid timer handle 9cc00515 (error 3)
+L 05/28/2026 - 23:09:09: [SM] Blaming: l4d2_playerjoining_v2.smx
+L 05/28/2026 - 23:09:09: [SM] Call stack trace:
+L 05/28/2026 - 23:09:09: [SM]   [0] KillTimer
+L 05/28/2026 - 23:09:09: [SM]   [1] Line 53, C:\Users\Moises\Downloads\Compressed\sourcemod-1.11.0-git6968-windows\addons\sourcemod\scripting\l4d2_playerjoining_v2.sp::OnClientDisconnect
+L 05/28/2026 - 23:09:09: [SM] Exception reported: Invalid timer handle f6600530 (error 1)
+L 05/28/2026 - 23:09:09: [SM] Blaming: l4d2_playerjoining_v2.smx
+L 05/28/2026 - 23:09:09: [SM] Call stack trace:
+L 05/28/2026 - 23:09:09: [SM]   [0] KillTimer
+L 05/28/2026 - 23:09:09: [SM]   [1] Line 53, C:\Users\Moises\Downloads\Compressed\sourcemod-1.11.0-git6968-windows\addons\sourcemod\scripting\l4d2_playerjoining_v2.sp::OnClientDisconnect
+L 05/28/2026 - 23:09:11: Error log file session closed.
+L 05/28/2026 - 23:09:11: SourceMod error session started
+L 05/28/2026 - 23:09:11: Info (map "c2m5_concert") (file "d:\steamlibrary\steamapps\common\left 4 dead 2\left4dead2\addons\sourcemod\logs\errors_20260528.log")
+L 05/28/2026 - 23:09:11: [SM] Fatal error encountered parsing translation file "l4d_nth.phrases.txt"
+L 05/28/2026 - 23:09:11: [SM] Error (line 0, column 0): Stream failed to open
+L 05/28/2026 - 23:09:11: [SM] Fatal error encountered parsing translation file "chargersteering.phrases.txt"
+L 05/28/2026 - 23:09:11: [SM] Error (line 0, column 0): Stream failed to open
+L 05/28/2026 - 23:09:11: [SM] Fatal error encountered parsing translation file "l4dmultislots.phrases.txt"
+L 05/28/2026 - 23:09:11: [SM] Error (line 0, column 0): Stream failed to open
+L 05/28/2026 - 23:09:13: [l4d2_publicity.smx] [Publicity] No se encontraron mensajes en el archivo de configuración
+L 05/28/2026 - 23:09:13: [SM] Exception reported: Array index out-of-bounds (index 12, limit 12)
+L 05/28/2026 - 23:09:13: [SM] Blaming: l4d2_tank_props_rock_v3.smx
+L 05/28/2026 - 23:09:13: [SM] Call stack trace:
+L 05/28/2026 - 23:09:13: [SM]   [1] Line 142, D:\SteamLibrary\steamapps\common\Left 4 Dead 2\left4dead2\addons\sourcemod\scripting\l4d2_tank_props_rock_v3.sp::OnMapStart
+L 05/28/2026 - 23:09:28: [SM] Exception reported: Invalid timer handle d0a00531 (error 3)
+L 05/28/2026 - 23:09:28: [SM] Blaming: l4d2_playerjoining_v2.smx
+L 05/28/2026 - 23:09:28: [SM] Call stack trace:
+L 05/28/2026 - 23:09:28: [SM]   [0] KillTimer
+L 05/28/2026 - 23:09:28: [SM]   [1] Line 53, C:\Users\Moises\Downloads\Compressed\sourcemod-1.11.0-git6968-windows\addons\sourcemod\scripting\l4d2_playerjoining_v2.sp::OnClientDisconnect
+L 05/28/2026 - 23:09:52: [SM] Exception reported: Invalid timer handle 4b100591 (error 3)
+L 05/28/2026 - 23:09:52: [SM] Blaming: l4d2_playerjoining_v2.smx
+L 05/28/2026 - 23:09:52: [SM] Call stack trace:
+L 05/28/2026 - 23:09:52: [SM]   [0] KillTimer
+L 05/28/2026 - 23:09:52: [SM]   [1] Line 53, C:\Users\Moises\Downloads\Compressed\sourcemod-1.11.0-git6968-windows\addons\sourcemod\scripting\l4d2_playerjoining_v2.sp::OnClientDisconnect
+L 05/28/2026 - 23:09:54: Error log file session closed.
+L 05/28/2026 - 23:09:54: SourceMod error session started
+L 05/28/2026 - 23:09:54: Info (map "c5m1_waterfront") (file "d:\steamlibrary\steamapps\common\left 4 dead 2\left4dead2\addons\sourcemod\logs\errors_20260528.log")
+L 05/28/2026 - 23:09:54: [SM] Fatal error encountered parsing translation file "l4d_nth.phrases.txt"
+L 05/28/2026 - 23:09:54: [SM] Error (line 0, column 0): Stream failed to open
+L 05/28/2026 - 23:09:54: [SM] Fatal error encountered parsing translation file "chargersteering.phrases.txt"
+L 05/28/2026 - 23:09:54: [SM] Error (line 0, column 0): Stream failed to open
+L 05/28/2026 - 23:09:54: [SM] Fatal error encountered parsing translation file "l4dmultislots.phrases.txt"
+L 05/28/2026 - 23:09:54: [SM] Error (line 0, column 0): Stream failed to open
+L 05/28/2026 - 23:09:56: [l4d2_publicity.smx] [Publicity] No se encontraron mensajes en el archivo de configuración
+L 05/28/2026 - 23:09:56: [SM] Exception reported: Array index out-of-bounds (index 12, limit 12)
+L 05/28/2026 - 23:09:56: [SM] Blaming: l4d2_tank_props_rock_v3.smx
+L 05/28/2026 - 23:09:56: [SM] Call stack trace:
+L 05/28/2026 - 23:09:56: [SM]   [1] Line 142, D:\SteamLibrary\steamapps\common\Left 4 Dead 2\left4dead2\addons\sourcemod\scripting\l4d2_tank_props_rock_v3.sp::OnMapStart
+L 05/28/2026 - 23:10:22: [SM] Exception reported: Invalid timer handle d0a00531 (error 3)
+L 05/28/2026 - 23:10:22: [SM] Blaming: l4d2_playerjoining_v2.smx
+L 05/28/2026 - 23:10:22: [SM] Call stack trace:
+L 05/28/2026 - 23:10:22: [SM]   [0] KillTimer
+L 05/28/2026 - 23:10:22: [SM]   [1] Line 53, C:\Users\Moises\Downloads\Compressed\sourcemod-1.11.0-git6968-windows\addons\sourcemod\scripting\l4d2_playerjoining_v2.sp::OnClientDisconnect
+L 05/28/2026 - 23:11:31: [SM] Exception reported: Invalid timer handle 4b100591 (error 3)
+L 05/28/2026 - 23:11:31: [SM] Blaming: l4d2_playerjoining_v2.smx
+L 05/28/2026 - 23:11:31: [SM] Call stack trace:
+L 05/28/2026 - 23:11:31: [SM]   [0] KillTimer
+L 05/28/2026 - 23:11:31: [SM]   [1] Line 53, C:\Users\Moises\Downloads\Compressed\sourcemod-1.11.0-git6968-windows\addons\sourcemod\scripting\l4d2_playerjoining_v2.sp::OnClientDisconnect
+L 05/28/2026 - 23:11:31: [SM] Exception reported: Invalid timer handle d0a00531 (error 3)
+L 05/28/2026 - 23:11:31: [SM] Blaming: l4d2_playerjoining_v2.smx
+L 05/28/2026 - 23:11:31: [SM] Call stack trace:
+L 05/28/2026 - 23:11:31: [SM]   [0] KillTimer
+L 05/28/2026 - 23:11:31: [SM]   [1] Line 53, C:\Users\Moises\Downloads\Compressed\sourcemod-1.11.0-git6968-windows\addons\sourcemod\scripting\l4d2_playerjoining_v2.sp::OnClientDisconnect
+L 05/28/2026 - 23:11:33: Error log file session closed.
+L 05/28/2026 - 23:11:33: SourceMod error session started
+L 05/28/2026 - 23:11:33: Info (map "c5m2_park") (file "d:\steamlibrary\steamapps\common\left 4 dead 2\left4dead2\addons\sourcemod\logs\errors_20260528.log")
+L 05/28/2026 - 23:11:33: [SM] Fatal error encountered parsing translation file "l4d_nth.phrases.txt"
+L 05/28/2026 - 23:11:33: [SM] Error (line 0, column 0): Stream failed to open
+L 05/28/2026 - 23:11:33: [SM] Fatal error encountered parsing translation file "chargersteering.phrases.txt"
+L 05/28/2026 - 23:11:33: [SM] Error (line 0, column 0): Stream failed to open
+L 05/28/2026 - 23:11:33: [SM] Fatal error encountered parsing translation file "l4dmultislots.phrases.txt"
+L 05/28/2026 - 23:11:33: [SM] Error (line 0, column 0): Stream failed to open
+L 05/28/2026 - 23:11:35: [l4d2_publicity.smx] [Publicity] No se encontraron mensajes en el archivo de configuración
+L 05/28/2026 - 23:11:35: [SM] Exception reported: Array index out-of-bounds (index 12, limit 12)
+L 05/28/2026 - 23:11:35: [SM] Blaming: l4d2_tank_props_rock_v3.smx
+L 05/28/2026 - 23:11:35: [SM] Call stack trace:
+L 05/28/2026 - 23:11:35: [SM]   [1] Line 142, D:\SteamLibrary\steamapps\common\Left 4 Dead 2\left4dead2\addons\sourcemod\scripting\l4d2_tank_props_rock_v3.sp::OnMapStart
+L 05/28/2026 - 23:11:58: [SM] Exception reported: Invalid timer handle d0a00531 (error 3)
+L 05/28/2026 - 23:11:58: [SM] Blaming: l4d2_playerjoining_v2.smx
+L 05/28/2026 - 23:11:58: [SM] Call stack trace:
+L 05/28/2026 - 23:11:58: [SM]   [0] KillTimer
+L 05/28/2026 - 23:11:58: [SM]   [1] Line 53, C:\Users\Moises\Downloads\Compressed\sourcemod-1.11.0-git6968-windows\addons\sourcemod\scripting\l4d2_playerjoining_v2.sp::OnClientDisconnect
+L 05/28/2026 - 23:12:05: [SM] Exception reported: Array index out-of-bounds (index 15, limit 12)
+L 05/28/2026 - 23:12:05: [SM] Blaming: l4d2_tank_props_rock_v3.smx
+L 05/28/2026 - 23:12:05: [SM] Call stack trace:
+L 05/28/2026 - 23:12:05: [SM]   [1] Line 222, D:\SteamLibrary\steamapps\common\Left 4 Dead 2\left4dead2\addons\sourcemod\scripting\l4d2_tank_props_rock_v3.sp::Throw
+L 05/28/2026 - 23:12:23: [SM] Exception reported: Invalid timer handle 4b100591 (error 3)
+L 05/28/2026 - 23:12:23: [SM] Blaming: l4d2_playerjoining_v2.smx
+L 05/28/2026 - 23:12:23: [SM] Call stack trace:
+L 05/28/2026 - 23:12:23: [SM]   [0] KillTimer
+L 05/28/2026 - 23:12:23: [SM]   [1] Line 53, C:\Users\Moises\Downloads\Compressed\sourcemod-1.11.0-git6968-windows\addons\sourcemod\scripting\l4d2_playerjoining_v2.sp::OnClientDisconnect
+L 05/28/2026 - 23:12:35: [SM] Exception reported: Invalid timer handle d0a00531 (error 3)
+L 05/28/2026 - 23:12:35: [SM] Blaming: l4d2_playerjoining_v2.smx
+L 05/28/2026 - 23:12:35: [SM] Call stack trace:
+L 05/28/2026 - 23:12:35: [SM]   [0] KillTimer
+L 05/28/2026 - 23:12:35: [SM]   [1] Line 53, C:\Users\Moises\Downloads\Compressed\sourcemod-1.11.0-git6968-windows\addons\sourcemod\scripting\l4d2_playerjoining_v2.sp::OnClientDisconnect
+L 05/28/2026 - 23:13:11: [SM] Exception reported: Language phrase "Please wait to be revived or rescued" not found (arg 6)
+L 05/28/2026 - 23:13:11: [SM] Blaming: l4dmultislots.smx
+L 05/28/2026 - 23:13:11: [SM] Call stack trace:
+L 05/28/2026 - 23:13:11: [SM]   [0] PrintToChat
+L 05/28/2026 - 23:13:11: [SM]   [1] Line 953, d:\Github\Private-Work\L4D2-插件\scripting_1.11\l4dmultislots.sp::Timer_SpecCheck
+L 05/28/2026 - 23:13:11: [SM] Exception reported: Array index out-of-bounds (index 15, limit 12)
+L 05/28/2026 - 23:13:11: [SM] Blaming: l4d2_tank_props_rock_v3.smx
+L 05/28/2026 - 23:13:11: [SM] Call stack trace:
+L 05/28/2026 - 23:13:11: [SM]   [1] Line 222, D:\SteamLibrary\steamapps\common\Left 4 Dead 2\left4dead2\addons\sourcemod\scripting\l4d2_tank_props_rock_v3.sp::Throw
+L 05/28/2026 - 23:13:36: [SM] Exception reported: Language phrase "Please wait to be revived or rescued" not found (arg 6)
+L 05/28/2026 - 23:13:36: [SM] Blaming: l4dmultislots.smx
+L 05/28/2026 - 23:13:36: [SM] Call stack trace:
+L 05/28/2026 - 23:13:36: [SM]   [0] PrintToChat
+L 05/28/2026 - 23:13:36: [SM]   [1] Line 953, d:\Github\Private-Work\L4D2-插件\scripting_1.11\l4dmultislots.sp::Timer_SpecCheck
+L 05/28/2026 - 23:13:42: [SM] Exception reported: Invalid timer handle ee700586 (error 3)
+L 05/28/2026 - 23:13:42: [SM] Blaming: l4d2_playerjoining_v2.smx
+L 05/28/2026 - 23:13:42: [SM] Call stack trace:
+L 05/28/2026 - 23:13:42: [SM]   [0] KillTimer
+L 05/28/2026 - 23:13:42: [SM]   [1] Line 53, C:\Users\Moises\Downloads\Compressed\sourcemod-1.11.0-git6968-windows\addons\sourcemod\scripting\l4d2_playerjoining_v2.sp::OnClientDisconnect
+L 05/28/2026 - 23:13:43: [SM] Exception reported: Invalid timer handle d0a00531 (error 3)
+L 05/28/2026 - 23:13:43: [SM] Blaming: l4d2_playerjoining_v2.smx
+L 05/28/2026 - 23:13:43: [SM] Call stack trace:
+L 05/28/2026 - 23:13:43: [SM]   [0] KillTimer
+L 05/28/2026 - 23:13:43: [SM]   [1] Line 53, C:\Users\Moises\Downloads\Compressed\sourcemod-1.11.0-git6968-windows\addons\sourcemod\scripting\l4d2_playerjoining_v2.sp::OnClientDisconnect
+L 05/28/2026 - 23:14:02: [SM] Exception reported: Invalid timer handle 4b100591 (error 1)
+L 05/28/2026 - 23:14:02: [SM] Blaming: l4d2_playerjoining_v2.smx
+L 05/28/2026 - 23:14:02: [SM] Call stack trace:
+L 05/28/2026 - 23:14:02: [SM]   [0] KillTimer
+L 05/28/2026 - 23:14:02: [SM]   [1] Line 53, C:\Users\Moises\Downloads\Compressed\sourcemod-1.11.0-git6968-windows\addons\sourcemod\scripting\l4d2_playerjoining_v2.sp::OnClientDisconnect
+L 05/28/2026 - 23:14:02: [SM] Exception reported: Invalid timer handle ee700586 (error 1)
+L 05/28/2026 - 23:14:02: [SM] Blaming: l4d2_playerjoining_v2.smx
+L 05/28/2026 - 23:14:02: [SM] Call stack trace:
+L 05/28/2026 - 23:14:02: [SM]   [0] KillTimer
+L 05/28/2026 - 23:14:02: [SM]   [1] Line 53, C:\Users\Moises\Downloads\Compressed\sourcemod-1.11.0-git6968-windows\addons\sourcemod\scripting\l4d2_playerjoining_v2.sp::OnClientDisconnect
+L 05/28/2026 - 23:14:38: [SM] Exception reported: Property "m_vecAngularVelocity" not found (entity 183/weapon_shotgun_chrome)
+L 05/28/2026 - 23:14:38: [SM] Blaming: l4d2_tank_core v4_5_1.smx
+L 05/28/2026 - 23:14:38: [SM] Call stack trace:
+L 05/28/2026 - 23:14:38: [SM]   [0] SetEntPropVector
+L 05/28/2026 - 23:14:38: [SM]   [1] Line 606, D:\SteamLibrary\steamapps\common\Left 4 Dead 2\left4dead2\addons\sourcemod\scripting\l4d2_tank_core v4_5_1.sp::DropItemsPhysically
+L 05/28/2026 - 23:14:38: [SM]   [2] Line 535, D:\SteamLibrary\steamapps\common\Left 4 Dead 2\left4dead2\addons\sourcemod\scripting\l4d2_tank_core v4_5_1.sp::Event_PlayerHurt
+L 05/28/2026 - 23:14:44: [SM] Exception reported: Property "m_vecAngularVelocity" not found (entity 182/weapon_pistol_magnum)
+L 05/28/2026 - 23:14:44: [SM] Blaming: l4d2_tank_core v4_5_1.smx
+L 05/28/2026 - 23:14:44: [SM] Call stack trace:
+L 05/28/2026 - 23:14:44: [SM]   [0] SetEntPropVector
+L 05/28/2026 - 23:14:44: [SM]   [1] Line 606, D:\SteamLibrary\steamapps\common\Left 4 Dead 2\left4dead2\addons\sourcemod\scripting\l4d2_tank_core v4_5_1.sp::DropItemsPhysically
+L 05/28/2026 - 23:14:44: [SM]   [2] Line 535, D:\SteamLibrary\steamapps\common\Left 4 Dead 2\left4dead2\addons\sourcemod\scripting\l4d2_tank_core v4_5_1.sp::Event_PlayerHurt
+L 05/28/2026 - 23:15:11: [SM] Exception reported: Invalid timer handle 4b100591 (error 3)
+L 05/28/2026 - 23:15:11: [SM] Blaming: l4d2_playerjoining_v2.smx
+L 05/28/2026 - 23:15:11: [SM] Call stack trace:
+L 05/28/2026 - 23:15:11: [SM]   [0] KillTimer
+L 05/28/2026 - 23:15:11: [SM]   [1] Line 53, C:\Users\Moises\Downloads\Compressed\sourcemod-1.11.0-git6968-windows\addons\sourcemod\scripting\l4d2_playerjoining_v2.sp::OnClientDisconnect
+L 05/28/2026 - 23:15:17: [SM] Exception reported: Language phrase "Please wait to be revived or rescued" not found (arg 6)
+L 05/28/2026 - 23:15:17: [SM] Blaming: l4dmultislots.smx
+L 05/28/2026 - 23:15:17: [SM] Call stack trace:
+L 05/28/2026 - 23:15:17: [SM]   [0] PrintToChat
+L 05/28/2026 - 23:15:17: [SM]   [1] Line 953, d:\Github\Private-Work\L4D2-插件\scripting_1.11\l4dmultislots.sp::Timer_SpecCheck
+L 05/28/2026 - 23:15:17: [SM] Exception reported: Array index out-of-bounds (index 15, limit 12)
+L 05/28/2026 - 23:15:17: [SM] Blaming: l4d2_tank_props_rock_v3.smx
+L 05/28/2026 - 23:15:17: [SM] Call stack trace:
+L 05/28/2026 - 23:15:17: [SM]   [1] Line 222, D:\SteamLibrary\steamapps\common\Left 4 Dead 2\left4dead2\addons\sourcemod\scripting\l4d2_tank_props_rock_v3.sp::Throw
+L 05/28/2026 - 23:15:26: [SM] Exception reported: Invalid timer handle ee700586 (error 1)
+L 05/28/2026 - 23:15:26: [SM] Blaming: l4d2_playerjoining_v2.smx
+L 05/28/2026 - 23:15:26: [SM] Call stack trace:
+L 05/28/2026 - 23:15:26: [SM]   [0] KillTimer
+L 05/28/2026 - 23:15:26: [SM]   [1] Line 53, C:\Users\Moises\Downloads\Compressed\sourcemod-1.11.0-git6968-windows\addons\sourcemod\scripting\l4d2_playerjoining_v2.sp::OnClientDisconnect
+L 05/28/2026 - 23:15:42: [SM] Exception reported: Language phrase "Please wait to be revived or rescued" not found (arg 6)
+L 05/28/2026 - 23:15:42: [SM] Blaming: l4dmultislots.smx
+L 05/28/2026 - 23:15:42: [SM] Call stack trace:
+L 05/28/2026 - 23:15:42: [SM]   [0] PrintToChat
+L 05/28/2026 - 23:15:42: [SM]   [1] Line 953, d:\Github\Private-Work\L4D2-插件\scripting_1.11\l4dmultislots.sp::Timer_SpecCheck
+L 05/28/2026 - 23:15:45: [SM] Exception reported: Array index out-of-bounds (index 13, limit 12)
+L 05/28/2026 - 23:15:45: [SM] Blaming: l4d2_tank_props_rock_v3.smx
+L 05/28/2026 - 23:15:45: [SM] Call stack trace:
+L 05/28/2026 - 23:15:45: [SM]   [1] Line 222, D:\SteamLibrary\steamapps\common\Left 4 Dead 2\left4dead2\addons\sourcemod\scripting\l4d2_tank_props_rock_v3.sp::Throw
+L 05/28/2026 - 23:16:05: [SM] Exception reported: Invalid timer handle 4b100591 (error 3)
+L 05/28/2026 - 23:16:05: [SM] Blaming: l4d2_playerjoining_v2.smx
+L 05/28/2026 - 23:16:05: [SM] Call stack trace:
+L 05/28/2026 - 23:16:05: [SM]   [0] KillTimer
+L 05/28/2026 - 23:16:05: [SM]   [1] Line 53, C:\Users\Moises\Downloads\Compressed\sourcemod-1.11.0-git6968-windows\addons\sourcemod\scripting\l4d2_playerjoining_v2.sp::OnClientDisconnect
+L 05/28/2026 - 23:16:07: [SM] Exception reported: Language phrase "Please wait to be revived or rescued" not found (arg 6)
+L 05/28/2026 - 23:16:07: [SM] Blaming: l4dmultislots.smx
+L 05/28/2026 - 23:16:07: [SM] Call stack trace:
+L 05/28/2026 - 23:16:07: [SM]   [0] PrintToChat
+L 05/28/2026 - 23:16:07: [SM]   [1] Line 953, d:\Github\Private-Work\L4D2-插件\scripting_1.11\l4dmultislots.sp::Timer_SpecCheck
+L 05/28/2026 - 23:16:40: [SM] Exception reported: Invalid timer handle 4b100591 (error 3)
+L 05/28/2026 - 23:16:40: [SM] Blaming: l4d2_playerjoining_v2.smx
+L 05/28/2026 - 23:16:40: [SM] Call stack trace:
+L 05/28/2026 - 23:16:40: [SM]   [0] KillTimer
+L 05/28/2026 - 23:16:40: [SM]   [1] Line 53, C:\Users\Moises\Downloads\Compressed\sourcemod-1.11.0-git6968-windows\addons\sourcemod\scripting\l4d2_playerjoining_v2.sp::OnClientDisconnect
+L 05/28/2026 - 23:16:40: [SM] Exception reported: Invalid timer handle ee700586 (error 1)
+L 05/28/2026 - 23:16:40: [SM] Blaming: l4d2_playerjoining_v2.smx
+L 05/28/2026 - 23:16:40: [SM] Call stack trace:
+L 05/28/2026 - 23:16:40: [SM]   [0] KillTimer
+L 05/28/2026 - 23:16:40: [SM]   [1] Line 53, C:\Users\Moises\Downloads\Compressed\sourcemod-1.11.0-git6968-windows\addons\sourcemod\scripting\l4d2_playerjoining_v2.sp::OnClientDisconnect
+L 05/28/2026 - 23:16:40: [SM] Exception reported: Invalid timer handle d0a00531 (error 3)
+L 05/28/2026 - 23:16:40: [SM] Blaming: l4d2_playerjoining_v2.smx
+L 05/28/2026 - 23:16:40: [SM] Call stack trace:
+L 05/28/2026 - 23:16:40: [SM]   [0] KillTimer
+L 05/28/2026 - 23:16:40: [SM]   [1] Line 53, C:\Users\Moises\Downloads\Compressed\sourcemod-1.11.0-git6968-windows\addons\sourcemod\scripting\l4d2_playerjoining_v2.sp::OnClientDisconnect
+L 05/28/2026 - 23:16:42: Error log file session closed.
+L 05/28/2026 - 23:16:42: SourceMod error session started
+L 05/28/2026 - 23:16:42: Info (map "c5m3_cemetery") (file "d:\steamlibrary\steamapps\common\left 4 dead 2\left4dead2\addons\sourcemod\logs\errors_20260528.log")
+L 05/28/2026 - 23:16:42: [SM] Fatal error encountered parsing translation file "l4d_nth.phrases.txt"
+L 05/28/2026 - 23:16:42: [SM] Error (line 0, column 0): Stream failed to open
+L 05/28/2026 - 23:16:42: [SM] Fatal error encountered parsing translation file "chargersteering.phrases.txt"
+L 05/28/2026 - 23:16:42: [SM] Error (line 0, column 0): Stream failed to open
+L 05/28/2026 - 23:16:42: [SM] Fatal error encountered parsing translation file "l4dmultislots.phrases.txt"
+L 05/28/2026 - 23:16:42: [SM] Error (line 0, column 0): Stream failed to open
+L 05/28/2026 - 23:16:45: [l4d2_publicity.smx] [Publicity] No se encontraron mensajes en el archivo de configuración
+L 05/28/2026 - 23:16:45: [SM] Exception reported: Array index out-of-bounds (index 12, limit 12)
+L 05/28/2026 - 23:16:45: [SM] Blaming: l4d2_tank_props_rock_v3.smx
+L 05/28/2026 - 23:16:45: [SM] Call stack trace:
+L 05/28/2026 - 23:16:45: [SM]   [1] Line 142, D:\SteamLibrary\steamapps\common\Left 4 Dead 2\left4dead2\addons\sourcemod\scripting\l4d2_tank_props_rock_v3.sp::OnMapStart
+L 05/28/2026 - 23:17:07: [SM] Exception reported: Invalid timer handle d0a00531 (error 3)
+L 05/28/2026 - 23:17:07: [SM] Blaming: l4d2_playerjoining_v2.smx
+L 05/28/2026 - 23:17:07: [SM] Call stack trace:
+L 05/28/2026 - 23:17:07: [SM]   [0] KillTimer
+L 05/28/2026 - 23:17:07: [SM]   [1] Line 53, C:\Users\Moises\Downloads\Compressed\sourcemod-1.11.0-git6968-windows\addons\sourcemod\scripting\l4d2_playerjoining_v2.sp::OnClientDisconnect
+L 05/28/2026 - 23:17:08: [SM] Exception reported: Invalid timer handle ee700586 (error 1)
+L 05/28/2026 - 23:17:08: [SM] Blaming: l4d2_playerjoining_v2.smx
+L 05/28/2026 - 23:17:08: [SM] Call stack trace:
+L 05/28/2026 - 23:17:08: [SM]   [0] KillTimer
+L 05/28/2026 - 23:17:08: [SM]   [1] Line 53, C:\Users\Moises\Downloads\Compressed\sourcemod-1.11.0-git6968-windows\addons\sourcemod\scripting\l4d2_playerjoining_v2.sp::OnClientDisconnect
+L 05/28/2026 - 23:17:19: [SM] Exception reported: Array index out-of-bounds (index 13, limit 12)
+L 05/28/2026 - 23:17:19: [SM] Blaming: l4d2_tank_props_rock_v3.smx
+L 05/28/2026 - 23:17:19: [SM] Call stack trace:
+L 05/28/2026 - 23:17:19: [SM]   [1] Line 222, D:\SteamLibrary\steamapps\common\Left 4 Dead 2\left4dead2\addons\sourcemod\scripting\l4d2_tank_props_rock_v3.sp::Throw
+L 05/28/2026 - 23:17:55: [SM] Exception reported: Language phrase "Please wait to be revived or rescued" not found (arg 6)
+L 05/28/2026 - 23:17:55: [SM] Blaming: l4dmultislots.smx
+L 05/28/2026 - 23:17:55: [SM] Call stack trace:
+L 05/28/2026 - 23:17:55: [SM]   [0] PrintToChat
+L 05/28/2026 - 23:17:55: [SM]   [1] Line 953, d:\Github\Private-Work\L4D2-插件\scripting_1.11\l4dmultislots.sp::Timer_SpecCheck
+L 05/28/2026 - 23:18:01: [SM] Exception reported: Array index out-of-bounds (index 13, limit 12)
+L 05/28/2026 - 23:18:01: [SM] Blaming: l4d2_tank_props_rock_v3.smx
+L 05/28/2026 - 23:18:01: [SM] Call stack trace:
+L 05/28/2026 - 23:18:01: [SM]   [1] Line 222, D:\SteamLibrary\steamapps\common\Left 4 Dead 2\left4dead2\addons\sourcemod\scripting\l4d2_tank_props_rock_v3.sp::Throw
+L 05/28/2026 - 23:18:20: [SM] Exception reported: Language phrase "Please wait to be revived or rescued" not found (arg 6)
+L 05/28/2026 - 23:18:20: [SM] Blaming: l4dmultislots.smx
+L 05/28/2026 - 23:18:20: [SM] Call stack trace:
+L 05/28/2026 - 23:18:20: [SM]   [0] PrintToChat
+L 05/28/2026 - 23:18:20: [SM]   [1] Line 953, d:\Github\Private-Work\L4D2-插件\scripting_1.11\l4dmultislots.sp::Timer_SpecCheck
+L 05/28/2026 - 23:18:23: [SM] Exception reported: Property "m_vecAngularVelocity" not found (entity 679/weapon_rifle_ak47)
+L 05/28/2026 - 23:18:23: [SM] Blaming: l4d2_tank_core v4_5_1.smx
+L 05/28/2026 - 23:18:23: [SM] Call stack trace:
+L 05/28/2026 - 23:18:23: [SM]   [0] SetEntPropVector
+L 05/28/2026 - 23:18:23: [SM]   [1] Line 606, D:\SteamLibrary\steamapps\common\Left 4 Dead 2\left4dead2\addons\sourcemod\scripting\l4d2_tank_core v4_5_1.sp::DropItemsPhysically
+L 05/28/2026 - 23:18:23: [SM]   [2] Line 535, D:\SteamLibrary\steamapps\common\Left 4 Dead 2\left4dead2\addons\sourcemod\scripting\l4d2_tank_core v4_5_1.sp::Event_PlayerHurt
+L 05/28/2026 - 23:18:29: [SM] Exception reported: Property "m_vecAngularVelocity" not found (entity 678/weapon_rifle_ak47)
+L 05/28/2026 - 23:18:29: [SM] Blaming: l4d2_tank_core v4_5_1.smx
+L 05/28/2026 - 23:18:29: [SM] Call stack trace:
+L 05/28/2026 - 23:18:29: [SM]   [0] SetEntPropVector
+L 05/28/2026 - 23:18:29: [SM]   [1] Line 606, D:\SteamLibrary\steamapps\common\Left 4 Dead 2\left4dead2\addons\sourcemod\scripting\l4d2_tank_core v4_5_1.sp::DropItemsPhysically
+L 05/28/2026 - 23:18:29: [SM]   [2] Line 535, D:\SteamLibrary\steamapps\common\Left 4 Dead 2\left4dead2\addons\sourcemod\scripting\l4d2_tank_core v4_5_1.sp::Event_PlayerHurt
+L 05/28/2026 - 23:18:45: [SM] Exception reported: Property "m_vecAngularVelocity" not found (entity 643/weapon_shotgun_spas)
+L 05/28/2026 - 23:18:45: [SM] Blaming: l4d2_tank_core v4_5_1.smx
+L 05/28/2026 - 23:18:45: [SM] Call stack trace:
+L 05/28/2026 - 23:18:45: [SM]   [0] SetEntPropVector
+L 05/28/2026 - 23:18:45: [SM]   [1] Line 606, D:\SteamLibrary\steamapps\common\Left 4 Dead 2\left4dead2\addons\sourcemod\scripting\l4d2_tank_core v4_5_1.sp::DropItemsPhysically
+L 05/28/2026 - 23:18:45: [SM]   [2] Line 535, D:\SteamLibrary\steamapps\common\Left 4 Dead 2\left4dead2\addons\sourcemod\scripting\l4d2_tank_core v4_5_1.sp::Event_PlayerHurt
+L 05/28/2026 - 23:18:45: [SM] Exception reported: Language phrase "Please wait to be revived or rescued" not found (arg 6)
+L 05/28/2026 - 23:18:45: [SM] Blaming: l4dmultislots.smx
+L 05/28/2026 - 23:18:45: [SM] Call stack trace:
+L 05/28/2026 - 23:18:45: [SM]   [0] PrintToChat
+L 05/28/2026 - 23:18:45: [SM]   [1] Line 953, d:\Github\Private-Work\L4D2-插件\scripting_1.11\l4dmultislots.sp::Timer_SpecCheck
+L 05/28/2026 - 23:19:04: [SM] Exception reported: Invalid timer handle ee700586 (error 1)
+L 05/28/2026 - 23:19:04: [SM] Blaming: l4d2_playerjoining_v2.smx
+L 05/28/2026 - 23:19:04: [SM] Call stack trace:
+L 05/28/2026 - 23:19:04: [SM]   [0] KillTimer
+L 05/28/2026 - 23:19:04: [SM]   [1] Line 53, C:\Users\Moises\Downloads\Compressed\sourcemod-1.11.0-git6968-windows\addons\sourcemod\scripting\l4d2_playerjoining_v2.sp::OnClientDisconnect
+L 05/28/2026 - 23:19:04: [SM] Exception reported: Invalid timer handle d0a00531 (error 1)
+L 05/28/2026 - 23:19:04: [SM] Blaming: l4d2_playerjoining_v2.smx
+L 05/28/2026 - 23:19:04: [SM] Call stack trace:
+L 05/28/2026 - 23:19:04: [SM]   [0] KillTimer
+L 05/28/2026 - 23:19:04: [SM]   [1] Line 53, C:\Users\Moises\Downloads\Compressed\sourcemod-1.11.0-git6968-windows\addons\sourcemod\scripting\l4d2_playerjoining_v2.sp::OnClientDisconnect
+L 05/28/2026 - 23:19:04: [SM] Exception reported: Invalid timer handle 9cc00515 (error 1)
+L 05/28/2026 - 23:19:04: [SM] Blaming: l4d2_playerjoining_v2.smx
+L 05/28/2026 - 23:19:04: [SM] Call stack trace:
+L 05/28/2026 - 23:19:04: [SM]   [0] KillTimer
+L 05/28/2026 - 23:19:04: [SM]   [1] Line 53, C:\Users\Moises\Downloads\Compressed\sourcemod-1.11.0-git6968-windows\addons\sourcemod\scripting\l4d2_playerjoining_v2.sp::OnClientDisconnect
+L 05/28/2026 - 23:19:21: [SM] Exception reported: Language phrase "No Any Dead Survivor" not found (arg 6)
+L 05/28/2026 - 23:19:21: [SM] Blaming: l4d_sm_respawn.smx
+L 05/28/2026 - 23:19:21: [SM] Call stack trace:
+L 05/28/2026 - 23:19:21: [SM]   [0] FormatEx
+L 05/28/2026 - 23:19:21: [SM]   [1] Line 202, d:\Github\Private-Work\L4D2-插件\scripting_1.11\l4d_sm_respawn.sp::MenuClientsToSpawn
+L 05/28/2026 - 23:19:21: [SM]   [2] Line 239, d:\Github\Private-Work\L4D2-插件\scripting_1.11\l4d_sm_respawn.sp::MenuHandler_MenuList
+L 05/28/2026 - 23:19:30: [SM] Exception reported: Language phrase "Please wait to be revived or rescued" not found (arg 6)
+L 05/28/2026 - 23:19:30: [SM] Blaming: l4dmultislots.smx
+L 05/28/2026 - 23:19:30: [SM] Call stack trace:
+L 05/28/2026 - 23:19:30: [SM]   [0] PrintToChat
+L 05/28/2026 - 23:19:30: [SM]   [1] Line 953, d:\Github\Private-Work\L4D2-插件\scripting_1.11\l4dmultislots.sp::Timer_SpecCheck
+L 05/28/2026 - 23:19:31: [SM] Exception reported: Language phrase "No Any Dead Survivor" not found (arg 6)
+L 05/28/2026 - 23:19:31: [SM] Blaming: l4d_sm_respawn.smx
+L 05/28/2026 - 23:19:31: [SM] Call stack trace:
+L 05/28/2026 - 23:19:31: [SM]   [0] FormatEx
+L 05/28/2026 - 23:19:31: [SM]   [1] Line 202, d:\Github\Private-Work\L4D2-插件\scripting_1.11\l4d_sm_respawn.sp::MenuClientsToSpawn
+L 05/28/2026 - 23:19:31: [SM]   [2] Line 239, d:\Github\Private-Work\L4D2-插件\scripting_1.11\l4d_sm_respawn.sp::MenuHandler_MenuList
+L 05/28/2026 - 23:20:19: [SM] Exception reported: Property "m_vecAngularVelocity" not found (entity 42/weapon_rifle_ak47)
+L 05/28/2026 - 23:20:19: [SM] Blaming: l4d2_tank_core v4_5_1.smx
+L 05/28/2026 - 23:20:19: [SM] Call stack trace:
+L 05/28/2026 - 23:20:19: [SM]   [0] SetEntPropVector
+L 05/28/2026 - 23:20:19: [SM]   [1] Line 606, D:\SteamLibrary\steamapps\common\Left 4 Dead 2\left4dead2\addons\sourcemod\scripting\l4d2_tank_core v4_5_1.sp::DropItemsPhysically
+L 05/28/2026 - 23:20:19: [SM]   [2] Line 535, D:\SteamLibrary\steamapps\common\Left 4 Dead 2\left4dead2\addons\sourcemod\scripting\l4d2_tank_core v4_5_1.sp::Event_PlayerHurt
+L 05/28/2026 - 23:20:22: [SM] Exception reported: Property "m_vecAngularVelocity" not found (entity 671/weapon_pistol_magnum)
+L 05/28/2026 - 23:20:22: [SM] Blaming: l4d2_tank_core v4_5_1.smx
+L 05/28/2026 - 23:20:22: [SM] Call stack trace:
+L 05/28/2026 - 23:20:22: [SM]   [0] SetEntPropVector
+L 05/28/2026 - 23:20:22: [SM]   [1] Line 606, D:\SteamLibrary\steamapps\common\Left 4 Dead 2\left4dead2\addons\sourcemod\scripting\l4d2_tank_core v4_5_1.sp::DropItemsPhysically
+L 05/28/2026 - 23:20:22: [SM]   [2] Line 535, D:\SteamLibrary\steamapps\common\Left 4 Dead 2\left4dead2\addons\sourcemod\scripting\l4d2_tank_core v4_5_1.sp::Event_PlayerHurt
+L 05/28/2026 - 23:20:38: [SM] Exception reported: Array index out-of-bounds (index 12, limit 12)
+L 05/28/2026 - 23:20:38: [SM] Blaming: l4d2_tank_props_rock_v3.smx
+L 05/28/2026 - 23:20:38: [SM] Call stack trace:
+L 05/28/2026 - 23:20:38: [SM]   [1] Line 222, D:\SteamLibrary\steamapps\common\Left 4 Dead 2\left4dead2\addons\sourcemod\scripting\l4d2_tank_props_rock_v3.sp::Throw
+L 05/28/2026 - 23:20:38: [SM] Exception reported: Property "m_vecAngularVelocity" not found (entity 673/weapon_molotov)
+L 05/28/2026 - 23:20:38: [SM] Blaming: l4d2_tank_core v4_5_1.smx
+L 05/28/2026 - 23:20:38: [SM] Call stack trace:
+L 05/28/2026 - 23:20:38: [SM]   [0] SetEntPropVector
+L 05/28/2026 - 23:20:38: [SM]   [1] Line 606, D:\SteamLibrary\steamapps\common\Left 4 Dead 2\left4dead2\addons\sourcemod\scripting\l4d2_tank_core v4_5_1.sp::DropItemsPhysically
+L 05/28/2026 - 23:20:38: [SM]   [2] Line 535, D:\SteamLibrary\steamapps\common\Left 4 Dead 2\left4dead2\addons\sourcemod\scripting\l4d2_tank_core v4_5_1.sp::Event_PlayerHurt
+L 05/28/2026 - 23:20:45: [SM] Exception reported: Language phrase "Please wait to be revived or rescued" not found (arg 6)
+L 05/28/2026 - 23:20:45: [SM] Blaming: l4dmultislots.smx
+L 05/28/2026 - 23:20:45: [SM] Call stack trace:
+L 05/28/2026 - 23:20:45: [SM]   [0] PrintToChat
+L 05/28/2026 - 23:20:45: [SM]   [1] Line 953, d:\Github\Private-Work\L4D2-插件\scripting_1.11\l4dmultislots.sp::Timer_SpecCheck
+L 05/28/2026 - 23:21:01: [SM] Exception reported: Property "m_vecAngularVelocity" not found (entity 538/weapon_smg)
+L 05/28/2026 - 23:21:01: [SM] Blaming: l4d2_tank_core v4_5_1.smx
+L 05/28/2026 - 23:21:01: [SM] Call stack trace:
+L 05/28/2026 - 23:21:01: [SM]   [0] SetEntPropVector
+L 05/28/2026 - 23:21:01: [SM]   [1] Line 606, D:\SteamLibrary\steamapps\common\Left 4 Dead 2\left4dead2\addons\sourcemod\scripting\l4d2_tank_core v4_5_1.sp::DropItemsPhysically
+L 05/28/2026 - 23:21:01: [SM]   [2] Line 535, D:\SteamLibrary\steamapps\common\Left 4 Dead 2\left4dead2\addons\sourcemod\scripting\l4d2_tank_core v4_5_1.sp::Event_PlayerHurt
+L 05/28/2026 - 23:21:10: [SM] Exception reported: Language phrase "Please wait to be revived or rescued" not found (arg 6)
+L 05/28/2026 - 23:21:10: [SM] Blaming: l4dmultislots.smx
+L 05/28/2026 - 23:21:10: [SM] Call stack trace:
+L 05/28/2026 - 23:21:10: [SM]   [0] PrintToChat
+L 05/28/2026 - 23:21:10: [SM]   [1] Line 953, d:\Github\Private-Work\L4D2-插件\scripting_1.11\l4dmultislots.sp::Timer_SpecCheck
+L 05/28/2026 - 23:21:35: [SM] Exception reported: Language phrase "Please wait to be revived or rescued" not found (arg 6)
+L 05/28/2026 - 23:21:35: [SM] Blaming: l4dmultislots.smx
+L 05/28/2026 - 23:21:35: [SM] Call stack trace:
+L 05/28/2026 - 23:21:35: [SM]   [0] PrintToChat
+L 05/28/2026 - 23:21:35: [SM]   [1] Line 953, d:\Github\Private-Work\L4D2-插件\scripting_1.11\l4dmultislots.sp::Timer_SpecCheck
+L 05/28/2026 - 23:21:35: [SM] Exception reported: Invalid timer handle d0a00531 (error 3)
+L 05/28/2026 - 23:21:35: [SM] Blaming: l4d2_playerjoining_v2.smx
+L 05/28/2026 - 23:21:35: [SM] Call stack trace:
+L 05/28/2026 - 23:21:35: [SM]   [0] KillTimer
+L 05/28/2026 - 23:21:35: [SM]   [1] Line 53, C:\Users\Moises\Downloads\Compressed\sourcemod-1.11.0-git6968-windows\addons\sourcemod\scripting\l4d2_playerjoining_v2.sp::OnClientDisconnect
+L 05/28/2026 - 23:21:36: [SM] Exception reported: Invalid timer handle 9cc00515 (error 3)
+L 05/28/2026 - 23:21:36: [SM] Blaming: l4d2_playerjoining_v2.smx
+L 05/28/2026 - 23:21:36: [SM] Call stack trace:
+L 05/28/2026 - 23:21:36: [SM]   [0] KillTimer
+L 05/28/2026 - 23:21:36: [SM]   [1] Line 53, C:\Users\Moises\Downloads\Compressed\sourcemod-1.11.0-git6968-windows\addons\sourcemod\scripting\l4d2_playerjoining_v2.sp::OnClientDisconnect
+L 05/28/2026 - 23:21:38: [SM] Exception reported: Invalid timer handle ee700586 (error 3)
+L 05/28/2026 - 23:21:38: [SM] Blaming: l4d2_playerjoining_v2.smx
+L 05/28/2026 - 23:21:38: [SM] Call stack trace:
+L 05/28/2026 - 23:21:38: [SM]   [0] KillTimer
+L 05/28/2026 - 23:21:38: [SM]   [1] Line 53, C:\Users\Moises\Downloads\Compressed\sourcemod-1.11.0-git6968-windows\addons\sourcemod\scripting\l4d2_playerjoining_v2.sp::OnClientDisconnect
+L 05/28/2026 - 23:22:00: [SM] Exception reported: Language phrase "Please wait to be revived or rescued" not found (arg 6)
+L 05/28/2026 - 23:22:00: [SM] Blaming: l4dmultislots.smx
+L 05/28/2026 - 23:22:00: [SM] Call stack trace:
+L 05/28/2026 - 23:22:00: [SM]   [0] PrintToChat
+L 05/28/2026 - 23:22:00: [SM]   [1] Line 953, d:\Github\Private-Work\L4D2-插件\scripting_1.11\l4dmultislots.sp::Timer_SpecCheck
+L 05/28/2026 - 23:22:25: [SM] Exception reported: Language phrase "Please wait to be revived or rescued" not found (arg 6)
+L 05/28/2026 - 23:22:25: [SM] Blaming: l4dmultislots.smx
+L 05/28/2026 - 23:22:25: [SM] Call stack trace:
+L 05/28/2026 - 23:22:25: [SM]   [0] PrintToChat
+L 05/28/2026 - 23:22:25: [SM]   [1] Line 953, d:\Github\Private-Work\L4D2-插件\scripting_1.11\l4dmultislots.sp::Timer_SpecCheck
+L 05/28/2026 - 23:22:46: [SM] Exception reported: Invalid timer handle f6600530 (error 1)
+L 05/28/2026 - 23:22:46: [SM] Blaming: l4d2_playerjoining_v2.smx
+L 05/28/2026 - 23:22:46: [SM] Call stack trace:
+L 05/28/2026 - 23:22:46: [SM]   [0] KillTimer
+L 05/28/2026 - 23:22:46: [SM]   [1] Line 53, C:\Users\Moises\Downloads\Compressed\sourcemod-1.11.0-git6968-windows\addons\sourcemod\scripting\l4d2_playerjoining_v2.sp::OnClientDisconnect
+L 05/28/2026 - 23:22:46: [SM] Exception reported: Invalid timer handle ee700586 (error 1)
+L 05/28/2026 - 23:22:46: [SM] Blaming: l4d2_playerjoining_v2.smx
+L 05/28/2026 - 23:22:46: [SM] Call stack trace:
+L 05/28/2026 - 23:22:46: [SM]   [0] KillTimer
+L 05/28/2026 - 23:22:46: [SM]   [1] Line 53, C:\Users\Moises\Downloads\Compressed\sourcemod-1.11.0-git6968-windows\addons\sourcemod\scripting\l4d2_playerjoining_v2.sp::OnClientDisconnect
+L 05/28/2026 - 23:22:46: [SM] Exception reported: Invalid timer handle d0a00531 (error 1)
+L 05/28/2026 - 23:22:46: [SM] Blaming: l4d2_playerjoining_v2.smx
+L 05/28/2026 - 23:22:46: [SM] Call stack trace:
+L 05/28/2026 - 23:22:46: [SM]   [0] KillTimer
+L 05/28/2026 - 23:22:46: [SM]   [1] Line 53, C:\Users\Moises\Downloads\Compressed\sourcemod-1.11.0-git6968-windows\addons\sourcemod\scripting\l4d2_playerjoining_v2.sp::OnClientDisconnect
+L 05/28/2026 - 23:23:24: [SM] Exception reported: Invalid timer handle ee700586 (error 3)
+L 05/28/2026 - 23:23:24: [SM] Blaming: l4d2_playerjoining_v2.smx
+L 05/28/2026 - 23:23:24: [SM] Call stack trace:
+L 05/28/2026 - 23:23:24: [SM]   [0] KillTimer
+L 05/28/2026 - 23:23:24: [SM]   [1] Line 53, C:\Users\Moises\Downloads\Compressed\sourcemod-1.11.0-git6968-windows\addons\sourcemod\scripting\l4d2_playerjoining_v2.sp::OnClientDisconnect
+L 05/28/2026 - 23:24:01: [SM] Exception reported: Language phrase "Please wait to be revived or rescued" not found (arg 6)
+L 05/28/2026 - 23:24:01: [SM] Blaming: l4dmultislots.smx
+L 05/28/2026 - 23:24:01: [SM] Call stack trace:
+L 05/28/2026 - 23:24:01: [SM]   [0] PrintToChat
+L 05/28/2026 - 23:24:01: [SM]   [1] Line 953, d:\Github\Private-Work\L4D2-插件\scripting_1.11\l4dmultislots.sp::Timer_SpecCheck
+L 05/28/2026 - 23:24:09: [SM] Exception reported: Invalid timer handle 4b100591 (error 1)
+L 05/28/2026 - 23:24:09: [SM] Blaming: l4d2_playerjoining_v2.smx
+L 05/28/2026 - 23:24:09: [SM] Call stack trace:
+L 05/28/2026 - 23:24:09: [SM]   [0] KillTimer
+L 05/28/2026 - 23:24:09: [SM]   [1] Line 53, C:\Users\Moises\Downloads\Compressed\sourcemod-1.11.0-git6968-windows\addons\sourcemod\scripting\l4d2_playerjoining_v2.sp::OnClientDisconnect
+L 05/28/2026 - 23:24:22: [SM] Exception reported: Invalid timer handle d0a00531 (error 3)
+L 05/28/2026 - 23:24:22: [SM] Blaming: l4d2_playerjoining_v2.smx
+L 05/28/2026 - 23:24:22: [SM] Call stack trace:
+L 05/28/2026 - 23:24:22: [SM]   [0] KillTimer
+L 05/28/2026 - 23:24:22: [SM]   [1] Line 53, C:\Users\Moises\Downloads\Compressed\sourcemod-1.11.0-git6968-windows\addons\sourcemod\scripting\l4d2_playerjoining_v2.sp::OnClientDisconnect
+L 05/28/2026 - 23:24:26: [SM] Exception reported: Language phrase "Please wait to be revived or rescued" not found (arg 6)
+L 05/28/2026 - 23:24:26: [SM] Blaming: l4dmultislots.smx
+L 05/28/2026 - 23:24:26: [SM] Call stack trace:
+L 05/28/2026 - 23:24:26: [SM]   [0] PrintToChat
+L 05/28/2026 - 23:24:26: [SM]   [1] Line 953, d:\Github\Private-Work\L4D2-插件\scripting_1.11\l4dmultislots.sp::Timer_SpecCheck
+L 05/28/2026 - 23:24:27: [SM] Exception reported: Invalid timer handle ee700586 (error 1)
+L 05/28/2026 - 23:24:27: [SM] Blaming: l4d2_playerjoining_v2.smx
+L 05/28/2026 - 23:24:27: [SM] Call stack trace:
+L 05/28/2026 - 23:24:27: [SM]   [0] KillTimer
+L 05/28/2026 - 23:24:27: [SM]   [1] Line 53, C:\Users\Moises\Downloads\Compressed\sourcemod-1.11.0-git6968-windows\addons\sourcemod\scripting\l4d2_playerjoining_v2.sp::OnClientDisconnect
+L 05/28/2026 - 23:24:39: [SM] Exception reported: Invalid timer handle 9cc00515 (error 3)
+L 05/28/2026 - 23:24:39: [SM] Blaming: l4d2_playerjoining_v2.smx
+L 05/28/2026 - 23:24:39: [SM] Call stack trace:
+L 05/28/2026 - 23:24:39: [SM]   [0] KillTimer
+L 05/28/2026 - 23:24:39: [SM]   [1] Line 53, C:\Users\Moises\Downloads\Compressed\sourcemod-1.11.0-git6968-windows\addons\sourcemod\scripting\l4d2_playerjoining_v2.sp::OnClientDisconnect
+L 05/28/2026 - 23:24:47: [SM] Exception reported: Array index out-of-bounds (index 15, limit 12)
+L 05/28/2026 - 23:24:47: [SM] Blaming: l4d2_tank_props_rock_v3.smx
+L 05/28/2026 - 23:24:47: [SM] Call stack trace:
+L 05/28/2026 - 23:24:47: [SM]   [1] Line 222, D:\SteamLibrary\steamapps\common\Left 4 Dead 2\left4dead2\addons\sourcemod\scripting\l4d2_tank_props_rock_v3.sp::Throw
+L 05/28/2026 - 23:24:51: [SM] Exception reported: Language phrase "Please wait to be revived or rescued" not found (arg 6)
+L 05/28/2026 - 23:24:51: [SM] Blaming: l4dmultislots.smx
+L 05/28/2026 - 23:24:51: [SM] Call stack trace:
+L 05/28/2026 - 23:24:51: [SM]   [0] PrintToChat
+L 05/28/2026 - 23:24:51: [SM]   [1] Line 953, d:\Github\Private-Work\L4D2-插件\scripting_1.11\l4dmultislots.sp::Timer_SpecCheck
+L 05/28/2026 - 23:25:16: [SM] Exception reported: Language phrase "Please wait to be revived or rescued" not found (arg 6)
+L 05/28/2026 - 23:25:16: [SM] Blaming: l4dmultislots.smx
+L 05/28/2026 - 23:25:16: [SM] Call stack trace:
+L 05/28/2026 - 23:25:16: [SM]   [0] PrintToChat
+L 05/28/2026 - 23:25:16: [SM]   [1] Line 953, d:\Github\Private-Work\L4D2-插件\scripting_1.11\l4dmultislots.sp::Timer_SpecCheck
+L 05/28/2026 - 23:25:29: [SM] Exception reported: Invalid timer handle 4b100591 (error 1)
+L 05/28/2026 - 23:25:29: [SM] Blaming: l4d2_playerjoining_v2.smx
+L 05/28/2026 - 23:25:29: [SM] Call stack trace:
+L 05/28/2026 - 23:25:29: [SM]   [0] KillTimer
+L 05/28/2026 - 23:25:29: [SM]   [1] Line 53, C:\Users\Moises\Downloads\Compressed\sourcemod-1.11.0-git6968-windows\addons\sourcemod\scripting\l4d2_playerjoining_v2.sp::OnClientDisconnect
+L 05/28/2026 - 23:25:30: [SM] Exception reported: Invalid timer handle ee700586 (error 1)
+L 05/28/2026 - 23:25:30: [SM] Blaming: l4d2_playerjoining_v2.smx
+L 05/28/2026 - 23:25:30: [SM] Call stack trace:
+L 05/28/2026 - 23:25:30: [SM]   [0] KillTimer
+L 05/28/2026 - 23:25:30: [SM]   [1] Line 53, C:\Users\Moises\Downloads\Compressed\sourcemod-1.11.0-git6968-windows\addons\sourcemod\scripting\l4d2_playerjoining_v2.sp::OnClientDisconnect
+L 05/28/2026 - 23:25:41: [SM] Exception reported: Language phrase "Please wait to be revived or rescued" not found (arg 6)
+L 05/28/2026 - 23:25:41: [SM] Blaming: l4dmultislots.smx
+L 05/28/2026 - 23:25:41: [SM] Call stack trace:
+L 05/28/2026 - 23:25:41: [SM]   [0] PrintToChat
+L 05/28/2026 - 23:25:41: [SM]   [1] Line 953, d:\Github\Private-Work\L4D2-插件\scripting_1.11\l4dmultislots.sp::Timer_SpecCheck
+L 05/28/2026 - 23:26:06: [SM] Exception reported: Language phrase "Please wait to be revived or rescued" not found (arg 6)
+L 05/28/2026 - 23:26:06: [SM] Blaming: l4dmultislots.smx
+L 05/28/2026 - 23:26:06: [SM] Call stack trace:
+L 05/28/2026 - 23:26:06: [SM]   [0] PrintToChat
+L 05/28/2026 - 23:26:06: [SM]   [1] Line 953, d:\Github\Private-Work\L4D2-插件\scripting_1.11\l4dmultislots.sp::Timer_SpecCheck
+L 05/28/2026 - 23:26:18: [SM] Exception reported: Array index out-of-bounds (index 13, limit 12)
+L 05/28/2026 - 23:26:18: [SM] Blaming: l4d2_tank_props_rock_v3.smx
+L 05/28/2026 - 23:26:18: [SM] Call stack trace:
+L 05/28/2026 - 23:26:18: [SM]   [1] Line 222, D:\SteamLibrary\steamapps\common\Left 4 Dead 2\left4dead2\addons\sourcemod\scripting\l4d2_tank_props_rock_v3.sp::Throw
+L 05/28/2026 - 23:26:38: [SM] Exception reported: Invalid timer handle 4b100591 (error 1)
+L 05/28/2026 - 23:26:38: [SM] Blaming: l4d2_playerjoining_v2.smx
+L 05/28/2026 - 23:26:38: [SM] Call stack trace:
+L 05/28/2026 - 23:26:38: [SM]   [0] KillTimer
+L 05/28/2026 - 23:26:38: [SM]   [1] Line 53, C:\Users\Moises\Downloads\Compressed\sourcemod-1.11.0-git6968-windows\addons\sourcemod\scripting\l4d2_playerjoining_v2.sp::OnClientDisconnect
+L 05/28/2026 - 23:26:38: [SM] Exception reported: Invalid timer handle d0a00531 (error 1)
+L 05/28/2026 - 23:26:38: [SM] Blaming: l4d2_playerjoining_v2.smx
+L 05/28/2026 - 23:26:38: [SM] Call stack trace:
+L 05/28/2026 - 23:26:38: [SM]   [0] KillTimer
+L 05/28/2026 - 23:26:38: [SM]   [1] Line 53, C:\Users\Moises\Downloads\Compressed\sourcemod-1.11.0-git6968-windows\addons\sourcemod\scripting\l4d2_playerjoining_v2.sp::OnClientDisconnect
+L 05/28/2026 - 23:26:38: [SM] Exception reported: Invalid timer handle ee700586 (error 1)
+L 05/28/2026 - 23:26:38: [SM] Blaming: l4d2_playerjoining_v2.smx
+L 05/28/2026 - 23:26:38: [SM] Call stack trace:
+L 05/28/2026 - 23:26:38: [SM]   [0] KillTimer
+L 05/28/2026 - 23:26:38: [SM]   [1] Line 53, C:\Users\Moises\Downloads\Compressed\sourcemod-1.11.0-git6968-windows\addons\sourcemod\scripting\l4d2_playerjoining_v2.sp::OnClientDisconnect
+L 05/28/2026 - 23:26:38: [SM] Exception reported: Invalid timer handle 9cc00515 (error 1)
+L 05/28/2026 - 23:26:38: [SM] Blaming: l4d2_playerjoining_v2.smx
+L 05/28/2026 - 23:26:38: [SM] Call stack trace:
+L 05/28/2026 - 23:26:38: [SM]   [0] KillTimer
+L 05/28/2026 - 23:26:38: [SM]   [1] Line 53, C:\Users\Moises\Downloads\Compressed\sourcemod-1.11.0-git6968-windows\addons\sourcemod\scripting\l4d2_playerjoining_v2.sp::OnClientDisconnect
+L 05/28/2026 - 23:26:56: [SM] Exception reported: Array index out-of-bounds (index 15, limit 12)
+L 05/28/2026 - 23:26:56: [SM] Blaming: l4d2_tank_props_rock_v3.smx
+L 05/28/2026 - 23:26:56: [SM] Call stack trace:
+L 05/28/2026 - 23:26:56: [SM]   [1] Line 222, D:\SteamLibrary\steamapps\common\Left 4 Dead 2\left4dead2\addons\sourcemod\scripting\l4d2_tank_props_rock_v3.sp::Throw
+L 05/28/2026 - 23:26:56: [SM] Exception reported: Array index out-of-bounds (index 13, limit 12)
+L 05/28/2026 - 23:26:56: [SM] Blaming: l4d2_tank_props_rock_v3.smx
+L 05/28/2026 - 23:26:56: [SM] Call stack trace:
+L 05/28/2026 - 23:26:56: [SM]   [1] Line 222, D:\SteamLibrary\steamapps\common\Left 4 Dead 2\left4dead2\addons\sourcemod\scripting\l4d2_tank_props_rock_v3.sp::Throw
+L 05/28/2026 - 23:27:29: [SM] Exception reported: Array index out-of-bounds (index 12, limit 12)
+L 05/28/2026 - 23:27:29: [SM] Blaming: l4d2_tank_props_rock_v3.smx
+L 05/28/2026 - 23:27:29: [SM] Call stack trace:
+L 05/28/2026 - 23:27:29: [SM]   [1] Line 222, D:\SteamLibrary\steamapps\common\Left 4 Dead 2\left4dead2\addons\sourcemod\scripting\l4d2_tank_props_rock_v3.sp::Throw
+L 05/28/2026 - 23:27:44: [SM] Exception reported: Property "m_vecAngularVelocity" not found (entity 43/weapon_shotgun_spas)
+L 05/28/2026 - 23:27:44: [SM] Blaming: l4d2_tank_core v4_5_1.smx
+L 05/28/2026 - 23:27:44: [SM] Call stack trace:
+L 05/28/2026 - 23:27:44: [SM]   [0] SetEntPropVector
+L 05/28/2026 - 23:27:44: [SM]   [1] Line 606, D:\SteamLibrary\steamapps\common\Left 4 Dead 2\left4dead2\addons\sourcemod\scripting\l4d2_tank_core v4_5_1.sp::DropItemsPhysically
+L 05/28/2026 - 23:27:44: [SM]   [2] Line 535, D:\SteamLibrary\steamapps\common\Left 4 Dead 2\left4dead2\addons\sourcemod\scripting\l4d2_tank_core v4_5_1.sp::Event_PlayerHurt
+L 05/28/2026 - 23:27:46: [SM] Exception reported: Property "m_vecAngularVelocity" not found (entity 44/weapon_melee)
+L 05/28/2026 - 23:27:46: [SM] Blaming: l4d2_tank_core v4_5_1.smx
+L 05/28/2026 - 23:27:46: [SM] Call stack trace:
+L 05/28/2026 - 23:27:46: [SM]   [0] SetEntPropVector
+L 05/28/2026 - 23:27:46: [SM]   [1] Line 606, D:\SteamLibrary\steamapps\common\Left 4 Dead 2\left4dead2\addons\sourcemod\scripting\l4d2_tank_core v4_5_1.sp::DropItemsPhysically
+L 05/28/2026 - 23:27:46: [SM]   [2] Line 535, D:\SteamLibrary\steamapps\common\Left 4 Dead 2\left4dead2\addons\sourcemod\scripting\l4d2_tank_core v4_5_1.sp::Event_PlayerHurt
+L 05/28/2026 - 23:27:53: [SM] Exception reported: Invalid timer handle 4b100591 (error 1)
+L 05/28/2026 - 23:27:53: [SM] Blaming: l4d2_playerjoining_v2.smx
+L 05/28/2026 - 23:27:53: [SM] Call stack trace:
+L 05/28/2026 - 23:27:53: [SM]   [0] KillTimer
+L 05/28/2026 - 23:27:53: [SM]   [1] Line 53, C:\Users\Moises\Downloads\Compressed\sourcemod-1.11.0-git6968-windows\addons\sourcemod\scripting\l4d2_playerjoining_v2.sp::OnClientDisconnect
+L 05/28/2026 - 23:28:17: [SM] Exception reported: Invalid timer handle d0a00531 (error 1)
+L 05/28/2026 - 23:28:17: [SM] Blaming: l4d2_playerjoining_v2.smx
+L 05/28/2026 - 23:28:17: [SM] Call stack trace:
+L 05/28/2026 - 23:28:17: [SM]   [0] KillTimer
+L 05/28/2026 - 23:28:17: [SM]   [1] Line 53, C:\Users\Moises\Downloads\Compressed\sourcemod-1.11.0-git6968-windows\addons\sourcemod\scripting\l4d2_playerjoining_v2.sp::OnClientDisconnect
+L 05/28/2026 - 23:28:18: [SM] Exception reported: Language phrase "Please wait to be revived or rescued" not found (arg 6)
+L 05/28/2026 - 23:28:18: [SM] Blaming: l4dmultislots.smx
+L 05/28/2026 - 23:28:18: [SM] Call stack trace:
+L 05/28/2026 - 23:28:18: [SM]   [0] PrintToChat
+L 05/28/2026 - 23:28:18: [SM]   [1] Line 953, d:\Github\Private-Work\L4D2-插件\scripting_1.11\l4dmultislots.sp::Timer_SpecCheck
+L 05/28/2026 - 23:28:19: [SM] Exception reported: Invalid timer handle 29a0055d (error 3)
+L 05/28/2026 - 23:28:19: [SM] Blaming: l4d2_playerjoining_v2.smx
+L 05/28/2026 - 23:28:19: [SM] Call stack trace:
+L 05/28/2026 - 23:28:19: [SM]   [0] KillTimer
+L 05/28/2026 - 23:28:19: [SM]   [1] Line 53, C:\Users\Moises\Downloads\Compressed\sourcemod-1.11.0-git6968-windows\addons\sourcemod\scripting\l4d2_playerjoining_v2.sp::OnClientDisconnect
+L 05/28/2026 - 23:28:29: [SM] Exception reported: Array index out-of-bounds (index 12, limit 12)
+L 05/28/2026 - 23:28:29: [SM] Blaming: l4d2_tank_props_rock_v3.smx
+L 05/28/2026 - 23:28:29: [SM] Call stack trace:
+L 05/28/2026 - 23:28:29: [SM]   [1] Line 222, D:\SteamLibrary\steamapps\common\Left 4 Dead 2\left4dead2\addons\sourcemod\scripting\l4d2_tank_props_rock_v3.sp::Throw
+L 05/28/2026 - 23:28:35: [SM] Exception reported: Property "m_vecAngularVelocity" not found (entity 693/weapon_smg_silenced)
+L 05/28/2026 - 23:28:35: [SM] Blaming: l4d2_tank_core v4_5_1.smx
+L 05/28/2026 - 23:28:35: [SM] Call stack trace:
+L 05/28/2026 - 23:28:35: [SM]   [0] SetEntPropVector
+L 05/28/2026 - 23:28:35: [SM]   [1] Line 606, D:\SteamLibrary\steamapps\common\Left 4 Dead 2\left4dead2\addons\sourcemod\scripting\l4d2_tank_core v4_5_1.sp::DropItemsPhysically
+L 05/28/2026 - 23:28:35: [SM]   [2] Line 535, D:\SteamLibrary\steamapps\common\Left 4 Dead 2\left4dead2\addons\sourcemod\scripting\l4d2_tank_core v4_5_1.sp::Event_PlayerHurt
+L 05/28/2026 - 23:28:43: [SM] Exception reported: Language phrase "Please wait to be revived or rescued" not found (arg 6)
+L 05/28/2026 - 23:28:43: [SM] Blaming: l4dmultislots.smx
+L 05/28/2026 - 23:28:43: [SM] Call stack trace:
+L 05/28/2026 - 23:28:43: [SM]   [0] PrintToChat
+L 05/28/2026 - 23:28:43: [SM]   [1] Line 953, d:\Github\Private-Work\L4D2-插件\scripting_1.11\l4dmultislots.sp::Timer_SpecCheck
+L 05/28/2026 - 23:29:01: [SM] Exception reported: Invalid timer handle d0a00531 (error 1)
+L 05/28/2026 - 23:29:01: [SM] Blaming: l4d2_playerjoining_v2.smx
+L 05/28/2026 - 23:29:01: [SM] Call stack trace:
+L 05/28/2026 - 23:29:01: [SM]   [0] KillTimer
+L 05/28/2026 - 23:29:01: [SM]   [1] Line 53, C:\Users\Moises\Downloads\Compressed\sourcemod-1.11.0-git6968-windows\addons\sourcemod\scripting\l4d2_playerjoining_v2.sp::OnClientDisconnect
+L 05/28/2026 - 23:29:04: [SM] Exception reported: Invalid timer handle 4b100591 (error 3)
+L 05/28/2026 - 23:29:04: [SM] Blaming: l4d2_playerjoining_v2.smx
+L 05/28/2026 - 23:29:04: [SM] Call stack trace:
+L 05/28/2026 - 23:29:04: [SM]   [0] KillTimer
+L 05/28/2026 - 23:29:04: [SM]   [1] Line 53, C:\Users\Moises\Downloads\Compressed\sourcemod-1.11.0-git6968-windows\addons\sourcemod\scripting\l4d2_playerjoining_v2.sp::OnClientDisconnect
+L 05/28/2026 - 23:29:04: [SM] Exception reported: Invalid timer handle ee700586 (error 3)
+L 05/28/2026 - 23:29:04: [SM] Blaming: l4d2_playerjoining_v2.smx
+L 05/28/2026 - 23:29:04: [SM] Call stack trace:
+L 05/28/2026 - 23:29:04: [SM]   [0] KillTimer
+L 05/28/2026 - 23:29:04: [SM]   [1] Line 53, C:\Users\Moises\Downloads\Compressed\sourcemod-1.11.0-git6968-windows\addons\sourcemod\scripting\l4d2_playerjoining_v2.sp::OnClientDisconnect
+L 05/28/2026 - 23:29:04: [SM] Exception reported: Invalid timer handle 29a0055d (error 3)
+L 05/28/2026 - 23:29:04: [SM] Blaming: l4d2_playerjoining_v2.smx
+L 05/28/2026 - 23:29:04: [SM] Call stack trace:
+L 05/28/2026 - 23:29:04: [SM]   [0] KillTimer
+L 05/28/2026 - 23:29:04: [SM]   [1] Line 53, C:\Users\Moises\Downloads\Compressed\sourcemod-1.11.0-git6968-windows\addons\sourcemod\scripting\l4d2_playerjoining_v2.sp::OnClientDisconnect
+L 05/28/2026 - 23:29:04: [SM] Exception reported: Invalid timer handle 1bb00597 (error 3)
+L 05/28/2026 - 23:29:04: [SM] Blaming: l4d2_playerjoining_v2.smx
+L 05/28/2026 - 23:29:04: [SM] Call stack trace:
+L 05/28/2026 - 23:29:04: [SM]   [0] KillTimer
+L 05/28/2026 - 23:29:04: [SM]   [1] Line 53, C:\Users\Moises\Downloads\Compressed\sourcemod-1.11.0-git6968-windows\addons\sourcemod\scripting\l4d2_playerjoining_v2.sp::OnClientDisconnect
+L 05/28/2026 - 23:29:07: Error log file session closed.

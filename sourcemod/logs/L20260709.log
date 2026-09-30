@@ -1,0 +1,64 @@
+L 07/09/2026 - 22:49:03: SourceMod log file session started (file "d:\steamlibrary\steamapps\common\left 4 dead 2\left4dead2\addons\sourcemod\logs\L20260709.log") (Version "1.12.0.7207")
+L 07/09/2026 - 22:49:03: [GEOIP] GeoIP2 database loaded: GeoLite2-ASN (2024-08-21 08:15:21 UTC) (d:\steamlibrary\steamapps\common\left 4 dead 2\left4dead2\addons\sourcemod\configs\geoip\GeoLite2-ASN.mmdb)
+L 07/09/2026 - 22:49:03: [GEOIP] GeoIP2 supported languages: en
+L 07/09/2026 - 22:49:03: [GEOIP] Your database is older than 90 days. You should consider downloading a newer version from e.g. https://dev.maxmind.com/geoip/geolite2-free-geolocation-data
+L 07/09/2026 - 22:49:05: [l4d_extinguisher.smx] 
+==========
+Warning: You should install "[L4D2] Scavenge Score Fix - Gascan Pouring" to prevent affecting the score when filling gas in Scavenge style events: https://forums.alliedmods.net/showthread.php?t=187686
+==========
+
+L 07/09/2026 - 22:49:05: [l4d_extinguisher.smx] 
+==========
+Warning: You should install "[L4D & L4D2] Use Priority Patch" to fix attached models blocking +USE action: https://forums.alliedmods.net/showthread.php?t=327511
+==========
+
+L 07/09/2026 - 22:49:17: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_consistency") (value "0")
+L 07/09/2026 - 22:49:17: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_allow_lobby_connect_only") (value "0")
+L 07/09/2026 - 22:49:17: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxplayers") (value "8")
+L 07/09/2026 - 22:49:17: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_visiblemaxplayers") (value "-1")
+L 07/09/2026 - 22:49:17: [chat-processor.smx] Message formats generated for game 'left4dead2'.
+L 07/09/2026 - 22:49:17: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 07/09/2026 - 22:49:24: [l4d2_shop.smx] [LOAD]: "[T-T]MoY<2><STEAM_ID_PENDING><>" loaded the record successfully! Points: "0"
+L 07/09/2026 - 22:56:24: -------- Mapchange to Glubtastic2_1 --------
+L 07/09/2026 - 22:56:26: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_consistency") (value "0")
+L 07/09/2026 - 22:56:26: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_allow_lobby_connect_only") (value "0")
+L 07/09/2026 - 22:56:26: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxplayers") (value "8")
+L 07/09/2026 - 22:56:26: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_visiblemaxplayers") (value "-1")
+L 07/09/2026 - 22:56:27: [chat-processor.smx] Message formats generated for game 'left4dead2'.
+L 07/09/2026 - 22:56:27: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 07/09/2026 - 22:56:34: [l4d2_shop.smx] [LOAD]: "[T-T]MoY<15><STEAM_ID_PENDING><>" loaded the record successfully! Points: "0"
+L 07/09/2026 - 22:57:09: [l4d2_shop.smx] [UPDATE]: "[T-T]MoY<15><STEAM_1:0:511491787><>" saved. Points: "0"
+L 07/09/2026 - 22:58:26: [l4d_sm_respawn.smx] "[T-T]MoY<15><STEAM_1:0:511491787><>" teleported "Nick<28><BOT><>" after respawning him
+L 07/09/2026 - 22:58:27: [l4d_sm_respawn.smx] "[T-T]MoY<15><STEAM_1:0:511491787><>" teleported "Ellis<29><BOT><>" after respawning him
+L 07/09/2026 - 22:58:27: [l4d_sm_respawn.smx] "[T-T]MoY<15><STEAM_1:0:511491787><>" teleported "Rochelle<30><BOT><>" after respawning him
+L 07/09/2026 - 22:59:58: [l4d2_shop.smx] [UPDATE]: "[T-T]MoY<15><STEAM_1:0:511491787><>" saved. Points: "10"
+L 07/09/2026 - 23:05:35: SourceMod log file session started (file "d:\steamlibrary\steamapps\common\left 4 dead 2\left4dead2\addons\sourcemod\logs\L20260709.log") (Version "1.12.0.7207")
+L 07/09/2026 - 23:05:35: [GEOIP] GeoIP2 database loaded: GeoLite2-ASN (2024-08-21 08:15:21 UTC) (d:\steamlibrary\steamapps\common\left 4 dead 2\left4dead2\addons\sourcemod\configs\geoip\GeoLite2-ASN.mmdb)
+L 07/09/2026 - 23:05:35: [GEOIP] GeoIP2 supported languages: en
+L 07/09/2026 - 23:05:35: [GEOIP] Your database is older than 90 days. You should consider downloading a newer version from e.g. https://dev.maxmind.com/geoip/geolite2-free-geolocation-data
+L 07/09/2026 - 23:05:36: [l4d_extinguisher.smx] 
+==========
+Warning: You should install "[L4D2] Scavenge Score Fix - Gascan Pouring" to prevent affecting the score when filling gas in Scavenge style events: https://forums.alliedmods.net/showthread.php?t=187686
+==========
+
+L 07/09/2026 - 23:05:36: [l4d_extinguisher.smx] 
+==========
+Warning: You should install "[L4D & L4D2] Use Priority Patch" to fix attached models blocking +USE action: https://forums.alliedmods.net/showthread.php?t=327511
+==========
+
+L 07/09/2026 - 23:05:43: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_consistency") (value "0")
+L 07/09/2026 - 23:05:43: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_allow_lobby_connect_only") (value "0")
+L 07/09/2026 - 23:05:43: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxplayers") (value "8")
+L 07/09/2026 - 23:05:43: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_visiblemaxplayers") (value "-1")
+L 07/09/2026 - 23:05:43: [chat-processor.smx] Message formats generated for game 'left4dead2'.
+L 07/09/2026 - 23:05:43: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 07/09/2026 - 23:05:49: [l4d2_shop.smx] [LOAD]: "[T-T]MoY<2><STEAM_ID_PENDING><>" loaded the record successfully! Points: "0"
+L 07/09/2026 - 23:14:16: [funcommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" toggled noclip on "[T-T]MoY<2><STEAM_1:0:511491787><>"
+L 07/09/2026 - 23:14:24: [funcommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" toggled noclip on "[T-T]MoY<2><STEAM_1:0:511491787><>"
+L 07/09/2026 - 23:14:25: [funcommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" toggled noclip on "[T-T]MoY<2><STEAM_1:0:511491787><>"
+L 07/09/2026 - 23:14:26: [funcommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" toggled noclip on "[T-T]MoY<2><STEAM_1:0:511491787><>"
+L 07/09/2026 - 23:14:45: [funcommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" toggled noclip on "[T-T]MoY<2><STEAM_1:0:511491787><>"
+L 07/09/2026 - 23:14:52: [funcommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" toggled noclip on "[T-T]MoY<2><STEAM_1:0:511491787><>"
+L 07/09/2026 - 23:15:02: [funcommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" toggled noclip on "[T-T]MoY<2><STEAM_1:0:511491787><>"
+L 07/09/2026 - 23:15:07: [funcommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" toggled noclip on "[T-T]MoY<2><STEAM_1:0:511491787><>"
+L 07/09/2026 - 23:16:36: Log file closed.

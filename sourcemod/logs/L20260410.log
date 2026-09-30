@@ -1,0 +1,796 @@
+L 04/10/2026 - 19:10:43: SourceMod log file session started (file "d:\steamlibrary\steamapps\common\left 4 dead 2\left4dead2\addons\sourcemod\logs\L20260410.log") (Version "1.12.0.7207")
+L 04/10/2026 - 19:10:43: [GEOIP] GeoIP2 database loaded: GeoLite2-ASN (2024-08-21 08:15:21 UTC) (d:\steamlibrary\steamapps\common\left 4 dead 2\left4dead2\addons\sourcemod\configs\geoip\GeoLite2-ASN.mmdb)
+L 04/10/2026 - 19:10:43: [GEOIP] GeoIP2 supported languages: en
+L 04/10/2026 - 19:10:43: [GEOIP] Your database is older than 90 days. You should consider downloading a newer version from e.g. https://dev.maxmind.com/geoip/geolite2-free-geolocation-data
+L 04/10/2026 - 19:10:43: [l4d2_map_rotation.smx] [Rotation] Lista cargada con 5 campañas.
+L 04/10/2026 - 19:10:44: [l4d_extinguisher.smx] 
+==========
+Warning: You should install "[L4D2] Scavenge Score Fix - Gascan Pouring" to prevent affecting the score when filling gas in Scavenge style events: https://forums.alliedmods.net/showthread.php?t=187686
+==========
+
+L 04/10/2026 - 19:10:44: [l4d_extinguisher.smx] 
+==========
+Warning: You should install "[L4D & L4D2] Use Priority Patch" to fix attached models blocking +USE action: https://forums.alliedmods.net/showthread.php?t=327511
+==========
+
+L 04/10/2026 - 19:11:00: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_consistency") (value "0")
+L 04/10/2026 - 19:11:00: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_allow_lobby_connect_only") (value "0")
+L 04/10/2026 - 19:11:00: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxplayers") (value "8")
+L 04/10/2026 - 19:11:00: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_visiblemaxplayers") (value "-1")
+L 04/10/2026 - 19:11:00: [chat-processor.smx] Message formats generated for game 'left4dead2'.
+L 04/10/2026 - 19:11:00: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 04/10/2026 - 19:11:17: [l4d2_shop.smx] [LOAD]: "[T-T]MoY<2><STEAM_1:0:511491787><>" loaded the record successfully! Points: "60"
+L 04/10/2026 - 19:11:34: [basecommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" changed cvar (cvar "sv_gravity") (value "200")
+L 04/10/2026 - 19:11:34: [basecommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" changed cvar (cvar "versus_tank_chance") (value "100")
+L 04/10/2026 - 19:11:35: [l4d2_shop.smx] [UPDATE]: "[T-T]MoY<2><STEAM_1:0:511491787><>" saved. Points: "60"
+L 04/10/2026 - 19:11:35: [l4d2_shop.smx] UPDATE SpecialFunctions SET isEnabled = 1 WHERE steamId = 'STEAM_1:0:511491787' AND (functionNo = 'BLUE_AMMO' OR functionNo = 'GOLD_AMMO')
+L 04/10/2026 - 19:11:39: [basecommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" changed cvar (cvar "sv_gravity") (value "200")
+L 04/10/2026 - 19:11:44: [basecommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" changed cvar (cvar "sv_gravity") (value "800")
+L 04/10/2026 - 19:11:48: [basecommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" changed cvar (cvar "sv_gravity") (value "800")
+L 04/10/2026 - 19:11:57: [funcommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" toggled noclip on "[T-T]MoY<2><STEAM_1:0:511491787><>"
+L 04/10/2026 - 19:11:59: [funcommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" toggled noclip on "[T-T]MoY<2><STEAM_1:0:511491787><>"
+L 04/10/2026 - 19:12:04: [funcommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" toggled noclip on "[T-T]MoY<2><STEAM_1:0:511491787><>"
+L 04/10/2026 - 19:12:05: [funcommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" toggled noclip on "[T-T]MoY<2><STEAM_1:0:511491787><>"
+L 04/10/2026 - 19:14:02: -------- Mapchange to bwm1_climb --------
+L 04/10/2026 - 19:14:07: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_consistency") (value "0")
+L 04/10/2026 - 19:14:07: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_allow_lobby_connect_only") (value "0")
+L 04/10/2026 - 19:14:07: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxplayers") (value "8")
+L 04/10/2026 - 19:14:07: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_visiblemaxplayers") (value "-1")
+L 04/10/2026 - 19:14:07: [chat-processor.smx] Message formats generated for game 'left4dead2'.
+L 04/10/2026 - 19:14:07: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 04/10/2026 - 19:14:22: [l4d2_shop.smx] [LOAD]: "[T-T]MoY<11><STEAM_1:0:511491787><>" loaded the record successfully! Points: "60"
+L 04/10/2026 - 19:14:36: [funcommands.smx] "[T-T]MoY<11><STEAM_1:0:511491787><>" toggled noclip on "[T-T]MoY<11><STEAM_1:0:511491787><>"
+L 04/10/2026 - 19:14:45: [funcommands.smx] "[T-T]MoY<11><STEAM_1:0:511491787><>" toggled noclip on "[T-T]MoY<11><STEAM_1:0:511491787><>"
+L 04/10/2026 - 19:14:46: [funcommands.smx] "[T-T]MoY<11><STEAM_1:0:511491787><>" toggled noclip on "[T-T]MoY<11><STEAM_1:0:511491787><>"
+L 04/10/2026 - 19:14:47: [funcommands.smx] "[T-T]MoY<11><STEAM_1:0:511491787><>" toggled noclip on "[T-T]MoY<11><STEAM_1:0:511491787><>"
+L 04/10/2026 - 19:14:53: [playercommands.smx] "[T-T]MoY<11><STEAM_1:0:511491787><>" slayed "Coach<12><BOT><>"
+L 04/10/2026 - 19:14:53: [playercommands.smx] "[T-T]MoY<11><STEAM_1:0:511491787><>" slayed "Ellis<13><BOT><>"
+L 04/10/2026 - 19:14:53: [playercommands.smx] "[T-T]MoY<11><STEAM_1:0:511491787><>" slayed "Rochelle<14><BOT><>"
+L 04/10/2026 - 19:15:04: -------- Mapchange to bwm2_city --------
+L 04/10/2026 - 19:15:08: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_consistency") (value "0")
+L 04/10/2026 - 19:15:08: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_allow_lobby_connect_only") (value "0")
+L 04/10/2026 - 19:15:08: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxplayers") (value "8")
+L 04/10/2026 - 19:15:08: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_visiblemaxplayers") (value "-1")
+L 04/10/2026 - 19:15:09: [chat-processor.smx] Message formats generated for game 'left4dead2'.
+L 04/10/2026 - 19:15:09: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 04/10/2026 - 19:15:24: [l4d2_shop.smx] [LOAD]: "[T-T]MoY<11><STEAM_1:0:511491787><>" loaded the record successfully! Points: "60"
+L 04/10/2026 - 19:15:30: [funcommands.smx] "[T-T]MoY<11><STEAM_1:0:511491787><>" toggled noclip on "[T-T]MoY<11><STEAM_1:0:511491787><>"
+L 04/10/2026 - 19:15:41: [funcommands.smx] "[T-T]MoY<11><STEAM_1:0:511491787><>" toggled noclip on "[T-T]MoY<11><STEAM_1:0:511491787><>"
+L 04/10/2026 - 19:15:48: [playercommands.smx] "[T-T]MoY<11><STEAM_1:0:511491787><>" slayed "Rochelle<15><BOT><>"
+L 04/10/2026 - 19:15:49: [playercommands.smx] "[T-T]MoY<11><STEAM_1:0:511491787><>" slayed "Coach<16><BOT><>"
+L 04/10/2026 - 19:15:49: [playercommands.smx] "[T-T]MoY<11><STEAM_1:0:511491787><>" slayed "Ellis<17><BOT><>"
+L 04/10/2026 - 19:16:00: -------- Mapchange to bwm3_forest --------
+L 04/10/2026 - 19:16:04: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_consistency") (value "0")
+L 04/10/2026 - 19:16:04: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_allow_lobby_connect_only") (value "0")
+L 04/10/2026 - 19:16:04: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxplayers") (value "8")
+L 04/10/2026 - 19:16:04: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_visiblemaxplayers") (value "-1")
+L 04/10/2026 - 19:16:05: [chat-processor.smx] Message formats generated for game 'left4dead2'.
+L 04/10/2026 - 19:16:05: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 04/10/2026 - 19:16:20: [l4d2_shop.smx] [LOAD]: "[T-T]MoY<11><STEAM_1:0:511491787><>" loaded the record successfully! Points: "60"
+L 04/10/2026 - 19:16:57: [funcommands.smx] "[T-T]MoY<11><STEAM_1:0:511491787><>" toggled noclip on "[T-T]MoY<11><STEAM_1:0:511491787><>"
+L 04/10/2026 - 19:17:13: [funcommands.smx] "[T-T]MoY<11><STEAM_1:0:511491787><>" toggled noclip on "[T-T]MoY<11><STEAM_1:0:511491787><>"
+L 04/10/2026 - 19:17:26: -------- Mapchange to bwm4_rooftops --------
+L 04/10/2026 - 19:17:30: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_consistency") (value "0")
+L 04/10/2026 - 19:17:30: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_allow_lobby_connect_only") (value "0")
+L 04/10/2026 - 19:17:30: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxplayers") (value "8")
+L 04/10/2026 - 19:17:30: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_visiblemaxplayers") (value "-1")
+L 04/10/2026 - 19:17:30: [chat-processor.smx] Message formats generated for game 'left4dead2'.
+L 04/10/2026 - 19:17:30: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 04/10/2026 - 19:18:03: [l4d2_shop.smx] [LOAD]: "[T-T]MoY<11><STEAM_1:0:511491787><>" loaded the record successfully! Points: "60"
+L 04/10/2026 - 19:18:40: [funcommands.smx] "[T-T]MoY<11><STEAM_1:0:511491787><>" toggled noclip on "[T-T]MoY<11><STEAM_1:0:511491787><>"
+L 04/10/2026 - 19:18:49: [funcommands.smx] "[T-T]MoY<11><STEAM_1:0:511491787><>" toggled noclip on "[T-T]MoY<11><STEAM_1:0:511491787><>"
+L 04/10/2026 - 19:18:59: [funcommands.smx] "[T-T]MoY<11><STEAM_1:0:511491787><>" toggled noclip on "[T-T]MoY<11><STEAM_1:0:511491787><>"
+L 04/10/2026 - 19:19:01: [funcommands.smx] "[T-T]MoY<11><STEAM_1:0:511491787><>" toggled noclip on "[T-T]MoY<11><STEAM_1:0:511491787><>"
+L 04/10/2026 - 19:19:02: [funcommands.smx] "[T-T]MoY<11><STEAM_1:0:511491787><>" toggled noclip on "[T-T]MoY<11><STEAM_1:0:511491787><>"
+L 04/10/2026 - 19:19:05: [funcommands.smx] "[T-T]MoY<11><STEAM_1:0:511491787><>" toggled noclip on "[T-T]MoY<11><STEAM_1:0:511491787><>"
+L 04/10/2026 - 19:29:55: [basecommands.smx] "[T-T]MoY<11><STEAM_1:0:511491787><>" changed cvar (cvar "sv_gravity") (value "200")
+L 04/10/2026 - 19:42:48: [l4d2_shop.smx] [UPDATE]: "[T-T]MoY<11><STEAM_1:0:511491787><>" saved. Points: "60"
+L 04/10/2026 - 19:42:48: [l4d2_shop.smx] UPDATE SpecialFunctions SET isEnabled = 1 WHERE steamId = 'STEAM_1:0:511491787' AND (functionNo = 'BLUE_AMMO' OR functionNo = 'GOLD_AMMO')
+L 04/10/2026 - 19:43:02: [funcommands.smx] "[T-T]MoY<11><STEAM_1:0:511491787><>" toggled noclip on "[T-T]MoY<11><STEAM_1:0:511491787><>"
+L 04/10/2026 - 19:43:10: [funcommands.smx] "[T-T]MoY<11><STEAM_1:0:511491787><>" toggled noclip on "[T-T]MoY<11><STEAM_1:0:511491787><>"
+L 04/10/2026 - 19:43:22: [playercommands.smx] "[T-T]MoY<11><STEAM_1:0:511491787><>" slayed "Rochelle<21><BOT><>"
+L 04/10/2026 - 19:43:22: [playercommands.smx] "[T-T]MoY<11><STEAM_1:0:511491787><>" slayed "Coach<22><BOT><>"
+L 04/10/2026 - 19:43:23: [playercommands.smx] "[T-T]MoY<11><STEAM_1:0:511491787><>" slayed "Ellis<23><BOT><>"
+L 04/10/2026 - 19:43:33: -------- Mapchange to bwm5_bridge --------
+L 04/10/2026 - 19:43:38: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_consistency") (value "0")
+L 04/10/2026 - 19:43:38: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_allow_lobby_connect_only") (value "0")
+L 04/10/2026 - 19:43:38: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxplayers") (value "8")
+L 04/10/2026 - 19:43:38: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_visiblemaxplayers") (value "-1")
+L 04/10/2026 - 19:43:38: [chat-processor.smx] Message formats generated for game 'left4dead2'.
+L 04/10/2026 - 19:43:38: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 04/10/2026 - 19:43:53: [l4d2_shop.smx] [LOAD]: "[T-T]MoY<11><STEAM_1:0:511491787><>" loaded the record successfully! Points: "60"
+L 04/10/2026 - 19:57:47: [funcommands.smx] "[T-T]MoY<11><STEAM_1:0:511491787><>" toggled noclip on "[T-T]MoY<11><STEAM_1:0:511491787><>"
+L 04/10/2026 - 19:57:49: [funcommands.smx] "[T-T]MoY<11><STEAM_1:0:511491787><>" toggled noclip on "[T-T]MoY<11><STEAM_1:0:511491787><>"
+L 04/10/2026 - 19:59:08: [playercommands.smx] "[T-T]MoY<11><STEAM_1:0:511491787><>" slayed "Coach<25><BOT><>"
+L 04/10/2026 - 19:59:12: [funcommands.smx] "[T-T]MoY<11><STEAM_1:0:511491787><>" toggled noclip on "[T-T]MoY<11><STEAM_1:0:511491787><>"
+L 04/10/2026 - 19:59:15: [funcommands.smx] "[T-T]MoY<11><STEAM_1:0:511491787><>" toggled noclip on "[T-T]MoY<11><STEAM_1:0:511491787><>"
+L 04/10/2026 - 20:00:51: Log file closed.
+L 04/10/2026 - 20:02:03: SourceMod log file session started (file "d:\steamlibrary\steamapps\common\left 4 dead 2\left4dead2\addons\sourcemod\logs\L20260410.log") (Version "1.12.0.7207")
+L 04/10/2026 - 20:02:03: [GEOIP] GeoIP2 database loaded: GeoLite2-ASN (2024-08-21 08:15:21 UTC) (d:\steamlibrary\steamapps\common\left 4 dead 2\left4dead2\addons\sourcemod\configs\geoip\GeoLite2-ASN.mmdb)
+L 04/10/2026 - 20:02:03: [GEOIP] GeoIP2 supported languages: en
+L 04/10/2026 - 20:02:03: [GEOIP] Your database is older than 90 days. You should consider downloading a newer version from e.g. https://dev.maxmind.com/geoip/geolite2-free-geolocation-data
+L 04/10/2026 - 20:02:03: [l4d2_map_rotation.smx] [Rotation] Lista cargada con 5 campañas.
+L 04/10/2026 - 20:02:04: [l4d_extinguisher.smx] 
+==========
+Warning: You should install "[L4D2] Scavenge Score Fix - Gascan Pouring" to prevent affecting the score when filling gas in Scavenge style events: https://forums.alliedmods.net/showthread.php?t=187686
+==========
+
+L 04/10/2026 - 20:02:04: [l4d_extinguisher.smx] 
+==========
+Warning: You should install "[L4D & L4D2] Use Priority Patch" to fix attached models blocking +USE action: https://forums.alliedmods.net/showthread.php?t=327511
+==========
+
+L 04/10/2026 - 20:02:09: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_consistency") (value "0")
+L 04/10/2026 - 20:02:09: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_allow_lobby_connect_only") (value "0")
+L 04/10/2026 - 20:02:09: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxplayers") (value "8")
+L 04/10/2026 - 20:02:09: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_visiblemaxplayers") (value "-1")
+L 04/10/2026 - 20:02:10: [chat-processor.smx] Message formats generated for game 'left4dead2'.
+L 04/10/2026 - 20:02:10: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 04/10/2026 - 20:02:25: [l4d2_shop.smx] [LOAD]: "[T-T]MoY<2><STEAM_1:0:511491787><>" loaded the record successfully! Points: "60"
+L 04/10/2026 - 20:02:33: [basecommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" changed cvar (cvar "sv_gravity") (value "200")
+L 04/10/2026 - 20:03:48: [l4d2_shop.smx] [UPDATE]: "[T-T]MoY<2><STEAM_1:0:511491787><>" saved. Points: "62"
+L 04/10/2026 - 20:03:48: [l4d2_shop.smx] UPDATE SpecialFunctions SET isEnabled = 1 WHERE steamId = 'STEAM_1:0:511491787' AND (functionNo = 'BLUE_AMMO' OR functionNo = 'GOLD_AMMO')
+L 04/10/2026 - 20:04:14: [l4d2_shop.smx] [UPDATE]: "[T-T]MoY<2><STEAM_1:0:511491787><>" saved. Points: "62"
+L 04/10/2026 - 20:04:14: [l4d2_shop.smx] UPDATE SpecialFunctions SET isEnabled = 1 WHERE steamId = 'STEAM_1:0:511491787' AND (functionNo = 'BLUE_AMMO' OR functionNo = 'GOLD_AMMO')
+L 04/10/2026 - 20:05:52: [l4d2_shop.smx] [UPDATE]: "[T-T]MoY<2><STEAM_1:0:511491787><>" saved. Points: "70"
+L 04/10/2026 - 20:05:52: [l4d2_shop.smx] UPDATE SpecialFunctions SET isEnabled = 1 WHERE steamId = 'STEAM_1:0:511491787' AND (functionNo = 'BLUE_AMMO' OR functionNo = 'GOLD_AMMO')
+L 04/10/2026 - 20:07:47: -------- Mapchange to bwm2_city --------
+L 04/10/2026 - 20:07:52: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_consistency") (value "0")
+L 04/10/2026 - 20:07:52: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_allow_lobby_connect_only") (value "0")
+L 04/10/2026 - 20:07:52: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxplayers") (value "8")
+L 04/10/2026 - 20:07:52: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_visiblemaxplayers") (value "-1")
+L 04/10/2026 - 20:07:52: [chat-processor.smx] Message formats generated for game 'left4dead2'.
+L 04/10/2026 - 20:07:52: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 04/10/2026 - 20:08:07: [l4d2_shop.smx] [LOAD]: "[T-T]MoY<2><STEAM_1:0:511491787><>" loaded the record successfully! Points: "70"
+L 04/10/2026 - 20:08:28: [basecommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" kicked "Sofi <3<23><STEAM_1:0:395818163><>" (reason "")
+L 04/10/2026 - 20:09:51: [l4d2_shop.smx] [UPDATE]: "[T-T]MoY<2><STEAM_1:0:511491787><>" saved. Points: "74"
+L 04/10/2026 - 20:09:51: [l4d2_shop.smx] UPDATE SpecialFunctions SET isEnabled = 1 WHERE steamId = 'STEAM_1:0:511491787' AND (functionNo = 'BLUE_AMMO' OR functionNo = 'GOLD_AMMO')
+L 04/10/2026 - 20:11:23: [l4d2_shop.smx] [UPDATE]: "[T-T]MoY<2><STEAM_1:0:511491787><>" saved. Points: "80"
+L 04/10/2026 - 20:11:23: [l4d2_shop.smx] UPDATE SpecialFunctions SET isEnabled = 1 WHERE steamId = 'STEAM_1:0:511491787' AND (functionNo = 'BLUE_AMMO' OR functionNo = 'GOLD_AMMO')
+L 04/10/2026 - 20:13:10: [l4d2_shop.smx] [UPDATE]: "[T-T]MoY<2><STEAM_1:0:511491787><>" saved. Points: "90"
+L 04/10/2026 - 20:13:10: [l4d2_shop.smx] UPDATE SpecialFunctions SET isEnabled = 1 WHERE steamId = 'STEAM_1:0:511491787' AND (functionNo = 'BLUE_AMMO' OR functionNo = 'GOLD_AMMO')
+L 04/10/2026 - 20:14:16: [l4d2_shop.smx] [INSERT]: "ricardoma316<39><STEAM_1:1:617165358><>" is a new user!!
+L 04/10/2026 - 20:15:07: [l4d2_shop.smx] [UPDATE]: "[T-T]MoY<2><STEAM_1:0:511491787><>" saved. Points: "100"
+L 04/10/2026 - 20:15:07: [l4d2_shop.smx] UPDATE SpecialFunctions SET isEnabled = 1 WHERE steamId = 'STEAM_1:0:511491787' AND (functionNo = 'BLUE_AMMO' OR functionNo = 'GOLD_AMMO')
+L 04/10/2026 - 20:15:07: [l4d2_shop.smx] [UPDATE]: "ricardoma316<39><STEAM_1:1:617165358><>" saved. Points: "4"
+L 04/10/2026 - 20:17:34: -------- Mapchange to bwm3_forest --------
+L 04/10/2026 - 20:17:39: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_consistency") (value "0")
+L 04/10/2026 - 20:17:39: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_allow_lobby_connect_only") (value "0")
+L 04/10/2026 - 20:17:39: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxplayers") (value "8")
+L 04/10/2026 - 20:17:39: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_visiblemaxplayers") (value "-1")
+L 04/10/2026 - 20:17:39: [chat-processor.smx] Message formats generated for game 'left4dead2'.
+L 04/10/2026 - 20:17:39: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 04/10/2026 - 20:17:54: [l4d2_shop.smx] [LOAD]: "[T-T]MoY<2><STEAM_1:0:511491787><>" loaded the record successfully! Points: "100"
+L 04/10/2026 - 20:17:54: [l4d2_shop.smx] [LOAD]: "ricardoma316<39><STEAM_1:1:617165358><>" loaded the record successfully! Points: "4"
+L 04/10/2026 - 20:18:49: [l4d2_shop.smx] [UPDATE]: "[T-T]MoY<2><STEAM_1:0:511491787><>" saved. Points: "100"
+L 04/10/2026 - 20:18:49: [l4d2_shop.smx] UPDATE SpecialFunctions SET isEnabled = 1 WHERE steamId = 'STEAM_1:0:511491787' AND (functionNo = 'BLUE_AMMO' OR functionNo = 'GOLD_AMMO')
+L 04/10/2026 - 20:18:49: [l4d2_shop.smx] [UPDATE]: "ricardoma316<39><STEAM_1:1:617165358><>" saved. Points: "4"
+L 04/10/2026 - 20:20:35: [l4d2_shop.smx] [UPDATE]: "[T-T]MoY<2><STEAM_1:0:511491787><>" saved. Points: "105"
+L 04/10/2026 - 20:20:35: [l4d2_shop.smx] UPDATE SpecialFunctions SET isEnabled = 1 WHERE steamId = 'STEAM_1:0:511491787' AND (functionNo = 'BLUE_AMMO' OR functionNo = 'GOLD_AMMO')
+L 04/10/2026 - 20:20:35: [l4d2_shop.smx] [UPDATE]: "ricardoma316<39><STEAM_1:1:617165358><>" saved. Points: "6"
+L 04/10/2026 - 20:21:54: [l4d2_shop.smx] [UPDATE]: "[T-T]MoY<2><STEAM_1:0:511491787><>" saved. Points: "105"
+L 04/10/2026 - 20:21:54: [l4d2_shop.smx] UPDATE SpecialFunctions SET isEnabled = 1 WHERE steamId = 'STEAM_1:0:511491787' AND (functionNo = 'BLUE_AMMO' OR functionNo = 'GOLD_AMMO')
+L 04/10/2026 - 20:21:54: [l4d2_shop.smx] [UPDATE]: "ricardoma316<39><STEAM_1:1:617165358><>" saved. Points: "6"
+L 04/10/2026 - 20:22:43: [l4d2_shop.smx] [UPDATE]: "[T-T]MoY<2><STEAM_1:0:511491787><>" saved. Points: "107"
+L 04/10/2026 - 20:22:43: [l4d2_shop.smx] UPDATE SpecialFunctions SET isEnabled = 1 WHERE steamId = 'STEAM_1:0:511491787' AND (functionNo = 'BLUE_AMMO' OR functionNo = 'GOLD_AMMO')
+L 04/10/2026 - 20:22:43: [l4d2_shop.smx] [UPDATE]: "ricardoma316<39><STEAM_1:1:617165358><>" saved. Points: "8"
+L 04/10/2026 - 20:23:03: [l4d2_shop.smx] [INSERT]: "tio_rompepoto<67><STEAM_1:0:742079252><>" is a new user!!
+L 04/10/2026 - 20:24:05: [l4d2_shop.smx] [INSERT]: "Jim<64><STEAM_1:1:805729777><>" is a new user!!
+L 04/10/2026 - 20:24:25: [l4d2_shop.smx] [INSERT]: "Blue<72><STEAM_1:0:936739337><>" is a new user!!
+L 04/10/2026 - 20:24:27: [l4d2_shop.smx] [UPDATE]: "[T-T]MoY<2><STEAM_1:0:511491787><>" saved. Points: "109"
+L 04/10/2026 - 20:24:27: [l4d2_shop.smx] UPDATE SpecialFunctions SET isEnabled = 1 WHERE steamId = 'STEAM_1:0:511491787' AND (functionNo = 'BLUE_AMMO' OR functionNo = 'GOLD_AMMO')
+L 04/10/2026 - 20:24:27: [l4d2_shop.smx] [UPDATE]: "Blue<72><STEAM_1:0:936739337><>" saved. Points: "0"
+L 04/10/2026 - 20:24:27: [l4d2_shop.smx] [UPDATE]: "tio_rompepoto<67><STEAM_1:0:742079252><>" saved. Points: "2"
+L 04/10/2026 - 20:24:27: [l4d2_shop.smx] [UPDATE]: "ricardoma316<39><STEAM_1:1:617165358><>" saved. Points: "10"
+L 04/10/2026 - 20:24:27: [l4d2_shop.smx] [UPDATE]: "Jim<64><STEAM_1:1:805729777><>" saved. Points: "2"
+L 04/10/2026 - 20:25:45: [l4d2_shop.smx] [UPDATE]: "[T-T]MoY<2><STEAM_1:0:511491787><>" saved. Points: "109"
+L 04/10/2026 - 20:25:45: [l4d2_shop.smx] UPDATE SpecialFunctions SET isEnabled = 1 WHERE steamId = 'STEAM_1:0:511491787' AND (functionNo = 'BLUE_AMMO' OR functionNo = 'GOLD_AMMO')
+L 04/10/2026 - 20:25:45: [l4d2_shop.smx] [UPDATE]: "Blue<72><STEAM_1:0:936739337><>" saved. Points: "0"
+L 04/10/2026 - 20:25:45: [l4d2_shop.smx] [UPDATE]: "tio_rompepoto<67><STEAM_1:0:742079252><>" saved. Points: "2"
+L 04/10/2026 - 20:25:45: [l4d2_shop.smx] [UPDATE]: "ricardoma316<39><STEAM_1:1:617165358><>" saved. Points: "10"
+L 04/10/2026 - 20:25:45: [l4d2_shop.smx] [UPDATE]: "Jim<64><STEAM_1:1:805729777><>" saved. Points: "2"
+L 04/10/2026 - 20:27:34: [l4d2_shop.smx] [UPDATE]: "[T-T]MoY<2><STEAM_1:0:511491787><>" saved. Points: "115"
+L 04/10/2026 - 20:27:34: [l4d2_shop.smx] UPDATE SpecialFunctions SET isEnabled = 1 WHERE steamId = 'STEAM_1:0:511491787' AND (functionNo = 'BLUE_AMMO' OR functionNo = 'GOLD_AMMO')
+L 04/10/2026 - 20:27:34: [l4d2_shop.smx] [UPDATE]: "tio_rompepoto<67><STEAM_1:0:742079252><>" saved. Points: "8"
+L 04/10/2026 - 20:27:34: [l4d2_shop.smx] [UPDATE]: "ricardoma316<39><STEAM_1:1:617165358><>" saved. Points: "16"
+L 04/10/2026 - 20:27:34: [l4d2_shop.smx] [UPDATE]: "Jim<64><STEAM_1:1:805729777><>" saved. Points: "8"
+L 04/10/2026 - 20:29:50: -------- Mapchange to bwm4_rooftops --------
+L 04/10/2026 - 20:29:54: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_consistency") (value "0")
+L 04/10/2026 - 20:29:54: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_allow_lobby_connect_only") (value "0")
+L 04/10/2026 - 20:29:54: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxplayers") (value "8")
+L 04/10/2026 - 20:29:54: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_visiblemaxplayers") (value "-1")
+L 04/10/2026 - 20:29:54: [chat-processor.smx] Message formats generated for game 'left4dead2'.
+L 04/10/2026 - 20:29:54: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 04/10/2026 - 20:30:20: [l4d2_shop.smx] [LOAD]: "tio_rompepoto<67><STEAM_1:0:742079252><>" loaded the record successfully! Points: "8"
+L 04/10/2026 - 20:30:21: [l4d2_shop.smx] [LOAD]: "ricardoma316<39><STEAM_1:1:617165358><>" loaded the record successfully! Points: "16"
+L 04/10/2026 - 20:30:27: [l4d2_shop.smx] [LOAD]: "[T-T]MoY<2><STEAM_1:0:511491787><>" loaded the record successfully! Points: "115"
+L 04/10/2026 - 20:30:53: [l4d_sm_respawn.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" teleported "Nick<92><BOT><>" after respawning him
+L 04/10/2026 - 20:32:16: [l4d2_shop.smx] [LOAD]: "Jim<64><STEAM_1:1:805729777><>" loaded the record successfully! Points: "8"
+L 04/10/2026 - 20:32:40: [l4d2_shop.smx] [UPDATE]: "[T-T]MoY<2><STEAM_1:0:511491787><>" saved. Points: "125"
+L 04/10/2026 - 20:32:40: [l4d2_shop.smx] UPDATE SpecialFunctions SET isEnabled = 1 WHERE steamId = 'STEAM_1:0:511491787' AND (functionNo = 'BLUE_AMMO' OR functionNo = 'GOLD_AMMO')
+L 04/10/2026 - 20:32:40: [l4d2_shop.smx] [UPDATE]: "tio_rompepoto<67><STEAM_1:0:742079252><>" saved. Points: "18"
+L 04/10/2026 - 20:32:40: [l4d2_shop.smx] [UPDATE]: "ricardoma316<39><STEAM_1:1:617165358><>" saved. Points: "26"
+L 04/10/2026 - 20:32:40: [l4d2_shop.smx] [UPDATE]: "Jim<64><STEAM_1:1:805729777><>" saved. Points: "18"
+L 04/10/2026 - 20:33:36: [l4d2_shop.smx] [INSERT]: "Cuddy<102><STEAM_1:0:189714208><>" is a new user!!
+L 04/10/2026 - 20:35:07: [l4d2_shop.smx] [UPDATE]: "[T-T]MoY<2><STEAM_1:0:511491787><>" saved. Points: "137"
+L 04/10/2026 - 20:35:07: [l4d2_shop.smx] UPDATE SpecialFunctions SET isEnabled = 1 WHERE steamId = 'STEAM_1:0:511491787' AND (functionNo = 'BLUE_AMMO' OR functionNo = 'GOLD_AMMO')
+L 04/10/2026 - 20:35:07: [l4d2_shop.smx] [UPDATE]: "Cuddy<102><STEAM_1:0:189714208><>" saved. Points: "12"
+L 04/10/2026 - 20:35:07: [l4d2_shop.smx] [UPDATE]: "tio_rompepoto<67><STEAM_1:0:742079252><>" saved. Points: "30"
+L 04/10/2026 - 20:35:07: [l4d2_shop.smx] [UPDATE]: "ricardoma316<39><STEAM_1:1:617165358><>" saved. Points: "38"
+L 04/10/2026 - 20:35:07: [l4d2_shop.smx] [UPDATE]: "Jim<64><STEAM_1:1:805729777><>" saved. Points: "30"
+L 04/10/2026 - 20:36:20: [l4d2_shop.smx] [INSERT]: "PICHILIN<113><STEAM_1:1:889352938><>" is a new user!!
+L 04/10/2026 - 20:37:51: -------- Mapchange to bwm5_bridge --------
+L 04/10/2026 - 20:37:55: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_consistency") (value "0")
+L 04/10/2026 - 20:37:55: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_allow_lobby_connect_only") (value "0")
+L 04/10/2026 - 20:37:55: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxplayers") (value "8")
+L 04/10/2026 - 20:37:55: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_visiblemaxplayers") (value "-1")
+L 04/10/2026 - 20:37:55: [chat-processor.smx] Message formats generated for game 'left4dead2'.
+L 04/10/2026 - 20:37:55: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 04/10/2026 - 20:38:10: [l4d2_shop.smx] [LOAD]: "[T-T]MoY<2><STEAM_1:0:511491787><>" loaded the record successfully! Points: "137"
+L 04/10/2026 - 20:38:10: [l4d2_shop.smx] [LOAD]: "ricardoma316<39><STEAM_1:1:617165358><>" loaded the record successfully! Points: "38"
+L 04/10/2026 - 20:38:13: [l4d2_shop.smx] [LOAD]: "tio_rompepoto<67><STEAM_1:0:742079252><>" loaded the record successfully! Points: "30"
+L 04/10/2026 - 20:38:13: [l4d2_shop.smx] [LOAD]: "PICHILIN<113><STEAM_1:1:889352938><>" loaded the record successfully! Points: "0"
+L 04/10/2026 - 20:39:01: [l4d2_shop.smx] [LOAD]: "Jim<64><STEAM_1:1:805729777><>" loaded the record successfully! Points: "30"
+L 04/10/2026 - 20:40:11: [l4d2_shop.smx] [UPDATE]: "[T-T]MoY<2><STEAM_1:0:511491787><>" saved. Points: "137"
+L 04/10/2026 - 20:40:11: [l4d2_shop.smx] UPDATE SpecialFunctions SET isEnabled = 1 WHERE steamId = 'STEAM_1:0:511491787' AND (functionNo = 'BLUE_AMMO' OR functionNo = 'GOLD_AMMO')
+L 04/10/2026 - 20:40:11: [l4d2_shop.smx] [UPDATE]: "PICHILIN<113><STEAM_1:1:889352938><>" saved. Points: "0"
+L 04/10/2026 - 20:40:11: [l4d2_shop.smx] [UPDATE]: "tio_rompepoto<67><STEAM_1:0:742079252><>" saved. Points: "30"
+L 04/10/2026 - 20:40:11: [l4d2_shop.smx] [UPDATE]: "ricardoma316<39><STEAM_1:1:617165358><>" saved. Points: "38"
+L 04/10/2026 - 20:40:57: [l4d2_shop.smx] [UPDATE]: "[T-T]MoY<2><STEAM_1:0:511491787><>" saved. Points: "137"
+L 04/10/2026 - 20:40:57: [l4d2_shop.smx] UPDATE SpecialFunctions SET isEnabled = 1 WHERE steamId = 'STEAM_1:0:511491787' AND (functionNo = 'BLUE_AMMO' OR functionNo = 'GOLD_AMMO')
+L 04/10/2026 - 20:40:57: [l4d2_shop.smx] [UPDATE]: "PICHILIN<113><STEAM_1:1:889352938><>" saved. Points: "0"
+L 04/10/2026 - 20:40:57: [l4d2_shop.smx] [UPDATE]: "tio_rompepoto<67><STEAM_1:0:742079252><>" saved. Points: "30"
+L 04/10/2026 - 20:40:57: [l4d2_shop.smx] [UPDATE]: "ricardoma316<39><STEAM_1:1:617165358><>" saved. Points: "38"
+L 04/10/2026 - 20:42:25: [basevotes.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" initiated a generic vote (question "lo kachan" / answers "Yes" "No").
+L 04/10/2026 - 20:42:46: [basevotes.smx] Vote successful. (Received "100" of 3 votes)
+L 04/10/2026 - 20:42:46: [basevotes.smx] The answer to lo kachan is: Yes.
+L 04/10/2026 - 20:42:48: [l4d2_shop.smx] [UPDATE]: "[T-T]MoY<2><STEAM_1:0:511491787><>" saved. Points: "145"
+L 04/10/2026 - 20:42:48: [l4d2_shop.smx] UPDATE SpecialFunctions SET isEnabled = 1 WHERE steamId = 'STEAM_1:0:511491787' AND (functionNo = 'BLUE_AMMO' OR functionNo = 'GOLD_AMMO')
+L 04/10/2026 - 20:42:48: [l4d2_shop.smx] [UPDATE]: "PICHILIN<113><STEAM_1:1:889352938><>" saved. Points: "11"
+L 04/10/2026 - 20:42:48: [l4d2_shop.smx] [UPDATE]: "tio_rompepoto<67><STEAM_1:0:742079252><>" saved. Points: "38"
+L 04/10/2026 - 20:42:48: [l4d2_shop.smx] [UPDATE]: "ricardoma316<39><STEAM_1:1:617165358><>" saved. Points: "46"
+L 04/10/2026 - 20:44:10: [l4d2_shop.smx] [UPDATE]: "[T-T]MoY<2><STEAM_1:0:511491787><>" saved. Points: "161"
+L 04/10/2026 - 20:44:10: [l4d2_shop.smx] UPDATE SpecialFunctions SET isEnabled = 1 WHERE steamId = 'STEAM_1:0:511491787' AND (functionNo = 'BLUE_AMMO' OR functionNo = 'GOLD_AMMO')
+L 04/10/2026 - 20:44:10: [l4d2_shop.smx] "PICHILIN<113><STEAM_1:1:889352938><>" (Balacne: "5") tansferred "10"+"2" points to "[T-T]MoY<2><STEAM_1:0:511491787><>" (Balacne: "161")
+L 04/10/2026 - 20:44:14: [l4d2_shop.smx] [INSERT]: "paza134<142><STEAM_1:0:844715748><>" is a new user!!
+L 04/10/2026 - 20:45:02: -------- Mapchange to c1m1_hotel --------
+L 04/10/2026 - 20:45:06: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_consistency") (value "0")
+L 04/10/2026 - 20:45:06: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_allow_lobby_connect_only") (value "0")
+L 04/10/2026 - 20:45:06: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxplayers") (value "8")
+L 04/10/2026 - 20:45:06: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_visiblemaxplayers") (value "-1")
+L 04/10/2026 - 20:45:07: [chat-processor.smx] Message formats generated for game 'left4dead2'.
+L 04/10/2026 - 20:45:07: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 04/10/2026 - 20:45:37: [l4d2_shop.smx] [LOAD]: "PICHILIN<113><STEAM_1:1:889352938><>" loaded the record successfully! Points: "11"
+L 04/10/2026 - 20:45:37: [l4d2_shop.smx] [LOAD]: "[T-T]MoY<2><STEAM_1:0:511491787><>" loaded the record successfully! Points: "161"
+L 04/10/2026 - 20:45:39: [l4d2_shop.smx] [LOAD]: "tio_rompepoto<67><STEAM_1:0:742079252><>" loaded the record successfully! Points: "38"
+L 04/10/2026 - 20:46:18: [l4d2_shop.smx] [LOAD]: "paza134<142><STEAM_1:0:844715748><>" loaded the record successfully! Points: "0"
+L 04/10/2026 - 20:46:23: [l4d2_shop.smx] [INSERT]: "  <150><STEAM_1:0:902449919><>" is a new user!!
+L 04/10/2026 - 20:46:58: [l4d2_shop.smx] [UPDATE]: "[T-T]MoY<2><STEAM_1:0:511491787><>" saved. Points: "163"
+L 04/10/2026 - 20:46:58: [l4d2_shop.smx] UPDATE SpecialFunctions SET isEnabled = 1 WHERE steamId = 'STEAM_1:0:511491787' AND (functionNo = 'BLUE_AMMO' OR functionNo = 'GOLD_AMMO')
+L 04/10/2026 - 20:46:58: [l4d2_shop.smx] [UPDATE]: "  <150><STEAM_1:0:902449919><>" saved. Points: "2"
+L 04/10/2026 - 20:46:58: [l4d2_shop.smx] [UPDATE]: "PICHILIN<113><STEAM_1:1:889352938><>" saved. Points: "13"
+L 04/10/2026 - 20:46:58: [l4d2_shop.smx] [UPDATE]: "tio_rompepoto<67><STEAM_1:0:742079252><>" saved. Points: "40"
+L 04/10/2026 - 20:47:10: [l4d2_shop.smx] [INSERT]: "perrohotxd69<154><STEAM_1:0:715897108><>" is a new user!!
+L 04/10/2026 - 20:48:04: [l4d2_shop.smx] [LOAD]: "zack<157><STEAM_1:1:187459272><>" loaded the record successfully! Points: "38"
+L 04/10/2026 - 20:48:14: [l4d2_shop.smx] [LOAD]: "LOUSS<160><STEAM_1:0:931301575><>" loaded the record successfully! Points: "206"
+L 04/10/2026 - 20:48:56: [l4d2_shop.smx] [UPDATE]: "[T-T]MoY<2><STEAM_1:0:511491787><>" saved. Points: "165"
+L 04/10/2026 - 20:48:56: [l4d2_shop.smx] UPDATE SpecialFunctions SET isEnabled = 1 WHERE steamId = 'STEAM_1:0:511491787' AND (functionNo = 'BLUE_AMMO' OR functionNo = 'GOLD_AMMO')
+L 04/10/2026 - 20:48:56: [l4d2_shop.smx] [UPDATE]: "zack<157><STEAM_1:1:187459272><>" saved. Points: "40"
+L 04/10/2026 - 20:48:56: [l4d2_shop.smx] [UPDATE]: "  <150><STEAM_1:0:902449919><>" saved. Points: "4"
+L 04/10/2026 - 20:48:56: [l4d2_shop.smx] [UPDATE]: "perrohotxd69<154><STEAM_1:0:715897108><>" saved. Points: "2"
+L 04/10/2026 - 20:48:56: [l4d2_shop.smx] [UPDATE]: "PICHILIN<113><STEAM_1:1:889352938><>" saved. Points: "15"
+L 04/10/2026 - 20:48:56: [l4d2_shop.smx] [UPDATE]: "tio_rompepoto<67><STEAM_1:0:742079252><>" saved. Points: "42"
+L 04/10/2026 - 20:48:56: [l4d2_shop.smx] [UPDATE]: "LOUSS<160><STEAM_1:0:931301575><>" saved. Points: "208"
+L 04/10/2026 - 20:50:14: [l4d2_shop.smx] [INSERT]: "net<169><STEAM_1:0:442519666><>" is a new user!!
+L 04/10/2026 - 20:50:35: [basevotes.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" initiated a generic vote (question "se lo kachan" / answers "Yes" "No").
+L 04/10/2026 - 20:50:41: [l4d2_shop.smx] [UPDATE]: "[T-T]MoY<2><STEAM_1:0:511491787><>" saved. Points: "167"
+L 04/10/2026 - 20:50:41: [l4d2_shop.smx] UPDATE SpecialFunctions SET isEnabled = 1 WHERE steamId = 'STEAM_1:0:511491787' AND (functionNo = 'BLUE_AMMO' OR functionNo = 'GOLD_AMMO')
+L 04/10/2026 - 20:50:41: [l4d2_shop.smx] [UPDATE]: "zack<157><STEAM_1:1:187459272><>" saved. Points: "42"
+L 04/10/2026 - 20:50:41: [l4d2_shop.smx] [UPDATE]: "  <150><STEAM_1:0:902449919><>" saved. Points: "6"
+L 04/10/2026 - 20:50:41: [l4d2_shop.smx] [UPDATE]: "perrohotxd69<154><STEAM_1:0:715897108><>" saved. Points: "4"
+L 04/10/2026 - 20:50:41: [l4d2_shop.smx] [UPDATE]: "PICHILIN<113><STEAM_1:1:889352938><>" saved. Points: "17"
+L 04/10/2026 - 20:50:41: [l4d2_shop.smx] [UPDATE]: "tio_rompepoto<67><STEAM_1:0:742079252><>" saved. Points: "44"
+L 04/10/2026 - 20:50:41: [l4d2_shop.smx] [UPDATE]: "LOUSS<160><STEAM_1:0:931301575><>" saved. Points: "210"
+L 04/10/2026 - 20:50:41: [l4d2_shop.smx] [UPDATE]: "net<169><STEAM_1:0:442519666><>" saved. Points: "0"
+L 04/10/2026 - 20:50:55: [basevotes.smx] Vote failed. 0% vote required. (Received "40" of 5 votes)
+L 04/10/2026 - 20:51:52: [l4d_sm_respawn.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" teleported "[T-T]MoY<2><STEAM_1:0:511491787><>" after respawning him
+L 04/10/2026 - 20:51:53: [l4d_sm_respawn.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" teleported "LOUSS<160><STEAM_1:0:931301575><>" after respawning him
+L 04/10/2026 - 20:53:49: [l4d2_shop.smx] [INSERT]: "James<179><STEAM_1:1:855495489><>" is a new user!!
+L 04/10/2026 - 20:54:17: -------- Mapchange to c1m2_streets --------
+L 04/10/2026 - 20:54:22: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_consistency") (value "0")
+L 04/10/2026 - 20:54:22: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_allow_lobby_connect_only") (value "0")
+L 04/10/2026 - 20:54:22: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxplayers") (value "8")
+L 04/10/2026 - 20:54:22: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_visiblemaxplayers") (value "-1")
+L 04/10/2026 - 20:54:23: [chat-processor.smx] Message formats generated for game 'left4dead2'.
+L 04/10/2026 - 20:54:23: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 04/10/2026 - 20:54:42: [l4d2_shop.smx] [LOAD]: "LOUSS<160><STEAM_1:0:931301575><>" loaded the record successfully! Points: "210"
+L 04/10/2026 - 20:54:45: [l4d2_shop.smx] [LOAD]: "perrohotxd69<154><STEAM_1:0:715897108><>" loaded the record successfully! Points: "4"
+L 04/10/2026 - 20:54:45: [l4d2_shop.smx] [LOAD]: "net<169><STEAM_1:0:442519666><>" loaded the record successfully! Points: "0"
+L 04/10/2026 - 20:54:47: [l4d2_shop.smx] [LOAD]: "  <150><STEAM_1:0:902449919><>" loaded the record successfully! Points: "6"
+L 04/10/2026 - 20:54:48: [l4d2_shop.smx] [LOAD]: "James<179><STEAM_1:1:855495489><>" loaded the record successfully! Points: "0"
+L 04/10/2026 - 20:54:52: [l4d2_shop.smx] [LOAD]: "zack<157><STEAM_1:1:187459272><>" loaded the record successfully! Points: "42"
+L 04/10/2026 - 20:54:53: [l4d2_shop.smx] [LOAD]: "[T-T]MoY<2><STEAM_1:0:511491787><>" loaded the record successfully! Points: "167"
+L 04/10/2026 - 20:55:09: [l4d2_shop.smx] [LOAD]: "tio_rompepoto<67><STEAM_1:0:742079252><>" loaded the record successfully! Points: "44"
+L 04/10/2026 - 20:55:53: [funcommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" froze "  <150><STEAM_1:0:902449919><>"
+L 04/10/2026 - 20:56:05: [funcommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" froze "  <150><STEAM_1:0:902449919><>"
+L 04/10/2026 - 20:56:45: [l4d2_shop.smx] [UPDATE]: "[T-T]MoY<2><STEAM_1:0:511491787><>" saved. Points: "169"
+L 04/10/2026 - 20:56:45: [l4d2_shop.smx] UPDATE SpecialFunctions SET isEnabled = 1 WHERE steamId = 'STEAM_1:0:511491787' AND (functionNo = 'BLUE_AMMO' OR functionNo = 'GOLD_AMMO')
+L 04/10/2026 - 20:56:45: [l4d2_shop.smx] [UPDATE]: "zack<157><STEAM_1:1:187459272><>" saved. Points: "44"
+L 04/10/2026 - 20:56:45: [l4d2_shop.smx] [UPDATE]: "  <150><STEAM_1:0:902449919><>" saved. Points: "8"
+L 04/10/2026 - 20:56:45: [l4d2_shop.smx] [UPDATE]: "perrohotxd69<154><STEAM_1:0:715897108><>" saved. Points: "6"
+L 04/10/2026 - 20:56:45: [l4d2_shop.smx] [UPDATE]: "tio_rompepoto<67><STEAM_1:0:742079252><>" saved. Points: "46"
+L 04/10/2026 - 20:56:45: [l4d2_shop.smx] [UPDATE]: "James<179><STEAM_1:1:855495489><>" saved. Points: "2"
+L 04/10/2026 - 20:56:45: [l4d2_shop.smx] [UPDATE]: "LOUSS<160><STEAM_1:0:931301575><>" saved. Points: "212"
+L 04/10/2026 - 20:56:45: [l4d2_shop.smx] [UPDATE]: "net<169><STEAM_1:0:442519666><>" saved. Points: "2"
+L 04/10/2026 - 20:57:59: [l4d2_shop.smx] [UPDATE]: "[T-T]MoY<2><STEAM_1:0:511491787><>" saved. Points: "171"
+L 04/10/2026 - 20:57:59: [l4d2_shop.smx] UPDATE SpecialFunctions SET isEnabled = 1 WHERE steamId = 'STEAM_1:0:511491787' AND (functionNo = 'BLUE_AMMO' OR functionNo = 'GOLD_AMMO')
+L 04/10/2026 - 20:57:59: [l4d2_shop.smx] [UPDATE]: "zack<157><STEAM_1:1:187459272><>" saved. Points: "46"
+L 04/10/2026 - 20:57:59: [l4d2_shop.smx] [UPDATE]: "  <150><STEAM_1:0:902449919><>" saved. Points: "10"
+L 04/10/2026 - 20:57:59: [l4d2_shop.smx] [UPDATE]: "perrohotxd69<154><STEAM_1:0:715897108><>" saved. Points: "8"
+L 04/10/2026 - 20:57:59: [l4d2_shop.smx] [UPDATE]: "tio_rompepoto<67><STEAM_1:0:742079252><>" saved. Points: "48"
+L 04/10/2026 - 20:57:59: [l4d2_shop.smx] [UPDATE]: "James<179><STEAM_1:1:855495489><>" saved. Points: "4"
+L 04/10/2026 - 20:57:59: [l4d2_shop.smx] [UPDATE]: "LOUSS<160><STEAM_1:0:931301575><>" saved. Points: "214"
+L 04/10/2026 - 20:58:00: [l4d2_shop.smx] [UPDATE]: "net<169><STEAM_1:0:442519666><>" saved. Points: "4"
+L 04/10/2026 - 20:58:03: [basecommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" kicked "  <150><STEAM_1:0:902449919><>" (reason "")
+L 04/10/2026 - 20:59:07: [l4d2_shop.smx] [LOAD]: "  <203><STEAM_1:0:902449919><>" loaded the record successfully! Points: "10"
+L 04/10/2026 - 21:00:37: [l4d2_shop.smx] [UPDATE]: "[T-T]MoY<2><STEAM_1:0:511491787><>" saved. Points: "175"
+L 04/10/2026 - 21:00:37: [l4d2_shop.smx] UPDATE SpecialFunctions SET isEnabled = 1 WHERE steamId = 'STEAM_1:0:511491787' AND (functionNo = 'BLUE_AMMO' OR functionNo = 'GOLD_AMMO')
+L 04/10/2026 - 21:00:37: [l4d2_shop.smx] [UPDATE]: "zack<157><STEAM_1:1:187459272><>" saved. Points: "50"
+L 04/10/2026 - 21:00:37: [l4d2_shop.smx] [UPDATE]: "perrohotxd69<154><STEAM_1:0:715897108><>" saved. Points: "12"
+L 04/10/2026 - 21:00:37: [l4d2_shop.smx] [UPDATE]: "tio_rompepoto<67><STEAM_1:0:742079252><>" saved. Points: "58"
+L 04/10/2026 - 21:00:37: [l4d2_shop.smx] [UPDATE]: "James<179><STEAM_1:1:855495489><>" saved. Points: "8"
+L 04/10/2026 - 21:00:37: [l4d2_shop.smx] [UPDATE]: "  <203><STEAM_1:0:902449919><>" saved. Points: "18"
+L 04/10/2026 - 21:00:37: [l4d2_shop.smx] [UPDATE]: "LOUSS<160><STEAM_1:0:931301575><>" saved. Points: "218"
+L 04/10/2026 - 21:00:37: [l4d2_shop.smx] [UPDATE]: "net<169><STEAM_1:0:442519666><>" saved. Points: "8"
+L 04/10/2026 - 21:05:18: -------- Mapchange to c1m3_mall --------
+L 04/10/2026 - 21:05:23: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_consistency") (value "0")
+L 04/10/2026 - 21:05:23: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_allow_lobby_connect_only") (value "0")
+L 04/10/2026 - 21:05:23: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxplayers") (value "8")
+L 04/10/2026 - 21:05:23: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_visiblemaxplayers") (value "-1")
+L 04/10/2026 - 21:05:23: [chat-processor.smx] Message formats generated for game 'left4dead2'.
+L 04/10/2026 - 21:05:23: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 04/10/2026 - 21:05:43: [l4d2_shop.smx] [LOAD]: "LOUSS<160><STEAM_1:0:931301575><>" loaded the record successfully! Points: "218"
+L 04/10/2026 - 21:05:46: [l4d2_shop.smx] [LOAD]: "zack<157><STEAM_1:1:187459272><>" loaded the record successfully! Points: "50"
+L 04/10/2026 - 21:05:47: [l4d2_shop.smx] [LOAD]: "net<169><STEAM_1:0:442519666><>" loaded the record successfully! Points: "8"
+L 04/10/2026 - 21:05:54: [l4d2_shop.smx] [LOAD]: "[T-T]MoY<2><STEAM_1:0:511491787><>" loaded the record successfully! Points: "175"
+L 04/10/2026 - 21:05:54: [l4d2_shop.smx] [LOAD]: "tio_rompepoto<67><STEAM_1:0:742079252><>" loaded the record successfully! Points: "58"
+L 04/10/2026 - 21:05:54: [l4d2_shop.smx] [LOAD]: "James<179><STEAM_1:1:855495489><>" loaded the record successfully! Points: "8"
+L 04/10/2026 - 21:06:42: [l4d2_shop.smx] [LOAD]: "UNDYNE<233><STEAM_1:0:198960799><>" loaded the record successfully! Points: "26"
+L 04/10/2026 - 21:08:08: [l4d2_shop.smx] [UPDATE]: "[T-T]MoY<2><STEAM_1:0:511491787><>" saved. Points: "175"
+L 04/10/2026 - 21:08:08: [l4d2_shop.smx] UPDATE SpecialFunctions SET isEnabled = 1 WHERE steamId = 'STEAM_1:0:511491787' AND (functionNo = 'BLUE_AMMO' OR functionNo = 'GOLD_AMMO')
+L 04/10/2026 - 21:08:08: [l4d2_shop.smx] [UPDATE]: "zack<157><STEAM_1:1:187459272><>" saved. Points: "50"
+L 04/10/2026 - 21:08:08: [l4d2_shop.smx] [UPDATE]: "UNDYNE<233><STEAM_1:0:198960799><>" saved. Points: "26"
+L 04/10/2026 - 21:08:08: [l4d2_shop.smx] [UPDATE]: "tio_rompepoto<67><STEAM_1:0:742079252><>" saved. Points: "58"
+L 04/10/2026 - 21:08:08: [l4d2_shop.smx] [UPDATE]: "James<179><STEAM_1:1:855495489><>" saved. Points: "8"
+L 04/10/2026 - 21:08:08: [l4d2_shop.smx] [UPDATE]: "LOUSS<160><STEAM_1:0:931301575><>" saved. Points: "223"
+L 04/10/2026 - 21:08:08: [l4d2_shop.smx] [UPDATE]: "net<169><STEAM_1:0:442519666><>" saved. Points: "8"
+L 04/10/2026 - 21:09:44: [l4d2_shop.smx] [UPDATE]: "[T-T]MoY<2><STEAM_1:0:511491787><>" saved. Points: "175"
+L 04/10/2026 - 21:09:44: [l4d2_shop.smx] UPDATE SpecialFunctions SET isEnabled = 1 WHERE steamId = 'STEAM_1:0:511491787' AND (functionNo = 'BLUE_AMMO' OR functionNo = 'GOLD_AMMO')
+L 04/10/2026 - 21:09:44: [l4d2_shop.smx] [UPDATE]: "zack<157><STEAM_1:1:187459272><>" saved. Points: "50"
+L 04/10/2026 - 21:09:44: [l4d2_shop.smx] [UPDATE]: "UNDYNE<233><STEAM_1:0:198960799><>" saved. Points: "26"
+L 04/10/2026 - 21:09:44: [l4d2_shop.smx] [UPDATE]: "tio_rompepoto<67><STEAM_1:0:742079252><>" saved. Points: "58"
+L 04/10/2026 - 21:09:44: [l4d2_shop.smx] [UPDATE]: "James<179><STEAM_1:1:855495489><>" saved. Points: "8"
+L 04/10/2026 - 21:09:44: [l4d2_shop.smx] [UPDATE]: "LOUSS<160><STEAM_1:0:931301575><>" saved. Points: "223"
+L 04/10/2026 - 21:09:44: [l4d2_shop.smx] [UPDATE]: "net<169><STEAM_1:0:442519666><>" saved. Points: "8"
+L 04/10/2026 - 21:12:00: [l4d2_shop.smx] [INSERT]: "khia<251><STEAM_1:0:396140887><>" is a new user!!
+L 04/10/2026 - 21:12:38: -------- Mapchange to c1m4_atrium --------
+L 04/10/2026 - 21:12:42: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_consistency") (value "0")
+L 04/10/2026 - 21:12:42: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_allow_lobby_connect_only") (value "0")
+L 04/10/2026 - 21:12:42: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxplayers") (value "8")
+L 04/10/2026 - 21:12:42: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_visiblemaxplayers") (value "-1")
+L 04/10/2026 - 21:12:43: [chat-processor.smx] Message formats generated for game 'left4dead2'.
+L 04/10/2026 - 21:12:43: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 04/10/2026 - 21:13:03: [l4d2_shop.smx] [LOAD]: "LOUSS<160><STEAM_1:0:931301575><>" loaded the record successfully! Points: "223"
+L 04/10/2026 - 21:13:04: [l4d2_shop.smx] [LOAD]: "net<169><STEAM_1:0:442519666><>" loaded the record successfully! Points: "8"
+L 04/10/2026 - 21:13:05: [l4d2_shop.smx] [LOAD]: "khia<251><STEAM_1:0:396140887><>" loaded the record successfully! Points: "0"
+L 04/10/2026 - 21:13:07: [l4d2_shop.smx] [LOAD]: "UNDYNE<233><STEAM_1:0:198960799><>" loaded the record successfully! Points: "26"
+L 04/10/2026 - 21:13:13: [l4d2_shop.smx] [LOAD]: "James<179><STEAM_1:1:855495489><>" loaded the record successfully! Points: "8"
+L 04/10/2026 - 21:13:13: [l4d2_shop.smx] [LOAD]: "[T-T]MoY<2><STEAM_1:0:511491787><>" loaded the record successfully! Points: "175"
+L 04/10/2026 - 21:13:14: [l4d2_shop.smx] [LOAD]: "tio_rompepoto<67><STEAM_1:0:742079252><>" loaded the record successfully! Points: "58"
+L 04/10/2026 - 21:13:53: [l4d_sm_respawn.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" teleported "UNDYNE<233><STEAM_1:0:198960799><>" after respawning him
+L 04/10/2026 - 21:13:53: [l4d_sm_respawn.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" teleported "tio_rompepoto<67><STEAM_1:0:742079252><>" after respawning him
+L 04/10/2026 - 21:13:53: [l4d_sm_respawn.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" teleported "net<169><STEAM_1:0:442519666><>" after respawning him
+L 04/10/2026 - 21:15:23: [l4d_sm_respawn.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" teleported "tio_rompepoto<67><STEAM_1:0:742079252><>" after respawning him
+L 04/10/2026 - 21:16:22: [l4d_sm_respawn.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" teleported "James<179><STEAM_1:1:855495489><>" after respawning him
+L 04/10/2026 - 21:16:33: [l4d_sm_respawn.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" teleported "James<179><STEAM_1:1:855495489><>" after respawning him
+L 04/10/2026 - 21:16:43: [l4d_sm_respawn.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" teleported "[T-T]MoY<2><STEAM_1:0:511491787><>" after respawning him
+L 04/10/2026 - 21:16:53: [l4d_sm_respawn.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" teleported "LOUSS<160><STEAM_1:0:931301575><>" after respawning him
+L 04/10/2026 - 21:18:53: -------- Mapchange to c2m1_highway --------
+L 04/10/2026 - 21:18:58: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_consistency") (value "0")
+L 04/10/2026 - 21:18:58: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_allow_lobby_connect_only") (value "0")
+L 04/10/2026 - 21:18:58: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxplayers") (value "8")
+L 04/10/2026 - 21:18:58: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_visiblemaxplayers") (value "-1")
+L 04/10/2026 - 21:18:58: [chat-processor.smx] Message formats generated for game 'left4dead2'.
+L 04/10/2026 - 21:18:58: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 04/10/2026 - 21:19:18: [l4d2_shop.smx] [LOAD]: "LOUSS<160><STEAM_1:0:931301575><>" loaded the record successfully! Points: "223"
+L 04/10/2026 - 21:19:21: [l4d2_shop.smx] [LOAD]: "net<169><STEAM_1:0:442519666><>" loaded the record successfully! Points: "8"
+L 04/10/2026 - 21:19:27: [l4d2_shop.smx] [LOAD]: "khia<251><STEAM_1:0:396140887><>" loaded the record successfully! Points: "0"
+L 04/10/2026 - 21:19:28: [l4d2_shop.smx] [LOAD]: "UNDYNE<233><STEAM_1:0:198960799><>" loaded the record successfully! Points: "26"
+L 04/10/2026 - 21:19:29: [l4d2_shop.smx] [LOAD]: "[T-T]MoY<2><STEAM_1:0:511491787><>" loaded the record successfully! Points: "175"
+L 04/10/2026 - 21:19:29: [l4d2_shop.smx] [LOAD]: "James<179><STEAM_1:1:855495489><>" loaded the record successfully! Points: "8"
+L 04/10/2026 - 21:19:29: [l4d2_shop.smx] [LOAD]: "tio_rompepoto<67><STEAM_1:0:742079252><>" loaded the record successfully! Points: "58"
+L 04/10/2026 - 21:21:51: [funcommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" froze "tio_rompepoto<67><STEAM_1:0:742079252><>"
+L 04/10/2026 - 21:22:32: [l4d2_shop.smx] [LOAD]: "Ghøst_Recøn501<293><STEAM_1:0:197754918><>" loaded the record successfully! Points: "12"
+L 04/10/2026 - 21:22:58: -------- Mapchange to c2m2_fairgrounds --------
+L 04/10/2026 - 21:23:03: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_consistency") (value "0")
+L 04/10/2026 - 21:23:03: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_allow_lobby_connect_only") (value "0")
+L 04/10/2026 - 21:23:03: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxplayers") (value "8")
+L 04/10/2026 - 21:23:03: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_visiblemaxplayers") (value "-1")
+L 04/10/2026 - 21:23:03: [chat-processor.smx] Message formats generated for game 'left4dead2'.
+L 04/10/2026 - 21:23:03: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 04/10/2026 - 21:23:18: [l4d2_shop.smx] [LOAD]: "LOUSS<160><STEAM_1:0:931301575><>" loaded the record successfully! Points: "223"
+L 04/10/2026 - 21:23:19: [l4d2_shop.smx] [LOAD]: "[T-T]MoY<2><STEAM_1:0:511491787><>" loaded the record successfully! Points: "175"
+L 04/10/2026 - 21:23:19: [l4d2_shop.smx] [LOAD]: "net<169><STEAM_1:0:442519666><>" loaded the record successfully! Points: "8"
+L 04/10/2026 - 21:23:19: [l4d2_shop.smx] [LOAD]: "Ghøst_Recøn501<293><STEAM_1:0:197754918><>" loaded the record successfully! Points: "12"
+L 04/10/2026 - 21:23:19: [l4d2_shop.smx] [LOAD]: "khia<251><STEAM_1:0:396140887><>" loaded the record successfully! Points: "0"
+L 04/10/2026 - 21:23:23: [l4d2_shop.smx] [LOAD]: "UNDYNE<233><STEAM_1:0:198960799><>" loaded the record successfully! Points: "26"
+L 04/10/2026 - 21:23:25: [l4d2_shop.smx] [LOAD]: "James<179><STEAM_1:1:855495489><>" loaded the record successfully! Points: "8"
+L 04/10/2026 - 21:23:52: [l4d2_shop.smx] [LOAD]: "tio_rompepoto<67><STEAM_1:0:742079252><>" loaded the record successfully! Points: "58"
+L 04/10/2026 - 21:25:55: [l4d2_shop.smx] [INSERT]: "ןєคภ ιωι<306><STEAM_1:0:716564753><>" is a new user!!
+L 04/10/2026 - 21:27:01: [l4d2_shop.smx] [UPDATE]: "[T-T]MoY<2><STEAM_1:0:511491787><>" saved. Points: "189"
+L 04/10/2026 - 21:27:01: [l4d2_shop.smx] UPDATE SpecialFunctions SET isEnabled = 1 WHERE steamId = 'STEAM_1:0:511491787' AND (functionNo = 'BLUE_AMMO' OR functionNo = 'GOLD_AMMO')
+L 04/10/2026 - 21:27:01: [l4d2_shop.smx] [UPDATE]: "UNDYNE<233><STEAM_1:0:198960799><>" saved. Points: "49"
+L 04/10/2026 - 21:27:01: [l4d2_shop.smx] [UPDATE]: "tio_rompepoto<67><STEAM_1:0:742079252><>" saved. Points: "74"
+L 04/10/2026 - 21:27:01: [l4d2_shop.smx] [UPDATE]: "James<179><STEAM_1:1:855495489><>" saved. Points: "22"
+L 04/10/2026 - 21:27:01: [l4d2_shop.smx] [UPDATE]: "LOUSS<160><STEAM_1:0:931301575><>" saved. Points: "240"
+L 04/10/2026 - 21:27:01: [l4d2_shop.smx] [UPDATE]: "ןєคภ ιωι<306><STEAM_1:0:716564753><>" saved. Points: "12"
+L 04/10/2026 - 21:27:01: [l4d2_shop.smx] [UPDATE]: "khia<251><STEAM_1:0:396140887><>" saved. Points: "14"
+L 04/10/2026 - 21:27:01: [l4d2_shop.smx] [UPDATE]: "Ghøst_Recøn501<293><STEAM_1:0:197754918><>" saved. Points: "26"
+L 04/10/2026 - 21:27:40: [l4d_sm_respawn.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" teleported "tio_rompepoto<67><STEAM_1:0:742079252><>" after respawning him
+L 04/10/2026 - 21:27:40: [l4d_sm_respawn.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" teleported "James<179><STEAM_1:1:855495489><>" after respawning him
+L 04/10/2026 - 21:28:50: [l4d2_shop.smx] [INSERT]: "SebastianRod<319><STEAM_1:0:569972164><>" is a new user!!
+L 04/10/2026 - 21:30:18: [l4d2_shop.smx] [INSERT]: "cristopher<327><STEAM_1:1:953629759><>" is a new user!!
+L 04/10/2026 - 21:30:33: -------- Mapchange to c2m3_coaster --------
+L 04/10/2026 - 21:30:38: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_consistency") (value "0")
+L 04/10/2026 - 21:30:38: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_allow_lobby_connect_only") (value "0")
+L 04/10/2026 - 21:30:38: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxplayers") (value "8")
+L 04/10/2026 - 21:30:38: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_visiblemaxplayers") (value "-1")
+L 04/10/2026 - 21:30:38: [chat-processor.smx] Message formats generated for game 'left4dead2'.
+L 04/10/2026 - 21:30:38: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 04/10/2026 - 21:30:53: [l4d2_shop.smx] [LOAD]: "LOUSS<160><STEAM_1:0:931301575><>" loaded the record successfully! Points: "240"
+L 04/10/2026 - 21:30:53: [l4d2_shop.smx] [LOAD]: "khia<251><STEAM_1:0:396140887><>" loaded the record successfully! Points: "14"
+L 04/10/2026 - 21:30:54: [l4d2_shop.smx] [LOAD]: "[T-T]MoY<2><STEAM_1:0:511491787><>" loaded the record successfully! Points: "189"
+L 04/10/2026 - 21:30:54: [l4d2_shop.smx] [LOAD]: "Ghøst_Recøn501<293><STEAM_1:0:197754918><>" loaded the record successfully! Points: "26"
+L 04/10/2026 - 21:30:54: [l4d2_shop.smx] [LOAD]: "cristopher<327><STEAM_1:1:953629759><>" loaded the record successfully! Points: "0"
+L 04/10/2026 - 21:30:56: [l4d2_shop.smx] [LOAD]: "tio_rompepoto<67><STEAM_1:0:742079252><>" loaded the record successfully! Points: "74"
+L 04/10/2026 - 21:30:56: [l4d2_shop.smx] [LOAD]: "UNDYNE<233><STEAM_1:0:198960799><>" loaded the record successfully! Points: "49"
+L 04/10/2026 - 21:30:59: [l4d2_shop.smx] [LOAD]: "James<179><STEAM_1:1:855495489><>" loaded the record successfully! Points: "22"
+L 04/10/2026 - 21:31:30: [basecommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" kicked "tio_rompepoto<67><STEAM_1:0:742079252><>" (reason "")
+L 04/10/2026 - 21:32:02: [l4d2_shop.smx] [UPDATE]: "[T-T]MoY<2><STEAM_1:0:511491787><>" saved. Points: "191"
+L 04/10/2026 - 21:32:02: [l4d2_shop.smx] UPDATE SpecialFunctions SET isEnabled = 1 WHERE steamId = 'STEAM_1:0:511491787' AND (functionNo = 'BLUE_AMMO' OR functionNo = 'GOLD_AMMO')
+L 04/10/2026 - 21:32:02: [l4d2_shop.smx] [UPDATE]: "UNDYNE<233><STEAM_1:0:198960799><>" saved. Points: "51"
+L 04/10/2026 - 21:32:02: [l4d2_shop.smx] [UPDATE]: "James<179><STEAM_1:1:855495489><>" saved. Points: "24"
+L 04/10/2026 - 21:32:02: [l4d2_shop.smx] [UPDATE]: "cristopher<327><STEAM_1:1:953629759><>" saved. Points: "2"
+L 04/10/2026 - 21:32:02: [l4d2_shop.smx] [UPDATE]: "LOUSS<160><STEAM_1:0:931301575><>" saved. Points: "242"
+L 04/10/2026 - 21:32:02: [l4d2_shop.smx] [UPDATE]: "khia<251><STEAM_1:0:396140887><>" saved. Points: "16"
+L 04/10/2026 - 21:32:02: [l4d2_shop.smx] [UPDATE]: "Ghøst_Recøn501<293><STEAM_1:0:197754918><>" saved. Points: "28"
+L 04/10/2026 - 21:32:29: [l4d2_shop.smx] [INSERT]: "chat gpt de tu cerro papi<338><STEAM_1:0:397748970><>" is a new user!!
+L 04/10/2026 - 21:32:57: [basevotes.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" initiated a generic vote (question "lo muteo ?" / answers "Yes" "No").
+L 04/10/2026 - 21:33:18: [basevotes.smx] Vote successful. (Received "100" of 3 votes)
+L 04/10/2026 - 21:33:18: [basevotes.smx] The answer to lo muteo ? is: Yes.
+L 04/10/2026 - 21:33:32: [l4d2_shop.smx] [UPDATE]: "[T-T]MoY<2><STEAM_1:0:511491787><>" saved. Points: "191"
+L 04/10/2026 - 21:33:32: [l4d2_shop.smx] UPDATE SpecialFunctions SET isEnabled = 1 WHERE steamId = 'STEAM_1:0:511491787' AND (functionNo = 'BLUE_AMMO' OR functionNo = 'GOLD_AMMO')
+L 04/10/2026 - 21:33:32: [l4d2_shop.smx] [UPDATE]: "UNDYNE<233><STEAM_1:0:198960799><>" saved. Points: "51"
+L 04/10/2026 - 21:33:32: [l4d2_shop.smx] [UPDATE]: "chat gpt de tu cerro papi<338><STEAM_1:0:397748970><>" saved. Points: "0"
+L 04/10/2026 - 21:33:32: [l4d2_shop.smx] [UPDATE]: "James<179><STEAM_1:1:855495489><>" saved. Points: "24"
+L 04/10/2026 - 21:33:32: [l4d2_shop.smx] [UPDATE]: "cristopher<327><STEAM_1:1:953629759><>" saved. Points: "2"
+L 04/10/2026 - 21:33:32: [l4d2_shop.smx] [UPDATE]: "LOUSS<160><STEAM_1:0:931301575><>" saved. Points: "242"
+L 04/10/2026 - 21:33:32: [l4d2_shop.smx] [UPDATE]: "khia<251><STEAM_1:0:396140887><>" saved. Points: "16"
+L 04/10/2026 - 21:33:32: [l4d2_shop.smx] [UPDATE]: "Ghøst_Recøn501<293><STEAM_1:0:197754918><>" saved. Points: "28"
+L 04/10/2026 - 21:33:48: [basecomm.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" silenced "chat gpt de tu cerro papi<338><STEAM_1:0:397748970><>"
+L 04/10/2026 - 21:36:41: [l4d2_shop.smx] [UPDATE]: "[T-T]MoY<2><STEAM_1:0:511491787><>" saved. Points: "195"
+L 04/10/2026 - 21:36:41: [l4d2_shop.smx] UPDATE SpecialFunctions SET isEnabled = 1 WHERE steamId = 'STEAM_1:0:511491787' AND (functionNo = 'BLUE_AMMO' OR functionNo = 'GOLD_AMMO')
+L 04/10/2026 - 21:36:41: [l4d2_shop.smx] [UPDATE]: "UNDYNE<233><STEAM_1:0:198960799><>" saved. Points: "58"
+L 04/10/2026 - 21:36:41: [l4d2_shop.smx] [UPDATE]: "chat gpt de tu cerro papi<338><STEAM_1:0:397748970><>" saved. Points: "4"
+L 04/10/2026 - 21:36:41: [l4d2_shop.smx] [UPDATE]: "James<179><STEAM_1:1:855495489><>" saved. Points: "28"
+L 04/10/2026 - 21:36:41: [l4d2_shop.smx] [UPDATE]: "cristopher<327><STEAM_1:1:953629759><>" saved. Points: "6"
+L 04/10/2026 - 21:36:41: [l4d2_shop.smx] [UPDATE]: "LOUSS<160><STEAM_1:0:931301575><>" saved. Points: "246"
+L 04/10/2026 - 21:36:41: [l4d2_shop.smx] [UPDATE]: "khia<251><STEAM_1:0:396140887><>" saved. Points: "20"
+L 04/10/2026 - 21:36:41: [l4d2_shop.smx] [UPDATE]: "Ghøst_Recøn501<293><STEAM_1:0:197754918><>" saved. Points: "40"
+L 04/10/2026 - 21:38:46: [l4d2_shop.smx] [UPDATE]: "[T-T]MoY<2><STEAM_1:0:511491787><>" saved. Points: "195"
+L 04/10/2026 - 21:38:46: [l4d2_shop.smx] UPDATE SpecialFunctions SET isEnabled = 1 WHERE steamId = 'STEAM_1:0:511491787' AND (functionNo = 'BLUE_AMMO' OR functionNo = 'GOLD_AMMO')
+L 04/10/2026 - 21:38:46: [l4d2_shop.smx] [UPDATE]: "UNDYNE<233><STEAM_1:0:198960799><>" saved. Points: "58"
+L 04/10/2026 - 21:38:46: [l4d2_shop.smx] [UPDATE]: "James<179><STEAM_1:1:855495489><>" saved. Points: "28"
+L 04/10/2026 - 21:38:46: [l4d2_shop.smx] [UPDATE]: "cristopher<327><STEAM_1:1:953629759><>" saved. Points: "6"
+L 04/10/2026 - 21:38:46: [l4d2_shop.smx] [UPDATE]: "LOUSS<160><STEAM_1:0:931301575><>" saved. Points: "250"
+L 04/10/2026 - 21:38:46: [l4d2_shop.smx] [UPDATE]: "khia<251><STEAM_1:0:396140887><>" saved. Points: "20"
+L 04/10/2026 - 21:38:46: [l4d2_shop.smx] [UPDATE]: "Ghøst_Recøn501<293><STEAM_1:0:197754918><>" saved. Points: "40"
+L 04/10/2026 - 21:40:50: [l4d2_shop.smx] [UPDATE]: "[T-T]MoY<2><STEAM_1:0:511491787><>" saved. Points: "195"
+L 04/10/2026 - 21:40:50: [l4d2_shop.smx] UPDATE SpecialFunctions SET isEnabled = 1 WHERE steamId = 'STEAM_1:0:511491787' AND (functionNo = 'BLUE_AMMO' OR functionNo = 'GOLD_AMMO')
+L 04/10/2026 - 21:40:50: [l4d2_shop.smx] [UPDATE]: "UNDYNE<233><STEAM_1:0:198960799><>" saved. Points: "58"
+L 04/10/2026 - 21:40:50: [l4d2_shop.smx] [UPDATE]: "James<179><STEAM_1:1:855495489><>" saved. Points: "28"
+L 04/10/2026 - 21:40:50: [l4d2_shop.smx] [UPDATE]: "cristopher<327><STEAM_1:1:953629759><>" saved. Points: "6"
+L 04/10/2026 - 21:40:50: [l4d2_shop.smx] [UPDATE]: "LOUSS<160><STEAM_1:0:931301575><>" saved. Points: "250"
+L 04/10/2026 - 21:40:50: [l4d2_shop.smx] [UPDATE]: "khia<251><STEAM_1:0:396140887><>" saved. Points: "20"
+L 04/10/2026 - 21:40:50: [l4d2_shop.smx] [UPDATE]: "Ghøst_Recøn501<293><STEAM_1:0:197754918><>" saved. Points: "40"
+L 04/10/2026 - 21:42:38: [l4d2_shop.smx] [INSERT]: "Sigmund roy<375><STEAM_1:0:884811660><>" is a new user!!
+L 04/10/2026 - 21:44:50: -------- Mapchange to c2m4_barns --------
+L 04/10/2026 - 21:44:55: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_consistency") (value "0")
+L 04/10/2026 - 21:44:55: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_allow_lobby_connect_only") (value "0")
+L 04/10/2026 - 21:44:55: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxplayers") (value "8")
+L 04/10/2026 - 21:44:55: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_visiblemaxplayers") (value "-1")
+L 04/10/2026 - 21:44:55: [chat-processor.smx] Message formats generated for game 'left4dead2'.
+L 04/10/2026 - 21:44:55: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 04/10/2026 - 21:45:15: [l4d2_shop.smx] [LOAD]: "LOUSS<160><STEAM_1:0:931301575><>" loaded the record successfully! Points: "250"
+L 04/10/2026 - 21:45:16: [l4d2_shop.smx] [LOAD]: "cristopher<327><STEAM_1:1:953629759><>" loaded the record successfully! Points: "6"
+L 04/10/2026 - 21:45:17: [l4d2_shop.smx] [LOAD]: "Ghøst_Recøn501<293><STEAM_1:0:197754918><>" loaded the record successfully! Points: "40"
+L 04/10/2026 - 21:45:18: [l4d2_shop.smx] [LOAD]: "khia<251><STEAM_1:0:396140887><>" loaded the record successfully! Points: "20"
+L 04/10/2026 - 21:45:20: [l4d2_shop.smx] [LOAD]: "Sigmund roy<375><STEAM_1:0:884811660><>" loaded the record successfully! Points: "0"
+L 04/10/2026 - 21:45:20: [l4d2_shop.smx] [LOAD]: "UNDYNE<233><STEAM_1:0:198960799><>" loaded the record successfully! Points: "58"
+L 04/10/2026 - 21:45:25: [l4d2_shop.smx] [LOAD]: "James<179><STEAM_1:1:855495489><>" loaded the record successfully! Points: "28"
+L 04/10/2026 - 21:45:26: [l4d2_shop.smx] [LOAD]: "[T-T]MoY<2><STEAM_1:0:511491787><>" loaded the record successfully! Points: "195"
+L 04/10/2026 - 21:48:46: -------- Mapchange to c2m5_concert --------
+L 04/10/2026 - 21:48:51: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_consistency") (value "0")
+L 04/10/2026 - 21:48:51: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_allow_lobby_connect_only") (value "0")
+L 04/10/2026 - 21:48:51: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxplayers") (value "8")
+L 04/10/2026 - 21:48:51: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_visiblemaxplayers") (value "-1")
+L 04/10/2026 - 21:48:51: [chat-processor.smx] Message formats generated for game 'left4dead2'.
+L 04/10/2026 - 21:48:51: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 04/10/2026 - 21:49:06: [l4d2_shop.smx] [LOAD]: "cristopher<327><STEAM_1:1:953629759><>" loaded the record successfully! Points: "6"
+L 04/10/2026 - 21:49:06: [l4d2_shop.smx] [LOAD]: "LOUSS<160><STEAM_1:0:931301575><>" loaded the record successfully! Points: "250"
+L 04/10/2026 - 21:49:06: [l4d2_shop.smx] [LOAD]: "khia<251><STEAM_1:0:396140887><>" loaded the record successfully! Points: "20"
+L 04/10/2026 - 21:49:07: [l4d2_shop.smx] [LOAD]: "[T-T]MoY<2><STEAM_1:0:511491787><>" loaded the record successfully! Points: "195"
+L 04/10/2026 - 21:49:07: [l4d2_shop.smx] [LOAD]: "Ghøst_Recøn501<293><STEAM_1:0:197754918><>" loaded the record successfully! Points: "40"
+L 04/10/2026 - 21:49:07: [l4d2_shop.smx] [LOAD]: "UNDYNE<233><STEAM_1:0:198960799><>" loaded the record successfully! Points: "58"
+L 04/10/2026 - 21:49:08: [l4d2_shop.smx] [LOAD]: "Sigmund roy<375><STEAM_1:0:884811660><>" loaded the record successfully! Points: "0"
+L 04/10/2026 - 21:49:10: [l4d2_shop.smx] [LOAD]: "James<179><STEAM_1:1:855495489><>" loaded the record successfully! Points: "28"
+L 04/10/2026 - 21:49:46: [l4d_sm_respawn.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" teleported "cristopher<327><STEAM_1:1:953629759><>" after respawning him
+L 04/10/2026 - 21:49:46: [l4d_sm_respawn.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" teleported "Ghøst_Recøn501<293><STEAM_1:0:197754918><>" after respawning him
+L 04/10/2026 - 21:49:53: [l4d_sm_respawn.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" teleported "cristopher<327><STEAM_1:1:953629759><>" after respawning him
+L 04/10/2026 - 21:51:43: [l4d_sm_respawn.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" teleported "cristopher<327><STEAM_1:1:953629759><>" after respawning him
+L 04/10/2026 - 21:51:43: [l4d_sm_respawn.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" teleported "LOUSS<160><STEAM_1:0:931301575><>" after respawning him
+L 04/10/2026 - 21:52:16: [l4d_sm_respawn.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" teleported "James<179><STEAM_1:1:855495489><>" after respawning him
+L 04/10/2026 - 21:52:16: [l4d_sm_respawn.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" teleported "Sigmund roy<375><STEAM_1:0:884811660><>" after respawning him
+L 04/10/2026 - 21:52:41: [l4d_sm_respawn.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" teleported "Sigmund roy<375><STEAM_1:0:884811660><>" after respawning him
+L 04/10/2026 - 21:53:22: [l4d2_shop.smx] [Buy]: "[T-T]MoY<2><STEAM_1:0:511491787><>" bought "health" (price: "98"), remaining points: "113"
+L 04/10/2026 - 21:53:41: [l4d2_shop.smx] [Buy]: "Ghøst_Recøn501<293><STEAM_1:0:197754918><>" bought "molotov" (price: "28"), remaining points: "48"
+L 04/10/2026 - 21:53:41: [l4d_sm_respawn.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" teleported "LOUSS<160><STEAM_1:0:931301575><>" after respawning him
+L 04/10/2026 - 21:53:41: [l4d_sm_respawn.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" teleported "khia<251><STEAM_1:0:396140887><>" after respawning him
+L 04/10/2026 - 21:55:21: [l4d_sm_respawn.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" teleported "LOUSS<160><STEAM_1:0:931301575><>" after respawning him
+L 04/10/2026 - 21:55:59: [l4d_sm_respawn.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" teleported "cristopher<327><STEAM_1:1:953629759><>" after respawning him
+L 04/10/2026 - 21:56:27: [l4d_sm_respawn.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" teleported "James<179><STEAM_1:1:855495489><>" after respawning him
+L 04/10/2026 - 21:57:41: [l4d2_shop.smx] [Buy]: "[T-T]MoY<2><STEAM_1:0:511491787><>" bought "health" (price: "98"), remaining points: "29"
+L 04/10/2026 - 21:57:59: [l4d2_shop.smx] [Buy]: "Ghøst_Recøn501<293><STEAM_1:0:197754918><>" bought "molotov" (price: "28"), remaining points: "43"
+L 04/10/2026 - 21:58:18: -------- Mapchange to c5m1_waterfront --------
+L 04/10/2026 - 21:58:22: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_consistency") (value "0")
+L 04/10/2026 - 21:58:22: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_allow_lobby_connect_only") (value "0")
+L 04/10/2026 - 21:58:22: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxplayers") (value "8")
+L 04/10/2026 - 21:58:22: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_visiblemaxplayers") (value "-1")
+L 04/10/2026 - 21:58:23: [chat-processor.smx] Message formats generated for game 'left4dead2'.
+L 04/10/2026 - 21:58:23: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 04/10/2026 - 21:58:42: [l4d2_shop.smx] [LOAD]: "cristopher<327><STEAM_1:1:953629759><>" loaded the record successfully! Points: "6"
+L 04/10/2026 - 21:58:43: [l4d2_shop.smx] [LOAD]: "LOUSS<160><STEAM_1:0:931301575><>" loaded the record successfully! Points: "250"
+L 04/10/2026 - 21:58:44: [l4d2_shop.smx] [LOAD]: "khia<251><STEAM_1:0:396140887><>" loaded the record successfully! Points: "20"
+L 04/10/2026 - 21:58:45: [l4d2_shop.smx] [LOAD]: "Ghøst_Recøn501<293><STEAM_1:0:197754918><>" loaded the record successfully! Points: "40"
+L 04/10/2026 - 21:58:47: [l4d2_shop.smx] [LOAD]: "Sigmund roy<375><STEAM_1:0:884811660><>" loaded the record successfully! Points: "0"
+L 04/10/2026 - 21:58:48: [l4d2_shop.smx] [LOAD]: "UNDYNE<233><STEAM_1:0:198960799><>" loaded the record successfully! Points: "58"
+L 04/10/2026 - 21:58:53: [l4d2_shop.smx] [LOAD]: "[T-T]MoY<2><STEAM_1:0:511491787><>" loaded the record successfully! Points: "195"
+L 04/10/2026 - 21:58:53: [l4d2_shop.smx] [LOAD]: "James<179><STEAM_1:1:855495489><>" loaded the record successfully! Points: "28"
+L 04/10/2026 - 22:00:46: -------- Mapchange to c5m2_park --------
+L 04/10/2026 - 22:00:50: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_consistency") (value "0")
+L 04/10/2026 - 22:00:50: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_allow_lobby_connect_only") (value "0")
+L 04/10/2026 - 22:00:50: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxplayers") (value "8")
+L 04/10/2026 - 22:00:50: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_visiblemaxplayers") (value "-1")
+L 04/10/2026 - 22:00:51: [chat-processor.smx] Message formats generated for game 'left4dead2'.
+L 04/10/2026 - 22:00:51: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 04/10/2026 - 22:01:10: [l4d2_shop.smx] [LOAD]: "cristopher<327><STEAM_1:1:953629759><>" loaded the record successfully! Points: "6"
+L 04/10/2026 - 22:01:11: [l4d2_shop.smx] [LOAD]: "LOUSS<160><STEAM_1:0:931301575><>" loaded the record successfully! Points: "250"
+L 04/10/2026 - 22:01:12: [l4d2_shop.smx] [LOAD]: "Ghøst_Recøn501<293><STEAM_1:0:197754918><>" loaded the record successfully! Points: "40"
+L 04/10/2026 - 22:01:13: [l4d2_shop.smx] [LOAD]: "khia<251><STEAM_1:0:396140887><>" loaded the record successfully! Points: "20"
+L 04/10/2026 - 22:01:14: [l4d2_shop.smx] [LOAD]: "Sigmund roy<375><STEAM_1:0:884811660><>" loaded the record successfully! Points: "0"
+L 04/10/2026 - 22:01:15: [l4d2_shop.smx] [LOAD]: "UNDYNE<233><STEAM_1:0:198960799><>" loaded the record successfully! Points: "58"
+L 04/10/2026 - 22:01:21: [l4d2_shop.smx] [LOAD]: "James<179><STEAM_1:1:855495489><>" loaded the record successfully! Points: "28"
+L 04/10/2026 - 22:01:21: [l4d2_shop.smx] [LOAD]: "[T-T]MoY<2><STEAM_1:0:511491787><>" loaded the record successfully! Points: "195"
+L 04/10/2026 - 22:04:17: [basevotes.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" initiated a generic vote (question "se lo kachan?" / answers "Yes" "No").
+L 04/10/2026 - 22:04:37: [basevotes.smx] Vote successful. (Received "100" of 5 votes)
+L 04/10/2026 - 22:04:37: [basevotes.smx] The answer to se lo kachan? is: Yes.
+L 04/10/2026 - 22:05:02: [l4d2_shop.smx] [UPDATE]: "[T-T]MoY<2><STEAM_1:0:511491787><>" saved. Points: "207"
+L 04/10/2026 - 22:05:02: [l4d2_shop.smx] UPDATE SpecialFunctions SET isEnabled = 1 WHERE steamId = 'STEAM_1:0:511491787' AND (functionNo = 'BLUE_AMMO' OR functionNo = 'GOLD_AMMO')
+L 04/10/2026 - 22:05:02: [l4d2_shop.smx] [UPDATE]: "UNDYNE<233><STEAM_1:0:198960799><>" saved. Points: "70"
+L 04/10/2026 - 22:05:02: [l4d2_shop.smx] [UPDATE]: "James<179><STEAM_1:1:855495489><>" saved. Points: "40"
+L 04/10/2026 - 22:05:02: [l4d2_shop.smx] [UPDATE]: "cristopher<327><STEAM_1:1:953629759><>" saved. Points: "21"
+L 04/10/2026 - 22:05:02: [l4d2_shop.smx] [UPDATE]: "LOUSS<160><STEAM_1:0:931301575><>" saved. Points: "265"
+L 04/10/2026 - 22:05:02: [l4d2_shop.smx] [UPDATE]: "Sigmund roy<375><STEAM_1:0:884811660><>" saved. Points: "12"
+L 04/10/2026 - 22:05:02: [l4d2_shop.smx] [UPDATE]: "khia<251><STEAM_1:0:396140887><>" saved. Points: "32"
+L 04/10/2026 - 22:05:02: [l4d2_shop.smx] [UPDATE]: "Ghøst_Recøn501<293><STEAM_1:0:197754918><>" saved. Points: "58"
+L 04/10/2026 - 22:05:44: [basevotes.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" initiated a kick vote against "Sigmund roy<375><STEAM_1:0:884811660><>"
+L 04/10/2026 - 22:06:04: [basevotes.smx] Vote successful. (Received "80" of 5 votes)
+L 04/10/2026 - 22:06:04: [basevotes.smx] Vote kick failed, unable to kick "Sigmund roy" (reason "Player no longer available")
+L 04/10/2026 - 22:06:58: [l4d2_shop.smx] [LOAD]: "Makutholomew<462><STEAM_ID_PENDING><>" loaded the record successfully! Points: "0"
+L 04/10/2026 - 22:07:09: [l4d2_shop.smx] [UPDATE]: "[T-T]MoY<2><STEAM_1:0:511491787><>" saved. Points: "209"
+L 04/10/2026 - 22:07:09: [l4d2_shop.smx] UPDATE SpecialFunctions SET isEnabled = 1 WHERE steamId = 'STEAM_1:0:511491787' AND (functionNo = 'BLUE_AMMO' OR functionNo = 'GOLD_AMMO')
+L 04/10/2026 - 22:07:09: [l4d2_shop.smx] [UPDATE]: "UNDYNE<233><STEAM_1:0:198960799><>" saved. Points: "76"
+L 04/10/2026 - 22:07:09: [l4d2_shop.smx] [UPDATE]: "James<179><STEAM_1:1:855495489><>" saved. Points: "42"
+L 04/10/2026 - 22:07:09: [l4d2_shop.smx] [UPDATE]: "cristopher<327><STEAM_1:1:953629759><>" saved. Points: "23"
+L 04/10/2026 - 22:07:09: [l4d2_shop.smx] [UPDATE]: "LOUSS<160><STEAM_1:0:931301575><>" saved. Points: "267"
+L 04/10/2026 - 22:07:09: [l4d2_shop.smx] [UPDATE]: "Makutholomew<462><STEAM_ID_PENDING><>" saved. Points: "0"
+L 04/10/2026 - 22:07:09: [l4d2_shop.smx] [UPDATE]: "khia<251><STEAM_1:0:396140887><>" saved. Points: "34"
+L 04/10/2026 - 22:07:09: [l4d2_shop.smx] [UPDATE]: "Ghøst_Recøn501<293><STEAM_1:0:197754918><>" saved. Points: "60"
+L 04/10/2026 - 22:10:50: -------- Mapchange to c5m3_cemetery --------
+L 04/10/2026 - 22:10:54: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_consistency") (value "0")
+L 04/10/2026 - 22:10:54: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_allow_lobby_connect_only") (value "0")
+L 04/10/2026 - 22:10:54: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxplayers") (value "8")
+L 04/10/2026 - 22:10:54: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_visiblemaxplayers") (value "-1")
+L 04/10/2026 - 22:10:55: [chat-processor.smx] Message formats generated for game 'left4dead2'.
+L 04/10/2026 - 22:10:55: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 04/10/2026 - 22:11:15: [l4d2_shop.smx] [LOAD]: "cristopher<327><STEAM_1:1:953629759><>" loaded the record successfully! Points: "23"
+L 04/10/2026 - 22:11:15: [l4d2_shop.smx] [LOAD]: "LOUSS<160><STEAM_1:0:931301575><>" loaded the record successfully! Points: "267"
+L 04/10/2026 - 22:11:17: [l4d2_shop.smx] [LOAD]: "Ghøst_Recøn501<293><STEAM_1:0:197754918><>" loaded the record successfully! Points: "60"
+L 04/10/2026 - 22:11:18: [l4d2_shop.smx] [LOAD]: "UNDYNE<233><STEAM_1:0:198960799><>" loaded the record successfully! Points: "76"
+L 04/10/2026 - 22:11:25: [l4d2_shop.smx] [INSERT]: "Fredo<477><STEAM_1:0:42015651><>" is a new user!!
+L 04/10/2026 - 22:11:25: [l4d2_shop.smx] [LOAD]: "khia<251><STEAM_1:0:396140887><>" loaded the record successfully! Points: "34"
+L 04/10/2026 - 22:11:25: [l4d2_shop.smx] [LOAD]: "James<179><STEAM_1:1:855495489><>" loaded the record successfully! Points: "42"
+L 04/10/2026 - 22:11:25: [l4d2_shop.smx] [LOAD]: "[T-T]MoY<2><STEAM_1:0:511491787><>" loaded the record successfully! Points: "209"
+L 04/10/2026 - 22:16:05: [l4d2_shop.smx] [Buy]: "[T-T]MoY<2><STEAM_1:0:511491787><>" bought "extinguisher" (price: "40"), remaining points: "194"
+L 04/10/2026 - 22:16:36: -------- Mapchange to c5m4_quarter --------
+L 04/10/2026 - 22:16:41: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_consistency") (value "0")
+L 04/10/2026 - 22:16:41: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_allow_lobby_connect_only") (value "0")
+L 04/10/2026 - 22:16:41: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxplayers") (value "8")
+L 04/10/2026 - 22:16:41: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_visiblemaxplayers") (value "-1")
+L 04/10/2026 - 22:16:41: [chat-processor.smx] Message formats generated for game 'left4dead2'.
+L 04/10/2026 - 22:16:41: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 04/10/2026 - 22:17:01: [l4d2_shop.smx] [LOAD]: "cristopher<327><STEAM_1:1:953629759><>" loaded the record successfully! Points: "23"
+L 04/10/2026 - 22:17:02: [l4d2_shop.smx] [LOAD]: "LOUSS<160><STEAM_1:0:931301575><>" loaded the record successfully! Points: "267"
+L 04/10/2026 - 22:17:02: [l4d2_shop.smx] [LOAD]: "Fredo<477><STEAM_1:0:42015651><>" loaded the record successfully! Points: "0"
+L 04/10/2026 - 22:17:03: [l4d2_shop.smx] [LOAD]: "Ghøst_Recøn501<293><STEAM_1:0:197754918><>" loaded the record successfully! Points: "60"
+L 04/10/2026 - 22:17:05: [l4d2_shop.smx] [LOAD]: "UNDYNE<233><STEAM_1:0:198960799><>" loaded the record successfully! Points: "76"
+L 04/10/2026 - 22:17:12: [l4d2_shop.smx] [LOAD]: "khia<251><STEAM_1:0:396140887><>" loaded the record successfully! Points: "34"
+L 04/10/2026 - 22:17:12: [l4d2_shop.smx] [LOAD]: "James<179><STEAM_1:1:855495489><>" loaded the record successfully! Points: "42"
+L 04/10/2026 - 22:17:12: [l4d2_shop.smx] [LOAD]: "[T-T]MoY<2><STEAM_1:0:511491787><>" loaded the record successfully! Points: "209"
+L 04/10/2026 - 22:19:17: [l4d2_shop.smx] [UPDATE]: "[T-T]MoY<2><STEAM_1:0:511491787><>" saved. Points: "215"
+L 04/10/2026 - 22:19:17: [l4d2_shop.smx] UPDATE SpecialFunctions SET isEnabled = 1 WHERE steamId = 'STEAM_1:0:511491787' AND (functionNo = 'BLUE_AMMO' OR functionNo = 'GOLD_AMMO')
+L 04/10/2026 - 22:19:17: [l4d2_shop.smx] [UPDATE]: "UNDYNE<233><STEAM_1:0:198960799><>" saved. Points: "78"
+L 04/10/2026 - 22:19:17: [l4d2_shop.smx] [UPDATE]: "Fredo<477><STEAM_1:0:42015651><>" saved. Points: "5"
+L 04/10/2026 - 22:19:17: [l4d2_shop.smx] [UPDATE]: "James<179><STEAM_1:1:855495489><>" saved. Points: "50"
+L 04/10/2026 - 22:19:17: [l4d2_shop.smx] [UPDATE]: "cristopher<327><STEAM_1:1:953629759><>" saved. Points: "25"
+L 04/10/2026 - 22:19:17: [l4d2_shop.smx] [UPDATE]: "LOUSS<160><STEAM_1:0:931301575><>" saved. Points: "269"
+L 04/10/2026 - 22:19:17: [l4d2_shop.smx] [UPDATE]: "khia<251><STEAM_1:0:396140887><>" saved. Points: "36"
+L 04/10/2026 - 22:19:17: [l4d2_shop.smx] [UPDATE]: "Ghøst_Recøn501<293><STEAM_1:0:197754918><>" saved. Points: "62"
+L 04/10/2026 - 22:23:11: -------- Mapchange to c5m5_bridge --------
+L 04/10/2026 - 22:23:17: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_consistency") (value "0")
+L 04/10/2026 - 22:23:17: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_allow_lobby_connect_only") (value "0")
+L 04/10/2026 - 22:23:17: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxplayers") (value "8")
+L 04/10/2026 - 22:23:17: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_visiblemaxplayers") (value "-1")
+L 04/10/2026 - 22:23:17: [chat-processor.smx] Message formats generated for game 'left4dead2'.
+L 04/10/2026 - 22:23:17: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 04/10/2026 - 22:23:37: [l4d2_shop.smx] [LOAD]: "cristopher<327><STEAM_1:1:953629759><>" loaded the record successfully! Points: "25"
+L 04/10/2026 - 22:23:37: [l4d2_shop.smx] [LOAD]: "LOUSS<160><STEAM_1:0:931301575><>" loaded the record successfully! Points: "269"
+L 04/10/2026 - 22:23:39: [l4d2_shop.smx] [LOAD]: "Ghøst_Recøn501<293><STEAM_1:0:197754918><>" loaded the record successfully! Points: "62"
+L 04/10/2026 - 22:23:40: [l4d2_shop.smx] [LOAD]: "UNDYNE<233><STEAM_1:0:198960799><>" loaded the record successfully! Points: "78"
+L 04/10/2026 - 22:23:46: [l4d2_shop.smx] [LOAD]: "khia<251><STEAM_1:0:396140887><>" loaded the record successfully! Points: "36"
+L 04/10/2026 - 22:23:47: [l4d2_shop.smx] [LOAD]: "James<179><STEAM_1:1:855495489><>" loaded the record successfully! Points: "50"
+L 04/10/2026 - 22:23:48: [l4d2_shop.smx] [LOAD]: "[T-T]MoY<2><STEAM_1:0:511491787><>" loaded the record successfully! Points: "215"
+L 04/10/2026 - 22:23:49: [l4d2_shop.smx] [LOAD]: "Fredo<477><STEAM_1:0:42015651><>" loaded the record successfully! Points: "5"
+L 04/10/2026 - 22:24:30: [l4d2_shop.smx] [Buy]: "[T-T]MoY<2><STEAM_1:0:511491787><>" bought "health" (price: "98"), remaining points: "117"
+L 04/10/2026 - 22:27:28: -------- Mapchange to c13m1_alpinecreek --------
+L 04/10/2026 - 22:27:32: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_consistency") (value "0")
+L 04/10/2026 - 22:27:32: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_allow_lobby_connect_only") (value "0")
+L 04/10/2026 - 22:27:32: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxplayers") (value "8")
+L 04/10/2026 - 22:27:32: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_visiblemaxplayers") (value "-1")
+L 04/10/2026 - 22:27:33: [chat-processor.smx] Message formats generated for game 'left4dead2'.
+L 04/10/2026 - 22:27:33: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 04/10/2026 - 22:27:48: [l4d2_shop.smx] [LOAD]: "LOUSS<160><STEAM_1:0:931301575><>" loaded the record successfully! Points: "269"
+L 04/10/2026 - 22:27:48: [l4d2_shop.smx] [LOAD]: "cristopher<327><STEAM_1:1:953629759><>" loaded the record successfully! Points: "25"
+L 04/10/2026 - 22:27:48: [l4d2_shop.smx] [LOAD]: "Fredo<477><STEAM_1:0:42015651><>" loaded the record successfully! Points: "5"
+L 04/10/2026 - 22:27:48: [l4d2_shop.smx] [LOAD]: "[T-T]MoY<2><STEAM_1:0:511491787><>" loaded the record successfully! Points: "215"
+L 04/10/2026 - 22:27:49: [l4d2_shop.smx] [LOAD]: "Ghøst_Recøn501<293><STEAM_1:0:197754918><>" loaded the record successfully! Points: "62"
+L 04/10/2026 - 22:27:52: [l4d2_shop.smx] [LOAD]: "khia<251><STEAM_1:0:396140887><>" loaded the record successfully! Points: "36"
+L 04/10/2026 - 22:29:00: [l4d2_shop.smx] [INSERT]: ":)<550><STEAM_1:1:614430216><>" is a new user!!
+L 04/10/2026 - 22:29:32: -------- Mapchange to c13m2_southpinestream --------
+L 04/10/2026 - 22:29:37: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_consistency") (value "0")
+L 04/10/2026 - 22:29:37: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_allow_lobby_connect_only") (value "0")
+L 04/10/2026 - 22:29:37: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxplayers") (value "8")
+L 04/10/2026 - 22:29:37: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_visiblemaxplayers") (value "-1")
+L 04/10/2026 - 22:29:37: [chat-processor.smx] Message formats generated for game 'left4dead2'.
+L 04/10/2026 - 22:29:37: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 04/10/2026 - 22:29:52: [l4d2_shop.smx] [LOAD]: "cristopher<327><STEAM_1:1:953629759><>" loaded the record successfully! Points: "25"
+L 04/10/2026 - 22:29:52: [l4d2_shop.smx] [LOAD]: "LOUSS<160><STEAM_1:0:931301575><>" loaded the record successfully! Points: "269"
+L 04/10/2026 - 22:29:52: [l4d2_shop.smx] [LOAD]: "Fredo<477><STEAM_1:0:42015651><>" loaded the record successfully! Points: "5"
+L 04/10/2026 - 22:29:52: [l4d2_shop.smx] [LOAD]: "khia<251><STEAM_1:0:396140887><>" loaded the record successfully! Points: "36"
+L 04/10/2026 - 22:29:52: [l4d2_shop.smx] [LOAD]: "[T-T]MoY<2><STEAM_1:0:511491787><>" loaded the record successfully! Points: "215"
+L 04/10/2026 - 22:29:52: [l4d2_shop.smx] [LOAD]: "Ghøst_Recøn501<293><STEAM_1:0:197754918><>" loaded the record successfully! Points: "62"
+L 04/10/2026 - 22:30:06: [l4d2_shop.smx] [LOAD]: ":)<550><STEAM_1:1:614430216><>" loaded the record successfully! Points: "0"
+L 04/10/2026 - 22:33:16: [l4d2_shop.smx] [UPDATE]: "[T-T]MoY<2><STEAM_1:0:511491787><>" saved. Points: "228"
+L 04/10/2026 - 22:33:16: [l4d2_shop.smx] UPDATE SpecialFunctions SET isEnabled = 1 WHERE steamId = 'STEAM_1:0:511491787' AND (functionNo = 'BLUE_AMMO' OR functionNo = 'GOLD_AMMO')
+L 04/10/2026 - 22:33:16: [l4d2_shop.smx] [UPDATE]: ":)<550><STEAM_1:1:614430216><>" saved. Points: "10"
+L 04/10/2026 - 22:33:16: [l4d2_shop.smx] [UPDATE]: "Fredo<477><STEAM_1:0:42015651><>" saved. Points: "15"
+L 04/10/2026 - 22:33:16: [l4d2_shop.smx] [UPDATE]: "cristopher<327><STEAM_1:1:953629759><>" saved. Points: "44"
+L 04/10/2026 - 22:33:16: [l4d2_shop.smx] [UPDATE]: "LOUSS<160><STEAM_1:0:931301575><>" saved. Points: "279"
+L 04/10/2026 - 22:33:16: [l4d2_shop.smx] [UPDATE]: "khia<251><STEAM_1:0:396140887><>" saved. Points: "46"
+L 04/10/2026 - 22:33:16: [l4d2_shop.smx] [UPDATE]: "Ghøst_Recøn501<293><STEAM_1:0:197754918><>" saved. Points: "72"
+L 04/10/2026 - 22:34:04: [l4d2_shop.smx] [Buy]: "Ghøst_Recøn501<293><STEAM_1:0:197754918><>" bought "Revivir (Costo actual: 50)" (price: "50"), remaining points: "22"
+L 04/10/2026 - 22:34:23: [l4d2_shop.smx] [LOAD]: "LUIS ARCE CATACORA<569><STEAM_1:0:902823669><>" loaded the record successfully! Points: "46"
+L 04/10/2026 - 22:36:38: [l4d2_shop.smx] [Buy]: "[T-T]MoY<2><STEAM_1:0:511491787><>" bought "extinguisher" (price: "40"), remaining points: "200"
+L 04/10/2026 - 22:37:32: -------- Mapchange to c13m3_memorialbridge --------
+L 04/10/2026 - 22:37:37: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_consistency") (value "0")
+L 04/10/2026 - 22:37:37: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_allow_lobby_connect_only") (value "0")
+L 04/10/2026 - 22:37:37: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxplayers") (value "8")
+L 04/10/2026 - 22:37:37: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_visiblemaxplayers") (value "-1")
+L 04/10/2026 - 22:37:37: [chat-processor.smx] Message formats generated for game 'left4dead2'.
+L 04/10/2026 - 22:37:37: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 04/10/2026 - 22:37:52: [l4d2_shop.smx] [LOAD]: "LOUSS<160><STEAM_1:0:931301575><>" loaded the record successfully! Points: "279"
+L 04/10/2026 - 22:37:53: [l4d2_shop.smx] [LOAD]: "Fredo<477><STEAM_1:0:42015651><>" loaded the record successfully! Points: "15"
+L 04/10/2026 - 22:37:53: [l4d2_shop.smx] [LOAD]: "[T-T]MoY<2><STEAM_1:0:511491787><>" loaded the record successfully! Points: "228"
+L 04/10/2026 - 22:37:53: [l4d2_shop.smx] [LOAD]: "cristopher<327><STEAM_1:1:953629759><>" loaded the record successfully! Points: "44"
+L 04/10/2026 - 22:37:53: [l4d2_shop.smx] [LOAD]: "LUIS ARCE CATACORA<569><STEAM_1:0:902823669><>" loaded the record successfully! Points: "46"
+L 04/10/2026 - 22:37:53: [l4d2_shop.smx] [LOAD]: "Ghøst_Recøn501<293><STEAM_1:0:197754918><>" loaded the record successfully! Points: "72"
+L 04/10/2026 - 22:37:58: [l4d2_shop.smx] [LOAD]: "khia<251><STEAM_1:0:396140887><>" loaded the record successfully! Points: "46"
+L 04/10/2026 - 22:38:07: [l4d2_shop.smx] [LOAD]: ":)<550><STEAM_1:1:614430216><>" loaded the record successfully! Points: "10"
+L 04/10/2026 - 22:41:56: [l4d2_shop.smx] [UPDATE]: "[T-T]MoY<2><STEAM_1:0:511491787><>" saved. Points: "244"
+L 04/10/2026 - 22:41:56: [l4d2_shop.smx] UPDATE SpecialFunctions SET isEnabled = 1 WHERE steamId = 'STEAM_1:0:511491787' AND (functionNo = 'BLUE_AMMO' OR functionNo = 'GOLD_AMMO')
+L 04/10/2026 - 22:41:56: [l4d2_shop.smx] [UPDATE]: ":)<550><STEAM_1:1:614430216><>" saved. Points: "24"
+L 04/10/2026 - 22:41:56: [l4d2_shop.smx] [UPDATE]: "Fredo<477><STEAM_1:0:42015651><>" saved. Points: "35"
+L 04/10/2026 - 22:41:56: [l4d2_shop.smx] [UPDATE]: "LUIS ARCE CATACORA<569><STEAM_1:0:902823669><>" saved. Points: "60"
+L 04/10/2026 - 22:41:56: [l4d2_shop.smx] [UPDATE]: "cristopher<327><STEAM_1:1:953629759><>" saved. Points: "58"
+L 04/10/2026 - 22:41:56: [l4d2_shop.smx] [UPDATE]: "LOUSS<160><STEAM_1:0:931301575><>" saved. Points: "293"
+L 04/10/2026 - 22:41:56: [l4d2_shop.smx] [UPDATE]: "khia<251><STEAM_1:0:396140887><>" saved. Points: "62"
+L 04/10/2026 - 22:41:56: [l4d2_shop.smx] [UPDATE]: "Ghøst_Recøn501<293><STEAM_1:0:197754918><>" saved. Points: "86"
+L 04/10/2026 - 22:44:25: [l4d2_shop.smx] [UPDATE]: "[T-T]MoY<2><STEAM_1:0:511491787><>" saved. Points: "250"
+L 04/10/2026 - 22:44:25: [l4d2_shop.smx] UPDATE SpecialFunctions SET isEnabled = 1 WHERE steamId = 'STEAM_1:0:511491787' AND (functionNo = 'BLUE_AMMO' OR functionNo = 'GOLD_AMMO')
+L 04/10/2026 - 22:44:25: [l4d2_shop.smx] [UPDATE]: ":)<550><STEAM_1:1:614430216><>" saved. Points: "30"
+L 04/10/2026 - 22:44:25: [l4d2_shop.smx] [UPDATE]: "Fredo<477><STEAM_1:0:42015651><>" saved. Points: "41"
+L 04/10/2026 - 22:44:25: [l4d2_shop.smx] [UPDATE]: "LUIS ARCE CATACORA<569><STEAM_1:0:902823669><>" saved. Points: "66"
+L 04/10/2026 - 22:44:25: [l4d2_shop.smx] [UPDATE]: "cristopher<327><STEAM_1:1:953629759><>" saved. Points: "64"
+L 04/10/2026 - 22:44:25: [l4d2_shop.smx] [UPDATE]: "LOUSS<160><STEAM_1:0:931301575><>" saved. Points: "299"
+L 04/10/2026 - 22:44:25: [l4d2_shop.smx] [UPDATE]: "khia<251><STEAM_1:0:396140887><>" saved. Points: "68"
+L 04/10/2026 - 22:44:25: [l4d2_shop.smx] [UPDATE]: "Ghøst_Recøn501<293><STEAM_1:0:197754918><>" saved. Points: "92"
+L 04/10/2026 - 22:48:01: [l4d2_shop.smx] [UPDATE]: "[T-T]MoY<2><STEAM_1:0:511491787><>" saved. Points: "262"
+L 04/10/2026 - 22:48:01: [l4d2_shop.smx] UPDATE SpecialFunctions SET isEnabled = 1 WHERE steamId = 'STEAM_1:0:511491787' AND (functionNo = 'BLUE_AMMO' OR functionNo = 'GOLD_AMMO')
+L 04/10/2026 - 22:48:01: [l4d2_shop.smx] [UPDATE]: ":)<550><STEAM_1:1:614430216><>" saved. Points: "42"
+L 04/10/2026 - 22:48:02: [l4d2_shop.smx] [UPDATE]: "Fredo<477><STEAM_1:0:42015651><>" saved. Points: "53"
+L 04/10/2026 - 22:48:02: [l4d2_shop.smx] [UPDATE]: "LUIS ARCE CATACORA<569><STEAM_1:0:902823669><>" saved. Points: "78"
+L 04/10/2026 - 22:48:02: [l4d2_shop.smx] [UPDATE]: "cristopher<327><STEAM_1:1:953629759><>" saved. Points: "76"
+L 04/10/2026 - 22:48:02: [l4d2_shop.smx] [UPDATE]: "LOUSS<160><STEAM_1:0:931301575><>" saved. Points: "311"
+L 04/10/2026 - 22:48:02: [l4d2_shop.smx] [UPDATE]: "khia<251><STEAM_1:0:396140887><>" saved. Points: "80"
+L 04/10/2026 - 22:48:02: [l4d2_shop.smx] [UPDATE]: "Ghøst_Recøn501<293><STEAM_1:0:197754918><>" saved. Points: "104"
+L 04/10/2026 - 22:49:22: [l4d2_shop.smx] [UPDATE]: "[T-T]MoY<2><STEAM_1:0:511491787><>" saved. Points: "262"
+L 04/10/2026 - 22:49:22: [l4d2_shop.smx] UPDATE SpecialFunctions SET isEnabled = 1 WHERE steamId = 'STEAM_1:0:511491787' AND (functionNo = 'BLUE_AMMO' OR functionNo = 'GOLD_AMMO')
+L 04/10/2026 - 22:49:22: [l4d2_shop.smx] [UPDATE]: ":)<550><STEAM_1:1:614430216><>" saved. Points: "42"
+L 04/10/2026 - 22:49:22: [l4d2_shop.smx] [UPDATE]: "Fredo<477><STEAM_1:0:42015651><>" saved. Points: "53"
+L 04/10/2026 - 22:49:22: [l4d2_shop.smx] [UPDATE]: "LUIS ARCE CATACORA<569><STEAM_1:0:902823669><>" saved. Points: "78"
+L 04/10/2026 - 22:49:22: [l4d2_shop.smx] [UPDATE]: "cristopher<327><STEAM_1:1:953629759><>" saved. Points: "76"
+L 04/10/2026 - 22:49:22: [l4d2_shop.smx] [UPDATE]: "LOUSS<160><STEAM_1:0:931301575><>" saved. Points: "311"
+L 04/10/2026 - 22:49:22: [l4d2_shop.smx] [UPDATE]: "khia<251><STEAM_1:0:396140887><>" saved. Points: "80"
+L 04/10/2026 - 22:49:22: [l4d2_shop.smx] [UPDATE]: "Ghøst_Recøn501<293><STEAM_1:0:197754918><>" saved. Points: "104"
+L 04/10/2026 - 22:50:40: [l4d2_shop.smx] [Buy]: "Ghøst_Recøn501<293><STEAM_1:0:197754918><>" bought "Revivir (Costo actual: 50)" (price: "50"), remaining points: "54"
+L 04/10/2026 - 22:50:52: [l4d2_shop.smx] [Buy]: "[T-T]MoY<2><STEAM_1:0:511491787><>" bought "Revivir (Costo actual: 50)" (price: "50"), remaining points: "212"
+L 04/10/2026 - 22:51:04: [l4d2_shop.smx] [Buy]: "[T-T]MoY<2><STEAM_1:0:511491787><>" bought "Revivir (Costo actual: 150)" (price: "150"), remaining points: "64"
+L 04/10/2026 - 22:53:13: -------- Mapchange to c13m4_cutthroatcreek --------
+L 04/10/2026 - 22:53:18: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_consistency") (value "0")
+L 04/10/2026 - 22:53:18: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_allow_lobby_connect_only") (value "0")
+L 04/10/2026 - 22:53:18: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxplayers") (value "8")
+L 04/10/2026 - 22:53:18: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_visiblemaxplayers") (value "-1")
+L 04/10/2026 - 22:53:18: [chat-processor.smx] Message formats generated for game 'left4dead2'.
+L 04/10/2026 - 22:53:18: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 04/10/2026 - 22:53:33: [l4d2_shop.smx] [LOAD]: "LUIS ARCE CATACORA<569><STEAM_1:0:902823669><>" loaded the record successfully! Points: "78"
+L 04/10/2026 - 22:53:33: [l4d2_shop.smx] [LOAD]: "LOUSS<160><STEAM_1:0:931301575><>" loaded the record successfully! Points: "311"
+L 04/10/2026 - 22:53:34: [l4d2_shop.smx] [LOAD]: "[T-T]MoY<2><STEAM_1:0:511491787><>" loaded the record successfully! Points: "262"
+L 04/10/2026 - 22:53:34: [l4d2_shop.smx] [LOAD]: "cristopher<327><STEAM_1:1:953629759><>" loaded the record successfully! Points: "76"
+L 04/10/2026 - 22:53:34: [l4d2_shop.smx] [LOAD]: "Ghøst_Recøn501<293><STEAM_1:0:197754918><>" loaded the record successfully! Points: "104"
+L 04/10/2026 - 22:53:38: [l4d2_shop.smx] [LOAD]: "khia<251><STEAM_1:0:396140887><>" loaded the record successfully! Points: "80"
+L 04/10/2026 - 22:53:52: [l4d2_shop.smx] [LOAD]: ":)<550><STEAM_1:1:614430216><>" loaded the record successfully! Points: "42"
+L 04/10/2026 - 22:56:27: [l4d2_shop.smx] [UPDATE]: "[T-T]MoY<2><STEAM_1:0:511491787><>" saved. Points: "272"
+L 04/10/2026 - 22:56:27: [l4d2_shop.smx] UPDATE SpecialFunctions SET isEnabled = 1 WHERE steamId = 'STEAM_1:0:511491787' AND (functionNo = 'BLUE_AMMO' OR functionNo = 'GOLD_AMMO')
+L 04/10/2026 - 22:56:27: [l4d2_shop.smx] [UPDATE]: ":)<550><STEAM_1:1:614430216><>" saved. Points: "52"
+L 04/10/2026 - 22:56:27: [l4d2_shop.smx] [UPDATE]: "LUIS ARCE CATACORA<569><STEAM_1:0:902823669><>" saved. Points: "88"
+L 04/10/2026 - 22:56:27: [l4d2_shop.smx] [UPDATE]: "cristopher<327><STEAM_1:1:953629759><>" saved. Points: "86"
+L 04/10/2026 - 22:56:27: [l4d2_shop.smx] [UPDATE]: "khia<251><STEAM_1:0:396140887><>" saved. Points: "99"
+L 04/10/2026 - 22:56:27: [l4d2_shop.smx] [UPDATE]: "Ghøst_Recøn501<293><STEAM_1:0:197754918><>" saved. Points: "120"
+L 04/10/2026 - 22:57:38: [l4d_sm_respawn.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" teleported "cristopher<327><STEAM_1:1:953629759><>" after respawning him
+L 04/10/2026 - 22:57:41: [l4d_sm_respawn.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" teleported "Ghøst_Recøn501<293><STEAM_1:0:197754918><>" after respawning him
+L 04/10/2026 - 22:58:19: [l4d2_shop.smx] [INSERT]: ":3<647><STEAM_1:0:661562605><>" is a new user!!
+L 04/10/2026 - 22:58:34: [l4d2_shop.smx] [Buy]: "[T-T]MoY<2><STEAM_1:0:511491787><>" bought "Revivir (Costo actual: 50)" (price: "50"), remaining points: "226"
+L 04/10/2026 - 22:59:04: [l4d_sm_respawn.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" teleported "[T-T]MoY<2><STEAM_1:0:511491787><>" after respawning him
+L 04/10/2026 - 22:59:04: [l4d_sm_respawn.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" teleported ":3<647><STEAM_1:0:661562605><>" after respawning him
+L 04/10/2026 - 22:59:04: [l4d_sm_respawn.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" teleported ":)<550><STEAM_1:1:614430216><>" after respawning him
+L 04/10/2026 - 22:59:04: [l4d_sm_respawn.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" teleported "LUIS ARCE CATACORA<569><STEAM_1:0:902823669><>" after respawning him
+L 04/10/2026 - 22:59:04: [l4d_sm_respawn.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" teleported "khia<251><STEAM_1:0:396140887><>" after respawning him
+L 04/10/2026 - 22:59:04: [l4d_sm_respawn.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" teleported "Ghøst_Recøn501<293><STEAM_1:0:197754918><>" after respawning him
+L 04/10/2026 - 22:59:06: [l4d2_shop.smx] [Buy]: ":)<550><STEAM_1:1:614430216><>" bought "Revivir (Costo actual: 50)" (price: "50"), remaining points: "6"
+L 04/10/2026 - 22:59:17: [l4d_sm_respawn.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" teleported ":3<647><STEAM_1:0:661562605><>" after respawning him
+L 04/10/2026 - 22:59:17: [l4d_sm_respawn.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" teleported ":)<550><STEAM_1:1:614430216><>" after respawning him
+L 04/10/2026 - 22:59:17: [l4d_sm_respawn.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" teleported "cristopher<327><STEAM_1:1:953629759><>" after respawning him
+L 04/10/2026 - 22:59:17: [l4d_sm_respawn.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" teleported "khia<251><STEAM_1:0:396140887><>" after respawning him
+L 04/10/2026 - 23:00:34: [l4d2_shop.smx] [Buy]: "[T-T]MoY<2><STEAM_1:0:511491787><>" bought "Revivir (Costo actual: 150)" (price: "150"), remaining points: "92"
+L 04/10/2026 - 23:01:26: [l4d2_map_rotation.smx] [Rotation] Se encontró 'end' en la lista. Cerrando servidor.
+L 04/10/2026 - 23:01:33: Log file closed.

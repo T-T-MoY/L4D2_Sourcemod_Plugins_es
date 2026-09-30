@@ -1,0 +1,32 @@
+L 10/01/2025 - 15:40:40: SourceMod log file session started (file "z:\home\moy\.steam\debian-installation\steamapps\common\left 4 dead 2\left4dead2\addons\sourcemod\logs\L20251001.log") (Version "1.12.0.7207")
+L 10/01/2025 - 15:40:40: [GEOIP] GeoIP2 database loaded: GeoLite2-ASN (2024-08-21 08:15:21 UTC) (z:\home\moy\.steam\debian-installation\steamapps\common\left 4 dead 2\left4dead2\addons\sourcemod\configs\geoip\GeoLite2-ASN.mmdb)
+L 10/01/2025 - 15:40:40: [GEOIP] GeoIP2 supported languages: en
+L 10/01/2025 - 15:40:40: [GEOIP] Your database is older than 90 days. You should consider downloading a newer version from e.g. https://dev.maxmind.com/geoip/geolite2-free-geolocation-data
+L 10/01/2025 - 15:41:10: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_consistency") (value "0")
+L 10/01/2025 - 15:41:10: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_allow_lobby_connect_only") (value "0")
+L 10/01/2025 - 15:41:10: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxplayers") (value "8")
+L 10/01/2025 - 15:41:10: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_visiblemaxplayers") (value "-1")
+L 10/01/2025 - 15:43:08: Log file closed.
+L 10/01/2025 - 15:54:46: SourceMod log file session started (file "z:\home\moy\.steam\debian-installation\steamapps\common\left 4 dead 2\left4dead2\addons\sourcemod\logs\L20251001.log") (Version "1.12.0.7207")
+L 10/01/2025 - 15:54:46: [GEOIP] GeoIP2 database loaded: GeoLite2-ASN (2024-08-21 08:15:21 UTC) (z:\home\moy\.steam\debian-installation\steamapps\common\left 4 dead 2\left4dead2\addons\sourcemod\configs\geoip\GeoLite2-ASN.mmdb)
+L 10/01/2025 - 15:54:46: [GEOIP] GeoIP2 supported languages: en
+L 10/01/2025 - 15:54:46: [GEOIP] Your database is older than 90 days. You should consider downloading a newer version from e.g. https://dev.maxmind.com/geoip/geolite2-free-geolocation-data
+L 10/01/2025 - 15:54:57: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_consistency") (value "0")
+L 10/01/2025 - 15:54:57: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_allow_lobby_connect_only") (value "0")
+L 10/01/2025 - 15:54:57: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxplayers") (value "8")
+L 10/01/2025 - 15:54:57: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_visiblemaxplayers") (value "-1")
+L 10/01/2025 - 15:56:50: Log file closed.
+L 10/01/2025 - 15:59:59: SourceMod log file session started (file "z:\home\moy\.steam\debian-installation\steamapps\common\left 4 dead 2\left4dead2\addons\sourcemod\logs\L20251001.log") (Version "1.12.0.7207")
+L 10/01/2025 - 15:59:59: [GEOIP] GeoIP2 database loaded: GeoLite2-ASN (2024-08-21 08:15:21 UTC) (z:\home\moy\.steam\debian-installation\steamapps\common\left 4 dead 2\left4dead2\addons\sourcemod\configs\geoip\GeoLite2-ASN.mmdb)
+L 10/01/2025 - 15:59:59: [GEOIP] GeoIP2 supported languages: en
+L 10/01/2025 - 15:59:59: [GEOIP] Your database is older than 90 days. You should consider downloading a newer version from e.g. https://dev.maxmind.com/geoip/geolite2-free-geolocation-data
+L 10/01/2025 - 16:00:08: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_consistency") (value "0")
+L 10/01/2025 - 16:00:08: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_allow_lobby_connect_only") (value "0")
+L 10/01/2025 - 16:00:08: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxplayers") (value "8")
+L 10/01/2025 - 16:00:08: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_visiblemaxplayers") (value "-1")
+L 10/01/2025 - 16:01:12: [basecommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" kicked "Ellis<3><BOT><>" (reason "")
+L 10/01/2025 - 16:01:12: [basecommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" kicked "Coach<4><BOT><>" (reason "")
+L 10/01/2025 - 16:01:12: [basecommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" kicked "Rochelle<5><BOT><>" (reason "")
+L 10/01/2025 - 16:01:12: [basecommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" kicked "aceituna<6><STEAM_1:1:578300450><>" (reason "")
+L 10/01/2025 - 16:01:21: [basecommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" kicked "Marcos<7><STEAM_1:1:739314999><>" (reason "")
+L 10/01/2025 - 16:01:55: Log file closed.

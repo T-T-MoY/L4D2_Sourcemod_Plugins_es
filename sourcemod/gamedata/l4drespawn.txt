@@ -1,0 +1,72 @@
+"Games"
+{
+    "left4dead"
+    {
+		/* unneeded now
+        "Offsets"
+        {
+            "RoundRespawn"
+            {
+                "windows"    "488"
+                "linux"        "491"
+            }
+        }
+		*/
+		
+		"Signatures"
+		{
+			/* CTerrorPlayer::RoundRespawn */
+			"RoundRespawn"
+			{
+				"library"	"server"
+				"linux"		"@_ZN13CTerrorPlayer12RoundRespawnEv"
+				"windows"	"\x2A\x2A\x2A\x2A\x2A\x2A\x2A\x2A\xE8\x2A\x2A\x2A\x2A\x84\x2A\x75\x2A\x8B\x2A\xE8\x2A\x2A\x2A\x2A\xC6"
+						/* ? ? ? ? ? ? ? ? E8 ? ? ? ? 84 ? 75 ? 8B ? E8 ? ? ? ? C6 */
+			}
+		}
+
+    }
+    "left4dead2"
+    {
+		/* unneeded now
+        "Offsets"
+        {
+            "RoundRespawn"
+            {
+                "windows"    "512"
+                "linux"        "513"
+            }
+        }
+		*/
+		
+		"Signatures"
+		{
+			/* CTerrorPlayer::RoundRespawn */
+			"RoundRespawn"
+			{
+				"library"	"server"
+				"linux"		"@_ZN13CTerrorPlayer12RoundRespawnEv"
+				"windows"	"\x2A\x2A\x2A\x2A\x2A\x2A\x2A\x2A\xE8\x2A\x2A\x2A\x2A\x84\x2A\x75\x2A\x8B\x2A\xE8\x2A\x2A\x2A\x2A\xC6\x86"
+						/* ? ? ? ? ? ? ? ? E8 ? ? ? ? 84 ? 75 ? 8B ? E8 ? ? ? ? C6 86 */
+			}
+		
+			/* CTerrorPlayer::BecomeGhost(bool) */
+			"BecomeGhost"
+			{
+				"library"	"server"
+				"linux"		"@_ZN13CTerrorPlayer11BecomeGhostEb"
+				"windows"	"\x2A\x2A\x2A\x2A\x2A\x2A\x2A\x56\x53\x8B\x2A\xE8\x2A\x2A\x2A\x2A\x84\x2A\x75"
+						/* ? ? ? ? ? ? ? 56 53 8B ? E8 ? ? ? ? 84 ? 75 */
+			}
+			
+			/* CCSPlayer::State_Transition(CSPlayerState) */
+			"State_Transition"
+			{
+				"library"	"server"
+				"linux"		"@_ZN9CCSPlayer16State_TransitionE13CSPlayerState"
+				"windows"	"\x2A\x2A\x2A\x2A\x2A\x2A\x8B\x86\x2A\x2A\x2A\x2A\x57\x8B\x2A\x2A\x85\x2A\x74\x2A\x83"
+						/* ? ? ? ? ? ? 8B 86 ? ? ? ? 57 8B ? ? 85 ? 74 ? 83 */
+			}
+		}
+    }
+}

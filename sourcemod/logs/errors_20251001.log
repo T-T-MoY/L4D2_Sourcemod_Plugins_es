@@ -1,0 +1,397 @@
+L 10/01/2025 - 15:40:40: SourceMod error session started
+L 10/01/2025 - 15:40:40: Info (map "c1m1_hotel") (file "z:\home\moy\.steam\debian-installation\steamapps\common\left 4 dead 2\left4dead2\addons\sourcemod\logs\errors_20251001.log")
+L 10/01/2025 - 15:40:40: [SM] Failed to load plugin "cannounce.smx": Get a dedicated server. This plugin does not work on Listen servers..
+L 10/01/2025 - 15:40:40: [SM] Failed to load plugin "LMCL4D1CDeathHandler.smx": Plugin only supports Left 4 Dead.
+L 10/01/2025 - 15:40:40: [SM] Failed to load plugin "LMCL4D1SetTransmit.smx": Plugin only supports Left 4 Dead.
+L 10/01/2025 - 15:40:40: [SM] Failed to load plugin "LMC_L4D1_Menu_Choosing.smx": Plugin only supports Left 4 Dead.
+L 10/01/2025 - 15:40:40: [SM] Failed to load plugin "LMC_L4D1_RandomSpawns.smx": Plugin only supports Left 4 Dead.
+L 10/01/2025 - 15:40:40: [SM] Failed to load plugin "nextmap.smx": Nextmap is incompatible with this game.
+L 10/01/2025 - 15:40:40: [SM] Failed to load plugin "[L4D2] Left4dhooks.smx": 
+====================
+This plugin replaces Left4Downtown. Delete the extension to run.
+====================.
+L 10/01/2025 - 15:40:40: [SM] Fatal error encountered parsing translation file "l4d_nth.phrases.txt"
+L 10/01/2025 - 15:40:40: [SM] Error (line 0, column 0): Stream failed to open
+L 10/01/2025 - 15:40:40: [SM] Fatal error encountered parsing translation file "chargersteering.phrases.txt"
+L 10/01/2025 - 15:40:40: [SM] Error (line 0, column 0): Stream failed to open
+L 10/01/2025 - 15:40:40: [SM] Fatal error encountered parsing translation file "l4dmultislots.phrases.txt"
+L 10/01/2025 - 15:40:40: [SM] Error (line 0, column 0): Stream failed to open
+L 10/01/2025 - 15:40:42: [SM] Fatal error encountered parsing translation file "lilac.phrases.txt"
+L 10/01/2025 - 15:40:42: [SM] Error (line 0, column 0): Stream failed to open
+L 10/01/2025 - 15:40:56: [SM] Exception reported: Invalid convar handle 0 (error 4)
+L 10/01/2025 - 15:40:56: [SM] Blaming: ñankrunFixhealth.smx
+L 10/01/2025 - 15:40:56: [SM] Call stack trace:
+L 10/01/2025 - 15:40:56: [SM]   [0] GetConVarString
+L 10/01/2025 - 15:40:56: [SM]   [1] Line 138, C:\Users\Moises\Downloads\Compressed\sourcemod-1.11.0-git6968-windows\addons\sourcemod\scripting\ñankrunFixhealth.sp::IsTankRunActive
+L 10/01/2025 - 15:40:56: [SM]   [2] Line 54, C:\Users\Moises\Downloads\Compressed\sourcemod-1.11.0-git6968-windows\addons\sourcemod\scripting\ñankrunFixhealth.sp::Event_RoundStart
+L 10/01/2025 - 15:41:09: [SM] Exception reported: Script execution timed out
+L 10/01/2025 - 15:41:09: [SM] Blaming: LMC_L4D2_Menu_Choosing.smx
+L 10/01/2025 - 15:41:09: [SM] Call stack trace:
+L 10/01/2025 - 15:41:09: [SM]   [1] Line 343, L:\Github\Luxs-Model-Changer\addons\sourcemod\scripting\LMC_L4D2_Menu_Choosing.sp::OnMapStart
+L 10/01/2025 - 15:41:21: [SM] Exception reported: Invalid convar handle 0 (error 4)
+L 10/01/2025 - 15:41:21: [SM] Blaming: ñankrunFixhealth.smx
+L 10/01/2025 - 15:41:21: [SM] Call stack trace:
+L 10/01/2025 - 15:41:21: [SM]   [0] GetConVarString
+L 10/01/2025 - 15:41:21: [SM]   [1] Line 138, C:\Users\Moises\Downloads\Compressed\sourcemod-1.11.0-git6968-windows\addons\sourcemod\scripting\ñankrunFixhealth.sp::IsTankRunActive
+L 10/01/2025 - 15:41:21: [SM]   [2] Line 36, C:\Users\Moises\Downloads\Compressed\sourcemod-1.11.0-git6968-windows\addons\sourcemod\scripting\ñankrunFixhealth.sp::Timer_PeriodicCheck
+L 10/01/2025 - 15:41:36: [SM] Exception reported: Invalid convar handle 0 (error 4)
+L 10/01/2025 - 15:41:36: [SM] Blaming: ñankrunFixhealth.smx
+L 10/01/2025 - 15:41:36: [SM] Call stack trace:
+L 10/01/2025 - 15:41:36: [SM]   [0] GetConVarString
+L 10/01/2025 - 15:41:36: [SM]   [1] Line 138, C:\Users\Moises\Downloads\Compressed\sourcemod-1.11.0-git6968-windows\addons\sourcemod\scripting\ñankrunFixhealth.sp::IsTankRunActive
+L 10/01/2025 - 15:41:36: [SM]   [2] Line 79, C:\Users\Moises\Downloads\Compressed\sourcemod-1.11.0-git6968-windows\addons\sourcemod\scripting\ñankrunFixhealth.sp::Event_PlayerDeath
+L 10/01/2025 - 15:41:36: [SM] Exception reported: Invalid convar handle 0 (error 4)
+L 10/01/2025 - 15:41:36: [SM] Blaming: ñankrunFixhealth.smx
+L 10/01/2025 - 15:41:36: [SM] Call stack trace:
+L 10/01/2025 - 15:41:36: [SM]   [0] GetConVarString
+L 10/01/2025 - 15:41:36: [SM]   [1] Line 138, C:\Users\Moises\Downloads\Compressed\sourcemod-1.11.0-git6968-windows\addons\sourcemod\scripting\ñankrunFixhealth.sp::IsTankRunActive
+L 10/01/2025 - 15:41:36: [SM]   [2] Line 79, C:\Users\Moises\Downloads\Compressed\sourcemod-1.11.0-git6968-windows\addons\sourcemod\scripting\ñankrunFixhealth.sp::Event_PlayerDeath
+L 10/01/2025 - 15:41:36: [SM] Exception reported: Invalid convar handle 0 (error 4)
+L 10/01/2025 - 15:41:36: [SM] Blaming: ñankrunFixhealth.smx
+L 10/01/2025 - 15:41:36: [SM] Call stack trace:
+L 10/01/2025 - 15:41:36: [SM]   [0] GetConVarString
+L 10/01/2025 - 15:41:36: [SM]   [1] Line 138, C:\Users\Moises\Downloads\Compressed\sourcemod-1.11.0-git6968-windows\addons\sourcemod\scripting\ñankrunFixhealth.sp::IsTankRunActive
+L 10/01/2025 - 15:41:36: [SM]   [2] Line 36, C:\Users\Moises\Downloads\Compressed\sourcemod-1.11.0-git6968-windows\addons\sourcemod\scripting\ñankrunFixhealth.sp::Timer_PeriodicCheck
+L 10/01/2025 - 15:41:48: [SM] Exception reported: Invalid convar handle 0 (error 4)
+L 10/01/2025 - 15:41:48: [SM] Blaming: ñankrunFixhealth.smx
+L 10/01/2025 - 15:41:48: [SM] Call stack trace:
+L 10/01/2025 - 15:41:48: [SM]   [0] GetConVarString
+L 10/01/2025 - 15:41:48: [SM]   [1] Line 138, C:\Users\Moises\Downloads\Compressed\sourcemod-1.11.0-git6968-windows\addons\sourcemod\scripting\ñankrunFixhealth.sp::IsTankRunActive
+L 10/01/2025 - 15:41:48: [SM]   [2] Line 36, C:\Users\Moises\Downloads\Compressed\sourcemod-1.11.0-git6968-windows\addons\sourcemod\scripting\ñankrunFixhealth.sp::Timer_PeriodicCheck
+L 10/01/2025 - 15:41:58: [SM] Exception reported: Invalid convar handle 0 (error 4)
+L 10/01/2025 - 15:41:58: [SM] Blaming: ñankrunFixhealth.smx
+L 10/01/2025 - 15:41:58: [SM] Call stack trace:
+L 10/01/2025 - 15:41:58: [SM]   [0] GetConVarString
+L 10/01/2025 - 15:41:58: [SM]   [1] Line 138, C:\Users\Moises\Downloads\Compressed\sourcemod-1.11.0-git6968-windows\addons\sourcemod\scripting\ñankrunFixhealth.sp::IsTankRunActive
+L 10/01/2025 - 15:41:58: [SM]   [2] Line 36, C:\Users\Moises\Downloads\Compressed\sourcemod-1.11.0-git6968-windows\addons\sourcemod\scripting\ñankrunFixhealth.sp::Timer_PeriodicCheck
+L 10/01/2025 - 15:42:00: [SM] Exception reported: Invalid convar handle 0 (error 4)
+L 10/01/2025 - 15:42:00: [SM] Blaming: ñankrunFixhealth.smx
+L 10/01/2025 - 15:42:00: [SM] Call stack trace:
+L 10/01/2025 - 15:42:00: [SM]   [0] GetConVarString
+L 10/01/2025 - 15:42:00: [SM]   [1] Line 138, C:\Users\Moises\Downloads\Compressed\sourcemod-1.11.0-git6968-windows\addons\sourcemod\scripting\ñankrunFixhealth.sp::IsTankRunActive
+L 10/01/2025 - 15:42:00: [SM]   [2] Line 79, C:\Users\Moises\Downloads\Compressed\sourcemod-1.11.0-git6968-windows\addons\sourcemod\scripting\ñankrunFixhealth.sp::Event_PlayerDeath
+L 10/01/2025 - 15:42:06: [SM] Exception reported: Invalid convar handle 0 (error 4)
+L 10/01/2025 - 15:42:06: [SM] Blaming: ñankrunFixhealth.smx
+L 10/01/2025 - 15:42:06: [SM] Call stack trace:
+L 10/01/2025 - 15:42:06: [SM]   [0] GetConVarString
+L 10/01/2025 - 15:42:06: [SM]   [1] Line 138, C:\Users\Moises\Downloads\Compressed\sourcemod-1.11.0-git6968-windows\addons\sourcemod\scripting\ñankrunFixhealth.sp::IsTankRunActive
+L 10/01/2025 - 15:42:06: [SM]   [2] Line 79, C:\Users\Moises\Downloads\Compressed\sourcemod-1.11.0-git6968-windows\addons\sourcemod\scripting\ñankrunFixhealth.sp::Event_PlayerDeath
+L 10/01/2025 - 15:42:08: [SM] Exception reported: Invalid convar handle 0 (error 4)
+L 10/01/2025 - 15:42:08: [SM] Blaming: ñankrunFixhealth.smx
+L 10/01/2025 - 15:42:08: [SM] Call stack trace:
+L 10/01/2025 - 15:42:08: [SM]   [0] GetConVarString
+L 10/01/2025 - 15:42:08: [SM]   [1] Line 138, C:\Users\Moises\Downloads\Compressed\sourcemod-1.11.0-git6968-windows\addons\sourcemod\scripting\ñankrunFixhealth.sp::IsTankRunActive
+L 10/01/2025 - 15:42:08: [SM]   [2] Line 36, C:\Users\Moises\Downloads\Compressed\sourcemod-1.11.0-git6968-windows\addons\sourcemod\scripting\ñankrunFixhealth.sp::Timer_PeriodicCheck
+L 10/01/2025 - 15:42:18: [SM] Exception reported: Invalid convar handle 0 (error 4)
+L 10/01/2025 - 15:42:18: [SM] Blaming: ñankrunFixhealth.smx
+L 10/01/2025 - 15:42:18: [SM] Call stack trace:
+L 10/01/2025 - 15:42:18: [SM]   [0] GetConVarString
+L 10/01/2025 - 15:42:18: [SM]   [1] Line 138, C:\Users\Moises\Downloads\Compressed\sourcemod-1.11.0-git6968-windows\addons\sourcemod\scripting\ñankrunFixhealth.sp::IsTankRunActive
+L 10/01/2025 - 15:42:18: [SM]   [2] Line 36, C:\Users\Moises\Downloads\Compressed\sourcemod-1.11.0-git6968-windows\addons\sourcemod\scripting\ñankrunFixhealth.sp::Timer_PeriodicCheck
+L 10/01/2025 - 15:42:28: [SM] Exception reported: Invalid convar handle 0 (error 4)
+L 10/01/2025 - 15:42:28: [SM] Blaming: ñankrunFixhealth.smx
+L 10/01/2025 - 15:42:28: [SM] Call stack trace:
+L 10/01/2025 - 15:42:28: [SM]   [0] GetConVarString
+L 10/01/2025 - 15:42:28: [SM]   [1] Line 138, C:\Users\Moises\Downloads\Compressed\sourcemod-1.11.0-git6968-windows\addons\sourcemod\scripting\ñankrunFixhealth.sp::IsTankRunActive
+L 10/01/2025 - 15:42:28: [SM]   [2] Line 36, C:\Users\Moises\Downloads\Compressed\sourcemod-1.11.0-git6968-windows\addons\sourcemod\scripting\ñankrunFixhealth.sp::Timer_PeriodicCheck
+L 10/01/2025 - 15:42:38: [SM] Exception reported: Invalid convar handle 0 (error 4)
+L 10/01/2025 - 15:42:38: [SM] Blaming: ñankrunFixhealth.smx
+L 10/01/2025 - 15:42:38: [SM] Call stack trace:
+L 10/01/2025 - 15:42:38: [SM]   [0] GetConVarString
+L 10/01/2025 - 15:42:38: [SM]   [1] Line 138, C:\Users\Moises\Downloads\Compressed\sourcemod-1.11.0-git6968-windows\addons\sourcemod\scripting\ñankrunFixhealth.sp::IsTankRunActive
+L 10/01/2025 - 15:42:38: [SM]   [2] Line 36, C:\Users\Moises\Downloads\Compressed\sourcemod-1.11.0-git6968-windows\addons\sourcemod\scripting\ñankrunFixhealth.sp::Timer_PeriodicCheck
+L 10/01/2025 - 15:42:48: [SM] Exception reported: Invalid convar handle 0 (error 4)
+L 10/01/2025 - 15:42:48: [SM] Blaming: ñankrunFixhealth.smx
+L 10/01/2025 - 15:42:48: [SM] Call stack trace:
+L 10/01/2025 - 15:42:48: [SM]   [0] GetConVarString
+L 10/01/2025 - 15:42:48: [SM]   [1] Line 138, C:\Users\Moises\Downloads\Compressed\sourcemod-1.11.0-git6968-windows\addons\sourcemod\scripting\ñankrunFixhealth.sp::IsTankRunActive
+L 10/01/2025 - 15:42:48: [SM]   [2] Line 36, C:\Users\Moises\Downloads\Compressed\sourcemod-1.11.0-git6968-windows\addons\sourcemod\scripting\ñankrunFixhealth.sp::Timer_PeriodicCheck
+L 10/01/2025 - 15:42:58: [SM] Exception reported: Invalid convar handle 0 (error 4)
+L 10/01/2025 - 15:42:58: [SM] Blaming: ñankrunFixhealth.smx
+L 10/01/2025 - 15:42:58: [SM] Call stack trace:
+L 10/01/2025 - 15:42:58: [SM]   [0] GetConVarString
+L 10/01/2025 - 15:42:58: [SM]   [1] Line 138, C:\Users\Moises\Downloads\Compressed\sourcemod-1.11.0-git6968-windows\addons\sourcemod\scripting\ñankrunFixhealth.sp::IsTankRunActive
+L 10/01/2025 - 15:42:58: [SM]   [2] Line 36, C:\Users\Moises\Downloads\Compressed\sourcemod-1.11.0-git6968-windows\addons\sourcemod\scripting\ñankrunFixhealth.sp::Timer_PeriodicCheck
+L 10/01/2025 - 15:43:08: Error log file session closed.
+L 10/01/2025 - 15:54:46: SourceMod error session started
+L 10/01/2025 - 15:54:46: Info (map "c1m1_hotel") (file "z:\home\moy\.steam\debian-installation\steamapps\common\left 4 dead 2\left4dead2\addons\sourcemod\logs\errors_20251001.log")
+L 10/01/2025 - 15:54:46: [SM] Failed to load plugin "cannounce.smx": Get a dedicated server. This plugin does not work on Listen servers..
+L 10/01/2025 - 15:54:46: [SM] Failed to load plugin "LMCL4D1CDeathHandler.smx": Plugin only supports Left 4 Dead.
+L 10/01/2025 - 15:54:46: [SM] Failed to load plugin "LMCL4D1SetTransmit.smx": Plugin only supports Left 4 Dead.
+L 10/01/2025 - 15:54:46: [SM] Failed to load plugin "LMC_L4D1_Menu_Choosing.smx": Plugin only supports Left 4 Dead.
+L 10/01/2025 - 15:54:46: [SM] Failed to load plugin "LMC_L4D1_RandomSpawns.smx": Plugin only supports Left 4 Dead.
+L 10/01/2025 - 15:54:46: [SM] Failed to load plugin "nextmap.smx": Nextmap is incompatible with this game.
+L 10/01/2025 - 15:54:46: [SM] Failed to load plugin "[L4D2] Left4dhooks.smx": 
+====================
+This plugin replaces Left4Downtown. Delete the extension to run.
+====================.
+L 10/01/2025 - 15:54:47: [SM] Fatal error encountered parsing translation file "l4d_nth.phrases.txt"
+L 10/01/2025 - 15:54:47: [SM] Error (line 0, column 0): Stream failed to open
+L 10/01/2025 - 15:54:47: [SM] Fatal error encountered parsing translation file "chargersteering.phrases.txt"
+L 10/01/2025 - 15:54:47: [SM] Error (line 0, column 0): Stream failed to open
+L 10/01/2025 - 15:54:47: [SM] Fatal error encountered parsing translation file "l4dmultislots.phrases.txt"
+L 10/01/2025 - 15:54:47: [SM] Error (line 0, column 0): Stream failed to open
+L 10/01/2025 - 15:54:48: [SM] Fatal error encountered parsing translation file "lilac.phrases.txt"
+L 10/01/2025 - 15:54:48: [SM] Error (line 0, column 0): Stream failed to open
+L 10/01/2025 - 15:54:53: [SM] Exception reported: Invalid convar handle 0 (error 4)
+L 10/01/2025 - 15:54:53: [SM] Blaming: ñankrunFixhealth.smx
+L 10/01/2025 - 15:54:54: [SM] Call stack trace:
+L 10/01/2025 - 15:54:54: [SM]   [0] GetConVarString
+L 10/01/2025 - 15:54:54: [SM]   [1] Line 138, C:\Users\Moises\Downloads\Compressed\sourcemod-1.11.0-git6968-windows\addons\sourcemod\scripting\ñankrunFixhealth.sp::IsTankRunActive
+L 10/01/2025 - 15:54:54: [SM]   [2] Line 54, C:\Users\Moises\Downloads\Compressed\sourcemod-1.11.0-git6968-windows\addons\sourcemod\scripting\ñankrunFixhealth.sp::Event_RoundStart
+L 10/01/2025 - 15:55:08: [SM] Exception reported: Invalid convar handle 0 (error 4)
+L 10/01/2025 - 15:55:08: [SM] Blaming: ñankrunFixhealth.smx
+L 10/01/2025 - 15:55:08: [SM] Call stack trace:
+L 10/01/2025 - 15:55:08: [SM]   [0] GetConVarString
+L 10/01/2025 - 15:55:08: [SM]   [1] Line 138, C:\Users\Moises\Downloads\Compressed\sourcemod-1.11.0-git6968-windows\addons\sourcemod\scripting\ñankrunFixhealth.sp::IsTankRunActive
+L 10/01/2025 - 15:55:08: [SM]   [2] Line 36, C:\Users\Moises\Downloads\Compressed\sourcemod-1.11.0-git6968-windows\addons\sourcemod\scripting\ñankrunFixhealth.sp::Timer_PeriodicCheck
+L 10/01/2025 - 15:55:23: [SM] Exception reported: Invalid convar handle 0 (error 4)
+L 10/01/2025 - 15:55:23: [SM] Blaming: ñankrunFixhealth.smx
+L 10/01/2025 - 15:55:23: [SM] Call stack trace:
+L 10/01/2025 - 15:55:23: [SM]   [0] GetConVarString
+L 10/01/2025 - 15:55:23: [SM]   [1] Line 138, C:\Users\Moises\Downloads\Compressed\sourcemod-1.11.0-git6968-windows\addons\sourcemod\scripting\ñankrunFixhealth.sp::IsTankRunActive
+L 10/01/2025 - 15:55:23: [SM]   [2] Line 79, C:\Users\Moises\Downloads\Compressed\sourcemod-1.11.0-git6968-windows\addons\sourcemod\scripting\ñankrunFixhealth.sp::Event_PlayerDeath
+L 10/01/2025 - 15:55:23: [SM] Exception reported: Unable to execute a new message while in hook
+L 10/01/2025 - 15:55:23: [SM] Blaming: simple-chatcolors.smx
+L 10/01/2025 - 15:55:23: [SM] Call stack trace:
+L 10/01/2025 - 15:55:23: [SM]   [0] StartMessage
+L 10/01/2025 - 15:55:23: [SM]   [1] Line 269, ./include/usermessages.inc::StartMessageOne
+L 10/01/2025 - 15:55:23: [SM]   [2] Line 361, ./include/colors.inc::CSayText2
+L 10/01/2025 - 15:55:23: [SM]   [3] Line 78, ./include/colors.inc::CPrintToChat
+L 10/01/2025 - 15:55:23: [SM]   [4] Line 111, simple-chatcolors.sp::OnChatMessage
+L 10/01/2025 - 15:55:23: [SM]   [6] Call_Finish
+L 10/01/2025 - 15:55:23: [SM]   [7] Line 91, simple-chatprocessor.sp::OnSayText2
+L 10/01/2025 - 15:55:24: [SM] Exception reported: Invalid convar handle 0 (error 4)
+L 10/01/2025 - 15:55:24: [SM] Blaming: ñankrunFixhealth.smx
+L 10/01/2025 - 15:55:24: [SM] Call stack trace:
+L 10/01/2025 - 15:55:24: [SM]   [0] GetConVarString
+L 10/01/2025 - 15:55:24: [SM]   [1] Line 138, C:\Users\Moises\Downloads\Compressed\sourcemod-1.11.0-git6968-windows\addons\sourcemod\scripting\ñankrunFixhealth.sp::IsTankRunActive
+L 10/01/2025 - 15:55:24: [SM]   [2] Line 36, C:\Users\Moises\Downloads\Compressed\sourcemod-1.11.0-git6968-windows\addons\sourcemod\scripting\ñankrunFixhealth.sp::Timer_PeriodicCheck
+L 10/01/2025 - 15:55:24: [SM] Exception reported: Invalid convar handle 0 (error 4)
+L 10/01/2025 - 15:55:24: [SM] Blaming: ñankrunFixhealth.smx
+L 10/01/2025 - 15:55:24: [SM] Call stack trace:
+L 10/01/2025 - 15:55:24: [SM]   [0] GetConVarString
+L 10/01/2025 - 15:55:24: [SM]   [1] Line 138, C:\Users\Moises\Downloads\Compressed\sourcemod-1.11.0-git6968-windows\addons\sourcemod\scripting\ñankrunFixhealth.sp::IsTankRunActive
+L 10/01/2025 - 15:55:24: [SM]   [2] Line 79, C:\Users\Moises\Downloads\Compressed\sourcemod-1.11.0-git6968-windows\addons\sourcemod\scripting\ñankrunFixhealth.sp::Event_PlayerDeath
+L 10/01/2025 - 15:55:31: [SM] Exception reported: Array index out-of-bounds (index 254, limit 102)
+L 10/01/2025 - 15:55:31: [SM] Blaming: simple-chatcolors.smx
+L 10/01/2025 - 15:55:31: [SM] Call stack trace:
+L 10/01/2025 - 15:55:31: [SM]   [1] Line 53, simple-chatcolors.sp::OnChatMessage
+L 10/01/2025 - 15:55:31: [SM]   [3] Call_Finish
+L 10/01/2025 - 15:55:31: [SM]   [4] Line 91, simple-chatprocessor.sp::OnSayText2
+L 10/01/2025 - 15:55:31: [SM]   [6] EndMessage
+L 10/01/2025 - 15:55:31: [SM]   [7] Line 380, ./include/colors.inc::CSayText2
+L 10/01/2025 - 15:55:31: [SM]   [8] Line 78, ./include/colors.inc::CPrintToChat
+L 10/01/2025 - 15:55:31: [SM]   [9] Line 143, simple-chatcolors.sp::Command_PrintColors
+L 10/01/2025 - 15:55:31: [SM] Exception reported: Unable to execute a new message, there is already one in progress
+L 10/01/2025 - 15:55:31: [SM] Blaming: simple-chatcolors.smx
+L 10/01/2025 - 15:55:31: [SM] Call stack trace:
+L 10/01/2025 - 15:55:31: [SM]   [0] StartMessage
+L 10/01/2025 - 15:55:31: [SM]   [1] Line 269, ./include/usermessages.inc::StartMessageOne
+L 10/01/2025 - 15:55:31: [SM]   [2] Line 361, ./include/colors.inc::CSayText2
+L 10/01/2025 - 15:55:31: [SM]   [3] Line 78, ./include/colors.inc::CPrintToChat
+L 10/01/2025 - 15:55:31: [SM]   [4] Line 111, simple-chatcolors.sp::OnChatMessage
+L 10/01/2025 - 15:55:31: [SM]   [6] Call_Finish
+L 10/01/2025 - 15:55:31: [SM]   [7] Line 91, simple-chatprocessor.sp::OnSayText2
+L 10/01/2025 - 15:55:31: [SM]   [9] EndMessage
+L 10/01/2025 - 15:55:31: [SM]   [10] Line 380, ./include/colors.inc::CSayText2
+L 10/01/2025 - 15:55:31: [SM]   [11] Line 78, ./include/colors.inc::CPrintToChat
+L 10/01/2025 - 15:55:31: [SM]   [12] Line 144, simple-chatcolors.sp::Command_PrintColors
+L 10/01/2025 - 15:55:34: [SM] Exception reported: Invalid convar handle 0 (error 4)
+L 10/01/2025 - 15:55:34: [SM] Blaming: ñankrunFixhealth.smx
+L 10/01/2025 - 15:55:34: [SM] Call stack trace:
+L 10/01/2025 - 15:55:34: [SM]   [0] GetConVarString
+L 10/01/2025 - 15:55:34: [SM]   [1] Line 138, C:\Users\Moises\Downloads\Compressed\sourcemod-1.11.0-git6968-windows\addons\sourcemod\scripting\ñankrunFixhealth.sp::IsTankRunActive
+L 10/01/2025 - 15:55:34: [SM]   [2] Line 36, C:\Users\Moises\Downloads\Compressed\sourcemod-1.11.0-git6968-windows\addons\sourcemod\scripting\ñankrunFixhealth.sp::Timer_PeriodicCheck
+L 10/01/2025 - 15:55:43: [SM] Exception reported: Invalid convar handle 0 (error 4)
+L 10/01/2025 - 15:55:43: [SM] Blaming: ñankrunFixhealth.smx
+L 10/01/2025 - 15:55:43: [SM] Call stack trace:
+L 10/01/2025 - 15:55:43: [SM]   [0] GetConVarString
+L 10/01/2025 - 15:55:43: [SM]   [1] Line 138, C:\Users\Moises\Downloads\Compressed\sourcemod-1.11.0-git6968-windows\addons\sourcemod\scripting\ñankrunFixhealth.sp::IsTankRunActive
+L 10/01/2025 - 15:55:43: [SM]   [2] Line 79, C:\Users\Moises\Downloads\Compressed\sourcemod-1.11.0-git6968-windows\addons\sourcemod\scripting\ñankrunFixhealth.sp::Event_PlayerDeath
+L 10/01/2025 - 15:55:44: [SM] Exception reported: Invalid convar handle 0 (error 4)
+L 10/01/2025 - 15:55:44: [SM] Blaming: ñankrunFixhealth.smx
+L 10/01/2025 - 15:55:44: [SM] Call stack trace:
+L 10/01/2025 - 15:55:44: [SM]   [0] GetConVarString
+L 10/01/2025 - 15:55:44: [SM]   [1] Line 138, C:\Users\Moises\Downloads\Compressed\sourcemod-1.11.0-git6968-windows\addons\sourcemod\scripting\ñankrunFixhealth.sp::IsTankRunActive
+L 10/01/2025 - 15:55:44: [SM]   [2] Line 36, C:\Users\Moises\Downloads\Compressed\sourcemod-1.11.0-git6968-windows\addons\sourcemod\scripting\ñankrunFixhealth.sp::Timer_PeriodicCheck
+L 10/01/2025 - 15:55:54: [SM] Exception reported: Invalid convar handle 0 (error 4)
+L 10/01/2025 - 15:55:54: [SM] Blaming: ñankrunFixhealth.smx
+L 10/01/2025 - 15:55:54: [SM] Call stack trace:
+L 10/01/2025 - 15:55:54: [SM]   [0] GetConVarString
+L 10/01/2025 - 15:55:54: [SM]   [1] Line 138, C:\Users\Moises\Downloads\Compressed\sourcemod-1.11.0-git6968-windows\addons\sourcemod\scripting\ñankrunFixhealth.sp::IsTankRunActive
+L 10/01/2025 - 15:55:54: [SM]   [2] Line 36, C:\Users\Moises\Downloads\Compressed\sourcemod-1.11.0-git6968-windows\addons\sourcemod\scripting\ñankrunFixhealth.sp::Timer_PeriodicCheck
+L 10/01/2025 - 15:56:04: [SM] Exception reported: Invalid convar handle 0 (error 4)
+L 10/01/2025 - 15:56:04: [SM] Blaming: ñankrunFixhealth.smx
+L 10/01/2025 - 15:56:04: [SM] Call stack trace:
+L 10/01/2025 - 15:56:04: [SM]   [0] GetConVarString
+L 10/01/2025 - 15:56:04: [SM]   [1] Line 138, C:\Users\Moises\Downloads\Compressed\sourcemod-1.11.0-git6968-windows\addons\sourcemod\scripting\ñankrunFixhealth.sp::IsTankRunActive
+L 10/01/2025 - 15:56:04: [SM]   [2] Line 36, C:\Users\Moises\Downloads\Compressed\sourcemod-1.11.0-git6968-windows\addons\sourcemod\scripting\ñankrunFixhealth.sp::Timer_PeriodicCheck
+L 10/01/2025 - 15:56:14: [SM] Exception reported: Invalid convar handle 0 (error 4)
+L 10/01/2025 - 15:56:14: [SM] Blaming: ñankrunFixhealth.smx
+L 10/01/2025 - 15:56:14: [SM] Call stack trace:
+L 10/01/2025 - 15:56:14: [SM]   [0] GetConVarString
+L 10/01/2025 - 15:56:14: [SM]   [1] Line 138, C:\Users\Moises\Downloads\Compressed\sourcemod-1.11.0-git6968-windows\addons\sourcemod\scripting\ñankrunFixhealth.sp::IsTankRunActive
+L 10/01/2025 - 15:56:14: [SM]   [2] Line 36, C:\Users\Moises\Downloads\Compressed\sourcemod-1.11.0-git6968-windows\addons\sourcemod\scripting\ñankrunFixhealth.sp::Timer_PeriodicCheck
+L 10/01/2025 - 15:56:21: [SM] Exception reported: Unable to execute a new message while in hook
+L 10/01/2025 - 15:56:21: [SM] Blaming: simple-chatcolors.smx
+L 10/01/2025 - 15:56:21: [SM] Call stack trace:
+L 10/01/2025 - 15:56:21: [SM]   [0] StartMessage
+L 10/01/2025 - 15:56:21: [SM]   [1] Line 269, ./include/usermessages.inc::StartMessageOne
+L 10/01/2025 - 15:56:21: [SM]   [2] Line 361, ./include/colors.inc::CSayText2
+L 10/01/2025 - 15:56:21: [SM]   [3] Line 78, ./include/colors.inc::CPrintToChat
+L 10/01/2025 - 15:56:21: [SM]   [4] Line 111, simple-chatcolors.sp::OnChatMessage
+L 10/01/2025 - 15:56:21: [SM]   [6] Call_Finish
+L 10/01/2025 - 15:56:21: [SM]   [7] Line 91, simple-chatprocessor.sp::OnSayText2
+L 10/01/2025 - 15:56:24: [SM] Exception reported: Invalid convar handle 0 (error 4)
+L 10/01/2025 - 15:56:24: [SM] Blaming: ñankrunFixhealth.smx
+L 10/01/2025 - 15:56:24: [SM] Call stack trace:
+L 10/01/2025 - 15:56:24: [SM]   [0] GetConVarString
+L 10/01/2025 - 15:56:24: [SM]   [1] Line 138, C:\Users\Moises\Downloads\Compressed\sourcemod-1.11.0-git6968-windows\addons\sourcemod\scripting\ñankrunFixhealth.sp::IsTankRunActive
+L 10/01/2025 - 15:56:24: [SM]   [2] Line 36, C:\Users\Moises\Downloads\Compressed\sourcemod-1.11.0-git6968-windows\addons\sourcemod\scripting\ñankrunFixhealth.sp::Timer_PeriodicCheck
+L 10/01/2025 - 15:56:32: [SM] Exception reported: Invalid convar handle 0 (error 4)
+L 10/01/2025 - 15:56:32: [SM] Blaming: ñankrunFixhealth.smx
+L 10/01/2025 - 15:56:32: [SM] Call stack trace:
+L 10/01/2025 - 15:56:32: [SM]   [0] GetConVarString
+L 10/01/2025 - 15:56:32: [SM]   [1] Line 138, C:\Users\Moises\Downloads\Compressed\sourcemod-1.11.0-git6968-windows\addons\sourcemod\scripting\ñankrunFixhealth.sp::IsTankRunActive
+L 10/01/2025 - 15:56:32: [SM]   [2] Line 79, C:\Users\Moises\Downloads\Compressed\sourcemod-1.11.0-git6968-windows\addons\sourcemod\scripting\ñankrunFixhealth.sp::Event_PlayerDeath
+L 10/01/2025 - 15:56:34: [SM] Exception reported: Invalid convar handle 0 (error 4)
+L 10/01/2025 - 15:56:34: [SM] Blaming: ñankrunFixhealth.smx
+L 10/01/2025 - 15:56:34: [SM] Call stack trace:
+L 10/01/2025 - 15:56:34: [SM]   [0] GetConVarString
+L 10/01/2025 - 15:56:34: [SM]   [1] Line 138, C:\Users\Moises\Downloads\Compressed\sourcemod-1.11.0-git6968-windows\addons\sourcemod\scripting\ñankrunFixhealth.sp::IsTankRunActive
+L 10/01/2025 - 15:56:34: [SM]   [2] Line 36, C:\Users\Moises\Downloads\Compressed\sourcemod-1.11.0-git6968-windows\addons\sourcemod\scripting\ñankrunFixhealth.sp::Timer_PeriodicCheck
+L 10/01/2025 - 15:56:44: [SM] Exception reported: Invalid convar handle 0 (error 4)
+L 10/01/2025 - 15:56:44: [SM] Blaming: ñankrunFixhealth.smx
+L 10/01/2025 - 15:56:44: [SM] Call stack trace:
+L 10/01/2025 - 15:56:44: [SM]   [0] GetConVarString
+L 10/01/2025 - 15:56:44: [SM]   [1] Line 138, C:\Users\Moises\Downloads\Compressed\sourcemod-1.11.0-git6968-windows\addons\sourcemod\scripting\ñankrunFixhealth.sp::IsTankRunActive
+L 10/01/2025 - 15:56:44: [SM]   [2] Line 36, C:\Users\Moises\Downloads\Compressed\sourcemod-1.11.0-git6968-windows\addons\sourcemod\scripting\ñankrunFixhealth.sp::Timer_PeriodicCheck
+L 10/01/2025 - 15:56:50: Error log file session closed.
+L 10/01/2025 - 15:59:59: SourceMod error session started
+L 10/01/2025 - 15:59:59: Info (map "c1m1_hotel") (file "z:\home\moy\.steam\debian-installation\steamapps\common\left 4 dead 2\left4dead2\addons\sourcemod\logs\errors_20251001.log")
+L 10/01/2025 - 15:59:59: [SM] Failed to load plugin "cannounce.smx": Get a dedicated server. This plugin does not work on Listen servers..
+L 10/01/2025 - 15:59:59: [SM] Failed to load plugin "LMCL4D1CDeathHandler.smx": Plugin only supports Left 4 Dead.
+L 10/01/2025 - 15:59:59: [SM] Failed to load plugin "LMCL4D1SetTransmit.smx": Plugin only supports Left 4 Dead.
+L 10/01/2025 - 15:59:59: [SM] Failed to load plugin "LMC_L4D1_Menu_Choosing.smx": Plugin only supports Left 4 Dead.
+L 10/01/2025 - 15:59:59: [SM] Failed to load plugin "LMC_L4D1_RandomSpawns.smx": Plugin only supports Left 4 Dead.
+L 10/01/2025 - 15:59:59: [SM] Failed to load plugin "nextmap.smx": Nextmap is incompatible with this game.
+L 10/01/2025 - 15:59:59: [SM] Failed to load plugin "[L4D2] Left4dhooks.smx": 
+====================
+This plugin replaces Left4Downtown. Delete the extension to run.
+====================.
+L 10/01/2025 - 15:59:59: [SM] Fatal error encountered parsing translation file "l4d_nth.phrases.txt"
+L 10/01/2025 - 15:59:59: [SM] Error (line 0, column 0): Stream failed to open
+L 10/01/2025 - 15:59:59: [SM] Fatal error encountered parsing translation file "chargersteering.phrases.txt"
+L 10/01/2025 - 15:59:59: [SM] Error (line 0, column 0): Stream failed to open
+L 10/01/2025 - 15:59:59: [SM] Fatal error encountered parsing translation file "l4dmultislots.phrases.txt"
+L 10/01/2025 - 15:59:59: [SM] Error (line 0, column 0): Stream failed to open
+L 10/01/2025 - 16:00:01: [SM] Fatal error encountered parsing translation file "lilac.phrases.txt"
+L 10/01/2025 - 16:00:01: [SM] Error (line 0, column 0): Stream failed to open
+L 10/01/2025 - 16:00:04: [SM] Exception reported: Invalid convar handle 0 (error 4)
+L 10/01/2025 - 16:00:04: [SM] Blaming: ñankrunFixhealth.smx
+L 10/01/2025 - 16:00:04: [SM] Call stack trace:
+L 10/01/2025 - 16:00:04: [SM]   [0] GetConVarString
+L 10/01/2025 - 16:00:04: [SM]   [1] Line 138, C:\Users\Moises\Downloads\Compressed\sourcemod-1.11.0-git6968-windows\addons\sourcemod\scripting\ñankrunFixhealth.sp::IsTankRunActive
+L 10/01/2025 - 16:00:04: [SM]   [2] Line 54, C:\Users\Moises\Downloads\Compressed\sourcemod-1.11.0-git6968-windows\addons\sourcemod\scripting\ñankrunFixhealth.sp::Event_RoundStart
+L 10/01/2025 - 16:00:18: [SM] Exception reported: Invalid convar handle 0 (error 4)
+L 10/01/2025 - 16:00:18: [SM] Blaming: ñankrunFixhealth.smx
+L 10/01/2025 - 16:00:18: [SM] Call stack trace:
+L 10/01/2025 - 16:00:18: [SM]   [0] GetConVarString
+L 10/01/2025 - 16:00:18: [SM]   [1] Line 138, C:\Users\Moises\Downloads\Compressed\sourcemod-1.11.0-git6968-windows\addons\sourcemod\scripting\ñankrunFixhealth.sp::IsTankRunActive
+L 10/01/2025 - 16:00:18: [SM]   [2] Line 36, C:\Users\Moises\Downloads\Compressed\sourcemod-1.11.0-git6968-windows\addons\sourcemod\scripting\ñankrunFixhealth.sp::Timer_PeriodicCheck
+L 10/01/2025 - 16:00:44: [SM] Exception reported: Invalid convar handle 0 (error 4)
+L 10/01/2025 - 16:00:44: [SM] Blaming: ñankrunFixhealth.smx
+L 10/01/2025 - 16:00:44: [SM] Call stack trace:
+L 10/01/2025 - 16:00:44: [SM]   [0] GetConVarString
+L 10/01/2025 - 16:00:44: [SM]   [1] Line 138, C:\Users\Moises\Downloads\Compressed\sourcemod-1.11.0-git6968-windows\addons\sourcemod\scripting\ñankrunFixhealth.sp::IsTankRunActive
+L 10/01/2025 - 16:00:44: [SM]   [2] Line 79, C:\Users\Moises\Downloads\Compressed\sourcemod-1.11.0-git6968-windows\addons\sourcemod\scripting\ñankrunFixhealth.sp::Event_PlayerDeath
+L 10/01/2025 - 16:00:45: [SM] Exception reported: Invalid convar handle 0 (error 4)
+L 10/01/2025 - 16:00:45: [SM] Blaming: ñankrunFixhealth.smx
+L 10/01/2025 - 16:00:45: [SM] Call stack trace:
+L 10/01/2025 - 16:00:45: [SM]   [0] GetConVarString
+L 10/01/2025 - 16:00:45: [SM]   [1] Line 138, C:\Users\Moises\Downloads\Compressed\sourcemod-1.11.0-git6968-windows\addons\sourcemod\scripting\ñankrunFixhealth.sp::IsTankRunActive
+L 10/01/2025 - 16:00:45: [SM]   [2] Line 79, C:\Users\Moises\Downloads\Compressed\sourcemod-1.11.0-git6968-windows\addons\sourcemod\scripting\ñankrunFixhealth.sp::Event_PlayerDeath
+L 10/01/2025 - 16:00:45: [SM] Exception reported: Invalid convar handle 0 (error 4)
+L 10/01/2025 - 16:00:45: [SM] Blaming: ñankrunFixhealth.smx
+L 10/01/2025 - 16:00:45: [SM] Call stack trace:
+L 10/01/2025 - 16:00:45: [SM]   [0] GetConVarString
+L 10/01/2025 - 16:00:45: [SM]   [1] Line 138, C:\Users\Moises\Downloads\Compressed\sourcemod-1.11.0-git6968-windows\addons\sourcemod\scripting\ñankrunFixhealth.sp::IsTankRunActive
+L 10/01/2025 - 16:00:45: [SM]   [2] Line 36, C:\Users\Moises\Downloads\Compressed\sourcemod-1.11.0-git6968-windows\addons\sourcemod\scripting\ñankrunFixhealth.sp::Timer_PeriodicCheck
+L 10/01/2025 - 16:00:47: [SM] Exception reported: Unable to execute a new message while in hook
+L 10/01/2025 - 16:00:47: [SM] Blaming: simple-chatcolors.smx
+L 10/01/2025 - 16:00:47: [SM] Call stack trace:
+L 10/01/2025 - 16:00:47: [SM]   [0] StartMessage
+L 10/01/2025 - 16:00:47: [SM]   [1] Line 269, ./include/usermessages.inc::StartMessageOne
+L 10/01/2025 - 16:00:47: [SM]   [2] Line 361, ./include/colors.inc::CSayText2
+L 10/01/2025 - 16:00:47: [SM]   [3] Line 78, ./include/colors.inc::CPrintToChat
+L 10/01/2025 - 16:00:47: [SM]   [4] Line 111, simple-chatcolors.sp::OnChatMessage
+L 10/01/2025 - 16:00:47: [SM]   [6] Call_Finish
+L 10/01/2025 - 16:00:47: [SM]   [7] Line 91, simple-chatprocessor.sp::OnSayText2
+L 10/01/2025 - 16:00:54: [SM] Exception reported: Array index out-of-bounds (index 254, limit 102)
+L 10/01/2025 - 16:00:54: [SM] Blaming: simple-chatcolors.smx
+L 10/01/2025 - 16:00:54: [SM] Call stack trace:
+L 10/01/2025 - 16:00:54: [SM]   [1] Line 53, simple-chatcolors.sp::OnChatMessage
+L 10/01/2025 - 16:00:54: [SM]   [3] Call_Finish
+L 10/01/2025 - 16:00:54: [SM]   [4] Line 91, simple-chatprocessor.sp::OnSayText2
+L 10/01/2025 - 16:00:54: [SM]   [6] EndMessage
+L 10/01/2025 - 16:00:54: [SM]   [7] Line 380, ./include/colors.inc::CSayText2
+L 10/01/2025 - 16:00:54: [SM]   [8] Line 78, ./include/colors.inc::CPrintToChat
+L 10/01/2025 - 16:00:54: [SM]   [9] Line 143, simple-chatcolors.sp::Command_PrintColors
+L 10/01/2025 - 16:00:54: [SM] Exception reported: Unable to execute a new message, there is already one in progress
+L 10/01/2025 - 16:00:54: [SM] Blaming: simple-chatcolors.smx
+L 10/01/2025 - 16:00:54: [SM] Call stack trace:
+L 10/01/2025 - 16:00:54: [SM]   [0] StartMessage
+L 10/01/2025 - 16:00:54: [SM]   [1] Line 269, ./include/usermessages.inc::StartMessageOne
+L 10/01/2025 - 16:00:54: [SM]   [2] Line 361, ./include/colors.inc::CSayText2
+L 10/01/2025 - 16:00:54: [SM]   [3] Line 78, ./include/colors.inc::CPrintToChat
+L 10/01/2025 - 16:00:54: [SM]   [4] Line 111, simple-chatcolors.sp::OnChatMessage
+L 10/01/2025 - 16:00:54: [SM]   [6] Call_Finish
+L 10/01/2025 - 16:00:54: [SM]   [7] Line 91, simple-chatprocessor.sp::OnSayText2
+L 10/01/2025 - 16:00:54: [SM]   [9] EndMessage
+L 10/01/2025 - 16:00:54: [SM]   [10] Line 380, ./include/colors.inc::CSayText2
+L 10/01/2025 - 16:00:54: [SM]   [11] Line 78, ./include/colors.inc::CPrintToChat
+L 10/01/2025 - 16:00:54: [SM]   [12] Line 144, simple-chatcolors.sp::Command_PrintColors
+L 10/01/2025 - 16:00:55: [SM] Exception reported: Invalid convar handle 0 (error 4)
+L 10/01/2025 - 16:00:55: [SM] Blaming: ñankrunFixhealth.smx
+L 10/01/2025 - 16:00:55: [SM] Call stack trace:
+L 10/01/2025 - 16:00:55: [SM]   [0] GetConVarString
+L 10/01/2025 - 16:00:55: [SM]   [1] Line 138, C:\Users\Moises\Downloads\Compressed\sourcemod-1.11.0-git6968-windows\addons\sourcemod\scripting\ñankrunFixhealth.sp::IsTankRunActive
+L 10/01/2025 - 16:00:55: [SM]   [2] Line 36, C:\Users\Moises\Downloads\Compressed\sourcemod-1.11.0-git6968-windows\addons\sourcemod\scripting\ñankrunFixhealth.sp::Timer_PeriodicCheck
+L 10/01/2025 - 16:01:00: [SM] Exception reported: Invalid convar handle 0 (error 4)
+L 10/01/2025 - 16:01:00: [SM] Blaming: ñankrunFixhealth.smx
+L 10/01/2025 - 16:01:00: [SM] Call stack trace:
+L 10/01/2025 - 16:01:00: [SM]   [0] GetConVarString
+L 10/01/2025 - 16:01:00: [SM]   [1] Line 138, C:\Users\Moises\Downloads\Compressed\sourcemod-1.11.0-git6968-windows\addons\sourcemod\scripting\ñankrunFixhealth.sp::IsTankRunActive
+L 10/01/2025 - 16:01:00: [SM]   [2] Line 79, C:\Users\Moises\Downloads\Compressed\sourcemod-1.11.0-git6968-windows\addons\sourcemod\scripting\ñankrunFixhealth.sp::Event_PlayerDeath
+L 10/01/2025 - 16:01:05: [SM] Exception reported: Invalid convar handle 0 (error 4)
+L 10/01/2025 - 16:01:05: [SM] Blaming: ñankrunFixhealth.smx
+L 10/01/2025 - 16:01:05: [SM] Call stack trace:
+L 10/01/2025 - 16:01:05: [SM]   [0] GetConVarString
+L 10/01/2025 - 16:01:05: [SM]   [1] Line 138, C:\Users\Moises\Downloads\Compressed\sourcemod-1.11.0-git6968-windows\addons\sourcemod\scripting\ñankrunFixhealth.sp::IsTankRunActive
+L 10/01/2025 - 16:01:05: [SM]   [2] Line 36, C:\Users\Moises\Downloads\Compressed\sourcemod-1.11.0-git6968-windows\addons\sourcemod\scripting\ñankrunFixhealth.sp::Timer_PeriodicCheck
+L 10/01/2025 - 16:01:15: [SM] Exception reported: Invalid convar handle 0 (error 4)
+L 10/01/2025 - 16:01:15: [SM] Blaming: ñankrunFixhealth.smx
+L 10/01/2025 - 16:01:15: [SM] Call stack trace:
+L 10/01/2025 - 16:01:15: [SM]   [0] GetConVarString
+L 10/01/2025 - 16:01:15: [SM]   [1] Line 138, C:\Users\Moises\Downloads\Compressed\sourcemod-1.11.0-git6968-windows\addons\sourcemod\scripting\ñankrunFixhealth.sp::IsTankRunActive
+L 10/01/2025 - 16:01:15: [SM]   [2] Line 36, C:\Users\Moises\Downloads\Compressed\sourcemod-1.11.0-git6968-windows\addons\sourcemod\scripting\ñankrunFixhealth.sp::Timer_PeriodicCheck
+L 10/01/2025 - 16:01:25: [SM] Exception reported: Invalid convar handle 0 (error 4)
+L 10/01/2025 - 16:01:25: [SM] Blaming: ñankrunFixhealth.smx
+L 10/01/2025 - 16:01:25: [SM] Call stack trace:
+L 10/01/2025 - 16:01:25: [SM]   [0] GetConVarString
+L 10/01/2025 - 16:01:25: [SM]   [1] Line 138, C:\Users\Moises\Downloads\Compressed\sourcemod-1.11.0-git6968-windows\addons\sourcemod\scripting\ñankrunFixhealth.sp::IsTankRunActive
+L 10/01/2025 - 16:01:25: [SM]   [2] Line 36, C:\Users\Moises\Downloads\Compressed\sourcemod-1.11.0-git6968-windows\addons\sourcemod\scripting\ñankrunFixhealth.sp::Timer_PeriodicCheck
+L 10/01/2025 - 16:01:35: [SM] Exception reported: Invalid convar handle 0 (error 4)
+L 10/01/2025 - 16:01:35: [SM] Blaming: ñankrunFixhealth.smx
+L 10/01/2025 - 16:01:35: [SM] Call stack trace:
+L 10/01/2025 - 16:01:35: [SM]   [0] GetConVarString
+L 10/01/2025 - 16:01:35: [SM]   [1] Line 138, C:\Users\Moises\Downloads\Compressed\sourcemod-1.11.0-git6968-windows\addons\sourcemod\scripting\ñankrunFixhealth.sp::IsTankRunActive
+L 10/01/2025 - 16:01:35: [SM]   [2] Line 36, C:\Users\Moises\Downloads\Compressed\sourcemod-1.11.0-git6968-windows\addons\sourcemod\scripting\ñankrunFixhealth.sp::Timer_PeriodicCheck
+L 10/01/2025 - 16:01:45: [SM] Exception reported: Invalid convar handle 0 (error 4)
+L 10/01/2025 - 16:01:45: [SM] Blaming: ñankrunFixhealth.smx
+L 10/01/2025 - 16:01:45: [SM] Call stack trace:
+L 10/01/2025 - 16:01:45: [SM]   [0] GetConVarString
+L 10/01/2025 - 16:01:45: [SM]   [1] Line 138, C:\Users\Moises\Downloads\Compressed\sourcemod-1.11.0-git6968-windows\addons\sourcemod\scripting\ñankrunFixhealth.sp::IsTankRunActive
+L 10/01/2025 - 16:01:45: [SM]   [2] Line 36, C:\Users\Moises\Downloads\Compressed\sourcemod-1.11.0-git6968-windows\addons\sourcemod\scripting\ñankrunFixhealth.sp::Timer_PeriodicCheck
+L 10/01/2025 - 16:01:55: Error log file session closed.

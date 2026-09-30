@@ -1,0 +1,45 @@
+L 10/15/2025 - 00:07:21: SourceMod log file session started (file "z:\home\moy\.steam\debian-installation\steamapps\common\left 4 dead 2\left4dead2\addons\sourcemod\logs\L20251015.log") (Version "1.12.0.7207")
+L 10/15/2025 - 00:07:21: [funvotes.smx] "[T-T]MoY<27><STEAM_1:0:511491787><>" initiated a slay vote against "master<308><STEAM_1:1:565936017><>"
+L 10/15/2025 - 00:07:41: [funvotes.smx] Vote slay successful, slaying "master<308><STEAM_1:1:565936017><>"
+L 10/15/2025 - 00:07:53: [l4d_sm_respawn.smx] "[T-T]MoY<27><STEAM_1:0:511491787><>" teleported "master<308><STEAM_1:1:565936017><>" after respawning him
+L 10/15/2025 - 00:13:36: [l4d_sm_respawn.smx] "[T-T]MoY<27><STEAM_1:0:511491787><>" teleported "Tung tung tung tung sahur<357><STEAM_1:0:954429860><>" after respawning him
+L 10/15/2025 - 00:15:18: [playercommands.smx] "[T-T]MoY<27><STEAM_1:0:511491787><>" slayed "Bill<298><BOT><>"
+L 10/15/2025 - 00:15:19: [playercommands.smx] "[T-T]MoY<27><STEAM_1:0:511491787><>" slayed "Francis<299><BOT><>"
+L 10/15/2025 - 00:15:20: [playercommands.smx] "[T-T]MoY<27><STEAM_1:0:511491787><>" slayed "Zoey<300><BOT><>"
+L 10/15/2025 - 00:15:24: [playercommands.smx] "[T-T]MoY<27><STEAM_1:0:511491787><>" slayed "Tung tung tung tung sahur<357><STEAM_1:0:954429860><>"
+L 10/15/2025 - 00:15:26: [playercommands.smx] "[T-T]MoY<27><STEAM_1:0:511491787><>" slayed "Geats<349><STEAM_1:0:506137240><>"
+L 10/15/2025 - 00:15:27: [playercommands.smx] "[T-T]MoY<27><STEAM_1:0:511491787><>" slayed "Louis<301><BOT><>"
+L 10/15/2025 - 00:15:28: [playercommands.smx] "[T-T]MoY<27><STEAM_1:0:511491787><>" slayed "Smoker<354><BOT><>"
+L 10/15/2025 - 00:15:29: [playercommands.smx] "[T-T]MoY<27><STEAM_1:0:511491787><>" slayed "[T-T]MoY<27><STEAM_1:0:511491787><>"
+L 10/15/2025 - 00:16:46: [l4d_sm_respawn.smx] "[T-T]MoY<27><STEAM_1:0:511491787><>" teleported "causa rellena<219><STEAM_1:1:937805194><>" after respawning him
+L 10/15/2025 - 00:16:50: [l4d_sm_respawn.smx] "[T-T]MoY<27><STEAM_1:0:511491787><>" teleported "Tung tung tung tung sahur<357><STEAM_1:0:954429860><>" after respawning him
+L 10/15/2025 - 00:17:10: [l4d_sm_respawn.smx] "[T-T]MoY<27><STEAM_1:0:511491787><>" teleported "almax7654321<213><STEAM_1:0:959732982><>" after respawning him
+L 10/15/2025 - 00:20:15: [playercommands.smx] "[T-T]MoY<27><STEAM_1:0:511491787><>" slayed "causa rellena<219><STEAM_1:1:937805194><>"
+L 10/15/2025 - 00:20:16: [playercommands.smx] "[T-T]MoY<27><STEAM_1:0:511491787><>" slayed "almax7654321<213><STEAM_1:0:959732982><>"
+L 10/15/2025 - 00:20:16: [playercommands.smx] "[T-T]MoY<27><STEAM_1:0:511491787><>" slayed "Tung tung tung tung sahur<357><STEAM_1:0:954429860><>"
+L 10/15/2025 - 00:20:17: [playercommands.smx] "[T-T]MoY<27><STEAM_1:0:511491787><>" slayed "Nick<371><BOT><>"
+L 10/15/2025 - 00:20:28: -------- Mapchange to glubtastic4_6 --------
+L 10/15/2025 - 00:20:41: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_consistency") (value "0")
+L 10/15/2025 - 00:20:41: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_allow_lobby_connect_only") (value "0")
+L 10/15/2025 - 00:20:41: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxplayers") (value "8")
+L 10/15/2025 - 00:20:41: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_visiblemaxplayers") (value "-1")
+L 10/15/2025 - 00:23:57: [basevotes.smx] "[T-T]MoY<27><STEAM_1:0:511491787><>" initiated a kick vote against "Andina Boludearte<241><STEAM_1:1:77729360><>"
+L 10/15/2025 - 00:24:17: [basevotes.smx] Vote successful. (Received "100" of 3 votes)
+L 10/15/2025 - 00:24:17: [basevotes.smx] Vote kick successful, kicked "Andina Boludearte<241><STEAM_1:1:77729360><>" (reason "Votekicked")
+L 10/15/2025 - 00:25:50: [playercommands.smx] "[T-T]MoY<27><STEAM_1:0:511491787><>" slayed "causa rellena<219><STEAM_1:1:937805194><>"
+L 10/15/2025 - 00:25:54: [l4d_sm_respawn.smx] "[T-T]MoY<27><STEAM_1:0:511491787><>" teleported "causa rellena<219><STEAM_1:1:937805194><>" after respawning him
+L 10/15/2025 - 00:26:07: [playercommands.smx] "[T-T]MoY<27><STEAM_1:0:511491787><>" slayed "(2)Tank<494><BOT><>"
+L 10/15/2025 - 00:26:09: [playercommands.smx] "[T-T]MoY<27><STEAM_1:0:511491787><>" slayed "(1)Tank<493><BOT><>"
+L 10/15/2025 - 00:26:39: [playercommands.smx] "[T-T]MoY<27><STEAM_1:0:511491787><>" slayed "Tank<502><BOT><>"
+L 10/15/2025 - 00:26:43: [playercommands.smx] "[T-T]MoY<27><STEAM_1:0:511491787><>" slayed "(1)Tank<503><BOT><>"
+L 10/15/2025 - 00:26:58: [playercommands.smx] "[T-T]MoY<27><STEAM_1:0:511491787><>" slayed "(2)Tank<505><BOT><>"
+L 10/15/2025 - 00:26:59: [playercommands.smx] "[T-T]MoY<27><STEAM_1:0:511491787><>" slayed "(3)Tank<506><BOT><>"
+L 10/15/2025 - 00:27:24: [playercommands.smx] "[T-T]MoY<27><STEAM_1:0:511491787><>" slayed "(1)Tank<509><BOT><>"
+L 10/15/2025 - 00:28:13: [playercommands.smx] "[T-T]MoY<27><STEAM_1:0:511491787><>" slayed "Hunter<507><BOT><>"
+L 10/15/2025 - 00:34:35: [playercommands.smx] "[T-T]MoY<27><STEAM_1:0:511491787><>" slayed "121212<376><STEAM_1:1:756057860><>"
+L 10/15/2025 - 00:34:46: -------- Mapchange to glubtastic4_7 --------
+L 10/15/2025 - 00:34:52: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_consistency") (value "0")
+L 10/15/2025 - 00:34:52: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_allow_lobby_connect_only") (value "0")
+L 10/15/2025 - 00:34:52: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxplayers") (value "8")
+L 10/15/2025 - 00:34:52: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_visiblemaxplayers") (value "-1")
+L 10/15/2025 - 00:47:03: Log file closed.

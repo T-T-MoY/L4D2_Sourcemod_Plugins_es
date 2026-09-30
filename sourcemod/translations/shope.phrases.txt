@@ -1,0 +1,441 @@
+/*
+	Following named colors are supported:
+	 - {white}	(use instead of \x01 )
+	 - {cyan}	(use instead of \x03 )
+	 - {orange}	(use instead of \x04 )
+	 - {green}	(use instead of \x05 )
+*/
+
+"Phrases"
+{
+	"Black_Friday"
+	{
+		"en"			">>> Black Friday <<< %i%% Discont"
+		"ru"			">>> Чёрная пятница <<< Скидки %i%%"
+	}
+	"Donate"
+	{
+		"en"			"Buy coins"
+		"ru"			"Купить монеты"
+	}
+	"BuyCoins"
+	{
+		"en"			"Buy coins for donate"
+		"ru"			"Купить монеты за донат"
+	}
+	"Donate1"
+	{
+		"en"			"You can buy 1000 coins for 2$"
+		"ru"			"Вы можете купить 1000 монет за 100 руб."
+	}
+	"Donate2"
+	{
+		"en"			"Ask: admin ☣ Drakoshka ☣"
+		"ru"			"Спросите админа: ☣ Drakoshka ☣"
+	}
+	"Donate3"
+	{
+		"en"			"Steam: https://steamcommunity.com/id/drago-kas/"
+		"ru"			"vk.com/drago_kas"
+	}
+	"Shop_Advertise_1"
+	{
+		"en"			"{green}You can get coins for purchases. {orange}!shop{green} - to use."
+		"ru"			"{green}Вы можете получить биткоины для покупок. {orange}!shop{green} - чтобы использовать."
+	}
+	"Shop_Advertise_2"
+	{
+		"en"			"{orange}!shop {green}- to use the store."
+		"ru"			"{orange}!shop {green}- использовать магазин."
+	}
+	"Shop_Advertise_3"
+	{
+		"en"			"Press 6, 7, 8, 9 and 0 in store menu"
+		"ru"			"Жмите 6, 7, 8, 9 и 0 в меню магазина"
+	}
+	"Incendiary ammo!"
+	{
+		"en"			"Incendiary ammo!"
+		"ru"			"Зажигательные патроны!"
+	}
+	"Incendiary_Info"
+	{
+		"en"			"You have %d seconds for incendiary ammo."
+		"ru"			"У вас есть %d секунд на зажигательные патроны."
+	}
+	"Super Incendiary ammo!"
+	{
+		"en"			"Super Incendiary ammo!"
+		"ru"			"Супер зажигательные патроны!"
+	}
+	"SuperIncendiary_Info"
+	{
+		"en"			"You have %d seconds for super incendiary ammo."
+		"ru"			"У вас есть %d секунд суперзажигательных патронов."
+	}
+	"Witcher Shove"
+	{
+		"en"			"Witcher Shove"
+		"ru"			"Ведьмачий приклад"
+	}
+	"Shield"
+	{
+		"en"			"Shield"
+		"ru"			"Щит"
+	}
+	"Already Upgraded"
+	{
+		"en"			"You already have this upgrade!"
+		"ru"			"У вас уже есть это улучшение!"
+	}
+	"You are in team"
+	{
+		"en"			"You are in team %d."
+		"ru"			"Вы в команде %d."
+	}
+	"You have coins"
+	{
+		"en"			"You have %d coins."
+		"ru"			"У вас есть %d биткоинов."
+	}
+	"Killing the infected: Coin(s)"
+	{
+		"en"			"{green}Killing the infected: {orange}%d Coin(s)"
+		"ru"			"{green}Убийства зараженных: {orange}%d монет(а)"
+	}
+	"Survivor is Injured: Coin(s)"
+	{
+		"en"			"{green}Survivor is Injured: {orange}%d Coin(s)"
+		"ru"			"{green}Ранен выживший: {orange}%d монет(а)"
+	}
+	"Survivor was captured: Coin(s)"
+	{
+		"en"			"{green}Survivor was captured: {orange}%d Coin(s)"
+		"ru"			"{green}Схвачен Выживший: {orange}%d монет(а)"
+	}
+	"Survivor is in vomit: Coin(s)"
+	{
+		"en"			"{green}Survivor is in vomit: {orange}%d Coin(s)"
+		"ru"			"{green}'Облёван' Выживший: {orange}%d монет(а)"
+	}
+	"Loss of survivors five times: Coin(s)"
+	{
+		"en"			"{green}Loss of survivors five times: {orange}%d Coin(s)"
+		"ru"			"{green}Потеря выживших пять раз: {orange}%d монет(а)"
+	}
+	"Cutting hp of tank: Coin(s)"
+	{
+		"en"			"{green}Cutting {orange}%i{green} hp of tank: {orange}%d {cyan}+%d {orange}Coin(s)"
+		"ru"			"{green}Снятие {orange}%i{green} жизней у танка: {orange}%d {cyan}+%d {orange}монет(а)"
+	}	
+	"Tank is killed: Coin(s)"
+	{
+		"en"			"{green}Tank is killed: {orange}%d Coin(s)"
+		"ru"			"{green}Танк убит: {orange}%d монет(а)"
+	}
+	"Witch is killed: Coin(s)"
+	{
+		"en"			"{green}Witch is killed: {orange}%d Coin(s)"
+		"ru"			"{green}Ведьма убита: {orange}%d монет(а)"
+	}
+	"Witch is crowned: Coin(s)"
+	{
+		"en"			"{green}Witch is crowned: {orange}%d Coin(s)"
+		"ru"			"{green}Ведьма коронована: {orange}%d монет(а)"
+	}
+	"Tank is on fire"
+	{
+		"en"			"{green}Tank is on fire: {orange}%d Coin(s)"
+		"ru"			"{green}Танк горит: {orange}%d монет(а)"
+	}
+	"Ally treatment: Coin(s)"
+	{
+		"en"			"{green}Ally treatment: {orange}%d Coin(s)"
+		"ru"			"{green}Лечение союзника: {orange}%d монет(а)"
+	}
+	"Killing of infected: Coin(s)"
+	{
+		"en"			"{green}Killing of infected: {orange}%d Coin(s)"
+		"ru"			"{green}Убийства зараженных: {orange}%d монет(а)"
+	}
+	"Allies revitalizing: Coin(s)"
+	{
+		"en"			"{green}Allies revitalizing: {orange}%d Coin(s)"
+		"ru"			"{green}Оживление союзников: {orange}%d монет(а)"
+	}
+	"Allies rescued: Coin(s)"
+	{
+		"en"			"{green}Allies rescued: {orange}%d Coin(s)"
+		"ru"			"{green}Спасение из убеги: {orange}%d монет(а)"
+	}
+	"Back to life of teammate with medkit: Coin(s)"
+	{
+		"en"			"{green}Back to life of teammate with medkit: {orange}%d Coin(s)"
+		"ru"			"{green}Возвращение к жизни союзника с помощью аптеки: {orange}%d монет(а)"
+	}
+	"Back to life of teammate: Coin(s)"
+	{
+		"en"			"{green}Back to life of teammate: {orange}%d Coin(s)"
+		"ru"			"{green}Возвращение к жизни союзника: {orange}%d монет(а)"
+	}
+	"Not yet accessible for survivors!"
+	{
+		"en"			"Not yet accessible for survivors!"
+		"ru"			"Пока недоступно для оставшихся в живых!"
+	}
+	"Available bitcoins:"
+	{
+		"en"			"Available coins: %d"
+		"ru"			"Доступно монет: %d"
+	}
+	"Weapon"
+	{
+		"en"			"Weapon"
+		"ru"			"Оружие"
+	}
+	"Medicine"
+	{
+		"en"			"Medicine"
+		"ru"			"Медикаменты"
+	}
+	"Improvement"
+	{
+		"en"			"Improvement"
+		"ru"			"Улучшения"
+	}
+	"Grenades and balloons"
+	{
+		"en"			"Grenades and balloons"
+		"ru"			"Гранаты и баллоны"
+	}
+	"Bank operations"
+	{
+		"en"			"Banking fraud"
+		"ru"			"Банковские махинации"
+	}
+	"coins:"
+	{
+		"en"			"Bitcoins: %d"
+		"ru"			"Монет: %d"
+	}
+	"Cartridge"
+	{
+		"en"			"Cartridge       -"
+		"ru"			"Патроны          -"
+	}
+	"Pistol"
+	{
+		"en"			"Pistol             -"
+		"ru"			"Пистолет         -"
+	}
+	"AutoShotgun"
+	{
+		"en"			"AutoShotgun  -"
+		"ru"			"Автодробовик -"
+	}
+	"M-16"
+	{
+		"en"			"M-16               -"
+		"ru"			"М-16               -"
+	}
+	"Sniper"
+	{
+		"en"			"Sniper            -"
+		"ru"			"Снайперка      -"
+	}
+	"Shotgun"
+	{
+		"en"			"Shotgun         -"
+		"ru"			"Дробовик        -"
+	}
+	"Uzi"
+	{
+		"en"			"Uzi                  -"
+		"ru"			"Узи                  -"
+	}
+	"Health"
+	{
+		"en"			"Health     -"
+		"ru"			"Здоровье   -"
+	}
+	"Pills"
+	{
+		"en"			"Pills         -"
+		"ru"			"Таблетки   -"
+	}
+	"Medkit"
+	{
+		"en"			"Medkit      -"
+		"ru"			"Аптечка     -"
+	}
+	"Resurrect"
+	{
+		"en"			"Resurrect   -"
+		"ru"			"Воскреснуть -"
+	}	
+	"Incendiary ammo"
+	{
+		"en"			"Incendiary ammo                      -"
+		"ru"			"Зажигательные патроны            -"
+	}
+	"Super Incendiary ammo"
+	{
+		"en"			"Super Incendiary ammo             -"
+		"ru"			"Супер зажигательные патроны  -"
+	}
+	"Pipe bomb"
+	{
+		"en"			"Pipe bomb  -"
+		"ru"			"Пайпа       -"
+	}
+	"Molotov"
+	{
+		"en"			"Molotov   -"
+		"ru"			"Молотов   -"
+	}
+	"Propane balloon"
+	{
+		"en"			"Propane balloon          -"
+		"ru"			"Баллон пропана           -"
+	}
+	"Oxygen balloon"
+	{
+		"en"			"Oxygen balloon          -"
+		"ru"			"Баллон кислорода        -"
+	}
+	"Gas canister"
+	{
+		"en"			"Gas canister         -"
+		"ru"			"Канистра с бензином -"
+	}
+	"Cost:"
+	{
+		"en"			"Cost: %d"
+		"ru"			"Стоимость: %d"
+	}
+	"Yes"
+	{
+		"en"			"Yes"
+		"ru"			"Да"
+	}
+	"No"
+	{
+		"en"			"No"
+		"ru"			"Нет"
+	}
+	"Suicide"
+	{
+		"en"			"Suicide"
+		"ru"			"Суицид"
+	}
+	"Spawn boomer"
+	{
+		"en"			"Spawn boomer"
+		"ru"			"Спаун толстяка"
+	}
+	"Spawn hunter"
+	{
+		"en"			"Spawn hunter"
+		"ru"			"Спаун ханта"
+	}
+	"Spawn smoker"
+	{
+		"en"			"Spawn smoker"
+		"ru"			"Спаун куры"
+	}
+	"Spawn tank"
+	{
+		"en"			"Spawn tank"
+		"ru"			"Спаун танка"
+	}
+	"Next"
+	{
+		"en"			"Next"
+		"ru"			"Далее"
+	}
+	"Spawn witch"
+	{
+		"en"			"Spawn witch"
+		"ru"			"Спаун ведьмы"
+	}
+	"Spawn zombie"
+	{
+		"en"			"Spawn zombie"
+		"ru"			"Спаун зомби"
+	}
+	"Panic wave"
+	{
+		"en"			"Panic wave"
+		"ru"			"Волна зомби"
+	}
+	"Not enough bitcoins."
+	{
+		"en"			"Not enough bitcoins."
+		"ru"			"Недостаточно монет."
+	}
+	"Tank limit is exceeded on map!"
+	{
+		"en"			"Tank limit is exceeded on map!"
+		"ru"			"Лимит танка на карту!"
+	}
+	"Witch limit is exceeded on map!"
+	{
+		"en"			"Witch limit is exceeded on map!"
+		"ru"			"Лимит ведьмы на карту!"
+	}
+	"Disabled."
+	{
+		"en"			"Disabled."
+		"ru"			"Отключено."
+	}
+	"Transfer coins to another player"
+	{
+		"en"			"Transfer coins to another player"
+		"ru"			"Перевести монеты другому игроку"
+	}
+	"Who would you like to transfer coins to?"
+	{
+		"en"			"Who would you like to transfer coins to?"
+		"ru"			"Кому вы желаете перевести монеты?"
+	}
+	"is no longer in game!"
+	{
+		"en"			"%s is no longer in game!"
+		"ru"			"%s уже отключился!"
+	}
+	"How many coins would you like to transfer?"
+	{
+		"en"			"How many coins would you like to transfer?"
+		"ru"			"Сколько монет вы желаете перевести?"
+	}
+	"All coins ()"
+	{
+		"en"			"All coins (%d)"
+		"ru"			"Все монеты (%d)"
+	}
+	"Client is no longer in game!"
+	{
+		"en"			"Client is no longer in game!"
+		"ru"			"Клиент уже не в игре!"
+	}
+	"coins is transferred to"
+	{
+		"en"			"%d coins is transferred to %N"
+		"ru"			"%d монет переведено игроку %N"
+	}
+	"has transfered coins to you :)"
+	{
+		"en"			"%N has transfered %d coins to you :)"
+		"ru"			"%N перевёл вам %d монет :)"
+	}
+	"No matching client"
+	{
+		"en"			"No matching client"
+		"ru"			"Клиент не найден"
+	}
+	"Bulldozer"
+	{
+		"en"			"Goby (bulldozer)"
+		"ru"			"Бычок (бульдозер)"
+	}
+}

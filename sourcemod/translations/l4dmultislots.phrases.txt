@@ -1,0 +1,55 @@
+"Phrases"
+{
+	"Estás inactivo. ¡Presiona el botón izquierdo del mouse para unirte a los sobrevivientes!"
+	{
+		"en"		"You are idle. Press left mouse button to join survivors!"
+	}
+	"Imposible generar un bot en este momento."
+	{
+		"en"		"Impossible to generate a bot at the moment."
+	}
+	"Escribe en el chat !join para unirte a los sobrevivientes."
+	{
+		"en"		"Type !join in chat to join survivors."
+	}
+	"Por favor, espera a ser revivido o rescatado."
+	{
+		"en"		"Please wait to be revived or rescued."
+	}
+	"Por favor espera a ser revivido o rescatado"
+	{
+		"en"		"Please wait to be revived or rescued"
+	}
+	"¡Lo siento! No hay ranuras disponibles para sobrevivientes."
+	{
+		"en"		"Sorry! No survivor slots available."
+	}
+	"Demasiados sobrevivientes, desequilibrado."
+	{
+		"en"		"Too many survivors, teams unbalanced."
+	}
+	"No hay bots para reemplazo."
+	{
+		"en"		"No bots available for replacement."
+	}
+	"Los sobrevivientes han comenzado el juego, por favor espera a ser resucitado o rescatado"
+	{
+		"en"		"Survivors have started, please wait to be revived or rescued."
+	}
+	"Sin segunda oportunidad"
+	{
+		"en"		"No second chance."
+	}
+	"Se agregó un bot sobreviviente."
+	{
+		"en"		"A survivor bot was added."
+	}
+	"Se añadió un bot sobreviviente."
+	{
+		"en"		"A survivor bot was added."
+	}
+	"No Second Chance"
+	{
+		"en"		"No second chance - you already spawned this round."
+	}
+}

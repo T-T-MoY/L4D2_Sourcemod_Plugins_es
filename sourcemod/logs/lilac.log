@@ -1,0 +1,55 @@
+=========[Notice]=========
+Thank you for installing Little Anti-Cheat 1.7.8!
+Just a few notes about this Anti-Cheat:
+
+If a player is logged as "suspected" of using cheats, they are not necessarily cheating.
+If the suspicions logged are few and rare, they are likely false positives.
+An automatic ban is triggered by 5 or more "suspicions" or by one "detection".
+If you think a ban may be incorrect, please do not hesitate to let me know.
+
+That is all, have a wonderful day~
+
+
+
+2025/08/16 14:42:40 [Version 1.7.8] {Name: "Cara Dura" | SteamID: STEAM_1:0:76390088 | IP: 0.0.0.34} is suspected of using Bhop (Detection: 0 | Bhops: 20 | JumpTicks: 24).
+2025/08/16 14:42:40 [Version 1.7.8] {Name: "Cara Dura" | SteamID: STEAM_1:0:76390088 | IP: 0.0.0.34} was detected and banned for Bhop.
+	Pos={-12516,10582,244}, Angles={60.63952,-114.24998,0.00000}, Map="c3m1_plankcountry", Team={2}, Weapon="weapon_pumpshotgun", Latency={Inc:0.000029,Out:0.092463}, Loss={Inc:0.000000,Out:0.000000}, Choke={Inc:0.000000,Out:0.016145}, ConnectionTime={779.826049 seconds}, GameTime={91.966674 seconds}
+2025/10/15 00:19:08 [Version 1.7.8] {Name: "Aʟᴇx✔" | SteamID: STEAM_1:1:804283023 | IP: 0.0.0.16} is suspected of using Bhop (Detection: 0 | Bhops: 20 | JumpTicks: 20).
+2025/10/15 00:19:08 [Version 1.7.8] {Name: "Aʟᴇx✔" | SteamID: STEAM_1:1:804283023 | IP: 0.0.0.16} was detected and banned for Bhop.
+	Pos={-2850,8470,208}, Angles={15.97595,177.80380,0.00000}, Map="glubtastic4_5", Team={2}, Weapon="weapon_sniper_military", Latency={Inc:0.000058,Out:0.098067}, Loss={Inc:0.000000,Out:0.000000}, Choke={Inc:0.019623,Out:0.020139}, ConnectionTime={156.466430 seconds}, GameTime={1726.766723 seconds}
+2025/10/15 00:24:10 [Version 1.7.8] {Name: "121212" | SteamID: STEAM_1:1:756057860 | IP: 0.0.0.17} is suspected of using Bhop (Detection: 0 | Bhops: 20 | JumpTicks: 23).
+2025/10/15 00:24:10 [Version 1.7.8] {Name: "121212" | SteamID: STEAM_1:1:756057860 | IP: 0.0.0.17} was detected and banned for Bhop.
+	Pos={1744,195,-29}, Angles={13.69274,-90.11154,0.00000}, Map="glubtastic4_6", Team={2}, Weapon="weapon_pistol", Latency={Inc:0.000072,Out:0.168488}, Loss={Inc:0.000000,Out:0.000000}, Choke={Inc:0.007410,Out:0.134162}, ConnectionTime={127.017486 seconds}, GameTime={161.633346 seconds}
+2025/10/31 19:54:47 [Version 1.7.8] {Name: "antauro presidente" | SteamID: STEAM_1:0:515871316 | IP: 0.0.0.11} is suspected of using Bhop (Detection: 0 | Bhops: 20 | JumpTicks: 20).
+2025/10/31 19:54:47 [Version 1.7.8] {Name: "antauro presidente" | SteamID: STEAM_1:0:515871316 | IP: 0.0.0.11} was detected and banned for Bhop.
+	Pos={1245,4067,-3}, Angles={3.07217,78.32469,0.00000}, Map="c2m3_coaster", Team={3}, Weapon="weapon_tank_claw", Latency={Inc:0.000167,Out:0.204752}, Loss={Inc:0.000000,Out:0.000000}, Choke={Inc:0.003417,Out:0.024211}, ConnectionTime={137.280441 seconds}, GameTime={330.733337 seconds}
+2025/10/31 20:04:21 [Version 1.7.8] {Name: "antauro presidente" | SteamID: STEAM_1:0:515871316 | IP: 0.0.0.11} is suspected of using Bhop (Detection: 2 | Bhops: 11 | JumpTicks: 11).
+2025/10/31 20:04:21 [Version 1.7.8] {Name: "antauro presidente" | SteamID: STEAM_1:0:515871316 | IP: 0.0.0.11} was detected and banned for Bhop.
+	Pos={-976,1391,-191}, Angles={12.86268,-10.21820,0.00000}, Map="c2m4_barns", Team={3}, Weapon="weapon_tank_claw", Latency={Inc:0.000017,Out:0.203557}, Loss={Inc:0.000000,Out:0.000000}, Choke={Inc:0.000000,Out:0.017820}, ConnectionTime={705.458374 seconds}, GameTime={521.166687 seconds}
+2025/10/31 20:15:27 [Version 1.7.8] {Name: "antauro presidente" | SteamID: STEAM_1:0:515871316 | IP: 0.0.0.11} is suspected of using Bhop (Detection: 0 | Bhops: 20 | JumpTicks: 21).
+2025/10/31 20:15:27 [Version 1.7.8] {Name: "antauro presidente" | SteamID: STEAM_1:0:515871316 | IP: 0.0.0.11} was detected and banned for Bhop.
+	Pos={6949,7291,-680}, Angles={11.17599,-165.88455,0.00000}, Map="c2m1_highway", Team={2}, Weapon="weapon_pistol", Latency={Inc:0.000026,Out:0.202331}, Loss={Inc:0.000000,Out:0.000000}, Choke={Inc:0.005960,Out:0.073934}, ConnectionTime={1362.459106 seconds}, GameTime={104.400009 seconds}
+2025/10/31 20:29:31 [Version 1.7.8] {Name: "antauro presidente" | SteamID: STEAM_1:0:515871316 | IP: 0.0.0.11} is suspected of using Bhop (Detection: 0 | Bhops: 20 | JumpTicks: 22).
+2025/10/31 20:29:31 [Version 1.7.8] {Name: "antauro presidente" | SteamID: STEAM_1:0:515871316 | IP: 0.0.0.11} was detected and banned for Bhop.
+	Pos={1365,3519,-39}, Angles={-1.40360,106.34490,0.00000}, Map="c2m3_coaster", Team={3}, Weapon="weapon_tank_claw", Latency={Inc:0.000028,Out:0.201868}, Loss={Inc:0.000000,Out:0.000000}, Choke={Inc:0.000326,Out:0.026519}, ConnectionTime={2196.285644 seconds}, GameTime={222.766677 seconds}
+2025/10/31 21:10:31 [Version 1.7.8] {Name: "aaaaaa" | SteamID: STEAM_1:1:558380659 | IP: 0.0.0.44} is suspected of using Bhop (Detection: 2 | Bhops: 10 | JumpTicks: 13).
+2025/10/31 21:10:31 [Version 1.7.8] {Name: "aaaaaa" | SteamID: STEAM_1:1:558380659 | IP: 0.0.0.44} was detected and banned for Bhop.
+	Pos={-3120,-275,384}, Angles={10.69139,-153.82571,0.00000}, Map="bwm4_rooftops", Team={3}, Weapon="weapon_tank_claw", Latency={Inc:0.000050,Out:0.200344}, Loss={Inc:0.000000,Out:0.000000}, Choke={Inc:0.000245,Out:0.067721}, ConnectionTime={86.671936 seconds}, GameTime={219.033340 seconds}
+2025/10/31 21:12:16 [Version 1.7.8] {Name: "aaaaaa" | SteamID: STEAM_1:1:558380659 | IP: 0.0.0.44} is suspected of using Bhop (Detection: 2 | Bhops: 14 | JumpTicks: 15).
+2025/10/31 21:12:16 [Version 1.7.8] {Name: "aaaaaa" | SteamID: STEAM_1:1:558380659 | IP: 0.0.0.44} was detected and banned for Bhop.
+	Pos={778,1124,2816}, Angles={23.88454,-9.74439,0.00000}, Map="bwm5_bridge", Team={2}, Weapon="weapon_shotgun_spas", Latency={Inc:0.000068,Out:0.200826}, Loss={Inc:0.000000,Out:0.000000}, Choke={Inc:0.000000,Out:0.046172}, ConnectionTime={187.356323 seconds}, GameTime={70.433334 seconds}
+2025/11/03 16:42:13 [Version 1.7.8] {Name: "Davertmin" | SteamID: STEAM_1:0:921293426 | IP: 0.0.0.1} is suspected of using Bhop (Detection: 2 | Bhops: 11 | JumpTicks: 13).
+2025/11/03 16:42:13 [Version 1.7.8] {Name: "Davertmin" | SteamID: STEAM_1:0:921293426 | IP: 0.0.0.1} was detected and banned for Bhop.
+	Pos={3320,-941,35}, Angles={3.62143,-104.02893,0.00000}, Map="c2m2_fairgrounds", Team={2}, Weapon="weapon_first_aid_kit", Latency={Inc:0.000012,Out:0.191628}, Loss={Inc:0.000000,Out:0.000000}, Choke={Inc:0.008637,Out:0.009315}, ConnectionTime={1084.784423 seconds}, GameTime={539.200012 seconds}
+2025/11/16 17:51:46 [Version 1.7.8] {Name: "Davertmin" | SteamID: STEAM_1:0:921293426 | IP: 0.0.0.2} is suspected of using Bhop (Detection: 2 | Bhops: 18 | JumpTicks: 41).
+2025/11/16 17:51:46 [Version 1.7.8] {Name: "Davertmin" | SteamID: STEAM_1:0:921293426 | IP: 0.0.0.2} was detected and banned for Bhop.
+	Pos={-2191,2266,69}, Angles={11.68227,128.66758,0.00000}, Map="c1m2_streets", Team={2}, Weapon="weapon_melee", Latency={Inc:0.000020,Out:0.192443}, Loss={Inc:0.000000,Out:0.000000}, Choke={Inc:0.043160,Out:0.022755}, ConnectionTime={520.620849 seconds}, GameTime={400.466674 seconds}
+2025/11/16 18:53:27 [Version 1.7.8] {Name: "Dinosaurio Magico" | SteamID: STEAM_1:1:554685949 | IP: 0.0.0.35} is suspected of using Bhop (Detection: 1 | Bhops: 20 | JumpTicks: 22).
+2025/11/16 18:53:27 [Version 1.7.8] {Name: "Dinosaurio Magico" | SteamID: STEAM_1:1:554685949 | IP: 0.0.0.35} was detected and banned for Bhop.
+	Pos={-1981,173,-191}, Angles={23.53507,-74.74317,0.00000}, Map="c2m4_barns", Team={2}, Weapon="weapon_pumpshotgun", Latency={Inc:0.000040,Out:0.099431}, Loss={Inc:0.000000,Out:0.000000}, Choke={Inc:0.676494,Out:0.016390}, ConnectionTime={110.852874 seconds}, GameTime={277.400024 seconds}
+2025/12/03 21:14:35 [Version 1.7.8] {Name: "Davertmin" | SteamID: STEAM_1:0:921293426 | IP: 0.0.0.5} is suspected of using Bhop (Detection: 2 | Bhops: 19 | JumpTicks: 39).
+2025/12/03 21:14:35 [Version 1.7.8] {Name: "Davertmin" | SteamID: STEAM_1:0:921293426 | IP: 0.0.0.5} was detected and banned for Bhop.
+	Pos={-8005,-2071,384}, Angles={25.00581,-100.60936,0.00000}, Map="c1m2_streets", Team={2}, Weapon="weapon_melee", Latency={Inc:0.000014,Out:0.199409}, Loss={Inc:0.000002,Out:0.000000}, Choke={Inc:0.025048,Out:0.022681}, ConnectionTime={466.282836 seconds}, GameTime={985.466735 seconds}
+2025/12/14 17:05:48 [Version 1.7.8] {Name: "็ Sevm 𓂀" | SteamID: STEAM_1:0:896883950 | IP: 0.0.0.38} is suspected of using Bhop (Detection: 0 | Bhops: 20 | JumpTicks: 21).
+2025/12/14 17:05:48 [Version 1.7.8] {Name: "็ Sevm 𓂀" | SteamID: STEAM_1:0:896883950 | IP: 0.0.0.38} was detected and banned for Bhop.
+	Pos={2994,-1617,0}, Angles={22.06830,173.56127,0.00000}, Map="c2m2_fairgrounds", Team={2}, Weapon="weapon_shotgun_chrome", Latency={Inc:0.000403,Out:0.177575}, Loss={Inc:0.000000,Out:0.000000}, Choke={Inc:0.000000,Out:0.064231}, ConnectionTime={31.754737 seconds}, GameTime={136.600006 seconds}

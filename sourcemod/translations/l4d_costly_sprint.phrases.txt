@@ -1,0 +1,11 @@
+"Phrases"
+{
+	"Stamina"
+	{
+		"en"		"Stamina: "
+		"zho"		"體力: "
+		"chi"		"耐力: "
+		"es"		"Estamina: "
+
+	}
+}

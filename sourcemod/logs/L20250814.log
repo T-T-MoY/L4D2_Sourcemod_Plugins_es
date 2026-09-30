@@ -1,0 +1,25 @@
+L 08/14/2025 - 22:34:51: SourceMod log file session started (file "e:\steamlibrary\steamapps\common\left 4 dead 2\left4dead2\addons\sourcemod\logs\L20250814.log") (Version "1.12.0.7207")
+L 08/14/2025 - 22:34:51: [GEOIP] GeoIP2 database loaded: GeoLite2-ASN (2024-08-21 08:15:21 UTC) (e:\steamlibrary\steamapps\common\left 4 dead 2\left4dead2\addons\sourcemod\configs\geoip\GeoLite2-ASN.mmdb)
+L 08/14/2025 - 22:34:51: [GEOIP] GeoIP2 supported languages: en
+L 08/14/2025 - 22:34:51: [GEOIP] Your database is older than 90 days. You should consider downloading a newer version from e.g. https://dev.maxmind.com/geoip/geolite2-free-geolocation-data
+L 08/14/2025 - 22:35:08: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_consistency") (value "0")
+L 08/14/2025 - 22:35:08: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_allow_lobby_connect_only") (value "0")
+L 08/14/2025 - 22:35:08: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxplayers") (value "8")
+L 08/14/2025 - 22:35:08: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_visiblemaxplayers") (value "-1")
+L 08/14/2025 - 22:39:03: [basecommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" changed cvar (cvar "sv_gravity") (value "200")
+L 08/14/2025 - 22:48:36: -------- Mapchange to c1m2_streets --------
+L 08/14/2025 - 22:48:45: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_consistency") (value "0")
+L 08/14/2025 - 22:48:45: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_allow_lobby_connect_only") (value "0")
+L 08/14/2025 - 22:48:45: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxplayers") (value "8")
+L 08/14/2025 - 22:48:45: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_visiblemaxplayers") (value "-1")
+L 08/14/2025 - 23:02:51: [basevotes.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" initiated a generic vote (question "la hacemos?" / answers "no kachan" "se puede" "f banda").
+L 08/14/2025 - 23:03:12: [basevotes.smx] Vote successful. (Received "50" of 2 votes)
+L 08/14/2025 - 23:03:12: [basevotes.smx] The answer to la hacemos? is: se puede.
+L 08/14/2025 - 23:06:52: -------- Mapchange to c1m3_mall --------
+L 08/14/2025 - 23:07:00: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_consistency") (value "0")
+L 08/14/2025 - 23:07:00: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_allow_lobby_connect_only") (value "0")
+L 08/14/2025 - 23:07:00: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxplayers") (value "8")
+L 08/14/2025 - 23:07:00: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_visiblemaxplayers") (value "-1")
+L 08/14/2025 - 23:13:33: [basevotes.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" initiated a generic vote (question "la hacemos?" / answers "nos kachan" "se puede" "f banda").
+L 08/14/2025 - 23:13:54: [basevotes.smx] Vote successful. (Received "67" of 3 votes)
+L 08/14/2025 - 23:13:54: [basevotes.smx] The answer to la hacemos? is: nos kachan.

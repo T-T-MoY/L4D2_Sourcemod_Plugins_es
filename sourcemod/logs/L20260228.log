@@ -1,0 +1,103 @@
+L 02/28/2026 - 18:10:16: SourceMod log file session started (file "d:\steamlibrary\steamapps\common\left 4 dead 2\left4dead2\addons\sourcemod\logs\L20260228.log") (Version "1.12.0.7207")
+L 02/28/2026 - 18:10:16: [GEOIP] GeoIP2 database loaded: GeoLite2-ASN (2024-08-21 08:15:21 UTC) (d:\steamlibrary\steamapps\common\left 4 dead 2\left4dead2\addons\sourcemod\configs\geoip\GeoLite2-ASN.mmdb)
+L 02/28/2026 - 18:10:16: [GEOIP] GeoIP2 supported languages: en
+L 02/28/2026 - 18:10:16: [GEOIP] Your database is older than 90 days. You should consider downloading a newer version from e.g. https://dev.maxmind.com/geoip/geolite2-free-geolocation-data
+L 02/28/2026 - 18:10:16: [l4d2_map_rotation.smx] [Rotation] Lista cargada con 4 campañas.
+L 02/28/2026 - 18:10:17: [l4d_extinguisher.smx] 
+==========
+Warning: You should install "[L4D2] Scavenge Score Fix - Gascan Pouring" to prevent affecting the score when filling gas in Scavenge style events: https://forums.alliedmods.net/showthread.php?t=187686
+==========
+
+L 02/28/2026 - 18:10:17: [l4d_extinguisher.smx] 
+==========
+Warning: You should install "[L4D & L4D2] Use Priority Patch" to fix attached models blocking +USE action: https://forums.alliedmods.net/showthread.php?t=327511
+==========
+
+L 02/28/2026 - 18:10:28: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_consistency") (value "0")
+L 02/28/2026 - 18:10:28: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_allow_lobby_connect_only") (value "0")
+L 02/28/2026 - 18:10:28: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxplayers") (value "8")
+L 02/28/2026 - 18:10:28: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_visiblemaxplayers") (value "-1")
+L 02/28/2026 - 18:10:28: [chat-processor.smx] Message formats generated for game 'left4dead2'.
+L 02/28/2026 - 18:10:28: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 02/28/2026 - 18:12:27: [l4d2_shop.smx] [UPDATE]: "[T-T]MoY<2><STEAM_1:0:511491787><>" saved. Points: "3"
+L 02/28/2026 - 18:18:07: [l4d2_shop.smx] [UPDATE]: "[T-T]MoY<2><STEAM_1:0:511491787><>" saved. Points: "18"
+L 02/28/2026 - 18:20:00: [l4d2_shop.smx] [UPDATE]: "[T-T]MoY<2><STEAM_1:0:511491787><>" saved. Points: "24"
+L 02/28/2026 - 18:22:25: [l4d2_shop.smx] [UPDATE]: "[T-T]MoY<2><STEAM_1:0:511491787><>" saved. Points: "47"
+L 02/28/2026 - 18:23:19: [l4d2_shop.smx] [UPDATE]: "[T-T]MoY<2><STEAM_1:0:511491787><>" saved. Points: "54"
+L 02/28/2026 - 18:24:31: [l4d2_shop.smx] [UPDATE]: "[T-T]MoY<2><STEAM_1:0:511491787><>" saved. Points: "54"
+L 02/28/2026 - 18:28:38: [l4d2_shop.smx] [Buy]: "Padre del F2<52><STEAM_1:1:638340273><>" bought "pain_pills" (price: "43"), remaining points: "13"
+L 02/28/2026 - 18:28:44: [l4d2_shop.smx] [Buy]: "[T-T]MoY<2><STEAM_1:0:511491787><>" bought "defibrillator" (price: "50"), remaining points: "25"
+L 02/28/2026 - 18:28:52: [l4d2_shop.smx] [Buy]: "DX<37><STEAM_1:0:401133445><>" bought "smg_mp5" (price: "13"), remaining points: "31"
+L 02/28/2026 - 18:29:05: [l4d2_shop.smx] [Buy]: "DX<37><STEAM_1:0:401133445><>" bought "laser_sight" (price: "10"), remaining points: "21"
+L 02/28/2026 - 18:30:47: [l4d2_shop.smx] [Buy]: "Quebuendoby<97><STEAM_1:1:601841727><>" bought "defibrillator" (price: "50"), remaining points: "5"
+L 02/28/2026 - 18:31:52: [l4d2_shop.smx] [Buy]: "[T-T]MoY<2><STEAM_1:0:511491787><>" bought "defibrillator" (price: "50"), remaining points: "3"
+L 02/28/2026 - 18:41:25: -------- Mapchange to Glubtastic2_2 --------
+L 02/28/2026 - 18:41:30: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_consistency") (value "0")
+L 02/28/2026 - 18:41:30: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_allow_lobby_connect_only") (value "0")
+L 02/28/2026 - 18:41:30: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxplayers") (value "8")
+L 02/28/2026 - 18:41:30: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_visiblemaxplayers") (value "-1")
+L 02/28/2026 - 18:41:30: [chat-processor.smx] Message formats generated for game 'left4dead2'.
+L 02/28/2026 - 18:41:30: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 02/28/2026 - 18:41:56: [l4d2_shop.smx] [Buy]: "DX<37><STEAM_1:0:401133445><>" bought "laser_sight" (price: "10"), remaining points: "33"
+L 02/28/2026 - 18:44:30: [l4d2_shop.smx] [Buy]: "Quebuendoby<97><STEAM_1:1:601841727><>" bought "defibrillator" (price: "50"), remaining points: "2"
+L 02/28/2026 - 18:52:56: -------- Mapchange to Glubtastic2_3 --------
+L 02/28/2026 - 18:53:00: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_consistency") (value "0")
+L 02/28/2026 - 18:53:00: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_allow_lobby_connect_only") (value "0")
+L 02/28/2026 - 18:53:00: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxplayers") (value "8")
+L 02/28/2026 - 18:53:00: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_visiblemaxplayers") (value "-1")
+L 02/28/2026 - 18:53:00: [chat-processor.smx] Message formats generated for game 'left4dead2'.
+L 02/28/2026 - 18:53:00: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 02/28/2026 - 18:56:05: [l4d2_shop.smx] [UPDATE]: "[T-T]MoY<2><STEAM_1:0:511491787><>" saved. Points: "46"
+L 02/28/2026 - 18:56:05: [l4d2_shop.smx] [UPDATE]: "Quebuendoby<97><STEAM_1:1:601841727><>" saved. Points: "34"
+L 02/28/2026 - 19:06:12: [l4d_sm_respawn.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" teleported "[T-T]MoY<2><STEAM_1:0:511491787><>" after respawning him
+L 02/28/2026 - 19:06:13: [l4d_sm_respawn.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" teleported "pato con 4 patas<209><STEAM_1:0:424510774><>" after respawning him
+L 02/28/2026 - 19:06:16: [l4d_sm_respawn.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" teleported "Quebuendoby<97><STEAM_1:1:601841727><>" after respawning him
+L 02/28/2026 - 19:06:16: [l4d_sm_respawn.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" teleported "chicken Little<337><STEAM_1:0:648945492><>" after respawning him
+L 02/28/2026 - 19:08:25: [l4d_sm_respawn.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" teleported "Quebuendoby<97><STEAM_1:1:601841727><>" after respawning him
+L 02/28/2026 - 19:08:26: [l4d_sm_respawn.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" teleported "pato con 4 patas<209><STEAM_1:0:424510774><>" after respawning him
+L 02/28/2026 - 19:08:26: [l4d_sm_respawn.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" teleported "chicken Little<337><STEAM_1:0:648945492><>" after respawning him
+L 02/28/2026 - 19:08:38: [l4d2_shop.smx] [Buy]: "Quebuendoby<97><STEAM_1:1:601841727><>" bought "Revivir (Costo actual: 50)" (price: "50"), remaining points: "23"
+L 02/28/2026 - 19:08:58: [l4d_sm_respawn.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" teleported "pato con 4 patas<209><STEAM_1:0:424510774><>" after respawning him
+L 02/28/2026 - 19:08:59: [l4d2_shop.smx] [UPDATE]: "Quebuendoby<97><STEAM_1:1:601841727><>" saved. Points: "44"
+L 02/28/2026 - 19:08:59: [l4d2_shop.smx] "pato con 4 patas<209><STEAM_1:0:424510774><>" (Balacne: "30") tansferred "20"+"4" points to "Quebuendoby<97><STEAM_1:1:601841727><>" (Balacne: "44")
+L 02/28/2026 - 19:09:08: [l4d_sm_respawn.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" teleported "fabialexparty<123><STEAM_1:0:523923662><>" after respawning him
+L 02/28/2026 - 19:10:08: [l4d_sm_respawn.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" teleported "pato con 4 patas<209><STEAM_1:0:424510774><>" after respawning him
+L 02/28/2026 - 19:11:03: -------- Mapchange to glubtastic2_4 --------
+L 02/28/2026 - 19:11:08: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_consistency") (value "0")
+L 02/28/2026 - 19:11:08: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_allow_lobby_connect_only") (value "0")
+L 02/28/2026 - 19:11:08: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxplayers") (value "8")
+L 02/28/2026 - 19:11:08: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_visiblemaxplayers") (value "-1")
+L 02/28/2026 - 19:11:08: [chat-processor.smx] Message formats generated for game 'left4dead2'.
+L 02/28/2026 - 19:11:08: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 02/28/2026 - 19:12:57: [l4d2_shop.smx] [UPDATE]: "[T-T]MoY<2><STEAM_1:0:511491787><>" saved. Points: "133"
+L 02/28/2026 - 19:12:57: [l4d2_shop.smx] [UPDATE]: "Quebuendoby<97><STEAM_1:1:601841727><>" saved. Points: "47"
+L 02/28/2026 - 19:13:51: [l4d2_shop.smx] [UPDATE]: "[T-T]MoY<2><STEAM_1:0:511491787><>" saved. Points: "133"
+L 02/28/2026 - 19:13:51: [l4d2_shop.smx] [UPDATE]: "Quebuendoby<97><STEAM_1:1:601841727><>" saved. Points: "47"
+L 02/28/2026 - 19:15:18: [l4d2_shop.smx] [UPDATE]: "[T-T]MoY<2><STEAM_1:0:511491787><>" saved. Points: "133"
+L 02/28/2026 - 19:15:18: [l4d2_shop.smx] [UPDATE]: "Quebuendoby<97><STEAM_1:1:601841727><>" saved. Points: "47"
+L 02/28/2026 - 19:15:53: [l4d_sm_respawn.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" teleported "Quebuendoby<97><STEAM_1:1:601841727><>" after respawning him
+L 02/28/2026 - 19:16:02: [l4d_sm_respawn.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" teleported "fabialexparty<123><STEAM_1:0:523923662><>" after respawning him
+L 02/28/2026 - 19:16:15: [l4d_sm_respawn.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" teleported "chicken Little<337><STEAM_1:0:648945492><>" after respawning him
+L 02/28/2026 - 19:16:41: [l4d_sm_respawn.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" teleported "chicken Little<337><STEAM_1:0:648945492><>" after respawning him
+L 02/28/2026 - 19:16:46: [l4d2_shop.smx] [UPDATE]: "[T-T]MoY<2><STEAM_1:0:511491787><>" saved. Points: "133"
+L 02/28/2026 - 19:16:46: [l4d2_shop.smx] [UPDATE]: "Quebuendoby<97><STEAM_1:1:601841727><>" saved. Points: "47"
+L 02/28/2026 - 19:17:16: [l4d_sm_respawn.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" teleported "Quebuendoby<97><STEAM_1:1:601841727><>" after respawning him
+L 02/28/2026 - 19:19:54: [l4d2_shop.smx] [UPDATE]: "[T-T]MoY<2><STEAM_1:0:511491787><>" saved. Points: "143"
+L 02/28/2026 - 19:19:54: [l4d2_shop.smx] [UPDATE]: "Quebuendoby<97><STEAM_1:1:601841727><>" saved. Points: "57"
+L 02/28/2026 - 19:20:30: [l4d_sm_respawn.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" teleported "[T-T]MoY<2><STEAM_1:0:511491787><>" after respawning him
+L 02/28/2026 - 19:20:31: [l4d_sm_respawn.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" teleported "fabialexparty<123><STEAM_1:0:523923662><>" after respawning him
+L 02/28/2026 - 19:21:37: [l4d2_shop.smx] "Quebuendoby<97><STEAM_1:1:601841727><>" (Balacne: "9") tansferred "50"+"10" points to "fabialexparty<123><STEAM_1:0:523923662><>" (Balacne: "107")
+L 02/28/2026 - 19:22:32: [l4d_sm_respawn.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" teleported "Quebuendoby<97><STEAM_1:1:601841727><>" after respawning him
+L 02/28/2026 - 19:22:32: [l4d_sm_respawn.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" teleported "fabialexparty<123><STEAM_1:0:523923662><>" after respawning him
+L 02/28/2026 - 19:22:32: [l4d_sm_respawn.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" teleported "Dts.Maiki<366><STEAM_1:1:75509102><>" after respawning him
+L 02/28/2026 - 19:23:14: [l4d2_shop.smx] [UPDATE]: "[T-T]MoY<2><STEAM_1:0:511491787><>" saved. Points: "155"
+L 02/28/2026 - 19:23:14: [l4d2_shop.smx] [UPDATE]: "Quebuendoby<97><STEAM_1:1:601841727><>" saved. Points: "11"
+L 02/28/2026 - 19:23:30: [basecommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" kicked "Quebuendoby<97><STEAM_1:1:601841727><>" (reason "")
+L 02/28/2026 - 19:23:31: [basecommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" kicked "DEUS REI DIVINDADE SUPREMA<408><STEAM_1:0:920672295><>" (reason "")
+L 02/28/2026 - 19:23:31: [basecommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" kicked "fabialexparty<123><STEAM_1:0:523923662><>" (reason "")
+L 02/28/2026 - 19:23:31: [basecommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" kicked "Nick<413><BOT><>" (reason "")
+L 02/28/2026 - 19:23:31: [basecommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" kicked "Francis<414><BOT><>" (reason "")
+L 02/28/2026 - 19:23:32: [basecommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" kicked "Dts.Maiki<366><STEAM_1:1:75509102><>" (reason "")
+L 02/28/2026 - 19:23:32: [basecommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" kicked "Coach<412><BOT><>" (reason "")
+L 02/28/2026 - 19:23:32: [basecommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" kicked "[T-T]MoY<2><STEAM_1:0:511491787><>" (reason "")
+L 02/28/2026 - 19:23:40: Log file closed.

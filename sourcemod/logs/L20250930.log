@@ -1,0 +1,141 @@
+L 09/30/2025 - 19:23:57: SourceMod log file session started (file "z:\home\moy\.steam\debian-installation\steamapps\common\left 4 dead 2\left4dead2\addons\sourcemod\logs\L20250930.log") (Version "1.12.0.7207")
+L 09/30/2025 - 19:23:57: [GEOIP] GeoIP2 database loaded: GeoLite2-ASN (2024-08-21 08:15:21 UTC) (z:\home\moy\.steam\debian-installation\steamapps\common\left 4 dead 2\left4dead2\addons\sourcemod\configs\geoip\GeoLite2-ASN.mmdb)
+L 09/30/2025 - 19:23:57: [GEOIP] GeoIP2 supported languages: en
+L 09/30/2025 - 19:23:57: [GEOIP] Your database is older than 90 days. You should consider downloading a newer version from e.g. https://dev.maxmind.com/geoip/geolite2-free-geolocation-data
+L 09/30/2025 - 19:24:14: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_consistency") (value "0")
+L 09/30/2025 - 19:24:14: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_allow_lobby_connect_only") (value "0")
+L 09/30/2025 - 19:24:14: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxplayers") (value "8")
+L 09/30/2025 - 19:24:14: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_visiblemaxplayers") (value "-1")
+L 09/30/2025 - 19:37:05: [basecommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" kicked "[T-T]MoY<2><STEAM_1:0:511491787><>" (reason "")
+L 09/30/2025 - 19:45:18: -------- Mapchange to c2m1_highway --------
+L 09/30/2025 - 19:45:32: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_consistency") (value "0")
+L 09/30/2025 - 19:45:32: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_allow_lobby_connect_only") (value "0")
+L 09/30/2025 - 19:45:32: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxplayers") (value "8")
+L 09/30/2025 - 19:45:32: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_visiblemaxplayers") (value "-1")
+L 09/30/2025 - 20:11:28: -------- Mapchange to c2m1_highway --------
+L 09/30/2025 - 20:11:28: [simple-chatprocessor.smx] [SCP] Recognized mod [Left 4 Dead 2].
+L 09/30/2025 - 20:11:33: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_consistency") (value "0")
+L 09/30/2025 - 20:11:33: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_allow_lobby_connect_only") (value "0")
+L 09/30/2025 - 20:11:33: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxplayers") (value "8")
+L 09/30/2025 - 20:11:33: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_visiblemaxplayers") (value "-1")
+L 09/30/2025 - 20:13:05: Log file closed.
+L 09/30/2025 - 20:14:12: SourceMod log file session started (file "z:\home\moy\.steam\debian-installation\steamapps\common\left 4 dead 2\left4dead2\addons\sourcemod\logs\L20250930.log") (Version "1.12.0.7207")
+L 09/30/2025 - 20:14:12: [GEOIP] GeoIP2 database loaded: GeoLite2-ASN (2024-08-21 08:15:21 UTC) (z:\home\moy\.steam\debian-installation\steamapps\common\left 4 dead 2\left4dead2\addons\sourcemod\configs\geoip\GeoLite2-ASN.mmdb)
+L 09/30/2025 - 20:14:12: [GEOIP] GeoIP2 supported languages: en
+L 09/30/2025 - 20:14:12: [GEOIP] Your database is older than 90 days. You should consider downloading a newer version from e.g. https://dev.maxmind.com/geoip/geolite2-free-geolocation-data
+L 09/30/2025 - 20:14:14: [simple-chatprocessor.smx] [SCP] Recognized mod [Left 4 Dead 2].
+L 09/30/2025 - 20:14:37: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_consistency") (value "0")
+L 09/30/2025 - 20:14:37: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_allow_lobby_connect_only") (value "0")
+L 09/30/2025 - 20:14:37: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxplayers") (value "8")
+L 09/30/2025 - 20:14:37: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_visiblemaxplayers") (value "-1")
+L 09/30/2025 - 20:21:26: [basecommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" kicked "Tank<9><BOT><>" (reason "")
+L 09/30/2025 - 20:21:27: [basecommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" kicked "Coach<10><BOT><>" (reason "")
+L 09/30/2025 - 20:21:27: [basecommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" kicked "Ellis<5><BOT><>" (reason "")
+L 09/30/2025 - 20:21:27: [basecommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" kicked "Rochelle<11><BOT><>" (reason "")
+L 09/30/2025 - 20:21:27: [basecommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" kicked "redwolf<12><STEAM_1:0:659064498><>" (reason "")
+L 09/30/2025 - 20:21:27: [basecommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" kicked "iN e R i t o x<13><STEAM_1:0:566557895><>" (reason "")
+L 09/30/2025 - 20:21:28: [basecommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" kicked "xXLUIGYTNTXx<14><STEAM_1:1:225873853><>" (reason "")
+L 09/30/2025 - 20:23:19: [basecommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" kicked "Rochelle<15><BOT><>" (reason "")
+L 09/30/2025 - 20:23:19: [basecommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" kicked "4LP4C4<16><STEAM_1:0:644746347><>" (reason "")
+L 09/30/2025 - 20:23:36: Log file closed.
+L 09/30/2025 - 21:01:46: SourceMod log file session started (file "z:\home\moy\.steam\debian-installation\steamapps\common\left 4 dead 2\left4dead2\addons\sourcemod\logs\L20250930.log") (Version "1.12.0.7207")
+L 09/30/2025 - 21:01:46: [GEOIP] GeoIP2 database loaded: GeoLite2-ASN (2024-08-21 08:15:21 UTC) (z:\home\moy\.steam\debian-installation\steamapps\common\left 4 dead 2\left4dead2\addons\sourcemod\configs\geoip\GeoLite2-ASN.mmdb)
+L 09/30/2025 - 21:01:46: [GEOIP] GeoIP2 supported languages: en
+L 09/30/2025 - 21:01:46: [GEOIP] Your database is older than 90 days. You should consider downloading a newer version from e.g. https://dev.maxmind.com/geoip/geolite2-free-geolocation-data
+L 09/30/2025 - 21:01:55: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_consistency") (value "0")
+L 09/30/2025 - 21:01:55: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_allow_lobby_connect_only") (value "0")
+L 09/30/2025 - 21:01:55: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxplayers") (value "8")
+L 09/30/2025 - 21:01:55: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_visiblemaxplayers") (value "-1")
+L 09/30/2025 - 21:07:23: -------- Mapchange to c1m1_hotel --------
+L 09/30/2025 - 21:07:32: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_consistency") (value "0")
+L 09/30/2025 - 21:07:32: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_allow_lobby_connect_only") (value "0")
+L 09/30/2025 - 21:07:32: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxplayers") (value "8")
+L 09/30/2025 - 21:07:32: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_visiblemaxplayers") (value "-1")
+L 09/30/2025 - 21:12:41: -------- Mapchange to c1m1_hotel --------
+L 09/30/2025 - 21:12:47: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_consistency") (value "0")
+L 09/30/2025 - 21:12:47: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_allow_lobby_connect_only") (value "0")
+L 09/30/2025 - 21:12:47: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxplayers") (value "8")
+L 09/30/2025 - 21:12:47: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_visiblemaxplayers") (value "-1")
+L 09/30/2025 - 21:28:10: Log file closed.
+L 09/30/2025 - 21:29:26: SourceMod log file session started (file "z:\home\moy\.steam\debian-installation\steamapps\common\left 4 dead 2\left4dead2\addons\sourcemod\logs\L20250930.log") (Version "1.12.0.7207")
+L 09/30/2025 - 21:29:26: [GEOIP] GeoIP2 database loaded: GeoLite2-ASN (2024-08-21 08:15:21 UTC) (z:\home\moy\.steam\debian-installation\steamapps\common\left 4 dead 2\left4dead2\addons\sourcemod\configs\geoip\GeoLite2-ASN.mmdb)
+L 09/30/2025 - 21:29:26: [GEOIP] GeoIP2 supported languages: en
+L 09/30/2025 - 21:29:26: [GEOIP] Your database is older than 90 days. You should consider downloading a newer version from e.g. https://dev.maxmind.com/geoip/geolite2-free-geolocation-data
+L 09/30/2025 - 21:29:48: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_consistency") (value "0")
+L 09/30/2025 - 21:29:48: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_allow_lobby_connect_only") (value "0")
+L 09/30/2025 - 21:29:48: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxplayers") (value "8")
+L 09/30/2025 - 21:29:48: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_visiblemaxplayers") (value "-1")
+L 09/30/2025 - 21:33:21: Log file closed.
+L 09/30/2025 - 21:40:36: SourceMod log file session started (file "z:\home\moy\.steam\debian-installation\steamapps\common\left 4 dead 2\left4dead2\addons\sourcemod\logs\L20250930.log") (Version "1.12.0.7207")
+L 09/30/2025 - 21:40:36: [GEOIP] GeoIP2 database loaded: GeoLite2-ASN (2024-08-21 08:15:21 UTC) (z:\home\moy\.steam\debian-installation\steamapps\common\left 4 dead 2\left4dead2\addons\sourcemod\configs\geoip\GeoLite2-ASN.mmdb)
+L 09/30/2025 - 21:40:36: [GEOIP] GeoIP2 supported languages: en
+L 09/30/2025 - 21:40:36: [GEOIP] Your database is older than 90 days. You should consider downloading a newer version from e.g. https://dev.maxmind.com/geoip/geolite2-free-geolocation-data
+L 09/30/2025 - 21:40:46: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_consistency") (value "0")
+L 09/30/2025 - 21:40:46: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_allow_lobby_connect_only") (value "0")
+L 09/30/2025 - 21:40:46: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxplayers") (value "8")
+L 09/30/2025 - 21:40:46: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_visiblemaxplayers") (value "-1")
+L 09/30/2025 - 21:46:33: -------- Mapchange to c1m1_hotel --------
+L 09/30/2025 - 21:46:42: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_consistency") (value "0")
+L 09/30/2025 - 21:46:42: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_allow_lobby_connect_only") (value "0")
+L 09/30/2025 - 21:46:42: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxplayers") (value "8")
+L 09/30/2025 - 21:46:42: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_visiblemaxplayers") (value "-1")
+L 09/30/2025 - 21:53:08: Log file closed.
+L 09/30/2025 - 21:58:51: SourceMod log file session started (file "z:\home\moy\.steam\debian-installation\steamapps\common\left 4 dead 2\left4dead2\addons\sourcemod\logs\L20250930.log") (Version "1.12.0.7207")
+L 09/30/2025 - 21:58:51: [GEOIP] GeoIP2 database loaded: GeoLite2-ASN (2024-08-21 08:15:21 UTC) (z:\home\moy\.steam\debian-installation\steamapps\common\left 4 dead 2\left4dead2\addons\sourcemod\configs\geoip\GeoLite2-ASN.mmdb)
+L 09/30/2025 - 21:58:51: [GEOIP] GeoIP2 supported languages: en
+L 09/30/2025 - 21:58:51: [GEOIP] Your database is older than 90 days. You should consider downloading a newer version from e.g. https://dev.maxmind.com/geoip/geolite2-free-geolocation-data
+L 09/30/2025 - 21:59:06: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_consistency") (value "0")
+L 09/30/2025 - 21:59:06: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_allow_lobby_connect_only") (value "0")
+L 09/30/2025 - 21:59:06: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxplayers") (value "8")
+L 09/30/2025 - 21:59:06: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_visiblemaxplayers") (value "-1")
+L 09/30/2025 - 22:01:32: Log file closed.
+L 09/30/2025 - 22:04:18: SourceMod log file session started (file "z:\home\moy\.steam\debian-installation\steamapps\common\left 4 dead 2\left4dead2\addons\sourcemod\logs\L20250930.log") (Version "1.12.0.7207")
+L 09/30/2025 - 22:04:18: [GEOIP] GeoIP2 database loaded: GeoLite2-ASN (2024-08-21 08:15:21 UTC) (z:\home\moy\.steam\debian-installation\steamapps\common\left 4 dead 2\left4dead2\addons\sourcemod\configs\geoip\GeoLite2-ASN.mmdb)
+L 09/30/2025 - 22:04:18: [GEOIP] GeoIP2 supported languages: en
+L 09/30/2025 - 22:04:18: [GEOIP] Your database is older than 90 days. You should consider downloading a newer version from e.g. https://dev.maxmind.com/geoip/geolite2-free-geolocation-data
+L 09/30/2025 - 22:04:40: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_consistency") (value "0")
+L 09/30/2025 - 22:04:40: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_allow_lobby_connect_only") (value "0")
+L 09/30/2025 - 22:04:40: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxplayers") (value "8")
+L 09/30/2025 - 22:04:40: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_visiblemaxplayers") (value "-1")
+L 09/30/2025 - 22:06:28: [playercommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" slayed "[T-T]MoY<2><STEAM_1:0:511491787><>"
+L 09/30/2025 - 22:06:28: [playercommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" slayed "Rochelle<4><BOT><>"
+L 09/30/2025 - 22:06:28: [playercommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" slayed "Coach<5><BOT><>"
+L 09/30/2025 - 22:06:29: [playercommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" slayed "chupatetas3000<6><STEAM_1:1:964013684><>"
+L 09/30/2025 - 22:06:40: Log file closed.
+L 09/30/2025 - 22:15:54: SourceMod log file session started (file "z:\home\moy\.steam\debian-installation\steamapps\common\left 4 dead 2\left4dead2\addons\sourcemod\logs\L20250930.log") (Version "1.12.0.7207")
+L 09/30/2025 - 22:15:54: [GEOIP] GeoIP2 database loaded: GeoLite2-ASN (2024-08-21 08:15:21 UTC) (z:\home\moy\.steam\debian-installation\steamapps\common\left 4 dead 2\left4dead2\addons\sourcemod\configs\geoip\GeoLite2-ASN.mmdb)
+L 09/30/2025 - 22:15:54: [GEOIP] GeoIP2 supported languages: en
+L 09/30/2025 - 22:15:54: [GEOIP] Your database is older than 90 days. You should consider downloading a newer version from e.g. https://dev.maxmind.com/geoip/geolite2-free-geolocation-data
+L 09/30/2025 - 22:16:08: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_consistency") (value "0")
+L 09/30/2025 - 22:16:08: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_allow_lobby_connect_only") (value "0")
+L 09/30/2025 - 22:16:08: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxplayers") (value "8")
+L 09/30/2025 - 22:16:08: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_visiblemaxplayers") (value "-1")
+L 09/30/2025 - 22:18:39: Log file closed.
+L 09/30/2025 - 22:20:38: SourceMod log file session started (file "z:\home\moy\.steam\debian-installation\steamapps\common\left 4 dead 2\left4dead2\addons\sourcemod\logs\L20250930.log") (Version "1.12.0.7207")
+L 09/30/2025 - 22:20:38: [GEOIP] GeoIP2 database loaded: GeoLite2-ASN (2024-08-21 08:15:21 UTC) (z:\home\moy\.steam\debian-installation\steamapps\common\left 4 dead 2\left4dead2\addons\sourcemod\configs\geoip\GeoLite2-ASN.mmdb)
+L 09/30/2025 - 22:20:38: [GEOIP] GeoIP2 supported languages: en
+L 09/30/2025 - 22:20:38: [GEOIP] Your database is older than 90 days. You should consider downloading a newer version from e.g. https://dev.maxmind.com/geoip/geolite2-free-geolocation-data
+L 09/30/2025 - 22:20:47: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_consistency") (value "0")
+L 09/30/2025 - 22:20:47: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_allow_lobby_connect_only") (value "0")
+L 09/30/2025 - 22:20:47: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxplayers") (value "8")
+L 09/30/2025 - 22:20:47: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_visiblemaxplayers") (value "-1")
+L 09/30/2025 - 22:26:24: Log file closed.
+L 09/30/2025 - 22:28:24: SourceMod log file session started (file "z:\home\moy\.steam\debian-installation\steamapps\common\left 4 dead 2\left4dead2\addons\sourcemod\logs\L20250930.log") (Version "1.12.0.7207")
+L 09/30/2025 - 22:28:24: [GEOIP] GeoIP2 database loaded: GeoLite2-ASN (2024-08-21 08:15:21 UTC) (z:\home\moy\.steam\debian-installation\steamapps\common\left 4 dead 2\left4dead2\addons\sourcemod\configs\geoip\GeoLite2-ASN.mmdb)
+L 09/30/2025 - 22:28:24: [GEOIP] GeoIP2 supported languages: en
+L 09/30/2025 - 22:28:24: [GEOIP] Your database is older than 90 days. You should consider downloading a newer version from e.g. https://dev.maxmind.com/geoip/geolite2-free-geolocation-data
+L 09/30/2025 - 22:28:32: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_consistency") (value "0")
+L 09/30/2025 - 22:28:32: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_allow_lobby_connect_only") (value "0")
+L 09/30/2025 - 22:28:32: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxplayers") (value "8")
+L 09/30/2025 - 22:28:32: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_visiblemaxplayers") (value "-1")
+L 09/30/2025 - 22:30:15: [basecommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" kicked "[T-T]MoY<2><STEAM_1:0:511491787><>" (reason "")
+L 09/30/2025 - 22:31:46: Log file closed.
+L 09/30/2025 - 23:52:28: SourceMod log file session started (file "z:\home\moy\.steam\debian-installation\steamapps\common\left 4 dead 2\left4dead2\addons\sourcemod\logs\L20250930.log") (Version "1.12.0.7207")
+L 09/30/2025 - 23:52:28: [GEOIP] GeoIP2 database loaded: GeoLite2-ASN (2024-08-21 08:15:21 UTC) (z:\home\moy\.steam\debian-installation\steamapps\common\left 4 dead 2\left4dead2\addons\sourcemod\configs\geoip\GeoLite2-ASN.mmdb)
+L 09/30/2025 - 23:52:28: [GEOIP] GeoIP2 supported languages: en
+L 09/30/2025 - 23:52:28: [GEOIP] Your database is older than 90 days. You should consider downloading a newer version from e.g. https://dev.maxmind.com/geoip/geolite2-free-geolocation-data
+L 09/30/2025 - 23:52:49: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_consistency") (value "0")
+L 09/30/2025 - 23:52:49: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_allow_lobby_connect_only") (value "0")
+L 09/30/2025 - 23:52:49: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxplayers") (value "8")
+L 09/30/2025 - 23:52:49: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_visiblemaxplayers") (value "-1")
+L 09/30/2025 - 23:54:13: Log file closed.

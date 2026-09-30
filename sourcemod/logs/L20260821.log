@@ -1,0 +1,321 @@
+L 08/21/2026 - 16:28:49: SourceMod log file session started (file "d:\steamlibrary\steamapps\common\left 4 dead 2\left4dead2\addons\sourcemod\logs\L20260821.log") (Version "1.12.0.7207")
+L 08/21/2026 - 16:28:49: [GEOIP] GeoIP2 database loaded: GeoLite2-ASN (2024-08-21 08:15:21 UTC) (d:\steamlibrary\steamapps\common\left 4 dead 2\left4dead2\addons\sourcemod\configs\geoip\GeoLite2-ASN.mmdb)
+L 08/21/2026 - 16:28:49: [GEOIP] GeoIP2 supported languages: en
+L 08/21/2026 - 16:28:49: [GEOIP] Your database is older than 90 days. You should consider downloading a newer version from e.g. https://dev.maxmind.com/geoip/geolite2-free-geolocation-data
+L 08/21/2026 - 16:28:51: [l4d_extinguisher.smx] 
+==========
+Warning: You should install "[L4D2] Scavenge Score Fix - Gascan Pouring" to prevent affecting the score when filling gas in Scavenge style events: https://forums.alliedmods.net/showthread.php?t=187686
+==========
+
+L 08/21/2026 - 16:28:51: [l4d_extinguisher.smx] 
+==========
+Warning: You should install "[L4D & L4D2] Use Priority Patch" to fix attached models blocking +USE action: https://forums.alliedmods.net/showthread.php?t=327511
+==========
+
+L 08/21/2026 - 16:28:57: [UPDATER] Successfully updated gamedata file "sdktools.games/engine.mcv.txt"
+L 08/21/2026 - 16:28:57: [UPDATER] Successfully updated gamedata file "sdktools.games/engine.pvkii.txt"
+L 08/21/2026 - 16:28:57: [UPDATER] Successfully updated gamedata file "sdktools.games/game.pvkii.txt"
+L 08/21/2026 - 16:28:57: [UPDATER] Successfully updated gamedata file "sdkhooks.games/engine.mcv.txt"
+L 08/21/2026 - 16:28:57: [UPDATER] Successfully updated gamedata file "sdkhooks.games/game.pvkii.txt"
+L 08/21/2026 - 16:28:57: [UPDATER] Successfully updated gamedata file "core.games/engine.mcv.txt"
+L 08/21/2026 - 16:28:57: [UPDATER] Successfully updated gamedata file "core.games/engine.pvkii.txt"
+L 08/21/2026 - 16:28:57: [UPDATER] SourceMod has been updated, please reload it or restart your server.
+L 08/21/2026 - 16:28:59: [chat-processor.smx] Message formats generated for game 'left4dead2'.
+L 08/21/2026 - 16:28:59: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 08/21/2026 - 16:29:17: [l4d2_shop.smx] [LOAD]: "[T-T]MoY<2><STEAM_1:0:511491787><>" loaded the record successfully! Points: "1240"
+L 08/21/2026 - 16:30:34: [l4d2_shop.smx] [INSERT]: "FAMILIA ATRAPADA EN TERREMOTO<6><STEAM_1:0:711528570><>" is a new user!!
+L 08/21/2026 - 16:31:08: [l4d2_shop.smx] [INSERT]: "franchescovalente098<7><STEAM_1:1:580919467><>" is a new user!!
+L 08/21/2026 - 16:31:24: [l4d2_shop.smx] [LOAD]: "rhouwel<9><STEAM_1:1:523447003><>" loaded the record successfully! Points: "0"
+L 08/21/2026 - 16:32:27: [l4d2_shop.smx] [INSERT]: "fitcxs<14><STEAM_1:0:752683664><>" is a new user!!
+L 08/21/2026 - 16:33:23: Log file closed.
+L 08/21/2026 - 20:28:07: SourceMod log file session started (file "d:\steamlibrary\steamapps\common\left 4 dead 2\left4dead2\addons\sourcemod\logs\L20260821.log") (Version "1.12.0.7207")
+L 08/21/2026 - 20:28:07: [GEOIP] GeoIP2 database loaded: GeoLite2-ASN (2024-08-21 08:15:21 UTC) (d:\steamlibrary\steamapps\common\left 4 dead 2\left4dead2\addons\sourcemod\configs\geoip\GeoLite2-ASN.mmdb)
+L 08/21/2026 - 20:28:07: [GEOIP] GeoIP2 supported languages: en
+L 08/21/2026 - 20:28:07: [GEOIP] Your database is older than 90 days. You should consider downloading a newer version from e.g. https://dev.maxmind.com/geoip/geolite2-free-geolocation-data
+L 08/21/2026 - 20:28:09: [l4d_extinguisher.smx] 
+==========
+Warning: You should install "[L4D2] Scavenge Score Fix - Gascan Pouring" to prevent affecting the score when filling gas in Scavenge style events: https://forums.alliedmods.net/showthread.php?t=187686
+==========
+
+L 08/21/2026 - 20:28:09: [l4d_extinguisher.smx] 
+==========
+Warning: You should install "[L4D & L4D2] Use Priority Patch" to fix attached models blocking +USE action: https://forums.alliedmods.net/showthread.php?t=327511
+==========
+
+L 08/21/2026 - 20:28:21: [chat-processor.smx] Message formats generated for game 'left4dead2'.
+L 08/21/2026 - 20:28:21: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 08/21/2026 - 20:28:38: [l4d2_shop.smx] [LOAD]: "[T-T]MoY<2><STEAM_1:0:511491787><>" loaded the record successfully! Points: "1240"
+L 08/21/2026 - 20:29:29: [l4d2_shop.smx] [INSERT]: "dogui<6><STEAM_1:1:709009329><>" is a new user!!
+L 08/21/2026 - 20:30:52: [l4d2_shop.smx] [UPDATE]: "[T-T]MoY<2><STEAM_1:0:511491787><>" saved. Points: "1240"
+L 08/21/2026 - 20:30:52: [l4d2_shop.smx] UPDATE SpecialFunctions SET isEnabled = 1 WHERE steamId = 'STEAM_1:0:511491787' AND (functionNo = 'GRAY_AMMO' OR functionNo = 'BLUE_AMMO' OR functionNo = 'GOLD_AMMO')
+L 08/21/2026 - 20:30:52: [l4d2_shop.smx] [UPDATE]: "dogui<6><STEAM_1:1:709009329><>" saved. Points: "0"
+L 08/21/2026 - 20:31:40: [l4d2_shop.smx] [UPDATE]: "[T-T]MoY<2><STEAM_1:0:511491787><>" saved. Points: "1240"
+L 08/21/2026 - 20:31:40: [l4d2_shop.smx] UPDATE SpecialFunctions SET isEnabled = 1 WHERE steamId = 'STEAM_1:0:511491787' AND (functionNo = 'GRAY_AMMO' OR functionNo = 'BLUE_AMMO' OR functionNo = 'GOLD_AMMO')
+L 08/21/2026 - 20:31:40: [l4d2_shop.smx] [UPDATE]: "dogui<6><STEAM_1:1:709009329><>" saved. Points: "0"
+L 08/21/2026 - 20:34:30: SourceMod log file session started (file "d:\steamlibrary\steamapps\common\left 4 dead 2\left4dead2\addons\sourcemod\logs\L20260821.log") (Version "1.12.0.7207")
+L 08/21/2026 - 20:34:30: [GEOIP] GeoIP2 database loaded: GeoLite2-ASN (2024-08-21 08:15:21 UTC) (d:\steamlibrary\steamapps\common\left 4 dead 2\left4dead2\addons\sourcemod\configs\geoip\GeoLite2-ASN.mmdb)
+L 08/21/2026 - 20:34:30: [GEOIP] GeoIP2 supported languages: en
+L 08/21/2026 - 20:34:30: [GEOIP] Your database is older than 90 days. You should consider downloading a newer version from e.g. https://dev.maxmind.com/geoip/geolite2-free-geolocation-data
+L 08/21/2026 - 20:34:32: [l4d_extinguisher.smx] 
+==========
+Warning: You should install "[L4D2] Scavenge Score Fix - Gascan Pouring" to prevent affecting the score when filling gas in Scavenge style events: https://forums.alliedmods.net/showthread.php?t=187686
+==========
+
+L 08/21/2026 - 20:34:32: [l4d_extinguisher.smx] 
+==========
+Warning: You should install "[L4D & L4D2] Use Priority Patch" to fix attached models blocking +USE action: https://forums.alliedmods.net/showthread.php?t=327511
+==========
+
+L 08/21/2026 - 20:34:36: [chat-processor.smx] Message formats generated for game 'left4dead2'.
+L 08/21/2026 - 20:34:36: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 08/21/2026 - 20:34:45: [l4d2_shop.smx] [LOAD]: "[T-T]MoY<2><STEAM_ID_PENDING><>" loaded the record successfully! Points: "0"
+L 08/21/2026 - 20:36:44: [l4d2_shop.smx] [UPDATE]: "[T-T]MoY<2><STEAM_1:0:511491787><>" saved. Points: "0"
+L 08/21/2026 - 20:36:58: Log file closed.
+L 08/21/2026 - 22:26:28: SourceMod log file session started (file "d:\steamlibrary\steamapps\common\left 4 dead 2\left4dead2\addons\sourcemod\logs\L20260821.log") (Version "1.12.0.7207")
+L 08/21/2026 - 22:26:28: [GEOIP] GeoIP2 database loaded: GeoLite2-ASN (2024-08-21 08:15:21 UTC) (d:\steamlibrary\steamapps\common\left 4 dead 2\left4dead2\addons\sourcemod\configs\geoip\GeoLite2-ASN.mmdb)
+L 08/21/2026 - 22:26:28: [GEOIP] GeoIP2 supported languages: en
+L 08/21/2026 - 22:26:28: [GEOIP] Your database is older than 90 days. You should consider downloading a newer version from e.g. https://dev.maxmind.com/geoip/geolite2-free-geolocation-data
+L 08/21/2026 - 22:26:30: [l4d_extinguisher.smx] 
+==========
+Warning: You should install "[L4D2] Scavenge Score Fix - Gascan Pouring" to prevent affecting the score when filling gas in Scavenge style events: https://forums.alliedmods.net/showthread.php?t=187686
+==========
+
+L 08/21/2026 - 22:26:30: [l4d_extinguisher.smx] 
+==========
+Warning: You should install "[L4D & L4D2] Use Priority Patch" to fix attached models blocking +USE action: https://forums.alliedmods.net/showthread.php?t=327511
+==========
+
+L 08/21/2026 - 22:26:42: [chat-processor.smx] Message formats generated for game 'left4dead2'.
+L 08/21/2026 - 22:26:42: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 08/21/2026 - 22:26:59: [l4d2_shop.smx] [LOAD]: "[T-T]MoY<2><STEAM_1:0:511491787><>" loaded the record successfully! Points: "0"
+L 08/21/2026 - 22:28:15: [l4d2_shop.smx] [UPDATE]: "[T-T]MoY<2><STEAM_1:0:511491787><>" saved. Points: "0"
+L 08/21/2026 - 22:28:15: [l4d2_shop.smx] UPDATE SpecialFunctions SET isEnabled = 1 WHERE steamId = 'STEAM_1:0:511491787' AND (functionNo = 'GRAY_AMMO' OR functionNo = 'BLUE_AMMO' OR functionNo = 'GOLD_AMMO')
+L 08/21/2026 - 22:28:45: [l4d2_shop.smx] [LOAD]: "MrReaper<7><STEAM_1:0:569803844><>" loaded the record successfully! Points: "1036"
+L 08/21/2026 - 22:29:24: [l4d2_shop.smx] [INSERT]: "THE BABAYAGA<8><STEAM_1:1:847060826><>" is a new user!!
+L 08/21/2026 - 22:29:56: [l4d2_shop.smx] [UPDATE]: "[T-T]MoY<2><STEAM_1:0:511491787><>" saved. Points: "0"
+L 08/21/2026 - 22:29:56: [l4d2_shop.smx] UPDATE SpecialFunctions SET isEnabled = 1 WHERE steamId = 'STEAM_1:0:511491787' AND (functionNo = 'GRAY_AMMO' OR functionNo = 'BLUE_AMMO' OR functionNo = 'GOLD_AMMO')
+L 08/21/2026 - 22:29:56: [l4d2_shop.smx] [UPDATE]: "MrReaper<7><STEAM_1:0:569803844><>" saved. Points: "1036"
+L 08/21/2026 - 22:30:43: [l4d2_shop.smx] [LOAD]: "GuStyles<17><STEAM_1:0:140321657><>" loaded the record successfully! Points: "46"
+L 08/21/2026 - 22:31:26: [l4d2_shop.smx] [INSERT]: "chebucas<20><STEAM_1:1:919418147><>" is a new user!!
+L 08/21/2026 - 22:33:08: [l4d2_shop.smx] [LOAD]: "Quebuendoby<27><STEAM_1:1:601841727><>" loaded the record successfully! Points: "12056"
+L 08/21/2026 - 22:33:25: [l4d2_shop.smx] [UPDATE]: "[T-T]MoY<2><STEAM_1:0:511491787><>" saved. Points: "12"
+L 08/21/2026 - 22:33:25: [l4d2_shop.smx] UPDATE SpecialFunctions SET isEnabled = 1 WHERE steamId = 'STEAM_1:0:511491787' AND (functionNo = 'GRAY_AMMO' OR functionNo = 'BLUE_AMMO' OR functionNo = 'GOLD_AMMO')
+L 08/21/2026 - 22:33:25: [l4d2_shop.smx] [UPDATE]: "GuStyles<17><STEAM_1:0:140321657><>" saved. Points: "76"
+L 08/21/2026 - 22:33:25: [l4d2_shop.smx] [UPDATE]: "MrReaper<7><STEAM_1:0:569803844><>" saved. Points: "1057"
+L 08/21/2026 - 22:33:25: [l4d2_shop.smx] [UPDATE]: "Quebuendoby<27><STEAM_1:1:601841727><>" saved. Points: "12056"
+L 08/21/2026 - 22:35:57: [l4d2_shop.smx] [INSERT]: "br.....<37><STEAM_1:0:526632364><>" is a new user!!
+L 08/21/2026 - 22:36:56: [l4d2_shop.smx] [INSERT]: "bryan24ap6<41><STEAM_1:1:793797266><>" is a new user!!
+L 08/21/2026 - 22:37:42: [l4d2_shop.smx] [UPDATE]: "[T-T]MoY<2><STEAM_1:0:511491787><>" saved. Points: "24"
+L 08/21/2026 - 22:37:42: [l4d2_shop.smx] UPDATE SpecialFunctions SET isEnabled = 1 WHERE steamId = 'STEAM_1:0:511491787' AND (functionNo = 'GRAY_AMMO' OR functionNo = 'BLUE_AMMO' OR functionNo = 'GOLD_AMMO')
+L 08/21/2026 - 22:37:42: [l4d2_shop.smx] [UPDATE]: "bryan24ap6<41><STEAM_1:1:793797266><>" saved. Points: "0"
+L 08/21/2026 - 22:37:42: [l4d2_shop.smx] [UPDATE]: "Quebuendoby<27><STEAM_1:1:601841727><>" saved. Points: "12068"
+L 08/21/2026 - 22:38:15: [l4d2_shop.smx] [INSERT]: "azotanegros<49><STEAM_1:1:928207661><>" is a new user!!
+L 08/21/2026 - 22:38:22: [l4d_sm_respawn.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" teleported "azotanegros<49><STEAM_1:1:928207661><>" after respawning him
+L 08/21/2026 - 22:39:01: [l4d2_shop.smx] [INSERT]: "Sebas<53><STEAM_1:1:761973762><>" is a new user!!
+L 08/21/2026 - 22:39:19: [l4d2_shop.smx] [INSERT]: "A-rage<55><STEAM_1:1:950409496><>" is a new user!!
+L 08/21/2026 - 22:40:39: [l4d2_shop.smx] [INSERT]: "SiDeRaL<61><STEAM_1:0:552944008><>" is a new user!!
+L 08/21/2026 - 22:40:56: [l4d2_shop.smx] [INSERT]: "luxin<64><STEAM_1:0:717172778><>" is a new user!!
+L 08/21/2026 - 22:41:16: [l4d2_shop.smx] [UPDATE]: "[T-T]MoY<2><STEAM_1:0:511491787><>" saved. Points: "44"
+L 08/21/2026 - 22:41:16: [l4d2_shop.smx] UPDATE SpecialFunctions SET isEnabled = 1 WHERE steamId = 'STEAM_1:0:511491787' AND (functionNo = 'GRAY_AMMO' OR functionNo = 'BLUE_AMMO' OR functionNo = 'GOLD_AMMO')
+L 08/21/2026 - 22:41:16: [l4d2_shop.smx] [UPDATE]: "Quebuendoby<27><STEAM_1:1:601841727><>" saved. Points: "12078"
+L 08/21/2026 - 22:41:16: [l4d2_shop.smx] [UPDATE]: "Sebas<53><STEAM_1:1:761973762><>" saved. Points: "10"
+L 08/21/2026 - 22:41:16: [l4d2_shop.smx] [UPDATE]: "luxin<64><STEAM_1:0:717172778><>" saved. Points: "0"
+L 08/21/2026 - 22:44:45: [l4d2_shop.smx] [Buy]: "Quebuendoby<27><STEAM_1:1:601841727><>" bought "Revivir (Costo actual: 50)" (price: "50"), remaining points: "12044"
+L 08/21/2026 - 22:44:50: [l4d2_shop.smx] [UPDATE]: "[T-T]MoY<2><STEAM_1:0:511491787><>" saved. Points: "54"
+L 08/21/2026 - 22:44:50: [l4d2_shop.smx] UPDATE SpecialFunctions SET isEnabled = 1 WHERE steamId = 'STEAM_1:0:511491787' AND (functionNo = 'GRAY_AMMO' OR functionNo = 'BLUE_AMMO' OR functionNo = 'GOLD_AMMO')
+L 08/21/2026 - 22:44:50: [l4d2_shop.smx] [UPDATE]: "Quebuendoby<27><STEAM_1:1:601841727><>" saved. Points: "12044"
+L 08/21/2026 - 22:44:50: [l4d2_shop.smx] [UPDATE]: "Sebas<53><STEAM_1:1:761973762><>" saved. Points: "20"
+L 08/21/2026 - 22:44:50: [l4d2_shop.smx] [UPDATE]: "luxin<64><STEAM_1:0:717172778><>" saved. Points: "19"
+L 08/21/2026 - 22:45:18: [l4d2_shop.smx] [INSERT]: "RantaASS<79><STEAM_1:0:894676629><>" is a new user!!
+L 08/21/2026 - 22:48:19: [l4d2_shop.smx] [INSERT]: "Inquisición<91><STEAM_1:1:657551889><>" is a new user!!
+L 08/21/2026 - 22:49:01: -------- Mapchange to c1m3_mall --------
+L 08/21/2026 - 22:49:05: [chat-processor.smx] Message formats generated for game 'left4dead2'.
+L 08/21/2026 - 22:49:05: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 08/21/2026 - 22:49:22: [l4d2_shop.smx] [LOAD]: "[T-T]MoY<2><STEAM_1:0:511491787><>" loaded the record successfully! Points: "54"
+L 08/21/2026 - 22:49:24: [l4d2_shop.smx] [LOAD]: "Inquisición<91><STEAM_1:1:657551889><>" loaded the record successfully! Points: "0"
+L 08/21/2026 - 22:49:28: [l4d2_shop.smx] [LOAD]: "luxin<64><STEAM_1:0:717172778><>" loaded the record successfully! Points: "19"
+L 08/21/2026 - 22:49:30: [l4d2_shop.smx] [INSERT]: "Dr.Pepper45<95><STEAM_1:0:144111423><>" is a new user!!
+L 08/21/2026 - 22:49:31: [l4d2_shop.smx] [LOAD]: "RantaASS<79><STEAM_1:0:894676629><>" loaded the record successfully! Points: "0"
+L 08/21/2026 - 22:49:33: [l4d2_shop.smx] [LOAD]: "Quebuendoby<27><STEAM_1:1:601841727><>" loaded the record successfully! Points: "12044"
+L 08/21/2026 - 22:50:38: [l4d2_shop.smx] [INSERT]: "Byron_HT<103><STEAM_1:1:614054798><>" is a new user!!
+L 08/21/2026 - 22:50:47: [l4d2_shop.smx] [LOAD]: "gatoplomo8A<105><STEAM_1:1:380857199><>" loaded the record successfully! Points: "0"
+L 08/21/2026 - 22:52:07: [l4d2_shop.smx] [LOAD]: "Mocochinchi<113><STEAM_1:0:931301575><>" loaded the record successfully! Points: "5771"
+L 08/21/2026 - 22:53:11: -------- Mapchange to c1m4_atrium --------
+L 08/21/2026 - 22:53:14: [chat-processor.smx] Message formats generated for game 'left4dead2'.
+L 08/21/2026 - 22:53:14: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 08/21/2026 - 22:53:31: [l4d2_shop.smx] [LOAD]: "[T-T]MoY<2><STEAM_1:0:511491787><>" loaded the record successfully! Points: "54"
+L 08/21/2026 - 22:53:33: [l4d2_shop.smx] [LOAD]: "Mocochinchi<113><STEAM_1:0:931301575><>" loaded the record successfully! Points: "5771"
+L 08/21/2026 - 22:53:34: [l4d2_shop.smx] [LOAD]: "Inquisición<91><STEAM_1:1:657551889><>" loaded the record successfully! Points: "0"
+L 08/21/2026 - 22:53:40: [l4d2_shop.smx] [LOAD]: "gatoplomo8A<105><STEAM_1:1:380857199><>" loaded the record successfully! Points: "0"
+L 08/21/2026 - 22:53:40: [l4d2_shop.smx] [LOAD]: "Quebuendoby<27><STEAM_1:1:601841727><>" loaded the record successfully! Points: "12044"
+L 08/21/2026 - 22:53:42: [l4d2_shop.smx] [LOAD]: "Byron_HT<103><STEAM_1:1:614054798><>" loaded the record successfully! Points: "0"
+L 08/21/2026 - 22:53:47: [l4d2_shop.smx] [LOAD]: "luxin<64><STEAM_1:0:717172778><>" loaded the record successfully! Points: "19"
+L 08/21/2026 - 22:54:04: [l4d2_shop.smx] [LOAD]: "⛑EPIC GAMES⛑<127><STEAM_1:0:588496291><>" loaded the record successfully! Points: "11012"
+L 08/21/2026 - 22:56:13: [l4d2_shop.smx] [INSERT]: "Trululuche_OP<133><STEAM_1:0:823456349><>" is a new user!!
+L 08/21/2026 - 22:58:42: [SM] Changed map to "c2m1_highway"
+L 08/21/2026 - 22:58:45: -------- Mapchange to c2m1_highway --------
+L 08/21/2026 - 22:58:48: [chat-processor.smx] Message formats generated for game 'left4dead2'.
+L 08/21/2026 - 22:58:48: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 08/21/2026 - 22:59:06: [l4d2_shop.smx] [LOAD]: "[T-T]MoY<2><STEAM_1:0:511491787><>" loaded the record successfully! Points: "54"
+L 08/21/2026 - 22:59:09: [l4d2_shop.smx] [LOAD]: "Mocochinchi<113><STEAM_1:0:931301575><>" loaded the record successfully! Points: "5771"
+L 08/21/2026 - 22:59:09: [l4d2_shop.smx] [LOAD]: "⛑EPIC GAMES⛑<127><STEAM_1:0:588496291><>" loaded the record successfully! Points: "11012"
+L 08/21/2026 - 22:59:09: [l4d2_shop.smx] [LOAD]: "Inquisición<91><STEAM_1:1:657551889><>" loaded the record successfully! Points: "0"
+L 08/21/2026 - 22:59:14: [l4d2_shop.smx] [LOAD]: "Quebuendoby<27><STEAM_1:1:601841727><>" loaded the record successfully! Points: "12044"
+L 08/21/2026 - 22:59:17: [l4d2_shop.smx] [LOAD]: "Byron_HT<103><STEAM_1:1:614054798><>" loaded the record successfully! Points: "0"
+L 08/21/2026 - 23:02:21: -------- Mapchange to c2m2_fairgrounds --------
+L 08/21/2026 - 23:02:24: [chat-processor.smx] Message formats generated for game 'left4dead2'.
+L 08/21/2026 - 23:02:24: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 08/21/2026 - 23:02:34: [l4d2_shop.smx] [LOAD]: "[T-T]MoY<2><STEAM_1:0:511491787><>" loaded the record successfully! Points: "54"
+L 08/21/2026 - 23:02:36: [l4d2_shop.smx] [LOAD]: "⛑EPIC GAMES⛑<127><STEAM_1:0:588496291><>" loaded the record successfully! Points: "11012"
+L 08/21/2026 - 23:02:36: [l4d2_shop.smx] [LOAD]: "Mocochinchi<113><STEAM_1:0:931301575><>" loaded the record successfully! Points: "5771"
+L 08/21/2026 - 23:02:36: [l4d2_shop.smx] [LOAD]: "Inquisición<91><STEAM_1:1:657551889><>" loaded the record successfully! Points: "0"
+L 08/21/2026 - 23:02:44: [l4d2_shop.smx] [LOAD]: "Quebuendoby<27><STEAM_1:1:601841727><>" loaded the record successfully! Points: "12044"
+L 08/21/2026 - 23:02:45: [l4d2_shop.smx] [LOAD]: "Byron_HT<103><STEAM_1:1:614054798><>" loaded the record successfully! Points: "0"
+L 08/21/2026 - 23:02:53: [l4d2_shop.smx] [INSERT]: "tonto saurio<160><STEAM_1:1:20745976><>" is a new user!!
+L 08/21/2026 - 23:04:32: [l4d2_shop.smx] [INSERT]: "FURKASS<168><STEAM_1:1:639072427><>" is a new user!!
+L 08/21/2026 - 23:07:31: [l4d2_shop.smx] [UPDATE]: "[T-T]MoY<2><STEAM_1:0:511491787><>" saved. Points: "84"
+L 08/21/2026 - 23:07:31: [l4d2_shop.smx] UPDATE SpecialFunctions SET isEnabled = 1 WHERE steamId = 'STEAM_1:0:511491787' AND (functionNo = 'GRAY_AMMO' OR functionNo = 'BLUE_AMMO' OR functionNo = 'GOLD_AMMO')
+L 08/21/2026 - 23:07:31: [l4d2_shop.smx] [UPDATE]: "⛑EPIC GAMES⛑<127><STEAM_1:0:588496291><>" saved. Points: "11028"
+L 08/21/2026 - 23:07:31: [l4d2_shop.smx] [UPDATE]: "Byron_HT<103><STEAM_1:1:614054798><>" saved. Points: "19"
+L 08/21/2026 - 23:07:31: [l4d2_shop.smx] [UPDATE]: "Inquisición<91><STEAM_1:1:657551889><>" saved. Points: "16"
+L 08/21/2026 - 23:07:32: [l4d2_shop.smx] [UPDATE]: "Quebuendoby<27><STEAM_1:1:601841727><>" saved. Points: "12060"
+L 08/21/2026 - 23:07:32: [l4d2_shop.smx] [UPDATE]: "Mocochinchi<113><STEAM_1:0:931301575><>" saved. Points: "5812"
+L 08/21/2026 - 23:07:41: [l4d2_shop.smx] [INSERT]: "SMXT_W<180><STEAM_1:0:397566983><>" is a new user!!
+L 08/21/2026 - 23:09:33: [l4d2_shop.smx] [INSERT]: "Hijos de la Mambo<188><STEAM_1:0:359441303><>" is a new user!!
+L 08/21/2026 - 23:12:54: -------- Mapchange to c2m3_coaster --------
+L 08/21/2026 - 23:12:57: [chat-processor.smx] Message formats generated for game 'left4dead2'.
+L 08/21/2026 - 23:12:57: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 08/21/2026 - 23:13:07: [l4d2_shop.smx] [LOAD]: "[T-T]MoY<2><STEAM_1:0:511491787><>" loaded the record successfully! Points: "84"
+L 08/21/2026 - 23:13:09: [l4d2_shop.smx] [LOAD]: "Mocochinchi<113><STEAM_1:0:931301575><>" loaded the record successfully! Points: "5812"
+L 08/21/2026 - 23:13:09: [l4d2_shop.smx] [LOAD]: "⛑EPIC GAMES⛑<127><STEAM_1:0:588496291><>" loaded the record successfully! Points: "11028"
+L 08/21/2026 - 23:13:09: [l4d2_shop.smx] [LOAD]: "Inquisición<91><STEAM_1:1:657551889><>" loaded the record successfully! Points: "16"
+L 08/21/2026 - 23:13:17: [l4d2_shop.smx] [LOAD]: "Quebuendoby<27><STEAM_1:1:601841727><>" loaded the record successfully! Points: "12060"
+L 08/21/2026 - 23:13:18: [l4d2_shop.smx] [LOAD]: "Byron_HT<103><STEAM_1:1:614054798><>" loaded the record successfully! Points: "19"
+L 08/21/2026 - 23:13:18: [l4d2_shop.smx] [LOAD]: "SMXT_W<180><STEAM_1:0:397566983><>" loaded the record successfully! Points: "0"
+L 08/21/2026 - 23:13:20: [l4d2_shop.smx] [LOAD]: "Hijos de la Mambo<188><STEAM_1:0:359441303><>" loaded the record successfully! Points: "0"
+L 08/21/2026 - 23:15:46: [l4d2_shop.smx] [UPDATE]: "[T-T]MoY<2><STEAM_1:0:511491787><>" saved. Points: "90"
+L 08/21/2026 - 23:15:46: [l4d2_shop.smx] UPDATE SpecialFunctions SET isEnabled = 1 WHERE steamId = 'STEAM_1:0:511491787' AND (functionNo = 'GRAY_AMMO' OR functionNo = 'BLUE_AMMO' OR functionNo = 'GOLD_AMMO')
+L 08/21/2026 - 23:15:46: [l4d2_shop.smx] [UPDATE]: "⛑EPIC GAMES⛑<127><STEAM_1:0:588496291><>" saved. Points: "11034"
+L 08/21/2026 - 23:15:46: [l4d2_shop.smx] [UPDATE]: "Byron_HT<103><STEAM_1:1:614054798><>" saved. Points: "28"
+L 08/21/2026 - 23:15:46: [l4d2_shop.smx] [UPDATE]: "Inquisición<91><STEAM_1:1:657551889><>" saved. Points: "22"
+L 08/21/2026 - 23:15:46: [l4d2_shop.smx] [UPDATE]: "Hijos de la Mambo<188><STEAM_1:0:359441303><>" saved. Points: "12"
+L 08/21/2026 - 23:15:46: [l4d2_shop.smx] [UPDATE]: "Quebuendoby<27><STEAM_1:1:601841727><>" saved. Points: "12066"
+L 08/21/2026 - 23:15:46: [l4d2_shop.smx] [UPDATE]: "SMXT_W<180><STEAM_1:0:397566983><>" saved. Points: "6"
+L 08/21/2026 - 23:15:46: [l4d2_shop.smx] [UPDATE]: "Mocochinchi<113><STEAM_1:0:931301575><>" saved. Points: "5818"
+L 08/21/2026 - 23:19:25: -------- Mapchange to c2m4_barns --------
+L 08/21/2026 - 23:19:29: [chat-processor.smx] Message formats generated for game 'left4dead2'.
+L 08/21/2026 - 23:19:29: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 08/21/2026 - 23:19:46: [l4d2_shop.smx] [LOAD]: "[T-T]MoY<2><STEAM_1:0:511491787><>" loaded the record successfully! Points: "90"
+L 08/21/2026 - 23:19:49: [l4d2_shop.smx] [LOAD]: "⛑EPIC GAMES⛑<127><STEAM_1:0:588496291><>" loaded the record successfully! Points: "11034"
+L 08/21/2026 - 23:19:49: [l4d2_shop.smx] [LOAD]: "Mocochinchi<113><STEAM_1:0:931301575><>" loaded the record successfully! Points: "5818"
+L 08/21/2026 - 23:19:49: [l4d2_shop.smx] [LOAD]: "Inquisición<91><STEAM_1:1:657551889><>" loaded the record successfully! Points: "22"
+L 08/21/2026 - 23:19:55: [l4d2_shop.smx] [LOAD]: "Quebuendoby<27><STEAM_1:1:601841727><>" loaded the record successfully! Points: "12066"
+L 08/21/2026 - 23:19:57: [l4d2_shop.smx] [LOAD]: "SMXT_W<180><STEAM_1:0:397566983><>" loaded the record successfully! Points: "6"
+L 08/21/2026 - 23:19:58: [l4d2_shop.smx] [LOAD]: "Byron_HT<103><STEAM_1:1:614054798><>" loaded the record successfully! Points: "28"
+L 08/21/2026 - 23:20:06: [l4d2_shop.smx] [LOAD]: "Hijos de la Mambo<188><STEAM_1:0:359441303><>" loaded the record successfully! Points: "12"
+L 08/21/2026 - 23:22:44: [l4d2_shop.smx] [UPDATE]: "[T-T]MoY<2><STEAM_1:0:511491787><>" saved. Points: "120"
+L 08/21/2026 - 23:22:44: [l4d2_shop.smx] UPDATE SpecialFunctions SET isEnabled = 1 WHERE steamId = 'STEAM_1:0:511491787' AND (functionNo = 'GRAY_AMMO' OR functionNo = 'BLUE_AMMO' OR functionNo = 'GOLD_AMMO')
+L 08/21/2026 - 23:22:44: [l4d2_shop.smx] [UPDATE]: "⛑EPIC GAMES⛑<127><STEAM_1:0:588496291><>" saved. Points: "11046"
+L 08/21/2026 - 23:22:44: [l4d2_shop.smx] [UPDATE]: "Byron_HT<103><STEAM_1:1:614054798><>" saved. Points: "40"
+L 08/21/2026 - 23:22:44: [l4d2_shop.smx] [UPDATE]: "Inquisición<91><STEAM_1:1:657551889><>" saved. Points: "49"
+L 08/21/2026 - 23:22:44: [l4d2_shop.smx] [UPDATE]: "Hijos de la Mambo<188><STEAM_1:0:359441303><>" saved. Points: "24"
+L 08/21/2026 - 23:22:44: [l4d2_shop.smx] [UPDATE]: "Quebuendoby<27><STEAM_1:1:601841727><>" saved. Points: "12078"
+L 08/21/2026 - 23:22:44: [l4d2_shop.smx] [UPDATE]: "Mocochinchi<113><STEAM_1:0:931301575><>" saved. Points: "5830"
+L 08/21/2026 - 23:23:24: [l4d2_shop.smx] [INSERT]: "Tommi 11<239><STEAM_1:1:763821033><>" is a new user!!
+L 08/21/2026 - 23:25:42: [l4d2_shop.smx] [UPDATE]: "[T-T]MoY<2><STEAM_1:0:511491787><>" saved. Points: "129"
+L 08/21/2026 - 23:25:42: [l4d2_shop.smx] UPDATE SpecialFunctions SET isEnabled = 1 WHERE steamId = 'STEAM_1:0:511491787' AND (functionNo = 'GRAY_AMMO' OR functionNo = 'BLUE_AMMO' OR functionNo = 'GOLD_AMMO')
+L 08/21/2026 - 23:25:42: [l4d2_shop.smx] [UPDATE]: "⛑EPIC GAMES⛑<127><STEAM_1:0:588496291><>" saved. Points: "11052"
+L 08/21/2026 - 23:25:42: [l4d2_shop.smx] [UPDATE]: "Byron_HT<103><STEAM_1:1:614054798><>" saved. Points: "55"
+L 08/21/2026 - 23:25:42: [l4d2_shop.smx] [UPDATE]: "Inquisición<91><STEAM_1:1:657551889><>" saved. Points: "55"
+L 08/21/2026 - 23:25:42: [l4d2_shop.smx] [UPDATE]: "Hijos de la Mambo<188><STEAM_1:0:359441303><>" saved. Points: "30"
+L 08/21/2026 - 23:25:42: [l4d2_shop.smx] [UPDATE]: "Quebuendoby<27><STEAM_1:1:601841727><>" saved. Points: "12084"
+L 08/21/2026 - 23:25:42: [l4d2_shop.smx] [UPDATE]: "Mocochinchi<113><STEAM_1:0:931301575><>" saved. Points: "5836"
+L 08/21/2026 - 23:25:50: [basevotes.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" initiated a generic vote (question "que opinas sobre la lluvia?" / answers "bacan" "medio mee" "ta feo" "le da aura").
+L 08/21/2026 - 23:26:11: [basevotes.smx] Vote successful. (Received "60" of 5 votes)
+L 08/21/2026 - 23:26:11: [basevotes.smx] The answer to que opinas sobre la lluvia? is: le da aura.
+L 08/21/2026 - 23:26:55: [l4d2_shop.smx] [INSERT]: "Curwebon<251><STEAM_1:0:148737069><>" is a new user!!
+L 08/21/2026 - 23:29:20: [l4d2_shop.smx] [Buy]: "Curwengod<27><STEAM_1:1:601841727><>" bought "Revivir (Costo actual: 50)" (price: "50"), remaining points: "12046"
+L 08/21/2026 - 23:29:39: -------- Mapchange to c2m5_concert --------
+L 08/21/2026 - 23:29:42: [chat-processor.smx] Message formats generated for game 'left4dead2'.
+L 08/21/2026 - 23:29:42: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 08/21/2026 - 23:29:52: [l4d2_shop.smx] [LOAD]: "[T-T]MoY<2><STEAM_1:0:511491787><>" loaded the record successfully! Points: "129"
+L 08/21/2026 - 23:29:54: [l4d2_shop.smx] [LOAD]: "Mocochinchi<113><STEAM_1:0:931301575><>" loaded the record successfully! Points: "5836"
+L 08/21/2026 - 23:29:54: [l4d2_shop.smx] [LOAD]: "Inquisición<91><STEAM_1:1:657551889><>" loaded the record successfully! Points: "55"
+L 08/21/2026 - 23:29:58: [l4d2_shop.smx] [LOAD]: "⛑EPIC GAMES⛑<127><STEAM_1:0:588496291><>" loaded the record successfully! Points: "11052"
+L 08/21/2026 - 23:30:01: [l4d2_shop.smx] [LOAD]: "Quebuendoby<27><STEAM_1:1:601841727><>" loaded the record successfully! Points: "12084"
+L 08/21/2026 - 23:30:02: [l4d2_shop.smx] [LOAD]: "Curwebon<251><STEAM_1:0:148737069><>" loaded the record successfully! Points: "0"
+L 08/21/2026 - 23:30:02: [l4d2_shop.smx] [LOAD]: "Byron_HT<103><STEAM_1:1:614054798><>" loaded the record successfully! Points: "55"
+L 08/21/2026 - 23:30:04: [l4d2_shop.smx] [LOAD]: "Hijos de la Mambo<188><STEAM_1:0:359441303><>" loaded the record successfully! Points: "30"
+L 08/21/2026 - 23:31:00: [l4d_sm_respawn.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" teleported "Hijos de la Mambo<188><STEAM_1:0:359441303><>" after respawning him
+L 08/21/2026 - 23:31:33: [l4d_sm_respawn.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" teleported "Inquisición<91><STEAM_1:1:657551889><>" after respawning him
+L 08/21/2026 - 23:35:47: [l4d2_shop.smx] [Buy]: "Quebuendoby<27><STEAM_1:1:601841727><>" bought "Revivir (Costo actual: 50)" (price: "50"), remaining points: "12059"
+L 08/21/2026 - 23:35:51: [l4d_sm_respawn.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" teleported "⛑EPIC GAMES⛑<127><STEAM_1:0:588496291><>" after respawning him
+L 08/21/2026 - 23:35:52: [l4d_sm_respawn.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" teleported "Curwebon<251><STEAM_1:0:148737069><>" after respawning him
+L 08/21/2026 - 23:36:10: [l4d_sm_respawn.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" teleported "Hijos de la Mambo<188><STEAM_1:0:359441303><>" after respawning him
+L 08/21/2026 - 23:37:30: [l4d_sm_respawn.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" teleported "⛑EPIC GAMES⛑<127><STEAM_1:0:588496291><>" after respawning him
+L 08/21/2026 - 23:38:50: [SM] Changed map to "c5m1_waterfront"
+L 08/21/2026 - 23:38:52: -------- Mapchange to c5m1_waterfront --------
+L 08/21/2026 - 23:38:56: [chat-processor.smx] Message formats generated for game 'left4dead2'.
+L 08/21/2026 - 23:38:56: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 08/21/2026 - 23:39:13: [l4d2_shop.smx] [LOAD]: "[T-T]MoY<2><STEAM_1:0:511491787><>" loaded the record successfully! Points: "129"
+L 08/21/2026 - 23:39:15: [l4d2_shop.smx] [LOAD]: "⛑EPIC GAMES⛑<127><STEAM_1:0:588496291><>" loaded the record successfully! Points: "11052"
+L 08/21/2026 - 23:39:15: [l4d2_shop.smx] [LOAD]: "Mocochinchi<113><STEAM_1:0:931301575><>" loaded the record successfully! Points: "5836"
+L 08/21/2026 - 23:39:16: [l4d2_shop.smx] [LOAD]: "Inquisición<91><STEAM_1:1:657551889><>" loaded the record successfully! Points: "55"
+L 08/21/2026 - 23:39:22: [l4d2_shop.smx] [LOAD]: "Quebuendoby<27><STEAM_1:1:601841727><>" loaded the record successfully! Points: "12084"
+L 08/21/2026 - 23:39:23: [l4d2_shop.smx] [LOAD]: "Curwebon<251><STEAM_1:0:148737069><>" loaded the record successfully! Points: "0"
+L 08/21/2026 - 23:39:25: [l4d2_shop.smx] [LOAD]: "Byron_HT<103><STEAM_1:1:614054798><>" loaded the record successfully! Points: "55"
+L 08/21/2026 - 23:39:33: [l4d2_shop.smx] [LOAD]: "Hijos de la Mambo<188><STEAM_1:0:359441303><>" loaded the record successfully! Points: "30"
+L 08/21/2026 - 23:41:17: -------- Mapchange to c5m2_park --------
+L 08/21/2026 - 23:41:20: [chat-processor.smx] Message formats generated for game 'left4dead2'.
+L 08/21/2026 - 23:41:20: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 08/21/2026 - 23:41:38: [l4d2_shop.smx] [LOAD]: "[T-T]MoY<2><STEAM_1:0:511491787><>" loaded the record successfully! Points: "129"
+L 08/21/2026 - 23:41:39: [l4d2_shop.smx] [LOAD]: "⛑EPIC GAMES⛑<127><STEAM_1:0:588496291><>" loaded the record successfully! Points: "11052"
+L 08/21/2026 - 23:41:40: [l4d2_shop.smx] [LOAD]: "Mocochinchi<113><STEAM_1:0:931301575><>" loaded the record successfully! Points: "5836"
+L 08/21/2026 - 23:41:40: [l4d2_shop.smx] [INSERT]: "ger<305><STEAM_1:0:592423519><>" is a new user!!
+L 08/21/2026 - 23:41:48: [l4d2_shop.smx] [LOAD]: "Byron_HT<103><STEAM_1:1:614054798><>" loaded the record successfully! Points: "55"
+L 08/21/2026 - 23:41:49: [l4d2_shop.smx] [LOAD]: "Quebuendoby<27><STEAM_1:1:601841727><>" loaded the record successfully! Points: "12084"
+L 08/21/2026 - 23:41:51: [l4d2_shop.smx] [LOAD]: "Curwebon<251><STEAM_1:0:148737069><>" loaded the record successfully! Points: "0"
+L 08/21/2026 - 23:41:58: [l4d2_shop.smx] [LOAD]: "Hijos de la Mambo<188><STEAM_1:0:359441303><>" loaded the record successfully! Points: "30"
+L 08/21/2026 - 23:45:43: -------- Mapchange to c5m3_cemetery --------
+L 08/21/2026 - 23:45:47: [chat-processor.smx] Message formats generated for game 'left4dead2'.
+L 08/21/2026 - 23:45:47: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 08/21/2026 - 23:46:04: [l4d2_shop.smx] [LOAD]: "[T-T]MoY<2><STEAM_1:0:511491787><>" loaded the record successfully! Points: "129"
+L 08/21/2026 - 23:46:06: [l4d2_shop.smx] [LOAD]: "⛑EPIC GAMES⛑<127><STEAM_1:0:588496291><>" loaded the record successfully! Points: "11052"
+L 08/21/2026 - 23:46:07: [l4d2_shop.smx] [LOAD]: "Mocochinchi<113><STEAM_1:0:931301575><>" loaded the record successfully! Points: "5836"
+L 08/21/2026 - 23:46:11: [l4d2_shop.smx] [LOAD]: "ger<305><STEAM_1:0:592423519><>" loaded the record successfully! Points: "0"
+L 08/21/2026 - 23:46:14: [l4d2_shop.smx] [LOAD]: "Curwebon<251><STEAM_1:0:148737069><>" loaded the record successfully! Points: "0"
+L 08/21/2026 - 23:46:15: [l4d2_shop.smx] [LOAD]: "Byron_HT<103><STEAM_1:1:614054798><>" loaded the record successfully! Points: "55"
+L 08/21/2026 - 23:46:18: [l4d2_shop.smx] [LOAD]: "Quebuendoby<27><STEAM_1:1:601841727><>" loaded the record successfully! Points: "12084"
+L 08/21/2026 - 23:48:15: [l4d2_shop.smx] [Buy]: "Quebuendoby<27><STEAM_1:1:601841727><>" bought "Revivir (Costo actual: 50)" (price: "50"), remaining points: "12036"
+L 08/21/2026 - 23:48:26: [l4d2_shop.smx] [UPDATE]: "[T-T]MoY<2><STEAM_1:0:511491787><>" saved. Points: "135"
+L 08/21/2026 - 23:48:26: [l4d2_shop.smx] UPDATE SpecialFunctions SET isEnabled = 1 WHERE steamId = 'STEAM_1:0:511491787' AND (functionNo = 'GRAY_AMMO' OR functionNo = 'BLUE_AMMO' OR functionNo = 'GOLD_AMMO')
+L 08/21/2026 - 23:48:26: [l4d2_shop.smx] [UPDATE]: "⛑EPIC GAMES⛑<127><STEAM_1:0:588496291><>" saved. Points: "11054"
+L 08/21/2026 - 23:48:26: [l4d2_shop.smx] [UPDATE]: "Byron_HT<103><STEAM_1:1:614054798><>" saved. Points: "57"
+L 08/21/2026 - 23:48:26: [l4d2_shop.smx] [UPDATE]: "Quebuendoby<27><STEAM_1:1:601841727><>" saved. Points: "12036"
+L 08/21/2026 - 23:48:26: [l4d2_shop.smx] [UPDATE]: "ger<305><STEAM_1:0:592423519><>" saved. Points: "2"
+L 08/21/2026 - 23:48:26: [l4d2_shop.smx] [UPDATE]: "Curwebon<251><STEAM_1:0:148737069><>" saved. Points: "2"
+L 08/21/2026 - 23:48:26: [l4d2_shop.smx] [UPDATE]: "Mocochinchi<113><STEAM_1:0:931301575><>" saved. Points: "5838"
+L 08/21/2026 - 23:50:43: [l4d2_shop.smx] [Buy]: "Quebuendoby<27><STEAM_1:1:601841727><>" bought "Revivir (Costo actual: 50)" (price: "50"), remaining points: "11988"
+L 08/21/2026 - 23:50:52: [l4d2_shop.smx] [UPDATE]: "[T-T]MoY<2><STEAM_1:0:511491787><>" saved. Points: "137"
+L 08/21/2026 - 23:50:52: [l4d2_shop.smx] UPDATE SpecialFunctions SET isEnabled = 1 WHERE steamId = 'STEAM_1:0:511491787' AND (functionNo = 'GRAY_AMMO' OR functionNo = 'BLUE_AMMO' OR functionNo = 'GOLD_AMMO')
+L 08/21/2026 - 23:50:52: [l4d2_shop.smx] [UPDATE]: "⛑EPIC GAMES⛑<127><STEAM_1:0:588496291><>" saved. Points: "11056"
+L 08/21/2026 - 23:50:52: [l4d2_shop.smx] [UPDATE]: "Byron_HT<103><STEAM_1:1:614054798><>" saved. Points: "59"
+L 08/21/2026 - 23:50:52: [l4d2_shop.smx] [UPDATE]: "Quebuendoby<27><STEAM_1:1:601841727><>" saved. Points: "11988"
+L 08/21/2026 - 23:50:52: [l4d2_shop.smx] [UPDATE]: "Curwebon<251><STEAM_1:0:148737069><>" saved. Points: "7"
+L 08/21/2026 - 23:50:52: [l4d2_shop.smx] [UPDATE]: "Mocochinchi<113><STEAM_1:0:931301575><>" saved. Points: "5840"
+L 08/21/2026 - 23:53:44: [l4d2_shop.smx] [LOAD]: "Bash<353><STEAM_1:0:592192666><>" loaded the record successfully! Points: "104"
+L 08/21/2026 - 23:54:02: [l4d2_shop.smx] [Buy]: "Quebuendoby<27><STEAM_1:1:601841727><>" bought "Revivir (Costo actual: 50)" (price: "50"), remaining points: "11944"
+L 08/21/2026 - 23:55:03: -------- Mapchange to c5m4_quarter --------
+L 08/21/2026 - 23:55:07: [chat-processor.smx] Message formats generated for game 'left4dead2'.
+L 08/21/2026 - 23:55:07: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 08/21/2026 - 23:55:24: [l4d2_shop.smx] [LOAD]: "[T-T]MoY<2><STEAM_1:0:511491787><>" loaded the record successfully! Points: "137"
+L 08/21/2026 - 23:55:26: [l4d2_shop.smx] [LOAD]: "⛑EPIC GAMES⛑<127><STEAM_1:0:588496291><>" loaded the record successfully! Points: "11056"
+L 08/21/2026 - 23:55:27: [l4d2_shop.smx] [LOAD]: "Mocochinchi<113><STEAM_1:0:931301575><>" loaded the record successfully! Points: "5840"
+L 08/21/2026 - 23:55:31: [l4d2_shop.smx] [LOAD]: "Bash<353><STEAM_1:0:592192666><>" loaded the record successfully! Points: "104"
+L 08/21/2026 - 23:55:35: [l4d2_shop.smx] [LOAD]: "Quebuendoby<27><STEAM_1:1:601841727><>" loaded the record successfully! Points: "11988"
+L 08/21/2026 - 23:55:36: [l4d2_shop.smx] [LOAD]: "Byron_HT<103><STEAM_1:1:614054798><>" loaded the record successfully! Points: "59"
+L 08/21/2026 - 23:55:36: [l4d2_shop.smx] [LOAD]: "Curwebon<251><STEAM_1:0:148737069><>" loaded the record successfully! Points: "7"
+L 08/21/2026 - 23:57:32: [l4d2_shop.smx] [LOAD]: "MCmaniaco<369><STEAM_1:1:531850403><>" loaded the record successfully! Points: "40"
+L 08/21/2026 - 23:58:17: [l4d2_shop.smx] [Buy]: "[T-T]MoY<2><STEAM_1:0:511491787><>" bought "Revivir (Costo actual: 50)" (price: "50"), remaining points: "99"
+L 08/21/2026 - 23:58:36: [l4d2_shop.smx] [Buy]: "Byron_HT<103><STEAM_1:1:614054798><>" bought "Revivir (Costo actual: 50)" (price: "50"), remaining points: "34"
+L 08/22/2026 - 00:00:00: Log file closed.

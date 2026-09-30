@@ -1,0 +1,81 @@
+L 09/28/2025 - 15:39:31: SourceMod log file session started (file "z:\home\moy\.steam\debian-installation\steamapps\common\left 4 dead 2\left4dead2\addons\sourcemod\logs\L20250928.log") (Version "1.12.0.7207")
+L 09/28/2025 - 15:39:31: [GEOIP] GeoIP2 database loaded: GeoLite2-ASN (2024-08-21 08:15:21 UTC) (z:\home\moy\.steam\debian-installation\steamapps\common\left 4 dead 2\left4dead2\addons\sourcemod\configs\geoip\GeoLite2-ASN.mmdb)
+L 09/28/2025 - 15:39:31: [GEOIP] GeoIP2 supported languages: en
+L 09/28/2025 - 15:39:31: [GEOIP] Your database is older than 90 days. You should consider downloading a newer version from e.g. https://dev.maxmind.com/geoip/geolite2-free-geolocation-data
+L 09/28/2025 - 15:39:58: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_consistency") (value "0")
+L 09/28/2025 - 15:39:58: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_allow_lobby_connect_only") (value "0")
+L 09/28/2025 - 15:39:58: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxplayers") (value "8")
+L 09/28/2025 - 15:39:58: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_visiblemaxplayers") (value "-1")
+L 09/28/2025 - 15:41:29: [basecommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" changed cvar (cvar "sv_gravity") (value "200")
+L 09/28/2025 - 15:45:48: -------- Mapchange to c1m2_streets --------
+L 09/28/2025 - 15:45:57: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_consistency") (value "0")
+L 09/28/2025 - 15:45:57: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_allow_lobby_connect_only") (value "0")
+L 09/28/2025 - 15:45:57: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxplayers") (value "8")
+L 09/28/2025 - 15:45:57: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_visiblemaxplayers") (value "-1")
+L 09/28/2025 - 15:51:40: -------- Mapchange to c1m3_mall --------
+L 09/28/2025 - 15:51:50: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_consistency") (value "0")
+L 09/28/2025 - 15:51:50: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_allow_lobby_connect_only") (value "0")
+L 09/28/2025 - 15:51:50: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxplayers") (value "8")
+L 09/28/2025 - 15:51:50: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_visiblemaxplayers") (value "-1")
+L 09/28/2025 - 16:11:17: [basevotes.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" initiated a generic vote (question "quieren jugar vs de tank? (sin ir al lobby)" / answers "Yes" "No").
+L 09/28/2025 - 16:11:27: -------- Mapchange to c1m4_atrium --------
+L 09/28/2025 - 16:11:34: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_consistency") (value "0")
+L 09/28/2025 - 16:11:34: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_allow_lobby_connect_only") (value "0")
+L 09/28/2025 - 16:11:34: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxplayers") (value "8")
+L 09/28/2025 - 16:11:34: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_visiblemaxplayers") (value "-1")
+L 09/28/2025 - 16:11:59: [basevotes.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" initiated a generic vote (question "quieren jugar vs de tank? (sin ir al lobby)" / answers "Yes" "No").
+L 09/28/2025 - 16:12:19: [basevotes.smx] Vote successful. (Received "50" of 2 votes)
+L 09/28/2025 - 16:12:19: [basevotes.smx] The answer to quieren jugar vs de tank? (sin ir al lobby) is: Yes.
+L 09/28/2025 - 16:14:07: [L4d2_changemode.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" cambió el modo a "mutation19" y mapa a "c1m1_hotel"
+L 09/28/2025 - 16:14:07: [basecommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" changed cvar (cvar "versus_tank_chance") (value "100")
+L 09/28/2025 - 16:14:10: [SM] Changed map to "c1m1_hotel"
+L 09/28/2025 - 16:14:12: -------- Mapchange to c1m1_hotel --------
+L 09/28/2025 - 16:14:28: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_consistency") (value "0")
+L 09/28/2025 - 16:14:28: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_allow_lobby_connect_only") (value "0")
+L 09/28/2025 - 16:14:28: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxplayers") (value "8")
+L 09/28/2025 - 16:14:28: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_visiblemaxplayers") (value "-1")
+L 09/28/2025 - 16:15:34: [basecommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" changed cvar (cvar "sv_gravity") (value "200")
+L 09/28/2025 - 16:18:34: [basevotes.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" initiated a generic vote (question "EFE en el chat" / answers "EFE" "les vamos a kachar" "yo les gano").
+L 09/28/2025 - 16:18:54: [basevotes.smx] Vote successful. (Received "50" of 2 votes)
+L 09/28/2025 - 16:18:54: [basevotes.smx] The answer to EFE en el chat is: EFE.
+L 09/28/2025 - 16:19:30: -------- Mapchange to c1m1_hotel --------
+L 09/28/2025 - 16:19:36: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_consistency") (value "0")
+L 09/28/2025 - 16:19:36: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_allow_lobby_connect_only") (value "0")
+L 09/28/2025 - 16:19:36: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxplayers") (value "8")
+L 09/28/2025 - 16:19:36: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_visiblemaxplayers") (value "-1")
+L 09/28/2025 - 16:20:59: [basevotes.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" initiated a generic vote (question "EFE en el chat" / answers "EFE" "les vamos a kachar" "yo les gano").
+L 09/28/2025 - 16:21:19: [basevotes.smx] Vote successful. (Received "75" of 4 votes)
+L 09/28/2025 - 16:21:19: [basevotes.smx] The answer to EFE en el chat is: EFE.
+L 09/28/2025 - 16:23:30: -------- Mapchange to c1m1_hotel --------
+L 09/28/2025 - 16:23:38: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_consistency") (value "0")
+L 09/28/2025 - 16:23:38: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_allow_lobby_connect_only") (value "0")
+L 09/28/2025 - 16:23:38: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxplayers") (value "8")
+L 09/28/2025 - 16:23:38: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_visiblemaxplayers") (value "-1")
+L 09/28/2025 - 16:25:13: [basevotes.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" initiated a generic vote (question "EFE en el chat" / answers "EFE" "les vamos a kachar" "yo les gano").
+L 09/28/2025 - 16:25:34: [basevotes.smx] Vote successful. (Received "60" of 5 votes)
+L 09/28/2025 - 16:25:34: [basevotes.smx] The answer to EFE en el chat is: les vamos a kachar.
+L 09/28/2025 - 16:29:05: -------- Mapchange to c1m2_streets --------
+L 09/28/2025 - 16:29:21: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_consistency") (value "0")
+L 09/28/2025 - 16:29:21: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_allow_lobby_connect_only") (value "0")
+L 09/28/2025 - 16:29:21: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxplayers") (value "8")
+L 09/28/2025 - 16:29:21: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_visiblemaxplayers") (value "-1")
+L 09/28/2025 - 16:34:30: -------- Mapchange to c1m3_mall --------
+L 09/28/2025 - 16:34:40: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_consistency") (value "0")
+L 09/28/2025 - 16:34:40: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_allow_lobby_connect_only") (value "0")
+L 09/28/2025 - 16:34:42: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxplayers") (value "8")
+L 09/28/2025 - 16:34:42: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_visiblemaxplayers") (value "-1")
+L 09/28/2025 - 16:38:53: Log file closed.
+L 09/28/2025 - 23:18:49: SourceMod log file session started (file "z:\home\moy\.steam\debian-installation\steamapps\common\left 4 dead 2\left4dead2\addons\sourcemod\logs\L20250928.log") (Version "1.12.0.7207")
+L 09/28/2025 - 23:18:49: [GEOIP] GeoIP2 database loaded: GeoLite2-ASN (2024-08-21 08:15:21 UTC) (z:\home\moy\.steam\debian-installation\steamapps\common\left 4 dead 2\left4dead2\addons\sourcemod\configs\geoip\GeoLite2-ASN.mmdb)
+L 09/28/2025 - 23:18:49: [GEOIP] GeoIP2 supported languages: en
+L 09/28/2025 - 23:18:49: [GEOIP] Your database is older than 90 days. You should consider downloading a newer version from e.g. https://dev.maxmind.com/geoip/geolite2-free-geolocation-data
+L 09/28/2025 - 23:19:05: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_consistency") (value "0")
+L 09/28/2025 - 23:19:05: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_allow_lobby_connect_only") (value "0")
+L 09/28/2025 - 23:19:05: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxplayers") (value "8")
+L 09/28/2025 - 23:19:05: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_visiblemaxplayers") (value "-1")
+L 09/28/2025 - 23:19:47: [basecommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" changed cvar (cvar "sv_gravity") (value "200")
+L 09/28/2025 - 23:22:05: -------- Mapchange to c2m1_highway --------
+L 09/28/2025 - 23:22:14: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_consistency") (value "0")
+L 09/28/2025 - 23:22:14: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_allow_lobby_connect_only") (value "0")
+L 09/28/2025 - 23:22:14: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxplayers") (value "8")
+L 09/28/2025 - 23:22:14: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_visiblemaxplayers") (value "-1")

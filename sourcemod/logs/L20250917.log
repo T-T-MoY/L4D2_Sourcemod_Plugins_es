@@ -1,0 +1,93 @@
+L 09/17/2025 - 22:16:16: SourceMod log file session started (file "z:\home\moy\.steam\debian-installation\steamapps\common\left 4 dead 2\left4dead2\addons\sourcemod\logs\L20250917.log") (Version "1.12.0.7207")
+L 09/17/2025 - 22:16:16: [GEOIP] GeoIP2 database loaded: GeoLite2-ASN (2024-08-21 08:15:21 UTC) (z:\home\moy\.steam\debian-installation\steamapps\common\left 4 dead 2\left4dead2\addons\sourcemod\configs\geoip\GeoLite2-ASN.mmdb)
+L 09/17/2025 - 22:16:16: [GEOIP] GeoIP2 supported languages: en
+L 09/17/2025 - 22:16:16: [GEOIP] Your database is older than 90 days. You should consider downloading a newer version from e.g. https://dev.maxmind.com/geoip/geolite2-free-geolocation-data
+L 09/17/2025 - 22:16:29: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_consistency") (value "0")
+L 09/17/2025 - 22:16:29: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_allow_lobby_connect_only") (value "0")
+L 09/17/2025 - 22:16:29: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxplayers") (value "8")
+L 09/17/2025 - 22:16:29: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_visiblemaxplayers") (value "-1")
+L 09/17/2025 - 22:16:29: [UPDATER] Successfully updated gamedata file "core.games/common.games.txt"
+L 09/17/2025 - 22:16:29: [UPDATER] SourceMod has been updated, please reload it or restart your server.
+L 09/17/2025 - 22:17:43: [basecommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" changed cvar (cvar "sv_gravity") (value "200")
+L 09/17/2025 - 22:18:42: Log file closed.
+L 09/17/2025 - 22:27:30: SourceMod log file session started (file "z:\home\moy\.steam\debian-installation\steamapps\common\left 4 dead 2\left4dead2\addons\sourcemod\logs\L20250917.log") (Version "1.12.0.7207")
+L 09/17/2025 - 22:27:30: [GEOIP] GeoIP2 database loaded: GeoLite2-ASN (2024-08-21 08:15:21 UTC) (z:\home\moy\.steam\debian-installation\steamapps\common\left 4 dead 2\left4dead2\addons\sourcemod\configs\geoip\GeoLite2-ASN.mmdb)
+L 09/17/2025 - 22:27:30: [GEOIP] GeoIP2 supported languages: en
+L 09/17/2025 - 22:27:30: [GEOIP] Your database is older than 90 days. You should consider downloading a newer version from e.g. https://dev.maxmind.com/geoip/geolite2-free-geolocation-data
+L 09/17/2025 - 22:27:41: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_consistency") (value "0")
+L 09/17/2025 - 22:27:41: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_allow_lobby_connect_only") (value "0")
+L 09/17/2025 - 22:27:41: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxplayers") (value "8")
+L 09/17/2025 - 22:27:41: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_visiblemaxplayers") (value "-1")
+L 09/17/2025 - 22:29:10: [basecommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" changed cvar (cvar "sv_gravity") (value "200")
+L 09/17/2025 - 22:32:42: [basecommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" kicked "Coach<4><BOT><>" (reason "")
+L 09/17/2025 - 22:32:45: [basecommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" kicked "tomatoe-&-potatoe<8><STEAM_1:1:806187497><>" (reason "")
+L 09/17/2025 - 22:35:39: [playercommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" slayed "Rochelle<3><BOT><>"
+L 09/17/2025 - 22:35:40: [playercommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" slayed "Ellis<20><BOT><>"
+L 09/17/2025 - 22:35:41: [playercommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" slayed "Coach<22><BOT><>"
+L 09/17/2025 - 22:40:56: -------- Mapchange to c1m2_streets --------
+L 09/17/2025 - 22:40:59: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_consistency") (value "0")
+L 09/17/2025 - 22:40:59: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_allow_lobby_connect_only") (value "0")
+L 09/17/2025 - 22:40:59: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxplayers") (value "8")
+L 09/17/2025 - 22:40:59: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_visiblemaxplayers") (value "-1")
+L 09/17/2025 - 22:53:13: [l4d_sm_respawn.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" teleported "coca cola espuma<25><STEAM_1:1:642356345><>" after respawning him
+L 09/17/2025 - 22:53:25: [l4d_sm_respawn.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" teleported "coca cola espuma<25><STEAM_1:1:642356345><>" after respawning him
+L 09/17/2025 - 22:54:08: [playercommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" slayed "Tank<74><BOT><>"
+L 09/17/2025 - 22:54:09: [playercommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" slayed "(1)Tank<81><BOT><>"
+L 09/17/2025 - 22:54:10: [playercommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" slayed "(2)Tank<77><BOT><>"
+L 09/17/2025 - 22:54:10: [playercommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" slayed "(3)Tank<79><BOT><>"
+L 09/17/2025 - 22:54:10: [playercommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" slayed "(4)Tank<80><BOT><>"
+L 09/17/2025 - 22:54:11: [playercommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" slayed "(5)Tank<82><BOT><>"
+L 09/17/2025 - 22:54:11: [playercommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" slayed "(6)Tank<83><BOT><>"
+L 09/17/2025 - 22:55:44: -------- Mapchange to c1m3_mall --------
+L 09/17/2025 - 22:55:56: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_consistency") (value "0")
+L 09/17/2025 - 22:55:56: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_allow_lobby_connect_only") (value "0")
+L 09/17/2025 - 22:55:56: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxplayers") (value "8")
+L 09/17/2025 - 22:55:56: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_visiblemaxplayers") (value "-1")
+L 09/17/2025 - 23:01:47: -------- Mapchange to c1m4_atrium --------
+L 09/17/2025 - 23:01:56: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_consistency") (value "0")
+L 09/17/2025 - 23:01:56: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_allow_lobby_connect_only") (value "0")
+L 09/17/2025 - 23:01:56: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxplayers") (value "8")
+L 09/17/2025 - 23:01:56: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_visiblemaxplayers") (value "-1")
+L 09/17/2025 - 23:05:24: [basebans.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" banned "ϟ     A L E ⁔ <114><STEAM_1:1:929134565><>" (minutes "0") (reason "por putita personal de mi jato XD")
+L 09/17/2025 - 23:05:45: [basecommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" changed map to "c2m1_highway"
+L 09/17/2025 - 23:05:48: [SM] Changed map to "c2m1_highway"
+L 09/17/2025 - 23:05:51: -------- Mapchange to c2m1_highway --------
+L 09/17/2025 - 23:05:59: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_consistency") (value "0")
+L 09/17/2025 - 23:05:59: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_allow_lobby_connect_only") (value "0")
+L 09/17/2025 - 23:05:59: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxplayers") (value "8")
+L 09/17/2025 - 23:05:59: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_visiblemaxplayers") (value "-1")
+L 09/17/2025 - 23:10:08: [basebans.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" banned "brave<145><STEAM_1:1:58760692><>" (minutes "0") (reason "sigues ys igues")
+L 09/17/2025 - 23:11:40: -------- Mapchange to c2m2_fairgrounds --------
+L 09/17/2025 - 23:11:51: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_consistency") (value "0")
+L 09/17/2025 - 23:11:51: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_allow_lobby_connect_only") (value "0")
+L 09/17/2025 - 23:11:51: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxplayers") (value "8")
+L 09/17/2025 - 23:11:51: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_visiblemaxplayers") (value "-1")
+L 09/17/2025 - 23:13:06: [playercommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" slayed "coca cola espuma<25><STEAM_1:1:642356345><>"
+L 09/17/2025 - 23:17:40: -------- Mapchange to c2m3_coaster --------
+L 09/17/2025 - 23:17:43: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_consistency") (value "0")
+L 09/17/2025 - 23:17:43: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_allow_lobby_connect_only") (value "0")
+L 09/17/2025 - 23:17:43: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxplayers") (value "8")
+L 09/17/2025 - 23:17:43: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_visiblemaxplayers") (value "-1")
+L 09/17/2025 - 23:19:07: -------- Mapchange to c5m1_waterfront --------
+L 09/17/2025 - 23:19:10: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_consistency") (value "0")
+L 09/17/2025 - 23:19:10: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_allow_lobby_connect_only") (value "0")
+L 09/17/2025 - 23:19:10: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxplayers") (value "8")
+L 09/17/2025 - 23:19:10: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_visiblemaxplayers") (value "-1")
+L 09/17/2025 - 23:23:58: -------- Mapchange to Glubtastic2_1 --------
+L 09/17/2025 - 23:24:19: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_consistency") (value "0")
+L 09/17/2025 - 23:24:19: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_allow_lobby_connect_only") (value "0")
+L 09/17/2025 - 23:24:19: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxplayers") (value "8")
+L 09/17/2025 - 23:24:19: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_visiblemaxplayers") (value "-1")
+L 09/17/2025 - 23:25:31: [basecommands.smx] "[T-T]MoY<181><STEAM_1:0:511491787><>" changed cvar (cvar "sv_gravity") (value "800")
+L 09/17/2025 - 23:26:18: [playercommands.smx] "[T-T]MoY<181><STEAM_1:0:511491787><>" slayed "[T-T]MoY<181><STEAM_1:0:511491787><>"
+L 09/17/2025 - 23:26:18: [playercommands.smx] "[T-T]MoY<181><STEAM_1:0:511491787><>" slayed "Tank<182><BOT><>"
+L 09/17/2025 - 23:26:19: [playercommands.smx] "[T-T]MoY<181><STEAM_1:0:511491787><>" slayed "(1)Tank<183><BOT><>"
+L 09/17/2025 - 23:34:43: [l4d_sm_respawn.smx] "[T-T]MoY<181><STEAM_1:0:511491787><>" teleported "Papita<223><STEAM_1:0:77142702><>" after respawning him
+L 09/17/2025 - 23:43:45: [l4d_sm_respawn.smx] "[T-T]MoY<181><STEAM_1:0:511491787><>" teleported "la leyenda<254><STEAM_1:1:866402541><>" after respawning him
+L 09/17/2025 - 23:44:09: [l4d_sm_respawn.smx] "[T-T]MoY<181><STEAM_1:0:511491787><>" teleported "[T-T]MoY<181><STEAM_1:0:511491787><>" after respawning him
+L 09/17/2025 - 23:54:26: -------- Mapchange to Glubtastic2_2 --------
+L 09/17/2025 - 23:54:30: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_consistency") (value "0")
+L 09/17/2025 - 23:54:30: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_allow_lobby_connect_only") (value "0")
+L 09/17/2025 - 23:54:30: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxplayers") (value "8")
+L 09/17/2025 - 23:54:30: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_visiblemaxplayers") (value "-1")
+L 09/18/2025 - 00:00:00: Log file closed.

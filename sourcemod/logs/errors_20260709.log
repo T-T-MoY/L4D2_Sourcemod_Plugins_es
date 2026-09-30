@@ -1,0 +1,63 @@
+L 07/09/2026 - 22:49:03: SourceMod error session started
+L 07/09/2026 - 22:49:03: Info (map "glubtastic4_1") (file "d:\steamlibrary\steamapps\common\left 4 dead 2\left4dead2\addons\sourcemod\logs\errors_20260709.log")
+L 07/09/2026 - 22:49:03: [SM] Failed to load plugin "cannounce.smx": Get a dedicated server. This plugin does not work on Listen servers..
+L 07/09/2026 - 22:49:03: [SM] Failed to load plugin "LMCL4D1CDeathHandler.smx": Plugin only supports Left 4 Dead.
+L 07/09/2026 - 22:49:03: [SM] Failed to load plugin "LMCL4D1SetTransmit.smx": Plugin only supports Left 4 Dead.
+L 07/09/2026 - 22:49:03: [SM] Failed to load plugin "LMC_L4D1_Menu_Choosing.smx": Plugin only supports Left 4 Dead.
+L 07/09/2026 - 22:49:03: [SM] Failed to load plugin "LMC_L4D1_RandomSpawns.smx": Plugin only supports Left 4 Dead.
+L 07/09/2026 - 22:49:03: [SM] Failed to load plugin "nextmap.smx": Nextmap is incompatible with this game.
+L 07/09/2026 - 22:49:03: [SM] Failed to load plugin "[L4D2] Left4dhooks.smx": 
+====================
+This plugin replaces Left4Downtown. Delete the extension to run.
+====================.
+L 07/09/2026 - 22:49:03: [SM] Fatal error encountered parsing translation file "l4d_nth.phrases.txt"
+L 07/09/2026 - 22:49:03: [SM] Error (line 0, column 0): Stream failed to open
+L 07/09/2026 - 22:49:03: [SM] Fatal error encountered parsing translation file "chargersteering.phrases.txt"
+L 07/09/2026 - 22:49:03: [SM] Error (line 0, column 0): Stream failed to open
+L 07/09/2026 - 22:49:03: [l4d2_publicity.smx] [Publicity] No se encontraron mensajes en el archivo de configuración
+L 07/09/2026 - 22:49:05: [SM] Unable to load plugin "lilac_by_l4d2.smx": Native "IRC_MsgFlaggedChannels" was not found
+L 07/09/2026 - 22:49:15: [l4d2_publicity.smx] [Publicity] No se encontraron mensajes en el archivo de configuración
+L 07/09/2026 - 22:56:24: Error log file session closed.
+L 07/09/2026 - 22:56:24: SourceMod error session started
+L 07/09/2026 - 22:56:24: Info (map "Glubtastic2_1") (file "d:\steamlibrary\steamapps\common\left 4 dead 2\left4dead2\addons\sourcemod\logs\errors_20260709.log")
+L 07/09/2026 - 22:56:24: [SM] Fatal error encountered parsing translation file "l4d_nth.phrases.txt"
+L 07/09/2026 - 22:56:24: [SM] Error (line 0, column 0): Stream failed to open
+L 07/09/2026 - 22:56:24: [SM] Fatal error encountered parsing translation file "chargersteering.phrases.txt"
+L 07/09/2026 - 22:56:24: [SM] Error (line 0, column 0): Stream failed to open
+L 07/09/2026 - 22:56:26: [l4d2_publicity.smx] [Publicity] No se encontraron mensajes en el archivo de configuración
+L 07/09/2026 - 22:56:38: [SM] Exception reported: Language phrase "Impossible to generate a bot at the moment." not found (arg 5)
+L 07/09/2026 - 22:56:38: [SM] Blaming: l4dmultislots.smx
+L 07/09/2026 - 22:56:38: [SM] Call stack trace:
+L 07/09/2026 - 22:56:38: [SM]   [0] PrintHintText
+L 07/09/2026 - 22:56:38: [SM]   [1] Line 765, d:\Github\Private-Work\L4D2-插件\scripting_1.11\l4dmultislots.sp::JoinTeam_ColdDown
+L 07/09/2026 - 22:58:27: [SM] Exception reported: Language phrase "No Any Dead Survivor" not found (arg 6)
+L 07/09/2026 - 22:58:27: [SM] Blaming: l4d_sm_respawn.smx
+L 07/09/2026 - 22:58:27: [SM] Call stack trace:
+L 07/09/2026 - 22:58:27: [SM]   [0] FormatEx
+L 07/09/2026 - 22:58:27: [SM]   [1] Line 202, d:\Github\Private-Work\L4D2-插件\scripting_1.11\l4d_sm_respawn.sp::MenuClientsToSpawn
+L 07/09/2026 - 22:58:27: [SM]   [2] Line 239, d:\Github\Private-Work\L4D2-插件\scripting_1.11\l4d_sm_respawn.sp::MenuHandler_MenuList
+L 07/09/2026 - 23:05:35: SourceMod error session started
+L 07/09/2026 - 23:05:35: Info (map "cs1_asilo_canevaro") (file "d:\steamlibrary\steamapps\common\left 4 dead 2\left4dead2\addons\sourcemod\logs\errors_20260709.log")
+L 07/09/2026 - 23:05:35: [SM] Failed to load plugin "cannounce.smx": Get a dedicated server. This plugin does not work on Listen servers..
+L 07/09/2026 - 23:05:35: [SM] Failed to load plugin "LMCL4D1CDeathHandler.smx": Plugin only supports Left 4 Dead.
+L 07/09/2026 - 23:05:35: [SM] Failed to load plugin "LMCL4D1SetTransmit.smx": Plugin only supports Left 4 Dead.
+L 07/09/2026 - 23:05:35: [SM] Failed to load plugin "LMC_L4D1_Menu_Choosing.smx": Plugin only supports Left 4 Dead.
+L 07/09/2026 - 23:05:35: [SM] Failed to load plugin "LMC_L4D1_RandomSpawns.smx": Plugin only supports Left 4 Dead.
+L 07/09/2026 - 23:05:35: [SM] Failed to load plugin "nextmap.smx": Nextmap is incompatible with this game.
+L 07/09/2026 - 23:05:35: [SM] Failed to load plugin "[L4D2] Left4dhooks.smx": 
+====================
+This plugin replaces Left4Downtown. Delete the extension to run.
+====================.
+L 07/09/2026 - 23:05:35: [SM] Fatal error encountered parsing translation file "l4d_nth.phrases.txt"
+L 07/09/2026 - 23:05:35: [SM] Error (line 0, column 0): Stream failed to open
+L 07/09/2026 - 23:05:35: [SM] Fatal error encountered parsing translation file "chargersteering.phrases.txt"
+L 07/09/2026 - 23:05:35: [SM] Error (line 0, column 0): Stream failed to open
+L 07/09/2026 - 23:05:35: [l4d2_publicity.smx] [Publicity] No se encontraron mensajes en el archivo de configuración
+L 07/09/2026 - 23:05:36: [SM] Unable to load plugin "lilac_by_l4d2.smx": Native "IRC_MsgFlaggedChannels" was not found
+L 07/09/2026 - 23:05:41: [l4d2_publicity.smx] [Publicity] No se encontraron mensajes en el archivo de configuración
+L 07/09/2026 - 23:05:53: [SM] Exception reported: Language phrase "Impossible to generate a bot at the moment." not found (arg 5)
+L 07/09/2026 - 23:05:53: [SM] Blaming: l4dmultislots.smx
+L 07/09/2026 - 23:05:53: [SM] Call stack trace:
+L 07/09/2026 - 23:05:53: [SM]   [0] PrintHintText
+L 07/09/2026 - 23:05:53: [SM]   [1] Line 765, d:\Github\Private-Work\L4D2-插件\scripting_1.11\l4dmultislots.sp::JoinTeam_ColdDown
+L 07/09/2026 - 23:16:36: Error log file session closed.

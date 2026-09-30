@@ -1,0 +1,49 @@
+L 07/06/2025 - 14:27:44: SourceMod log file session started (file "e:\steamlibrary\steamapps\common\left 4 dead 2\left4dead2\addons\sourcemod\logs\L20250706.log") (Version "1.12.0.7207")
+L 07/06/2025 - 14:27:44: [GEOIP] GeoIP2 database loaded: GeoLite2-ASN (2024-08-21 08:15:21 UTC) (e:\steamlibrary\steamapps\common\left 4 dead 2\left4dead2\addons\sourcemod\configs\geoip\GeoLite2-ASN.mmdb)
+L 07/06/2025 - 14:27:44: [GEOIP] GeoIP2 supported languages: en
+L 07/06/2025 - 14:27:44: [GEOIP] Your database is older than 90 days. You should consider downloading a newer version from e.g. https://dev.maxmind.com/geoip/geolite2-free-geolocation-data
+L 07/06/2025 - 14:27:52: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_consistency") (value "0")
+L 07/06/2025 - 14:27:52: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_allow_lobby_connect_only") (value "0")
+L 07/06/2025 - 14:27:52: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxplayers") (value "8")
+L 07/06/2025 - 14:27:52: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_visiblemaxplayers") (value "-1")
+L 07/06/2025 - 14:27:52: [UPDATER] Successfully updated gamedata file "core.games/common.games.txt"
+L 07/06/2025 - 14:27:52: [UPDATER] SourceMod has been updated, please reload it or restart your server.
+L 07/06/2025 - 14:28:34: [basecommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" changed cvar (cvar "sv_gravity") (value "200")
+L 07/06/2025 - 14:30:14: Log file closed.
+L 07/06/2025 - 14:34:53: SourceMod log file session started (file "e:\steamlibrary\steamapps\common\left 4 dead 2\left4dead2\addons\sourcemod\logs\L20250706.log") (Version "1.12.0.7207")
+L 07/06/2025 - 14:34:53: [GEOIP] GeoIP2 database loaded: GeoLite2-ASN (2024-08-21 08:15:21 UTC) (e:\steamlibrary\steamapps\common\left 4 dead 2\left4dead2\addons\sourcemod\configs\geoip\GeoLite2-ASN.mmdb)
+L 07/06/2025 - 14:34:53: [GEOIP] GeoIP2 supported languages: en
+L 07/06/2025 - 14:34:53: [GEOIP] Your database is older than 90 days. You should consider downloading a newer version from e.g. https://dev.maxmind.com/geoip/geolite2-free-geolocation-data
+L 07/06/2025 - 14:34:59: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_consistency") (value "0")
+L 07/06/2025 - 14:34:59: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_allow_lobby_connect_only") (value "0")
+L 07/06/2025 - 14:34:59: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxplayers") (value "8")
+L 07/06/2025 - 14:34:59: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_visiblemaxplayers") (value "-1")
+L 07/06/2025 - 14:35:27: [basecommands.smx] "[T-T]MoY<2><STEAM_ID_PENDING><>" changed cvar (cvar "sv_gravity") (value "200")
+L 07/06/2025 - 14:50:07: -------- Mapchange to c1m2_streets --------
+L 07/06/2025 - 14:50:10: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_consistency") (value "0")
+L 07/06/2025 - 14:50:10: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_allow_lobby_connect_only") (value "0")
+L 07/06/2025 - 14:50:10: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxplayers") (value "8")
+L 07/06/2025 - 14:50:10: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_visiblemaxplayers") (value "-1")
+L 07/06/2025 - 14:54:35: -------- Mapchange to c1m3_mall --------
+L 07/06/2025 - 14:54:38: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_consistency") (value "0")
+L 07/06/2025 - 14:54:38: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_allow_lobby_connect_only") (value "0")
+L 07/06/2025 - 14:54:38: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxplayers") (value "8")
+L 07/06/2025 - 14:54:38: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_visiblemaxplayers") (value "-1")
+L 07/06/2025 - 14:57:52: [basevotes.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" initiated a generic vote (question "de doy kick a cancervero?¡" / answers "Yes" "No").
+L 07/06/2025 - 14:58:13: [basevotes.smx] Vote failed. 0% vote required. (Received "33" of 3 votes)
+L 07/06/2025 - 15:03:32: [basevotes.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" initiated a generic vote (question "le silencio a cancervero? (parece castroso)" / answers "Yes" "No").
+L 07/06/2025 - 15:03:52: [basevotes.smx] Vote failed. 0% vote required. (Received "40" of 5 votes)
+L 07/06/2025 - 15:04:41: [basecomm.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" silenced "cervecero<49><STEAM_1:0:642590861><>"
+L 07/06/2025 - 15:12:05: -------- Mapchange to c1m4_atrium --------
+L 07/06/2025 - 15:12:07: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_consistency") (value "0")
+L 07/06/2025 - 15:12:07: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_allow_lobby_connect_only") (value "0")
+L 07/06/2025 - 15:12:07: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxplayers") (value "8")
+L 07/06/2025 - 15:12:07: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_visiblemaxplayers") (value "-1")
+L 07/06/2025 - 15:13:23: [basevotes.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" initiated a generic vote (question "le silencio a cancervero? (parece castroso)" / answers "Yes" "No").
+L 07/06/2025 - 15:20:44: [playercommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" slayed "[T-T]MoY<2><STEAM_1:0:511491787><>"
+L 07/06/2025 - 15:20:44: [playercommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" slayed "(1)Tank<172><BOT><>"
+L 07/06/2025 - 15:20:45: [playercommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" slayed "(2)Tank<173><BOT><>"
+L 07/06/2025 - 15:20:45: [playercommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" slayed "Soni..2<159><STEAM_1:1:213619655><>"
+L 07/06/2025 - 15:20:45: [playercommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" slayed "Fucio<11><STEAM_1:0:32744414><>"
+L 07/06/2025 - 15:21:03: [playercommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" slayed "Tank<175><BOT><>"
+L 07/06/2025 - 15:21:47: Log file closed.

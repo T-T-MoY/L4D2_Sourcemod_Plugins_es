@@ -1,0 +1,60 @@
+//Please use notepad++ or vscode to open this file, so you will see the special ascii character
+//= \x01 (SOH) - Use team color up to the end of the player name.  This only works at the start of the string, and precludes using the other control characters.
+//= \x02 (STX) - Use team color from this point forward
+//= \x03 (ETX) - Use location color from this point forward
+//= \x04 (EOT) - Use achievement color from this point forward
+//= \x05 (ENQ) - Use normal color from this point forward
+
+"Phrases"
+{
+	"Cstrike_Chat_CT_Loc"
+	{
+		"#format"	"{1:s},{2:s}"
+		"en"			"(Counter-Terrorist) {1} :  {2}"
+	}
+	"Cstrike_Chat_CT"
+	{
+		"#format"	"{1:s},{2:s}"
+		"en"			"(Counter-Terrorist) {1} :  {2}"
+	}
+	"Cstrike_Chat_T_Loc"
+	{
+		"#format"	"{1:s},{2:s}"
+		"en"			"(Terrorist) {1} :  {2}"
+	}
+	"Cstrike_Chat_T"
+	{
+		"#format"	"{1:s},{2:s}"
+		"en"			"(Terrorist) {1} :  {2}"
+	}
+	"Cstrike_Chat_CT_Dead"
+	{
+		"#format"	"{1:s},{2:s}"
+		"en"			"*DEAD*(Counter-Terrorist) {1} :  {2}"
+	}
+	"Cstrike_Chat_T_Dead"
+	{
+		"#format"	"{1:s},{2:s}"
+		"en"			"*DEAD*(Terrorist) {1} :  {2}"
+	}
+	"Cstrike_Chat_Spec"
+	{
+		"#format"	"{1:s},{2:s}"
+		"en"			"(Spectator) {1} :  {2}"
+	}
+	"Cstrike_Chat_All"
+	{
+		"#format"	"{1:s},{2:s}"
+		"en"			"{1} :  {2}"
+	}
+	"Cstrike_Chat_AllDead"
+	{
+		"#format"	"{1:s},{2:s}"
+		"en"			"*DEAD* {1} :  {2}"
+	}
+	"Cstrike_Chat_AllSpec"
+	{
+		"#format"	"{1:s},{2:s}"
+		"en"			"*SPEC* {1} :  {2}"
+	}
+}

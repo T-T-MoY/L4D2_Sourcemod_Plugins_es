@@ -1,0 +1,324 @@
+L 12/29/2025 - 18:38:57: SourceMod log file session started (file "d:\steamlibrary\steamapps\common\left 4 dead 2\left4dead2\addons\sourcemod\logs\L20251229.log") (Version "1.12.0.7207")
+L 12/29/2025 - 18:38:57: [GEOIP] GeoIP2 database loaded: GeoLite2-ASN (2024-08-21 08:15:21 UTC) (d:\steamlibrary\steamapps\common\left 4 dead 2\left4dead2\addons\sourcemod\configs\geoip\GeoLite2-ASN.mmdb)
+L 12/29/2025 - 18:38:57: [GEOIP] GeoIP2 supported languages: en
+L 12/29/2025 - 18:38:57: [GEOIP] Your database is older than 90 days. You should consider downloading a newer version from e.g. https://dev.maxmind.com/geoip/geolite2-free-geolocation-data
+L 12/29/2025 - 18:39:08: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_consistency") (value "0")
+L 12/29/2025 - 18:39:08: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_allow_lobby_connect_only") (value "0")
+L 12/29/2025 - 18:39:08: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxplayers") (value "8")
+L 12/29/2025 - 18:39:08: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_visiblemaxplayers") (value "-1")
+L 12/29/2025 - 18:39:08: [chat-processor.smx] Message formats generated for game 'left4dead2'.
+L 12/29/2025 - 18:39:08: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 12/29/2025 - 18:40:04: [basecommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" changed cvar (cvar "sv_gravity") (value "200")
+L 12/29/2025 - 18:40:11: [basecommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" changed map to "c1m1_hotel"
+L 12/29/2025 - 18:40:14: [SM] Changed map to "c1m1_hotel"
+L 12/29/2025 - 18:40:24: -------- Mapchange to c1m1_hotel --------
+L 12/29/2025 - 18:40:28: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_consistency") (value "0")
+L 12/29/2025 - 18:40:28: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_allow_lobby_connect_only") (value "0")
+L 12/29/2025 - 18:40:28: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxplayers") (value "8")
+L 12/29/2025 - 18:40:28: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_visiblemaxplayers") (value "-1")
+L 12/29/2025 - 18:40:28: [chat-processor.smx] Message formats generated for game 'left4dead2'.
+L 12/29/2025 - 18:40:28: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 12/29/2025 - 18:41:07: [basecommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" kicked "Giovanny<7><STEAM_1:0:950730747><>" (reason "")
+L 12/29/2025 - 18:44:09: [l4d_sm_respawn.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" teleported "Ellis<11><BOT><>" after respawning him
+L 12/29/2025 - 18:44:12: [l4d_sm_respawn.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" teleported "fabrisalas365<14><STEAM_1:1:796583594><>" after respawning him
+L 12/29/2025 - 18:45:31: -------- Mapchange to c1m2_streets --------
+L 12/29/2025 - 18:45:35: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_consistency") (value "0")
+L 12/29/2025 - 18:45:35: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_allow_lobby_connect_only") (value "0")
+L 12/29/2025 - 18:45:35: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxplayers") (value "8")
+L 12/29/2025 - 18:45:35: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_visiblemaxplayers") (value "-1")
+L 12/29/2025 - 18:45:35: [chat-processor.smx] Message formats generated for game 'left4dead2'.
+L 12/29/2025 - 18:45:35: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 12/29/2025 - 18:46:55: [funcommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" set a FireBomb on "fabrisalas365<14><STEAM_1:1:796583594><>"
+L 12/29/2025 - 18:46:58: [funcommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" set a FireBomb on "fabrisalas365<14><STEAM_1:1:796583594><>"
+L 12/29/2025 - 18:58:22: [l4d_sm_respawn.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" teleported "TDJ--MARRUECOS<64><STEAM_1:1:927119438><>" after respawning him
+L 12/29/2025 - 18:59:56: -------- Mapchange to c1m3_mall --------
+L 12/29/2025 - 18:59:59: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_consistency") (value "0")
+L 12/29/2025 - 18:59:59: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_allow_lobby_connect_only") (value "0")
+L 12/29/2025 - 18:59:59: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxplayers") (value "8")
+L 12/29/2025 - 18:59:59: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_visiblemaxplayers") (value "-1")
+L 12/29/2025 - 19:00:00: [chat-processor.smx] Message formats generated for game 'left4dead2'.
+L 12/29/2025 - 19:00:00: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 12/29/2025 - 19:07:32: -------- Mapchange to c1m4_atrium --------
+L 12/29/2025 - 19:07:36: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_consistency") (value "0")
+L 12/29/2025 - 19:07:36: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_allow_lobby_connect_only") (value "0")
+L 12/29/2025 - 19:07:36: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxplayers") (value "8")
+L 12/29/2025 - 19:07:36: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_visiblemaxplayers") (value "-1")
+L 12/29/2025 - 19:07:36: [chat-processor.smx] Message formats generated for game 'left4dead2'.
+L 12/29/2025 - 19:07:36: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 12/29/2025 - 19:11:55: [l4d_sm_respawn.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" teleported "[T-T]MoY<2><STEAM_1:0:511491787><>" after respawning him
+L 12/29/2025 - 19:11:55: [l4d_sm_respawn.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" teleported "POcիiTA<106><STEAM_1:1:406537126><>" after respawning him
+L 12/29/2025 - 19:11:55: [l4d_sm_respawn.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" teleported "fabrisalas365<14><STEAM_1:1:796583594><>" after respawning him
+L 12/29/2025 - 19:11:55: [l4d_sm_respawn.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" teleported "elmatapros_1<29><STEAM_1:1:611753716><>" after respawning him
+L 12/29/2025 - 19:15:15: [l4d_sm_respawn.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" teleported "gasparleon1234<74><STEAM_1:1:595579263><>" after respawning him
+L 12/29/2025 - 19:15:16: [l4d_sm_respawn.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" teleported "pablitogarcia627<43><STEAM_1:1:404756693><>" after respawning him
+L 12/29/2025 - 19:15:16: [l4d_sm_respawn.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" teleported "POcիiTA<106><STEAM_1:1:406537126><>" after respawning him
+L 12/29/2025 - 19:15:16: [l4d_sm_respawn.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" teleported "fabrisalas365<14><STEAM_1:1:796583594><>" after respawning him
+L 12/29/2025 - 19:15:16: [l4d_sm_respawn.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" teleported "TDJ--MARRUECOS<64><STEAM_1:1:927119438><>" after respawning him
+L 12/29/2025 - 19:16:59: [basecommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" changed map to "c2m1_highway"
+L 12/29/2025 - 19:17:02: [SM] Changed map to "c2m1_highway"
+L 12/29/2025 - 19:17:05: -------- Mapchange to c2m1_highway --------
+L 12/29/2025 - 19:17:08: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_consistency") (value "0")
+L 12/29/2025 - 19:17:08: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_allow_lobby_connect_only") (value "0")
+L 12/29/2025 - 19:17:08: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxplayers") (value "8")
+L 12/29/2025 - 19:17:08: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_visiblemaxplayers") (value "-1")
+L 12/29/2025 - 19:17:09: [chat-processor.smx] Message formats generated for game 'left4dead2'.
+L 12/29/2025 - 19:17:09: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 12/29/2025 - 19:21:37: -------- Mapchange to c2m2_fairgrounds --------
+L 12/29/2025 - 19:21:40: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_consistency") (value "0")
+L 12/29/2025 - 19:21:40: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_allow_lobby_connect_only") (value "0")
+L 12/29/2025 - 19:21:40: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxplayers") (value "8")
+L 12/29/2025 - 19:21:40: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_visiblemaxplayers") (value "-1")
+L 12/29/2025 - 19:21:40: [chat-processor.smx] Message formats generated for game 'left4dead2'.
+L 12/29/2025 - 19:21:40: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 12/29/2025 - 19:33:22: [l4d_sm_respawn.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" teleported "PANDITA<179><STEAM_1:1:544610071><>" after respawning him
+L 12/29/2025 - 19:33:22: [l4d_sm_respawn.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" teleported "TDJ--MARRUECOS<64><STEAM_1:1:927119438><>" after respawning him
+L 12/29/2025 - 19:33:46: [all4dead2.smx] [NOTICE]: ([T-T]MoY<2><STEAM_1:0:511491787><>) has spawned a tank
+L 12/29/2025 - 19:33:47: [all4dead2.smx] [NOTICE]: ([T-T]MoY<2><STEAM_1:0:511491787><>) has spawned a tank
+L 12/29/2025 - 19:34:10: -------- Mapchange to c2m3_coaster --------
+L 12/29/2025 - 19:34:14: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_consistency") (value "0")
+L 12/29/2025 - 19:34:14: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_allow_lobby_connect_only") (value "0")
+L 12/29/2025 - 19:34:14: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxplayers") (value "8")
+L 12/29/2025 - 19:34:14: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_visiblemaxplayers") (value "-1")
+L 12/29/2025 - 19:34:14: [chat-processor.smx] Message formats generated for game 'left4dead2'.
+L 12/29/2025 - 19:34:14: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 12/29/2025 - 19:36:45: [l4d_sm_respawn.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" teleported "gasparleon1234<74><STEAM_1:1:595579263><>" after respawning him
+L 12/29/2025 - 19:41:41: -------- Mapchange to c2m4_barns --------
+L 12/29/2025 - 19:41:45: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_consistency") (value "0")
+L 12/29/2025 - 19:41:45: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_allow_lobby_connect_only") (value "0")
+L 12/29/2025 - 19:41:45: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxplayers") (value "8")
+L 12/29/2025 - 19:41:45: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_visiblemaxplayers") (value "-1")
+L 12/29/2025 - 19:41:45: [chat-processor.smx] Message formats generated for game 'left4dead2'.
+L 12/29/2025 - 19:41:45: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 12/29/2025 - 19:44:12: [all4dead2.smx] [NOTICE]: ([T-T]MoY<2><STEAM_1:0:511491787><>) has spawned a gnome
+L 12/29/2025 - 19:44:13: [all4dead2.smx] [NOTICE]: ([T-T]MoY<2><STEAM_1:0:511491787><>) has spawned a gnome
+L 12/29/2025 - 19:44:13: [all4dead2.smx] [NOTICE]: ([T-T]MoY<2><STEAM_1:0:511491787><>) has spawned a gnome
+L 12/29/2025 - 19:44:13: [all4dead2.smx] [NOTICE]: ([T-T]MoY<2><STEAM_1:0:511491787><>) has spawned a gnome
+L 12/29/2025 - 19:44:14: [all4dead2.smx] [NOTICE]: ([T-T]MoY<2><STEAM_1:0:511491787><>) has spawned a gnome
+L 12/29/2025 - 19:44:14: [all4dead2.smx] [NOTICE]: ([T-T]MoY<2><STEAM_1:0:511491787><>) has spawned a gnome
+L 12/29/2025 - 19:44:14: [all4dead2.smx] [NOTICE]: ([T-T]MoY<2><STEAM_1:0:511491787><>) has spawned a gnome
+L 12/29/2025 - 19:44:14: [all4dead2.smx] [NOTICE]: ([T-T]MoY<2><STEAM_1:0:511491787><>) has spawned a gnome
+L 12/29/2025 - 19:44:14: [all4dead2.smx] [NOTICE]: ([T-T]MoY<2><STEAM_1:0:511491787><>) has spawned a gnome
+L 12/29/2025 - 19:44:15: [all4dead2.smx] [NOTICE]: ([T-T]MoY<2><STEAM_1:0:511491787><>) has spawned a gnome
+L 12/29/2025 - 19:44:15: [all4dead2.smx] [NOTICE]: ([T-T]MoY<2><STEAM_1:0:511491787><>) has spawned a gnome
+L 12/29/2025 - 19:44:15: [all4dead2.smx] [NOTICE]: ([T-T]MoY<2><STEAM_1:0:511491787><>) has spawned a gnome
+L 12/29/2025 - 19:47:53: [all4dead2.smx] [NOTICE]: ([T-T]MoY<2><STEAM_1:0:511491787><>) has spawned a tank
+L 12/29/2025 - 19:47:54: [all4dead2.smx] [NOTICE]: ([T-T]MoY<2><STEAM_1:0:511491787><>) has spawned a tank
+L 12/29/2025 - 19:47:54: [all4dead2.smx] [NOTICE]: ([T-T]MoY<2><STEAM_1:0:511491787><>) has spawned a tank
+L 12/29/2025 - 19:47:55: [all4dead2.smx] [NOTICE]: ([T-T]MoY<2><STEAM_1:0:511491787><>) has spawned a tank
+L 12/29/2025 - 19:47:55: [all4dead2.smx] [NOTICE]: ([T-T]MoY<2><STEAM_1:0:511491787><>) has spawned a tank
+L 12/29/2025 - 19:47:55: [all4dead2.smx] [NOTICE]: ([T-T]MoY<2><STEAM_1:0:511491787><>) has spawned a tank
+L 12/29/2025 - 19:48:46: [all4dead2.smx] [NOTICE]: ([T-T]MoY<2><STEAM_1:0:511491787><>) has spawned a gnome
+L 12/29/2025 - 19:48:47: [all4dead2.smx] [NOTICE]: ([T-T]MoY<2><STEAM_1:0:511491787><>) has spawned a gnome
+L 12/29/2025 - 19:48:47: [all4dead2.smx] [NOTICE]: ([T-T]MoY<2><STEAM_1:0:511491787><>) has spawned a gnome
+L 12/29/2025 - 19:48:47: [all4dead2.smx] [NOTICE]: ([T-T]MoY<2><STEAM_1:0:511491787><>) has spawned a gnome
+L 12/29/2025 - 19:48:47: [all4dead2.smx] [NOTICE]: ([T-T]MoY<2><STEAM_1:0:511491787><>) has spawned a gnome
+L 12/29/2025 - 19:48:47: [all4dead2.smx] [NOTICE]: ([T-T]MoY<2><STEAM_1:0:511491787><>) has spawned a gnome
+L 12/29/2025 - 19:48:48: [all4dead2.smx] [NOTICE]: ([T-T]MoY<2><STEAM_1:0:511491787><>) has spawned a gnome
+L 12/29/2025 - 19:48:48: [all4dead2.smx] [NOTICE]: ([T-T]MoY<2><STEAM_1:0:511491787><>) has spawned a gnome
+L 12/29/2025 - 19:48:48: [all4dead2.smx] [NOTICE]: ([T-T]MoY<2><STEAM_1:0:511491787><>) has spawned a gnome
+L 12/29/2025 - 19:48:48: [all4dead2.smx] [NOTICE]: ([T-T]MoY<2><STEAM_1:0:511491787><>) has spawned a gnome
+L 12/29/2025 - 19:48:48: [all4dead2.smx] [NOTICE]: ([T-T]MoY<2><STEAM_1:0:511491787><>) has spawned a gnome
+L 12/29/2025 - 19:48:49: [all4dead2.smx] [NOTICE]: ([T-T]MoY<2><STEAM_1:0:511491787><>) has spawned a gnome
+L 12/29/2025 - 19:48:49: [all4dead2.smx] [NOTICE]: ([T-T]MoY<2><STEAM_1:0:511491787><>) has spawned a gnome
+L 12/29/2025 - 19:48:49: [all4dead2.smx] [NOTICE]: ([T-T]MoY<2><STEAM_1:0:511491787><>) has spawned a gnome
+L 12/29/2025 - 19:53:57: -------- Mapchange to c2m5_concert --------
+L 12/29/2025 - 19:54:01: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_consistency") (value "0")
+L 12/29/2025 - 19:54:01: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_allow_lobby_connect_only") (value "0")
+L 12/29/2025 - 19:54:01: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxplayers") (value "8")
+L 12/29/2025 - 19:54:01: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_visiblemaxplayers") (value "-1")
+L 12/29/2025 - 19:54:01: [chat-processor.smx] Message formats generated for game 'left4dead2'.
+L 12/29/2025 - 19:54:01: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 12/29/2025 - 19:54:27: [all4dead2.smx] [NOTICE]: ([T-T]MoY<2><STEAM_1:0:511491787><>) has spawned a gnome
+L 12/29/2025 - 19:54:28: [all4dead2.smx] [NOTICE]: ([T-T]MoY<2><STEAM_1:0:511491787><>) has spawned a gnome
+L 12/29/2025 - 19:54:28: [all4dead2.smx] [NOTICE]: ([T-T]MoY<2><STEAM_1:0:511491787><>) has spawned a gnome
+L 12/29/2025 - 19:54:28: [all4dead2.smx] [NOTICE]: ([T-T]MoY<2><STEAM_1:0:511491787><>) has spawned a gnome
+L 12/29/2025 - 19:54:28: [all4dead2.smx] [NOTICE]: ([T-T]MoY<2><STEAM_1:0:511491787><>) has spawned a gnome
+L 12/29/2025 - 19:54:28: [all4dead2.smx] [NOTICE]: ([T-T]MoY<2><STEAM_1:0:511491787><>) has spawned a gnome
+L 12/29/2025 - 19:54:29: [all4dead2.smx] [NOTICE]: ([T-T]MoY<2><STEAM_1:0:511491787><>) has spawned a gnome
+L 12/29/2025 - 19:54:29: [all4dead2.smx] [NOTICE]: ([T-T]MoY<2><STEAM_1:0:511491787><>) has spawned a gnome
+L 12/29/2025 - 19:54:29: [all4dead2.smx] [NOTICE]: ([T-T]MoY<2><STEAM_1:0:511491787><>) has spawned a gnome
+L 12/29/2025 - 19:54:29: [all4dead2.smx] [NOTICE]: ([T-T]MoY<2><STEAM_1:0:511491787><>) has spawned a gnome
+L 12/29/2025 - 19:54:29: [all4dead2.smx] [NOTICE]: ([T-T]MoY<2><STEAM_1:0:511491787><>) has spawned a gnome
+L 12/29/2025 - 19:54:29: [all4dead2.smx] [NOTICE]: ([T-T]MoY<2><STEAM_1:0:511491787><>) has spawned a gnome
+L 12/29/2025 - 19:54:30: [all4dead2.smx] [NOTICE]: ([T-T]MoY<2><STEAM_1:0:511491787><>) has spawned a gnome
+L 12/29/2025 - 19:54:30: [all4dead2.smx] [NOTICE]: ([T-T]MoY<2><STEAM_1:0:511491787><>) has spawned a gnome
+L 12/29/2025 - 19:54:30: [all4dead2.smx] [NOTICE]: ([T-T]MoY<2><STEAM_1:0:511491787><>) has spawned a gnome
+L 12/29/2025 - 19:54:30: [all4dead2.smx] [NOTICE]: ([T-T]MoY<2><STEAM_1:0:511491787><>) has spawned a gnome
+L 12/29/2025 - 19:54:30: [all4dead2.smx] [NOTICE]: ([T-T]MoY<2><STEAM_1:0:511491787><>) has spawned a gnome
+L 12/29/2025 - 19:54:30: [all4dead2.smx] [NOTICE]: ([T-T]MoY<2><STEAM_1:0:511491787><>) has spawned a gnome
+L 12/29/2025 - 19:54:31: [all4dead2.smx] [NOTICE]: ([T-T]MoY<2><STEAM_1:0:511491787><>) has spawned a gnome
+L 12/29/2025 - 19:54:31: [all4dead2.smx] [NOTICE]: ([T-T]MoY<2><STEAM_1:0:511491787><>) has spawned a gnome
+L 12/29/2025 - 19:55:12: [l4d_sm_respawn.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" teleported "gasparleon1234<74><STEAM_1:1:595579263><>" after respawning him
+L 12/29/2025 - 19:55:12: [l4d_sm_respawn.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" teleported "lFrosTy<251><STEAM_1:1:449560714><>" after respawning him
+L 12/29/2025 - 19:55:12: [l4d_sm_respawn.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" teleported "PANDITA<179><STEAM_1:1:544610071><>" after respawning him
+L 12/29/2025 - 19:55:12: [l4d_sm_respawn.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" teleported "unlimitedmatch<143><STEAM_1:1:116361391><>" after respawning him
+L 12/29/2025 - 19:55:22: [l4d_sm_respawn.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" teleported "TDJ--MARRUECOS<64><STEAM_1:1:927119438><>" after respawning him
+L 12/29/2025 - 19:56:34: [all4dead2.smx] [NOTICE]: ([T-T]MoY<2><STEAM_1:0:511491787><>) has spawned a gnome
+L 12/29/2025 - 19:56:34: [all4dead2.smx] [NOTICE]: ([T-T]MoY<2><STEAM_1:0:511491787><>) has spawned a gnome
+L 12/29/2025 - 19:56:34: [all4dead2.smx] [NOTICE]: ([T-T]MoY<2><STEAM_1:0:511491787><>) has spawned a gnome
+L 12/29/2025 - 19:56:34: [all4dead2.smx] [NOTICE]: ([T-T]MoY<2><STEAM_1:0:511491787><>) has spawned a gnome
+L 12/29/2025 - 19:56:34: [all4dead2.smx] [NOTICE]: ([T-T]MoY<2><STEAM_1:0:511491787><>) has spawned a gnome
+L 12/29/2025 - 19:56:35: [all4dead2.smx] [NOTICE]: ([T-T]MoY<2><STEAM_1:0:511491787><>) has spawned a gnome
+L 12/29/2025 - 19:56:35: [all4dead2.smx] [NOTICE]: ([T-T]MoY<2><STEAM_1:0:511491787><>) has spawned a gnome
+L 12/29/2025 - 19:56:35: [all4dead2.smx] [NOTICE]: ([T-T]MoY<2><STEAM_1:0:511491787><>) has spawned a gnome
+L 12/29/2025 - 19:56:35: [all4dead2.smx] [NOTICE]: ([T-T]MoY<2><STEAM_1:0:511491787><>) has spawned a gnome
+L 12/29/2025 - 19:56:35: [all4dead2.smx] [NOTICE]: ([T-T]MoY<2><STEAM_1:0:511491787><>) has spawned a gnome
+L 12/29/2025 - 19:56:36: [all4dead2.smx] [NOTICE]: ([T-T]MoY<2><STEAM_1:0:511491787><>) has spawned a gnome
+L 12/29/2025 - 19:56:36: [all4dead2.smx] [NOTICE]: ([T-T]MoY<2><STEAM_1:0:511491787><>) has spawned a gnome
+L 12/29/2025 - 19:56:36: [all4dead2.smx] [NOTICE]: ([T-T]MoY<2><STEAM_1:0:511491787><>) has spawned a gnome
+L 12/29/2025 - 19:56:36: [all4dead2.smx] [NOTICE]: ([T-T]MoY<2><STEAM_1:0:511491787><>) has spawned a gnome
+L 12/29/2025 - 19:56:36: [all4dead2.smx] [NOTICE]: ([T-T]MoY<2><STEAM_1:0:511491787><>) has spawned a gnome
+L 12/29/2025 - 19:56:37: [all4dead2.smx] [NOTICE]: ([T-T]MoY<2><STEAM_1:0:511491787><>) has spawned a gnome
+L 12/29/2025 - 19:56:37: [all4dead2.smx] [NOTICE]: ([T-T]MoY<2><STEAM_1:0:511491787><>) has spawned a gnome
+L 12/29/2025 - 19:56:37: [all4dead2.smx] [NOTICE]: ([T-T]MoY<2><STEAM_1:0:511491787><>) has spawned a gnome
+L 12/29/2025 - 19:56:37: [all4dead2.smx] [NOTICE]: ([T-T]MoY<2><STEAM_1:0:511491787><>) has spawned a gnome
+L 12/29/2025 - 19:56:38: [all4dead2.smx] [NOTICE]: ([T-T]MoY<2><STEAM_1:0:511491787><>) has spawned a gnome
+L 12/29/2025 - 19:56:38: [all4dead2.smx] [NOTICE]: ([T-T]MoY<2><STEAM_1:0:511491787><>) has spawned a gnome
+L 12/29/2025 - 19:56:38: [all4dead2.smx] [NOTICE]: ([T-T]MoY<2><STEAM_1:0:511491787><>) has spawned a gnome
+L 12/29/2025 - 19:56:38: [all4dead2.smx] [NOTICE]: ([T-T]MoY<2><STEAM_1:0:511491787><>) has spawned a gnome
+L 12/29/2025 - 19:56:38: [all4dead2.smx] [NOTICE]: ([T-T]MoY<2><STEAM_1:0:511491787><>) has spawned a gnome
+L 12/29/2025 - 19:56:39: [all4dead2.smx] [NOTICE]: ([T-T]MoY<2><STEAM_1:0:511491787><>) has spawned a gnome
+L 12/29/2025 - 19:56:39: [all4dead2.smx] [NOTICE]: ([T-T]MoY<2><STEAM_1:0:511491787><>) has spawned a gnome
+L 12/29/2025 - 19:56:39: [all4dead2.smx] [NOTICE]: ([T-T]MoY<2><STEAM_1:0:511491787><>) has spawned a gnome
+L 12/29/2025 - 19:56:39: [all4dead2.smx] [NOTICE]: ([T-T]MoY<2><STEAM_1:0:511491787><>) has spawned a gnome
+L 12/29/2025 - 19:56:39: [all4dead2.smx] [NOTICE]: ([T-T]MoY<2><STEAM_1:0:511491787><>) has spawned a gnome
+L 12/29/2025 - 19:57:02: [l4d_sm_respawn.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" teleported "lFrosTy<251><STEAM_1:1:449560714><>" after respawning him
+L 12/29/2025 - 19:57:02: [l4d_sm_respawn.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" teleported "querentrejeno<261><STEAM_1:0:532440598><>" after respawning him
+L 12/29/2025 - 19:57:02: [l4d_sm_respawn.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" teleported "PANDITA<179><STEAM_1:1:544610071><>" after respawning him
+L 12/29/2025 - 19:57:28: [l4d_sm_respawn.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" teleported "querentrejeno<261><STEAM_1:0:532440598><>" after respawning him
+L 12/29/2025 - 19:58:18: [l4d_sm_respawn.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" teleported "gasparleon1234<74><STEAM_1:1:595579263><>" after respawning him
+L 12/29/2025 - 19:58:22: [l4d_sm_respawn.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" teleported "querentrejeno<261><STEAM_1:0:532440598><>" after respawning him
+L 12/29/2025 - 19:58:34: [all4dead2.smx] [NOTICE]: ([T-T]MoY<2><STEAM_1:0:511491787><>) has spawned a tank
+L 12/29/2025 - 19:58:34: [all4dead2.smx] [NOTICE]: ([T-T]MoY<2><STEAM_1:0:511491787><>) has spawned a tank
+L 12/29/2025 - 19:58:34: [all4dead2.smx] [NOTICE]: ([T-T]MoY<2><STEAM_1:0:511491787><>) has spawned a tank
+L 12/29/2025 - 19:58:35: [all4dead2.smx] [NOTICE]: ([T-T]MoY<2><STEAM_1:0:511491787><>) has spawned a tank
+L 12/29/2025 - 19:58:35: [all4dead2.smx] [NOTICE]: ([T-T]MoY<2><STEAM_1:0:511491787><>) has spawned a tank
+L 12/29/2025 - 19:58:35: [all4dead2.smx] [NOTICE]: ([T-T]MoY<2><STEAM_1:0:511491787><>) has spawned a tank
+L 12/29/2025 - 19:59:07: [l4d_sm_respawn.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" teleported "[T-T]MoY<2><STEAM_1:0:511491787><>" after respawning him
+L 12/29/2025 - 19:59:07: [l4d_sm_respawn.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" teleported "gasparleon1234<74><STEAM_1:1:595579263><>" after respawning him
+L 12/29/2025 - 19:59:07: [l4d_sm_respawn.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" teleported "querentrejeno<261><STEAM_1:0:532440598><>" after respawning him
+L 12/29/2025 - 19:59:17: [all4dead2.smx] [NOTICE]: ([T-T]MoY<2><STEAM_1:0:511491787><>) has spawned a tank
+L 12/29/2025 - 19:59:17: [all4dead2.smx] [NOTICE]: ([T-T]MoY<2><STEAM_1:0:511491787><>) has spawned a tank
+L 12/29/2025 - 19:59:17: [all4dead2.smx] [NOTICE]: ([T-T]MoY<2><STEAM_1:0:511491787><>) has spawned a tank
+L 12/29/2025 - 19:59:39: [l4d_sm_respawn.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" teleported "PANDITA<179><STEAM_1:1:544610071><>" after respawning him
+L 12/29/2025 - 20:00:00: [all4dead2.smx] [NOTICE]: ([T-T]MoY<2><STEAM_1:0:511491787><>) has spawned a tank
+L 12/29/2025 - 20:00:01: [all4dead2.smx] [NOTICE]: ([T-T]MoY<2><STEAM_1:0:511491787><>) has spawned a tank
+L 12/29/2025 - 20:00:39: [all4dead2.smx] [NOTICE]: ([T-T]MoY<2><STEAM_1:0:511491787><>) has spawned a tank
+L 12/29/2025 - 20:01:17: [all4dead2.smx] [NOTICE]: ([T-T]MoY<2><STEAM_1:0:511491787><>) has spawned a tank
+L 12/29/2025 - 20:01:17: [all4dead2.smx] [NOTICE]: ([T-T]MoY<2><STEAM_1:0:511491787><>) has spawned a tank
+L 12/29/2025 - 20:01:17: [all4dead2.smx] [NOTICE]: ([T-T]MoY<2><STEAM_1:0:511491787><>) has spawned a tank
+L 12/29/2025 - 20:01:18: [all4dead2.smx] [NOTICE]: ([T-T]MoY<2><STEAM_1:0:511491787><>) has spawned a tank
+L 12/29/2025 - 20:01:18: [all4dead2.smx] [NOTICE]: ([T-T]MoY<2><STEAM_1:0:511491787><>) has spawned a tank
+L 12/29/2025 - 20:01:18: [all4dead2.smx] [NOTICE]: ([T-T]MoY<2><STEAM_1:0:511491787><>) has spawned a tank
+L 12/29/2025 - 20:01:18: [all4dead2.smx] [NOTICE]: ([T-T]MoY<2><STEAM_1:0:511491787><>) has spawned a tank
+L 12/29/2025 - 20:01:18: [all4dead2.smx] [NOTICE]: ([T-T]MoY<2><STEAM_1:0:511491787><>) has spawned a tank
+L 12/29/2025 - 20:01:18: [all4dead2.smx] [NOTICE]: ([T-T]MoY<2><STEAM_1:0:511491787><>) has spawned a tank
+L 12/29/2025 - 20:01:19: [all4dead2.smx] [NOTICE]: ([T-T]MoY<2><STEAM_1:0:511491787><>) has spawned a tank
+L 12/29/2025 - 20:01:19: [all4dead2.smx] [NOTICE]: ([T-T]MoY<2><STEAM_1:0:511491787><>) has spawned a tank
+L 12/29/2025 - 20:01:19: [all4dead2.smx] [NOTICE]: ([T-T]MoY<2><STEAM_1:0:511491787><>) has spawned a tank
+L 12/29/2025 - 20:01:20: [all4dead2.smx] [NOTICE]: ([T-T]MoY<2><STEAM_1:0:511491787><>) has spawned a tank
+L 12/29/2025 - 20:02:13: [all4dead2.smx] [NOTICE]: ([T-T]MoY<2><STEAM_1:0:511491787><>) has spawned a gnome
+L 12/29/2025 - 20:02:14: [all4dead2.smx] [NOTICE]: ([T-T]MoY<2><STEAM_1:0:511491787><>) has spawned a gnome
+L 12/29/2025 - 20:02:14: [all4dead2.smx] [NOTICE]: ([T-T]MoY<2><STEAM_1:0:511491787><>) has spawned a gnome
+L 12/29/2025 - 20:02:14: [all4dead2.smx] [NOTICE]: ([T-T]MoY<2><STEAM_1:0:511491787><>) has spawned a gnome
+L 12/29/2025 - 20:02:14: [all4dead2.smx] [NOTICE]: ([T-T]MoY<2><STEAM_1:0:511491787><>) has spawned a gnome
+L 12/29/2025 - 20:02:14: [all4dead2.smx] [NOTICE]: ([T-T]MoY<2><STEAM_1:0:511491787><>) has spawned a gnome
+L 12/29/2025 - 20:02:15: [all4dead2.smx] [NOTICE]: ([T-T]MoY<2><STEAM_1:0:511491787><>) has spawned a gnome
+L 12/29/2025 - 20:02:15: [all4dead2.smx] [NOTICE]: ([T-T]MoY<2><STEAM_1:0:511491787><>) has spawned a gnome
+L 12/29/2025 - 20:02:15: [all4dead2.smx] [NOTICE]: ([T-T]MoY<2><STEAM_1:0:511491787><>) has spawned a gnome
+L 12/29/2025 - 20:02:15: [all4dead2.smx] [NOTICE]: ([T-T]MoY<2><STEAM_1:0:511491787><>) has spawned a gnome
+L 12/29/2025 - 20:02:15: [all4dead2.smx] [NOTICE]: ([T-T]MoY<2><STEAM_1:0:511491787><>) has spawned a gnome
+L 12/29/2025 - 20:02:16: [all4dead2.smx] [NOTICE]: ([T-T]MoY<2><STEAM_1:0:511491787><>) has spawned a gnome
+L 12/29/2025 - 20:02:16: [all4dead2.smx] [NOTICE]: ([T-T]MoY<2><STEAM_1:0:511491787><>) has spawned a gnome
+L 12/29/2025 - 20:02:16: [all4dead2.smx] [NOTICE]: ([T-T]MoY<2><STEAM_1:0:511491787><>) has spawned a gnome
+L 12/29/2025 - 20:02:16: [all4dead2.smx] [NOTICE]: ([T-T]MoY<2><STEAM_1:0:511491787><>) has spawned a gnome
+L 12/29/2025 - 20:02:16: [all4dead2.smx] [NOTICE]: ([T-T]MoY<2><STEAM_1:0:511491787><>) has spawned a gnome
+L 12/29/2025 - 20:02:17: [all4dead2.smx] [NOTICE]: ([T-T]MoY<2><STEAM_1:0:511491787><>) has spawned a gnome
+L 12/29/2025 - 20:02:17: [all4dead2.smx] [NOTICE]: ([T-T]MoY<2><STEAM_1:0:511491787><>) has spawned a gnome
+L 12/29/2025 - 20:02:17: [all4dead2.smx] [NOTICE]: ([T-T]MoY<2><STEAM_1:0:511491787><>) has spawned a gnome
+L 12/29/2025 - 20:02:17: [all4dead2.smx] [NOTICE]: ([T-T]MoY<2><STEAM_1:0:511491787><>) has spawned a gnome
+L 12/29/2025 - 20:02:18: [all4dead2.smx] [NOTICE]: ([T-T]MoY<2><STEAM_1:0:511491787><>) has spawned a gnome
+L 12/29/2025 - 20:02:18: [all4dead2.smx] [NOTICE]: ([T-T]MoY<2><STEAM_1:0:511491787><>) has spawned a gnome
+L 12/29/2025 - 20:02:18: [all4dead2.smx] [NOTICE]: ([T-T]MoY<2><STEAM_1:0:511491787><>) has spawned a gnome
+L 12/29/2025 - 20:02:18: [all4dead2.smx] [NOTICE]: ([T-T]MoY<2><STEAM_1:0:511491787><>) has spawned a gnome
+L 12/29/2025 - 20:02:47: [l4d_sm_respawn.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" teleported "[T-T]MoY<2><STEAM_1:0:511491787><>" after respawning him
+L 12/29/2025 - 20:02:47: [l4d_sm_respawn.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" teleported "gasparleon1234<74><STEAM_1:1:595579263><>" after respawning him
+L 12/29/2025 - 20:03:27: [l4d_sm_respawn.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" teleported "Bill<373><BOT><>" after respawning him
+L 12/29/2025 - 20:03:58: [l4d_sm_respawn.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" teleported "gasparleon1234<74><STEAM_1:1:595579263><>" after respawning him
+L 12/29/2025 - 20:03:59: [l4d_sm_respawn.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" teleported "querentrejeno<261><STEAM_1:0:532440598><>" after respawning him
+L 12/29/2025 - 20:03:59: [l4d_sm_respawn.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" teleported "Coach<373><BOT><>" after respawning him
+L 12/29/2025 - 20:04:43: [l4d_sm_respawn.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" teleported "Nick<380><BOT><>" after respawning him
+L 12/29/2025 - 20:05:18: [l4d_sm_respawn.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" teleported "[T-T]MoY<2><STEAM_1:0:511491787><>" after respawning him
+L 12/29/2025 - 20:05:28: [all4dead2.smx] [NOTICE]: ([T-T]MoY<2><STEAM_1:0:511491787><>) has spawned a gnome
+L 12/29/2025 - 20:05:29: [all4dead2.smx] [NOTICE]: ([T-T]MoY<2><STEAM_1:0:511491787><>) has spawned a gnome
+L 12/29/2025 - 20:05:29: [all4dead2.smx] [NOTICE]: ([T-T]MoY<2><STEAM_1:0:511491787><>) has spawned a gnome
+L 12/29/2025 - 20:05:29: [all4dead2.smx] [NOTICE]: ([T-T]MoY<2><STEAM_1:0:511491787><>) has spawned a gnome
+L 12/29/2025 - 20:05:31: [all4dead2.smx] [NOTICE]: ([T-T]MoY<2><STEAM_1:0:511491787><>) has spawned a gnome
+L 12/29/2025 - 20:05:31: [all4dead2.smx] [NOTICE]: ([T-T]MoY<2><STEAM_1:0:511491787><>) has spawned a gnome
+L 12/29/2025 - 20:05:33: [all4dead2.smx] [NOTICE]: ([T-T]MoY<2><STEAM_1:0:511491787><>) has spawned a gnome
+L 12/29/2025 - 20:05:33: [all4dead2.smx] [NOTICE]: ([T-T]MoY<2><STEAM_1:0:511491787><>) has spawned a gnome
+L 12/29/2025 - 20:05:34: [all4dead2.smx] [NOTICE]: ([T-T]MoY<2><STEAM_1:0:511491787><>) has spawned a gnome
+L 12/29/2025 - 20:05:34: [all4dead2.smx] [NOTICE]: ([T-T]MoY<2><STEAM_1:0:511491787><>) has spawned a gnome
+L 12/29/2025 - 20:05:34: [all4dead2.smx] [NOTICE]: ([T-T]MoY<2><STEAM_1:0:511491787><>) has spawned a gnome
+L 12/29/2025 - 20:05:34: [all4dead2.smx] [NOTICE]: ([T-T]MoY<2><STEAM_1:0:511491787><>) has spawned a gnome
+L 12/29/2025 - 20:05:36: [all4dead2.smx] [NOTICE]: ([T-T]MoY<2><STEAM_1:0:511491787><>) has spawned a gnome
+L 12/29/2025 - 20:05:36: [all4dead2.smx] [NOTICE]: ([T-T]MoY<2><STEAM_1:0:511491787><>) has spawned a gnome
+L 12/29/2025 - 20:05:36: [all4dead2.smx] [NOTICE]: ([T-T]MoY<2><STEAM_1:0:511491787><>) has spawned a gnome
+L 12/29/2025 - 20:05:36: [all4dead2.smx] [NOTICE]: ([T-T]MoY<2><STEAM_1:0:511491787><>) has spawned a gnome
+L 12/29/2025 - 20:05:36: [all4dead2.smx] [NOTICE]: ([T-T]MoY<2><STEAM_1:0:511491787><>) has spawned a gnome
+L 12/29/2025 - 20:05:43: [all4dead2.smx] [NOTICE]: ([T-T]MoY<2><STEAM_1:0:511491787><>) has spawned a gnome
+L 12/29/2025 - 20:05:43: [all4dead2.smx] [NOTICE]: ([T-T]MoY<2><STEAM_1:0:511491787><>) has spawned a gnome
+L 12/29/2025 - 20:05:47: [l4d_sm_respawn.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" teleported "querentrejeno<261><STEAM_1:0:532440598><>" after respawning him
+L 12/29/2025 - 20:06:10: [l4d_sm_respawn.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" teleported "gasparleon1234<74><STEAM_1:1:595579263><>" after respawning him
+L 12/29/2025 - 20:06:10: [l4d_sm_respawn.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" teleported "Coach<386><BOT><>" after respawning him
+L 12/29/2025 - 20:06:11: [l4d_sm_respawn.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" teleported "unlimitedmatch<143><STEAM_1:1:116361391><>" after respawning him
+L 12/29/2025 - 20:06:51: [l4d_sm_respawn.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" teleported "gasparleon1234<74><STEAM_1:1:595579263><>" after respawning him
+L 12/29/2025 - 20:06:51: [l4d_sm_respawn.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" teleported "querentrejeno<261><STEAM_1:0:532440598><>" after respawning him
+L 12/29/2025 - 20:07:49: [l4d_sm_respawn.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" teleported "gasparleon1234<74><STEAM_1:1:595579263><>" after respawning him
+L 12/29/2025 - 20:08:25: [l4d_sm_respawn.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" teleported "Coach<397><BOT><>" after respawning him
+L 12/29/2025 - 20:08:25: [l4d_sm_respawn.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" teleported "unlimitedmatch<143><STEAM_1:1:116361391><>" after respawning him
+L 12/29/2025 - 20:08:40: [l4d_sm_respawn.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" teleported "querentrejeno<261><STEAM_1:0:532440598><>" after respawning him
+L 12/29/2025 - 20:08:48: [l4d_sm_respawn.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" teleported "gasparleon1234<74><STEAM_1:1:595579263><>" after respawning him
+L 12/29/2025 - 20:09:33: [l4d_sm_respawn.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" teleported "gasparleon1234<74><STEAM_1:1:595579263><>" after respawning him
+L 12/29/2025 - 20:11:22: [l4d_sm_respawn.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" teleported "querentrejeno<261><STEAM_1:0:532440598><>" after respawning him
+L 12/29/2025 - 20:12:31: [l4d_sm_respawn.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" teleported "unlimitedmatch<143><STEAM_1:1:116361391><>" after respawning him
+L 12/29/2025 - 20:12:35: [playercommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" slayed "(2)Tank<395><BOT><>"
+L 12/29/2025 - 20:12:36: [playercommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" slayed "(1)Tank<398><BOT><>"
+L 12/29/2025 - 20:12:36: [playercommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" slayed "(3)Tank<405><BOT><>"
+L 12/29/2025 - 20:12:38: [playercommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" slayed "(4)Tank<406><BOT><>"
+L 12/29/2025 - 20:12:38: [playercommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" slayed "(6)Tank<391><BOT><>"
+L 12/29/2025 - 20:12:39: [playercommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" slayed "(8)Tank<411><BOT><>"
+L 12/29/2025 - 20:12:40: [playercommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" slayed "Tank<408><BOT><>"
+L 12/29/2025 - 20:12:41: [playercommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" slayed "(7)Tank<404><BOT><>"
+L 12/29/2025 - 20:12:41: [playercommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" slayed "(5)Tank<409><BOT><>"
+L 12/29/2025 - 20:12:42: [playercommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" slayed "(9)Tank<412><BOT><>"
+L 12/29/2025 - 20:12:45: [l4d_sm_respawn.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" teleported "gasparleon1234<74><STEAM_1:1:595579263><>" after respawning him
+L 12/29/2025 - 20:13:37: [playercommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" slayed "querentrejeno<261><STEAM_1:0:532440598><>"
+L 12/29/2025 - 20:13:48: [l4d_sm_respawn.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" teleported "gasparleon1234<74><STEAM_1:1:595579263><>" after respawning him
+L 12/29/2025 - 20:13:48: [l4d_sm_respawn.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" teleported "123DANNY123<410><STEAM_1:1:933641308><>" after respawning him
+L 12/29/2025 - 20:13:48: [l4d_sm_respawn.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" teleported "Mizca_17<414><STEAM_1:0:614125103><>" after respawning him
+L 12/29/2025 - 20:13:48: [l4d_sm_respawn.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" teleported "querentrejeno<261><STEAM_1:0:532440598><>" after respawning him
+L 12/29/2025 - 20:13:48: [l4d_sm_respawn.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" teleported "TRIVAGO<392><STEAM_1:0:884811660><>" after respawning him
+L 12/29/2025 - 20:14:20: [playercommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" slayed "querentrejeno<261><STEAM_1:0:532440598><>"
+L 12/29/2025 - 20:14:30: [l4d_sm_respawn.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" teleported "querentrejeno<261><STEAM_1:0:532440598><>" after respawning him
+L 12/29/2025 - 20:14:30: [l4d_sm_respawn.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" teleported "wacheto<418><STEAM_1:1:460596612><>" after respawning him
+L 12/29/2025 - 20:14:30: [l4d_sm_respawn.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" teleported "unlimitedmatch<143><STEAM_1:1:116361391><>" after respawning him
+L 12/29/2025 - 20:14:40: [funcommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" set gravity on "querentrejeno<261><STEAM_1:0:532440598><>" (amount "4.000000")
+L 12/29/2025 - 20:15:23: [l4d_sm_respawn.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" teleported "gasparleon1234<74><STEAM_1:1:595579263><>" after respawning him
+L 12/29/2025 - 20:15:24: [l4d_sm_respawn.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" teleported "unlimitedmatch<143><STEAM_1:1:116361391><>" after respawning him
+L 12/29/2025 - 20:15:56: [l4d_sm_respawn.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" teleported "gasparleon1234<74><STEAM_1:1:595579263><>" after respawning him
+L 12/29/2025 - 20:15:57: [l4d_sm_respawn.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" teleported "querentrejeno<261><STEAM_1:0:532440598><>" after respawning him
+L 12/29/2025 - 20:15:57: [l4d_sm_respawn.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" teleported "TRIVAGO<392><STEAM_1:0:884811660><>" after respawning him
+L 12/29/2025 - 20:15:57: [l4d_sm_respawn.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" teleported "wacheto<418><STEAM_1:1:460596612><>" after respawning him
+L 12/29/2025 - 20:16:08: [basecommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" kicked "querentrejeno<261><STEAM_1:0:532440598><>" (reason "")
+L 12/29/2025 - 20:16:19: [l4d_sm_respawn.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" teleported "gasparleon1234<74><STEAM_1:1:595579263><>" after respawning him
+L 12/29/2025 - 20:16:51: [l4d_sm_respawn.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" teleported "[T-T]MoY<2><STEAM_1:0:511491787><>" after respawning him
+L 12/29/2025 - 20:16:51: [l4d_sm_respawn.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" teleported "123DANNY123<410><STEAM_1:1:933641308><>" after respawning him
+L 12/29/2025 - 20:16:51: [l4d_sm_respawn.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" teleported "Mizca_17<414><STEAM_1:0:614125103><>" after respawning him
+L 12/29/2025 - 20:16:52: [l4d_sm_respawn.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" teleported "unlimitedmatch<143><STEAM_1:1:116361391><>" after respawning him
+L 12/29/2025 - 20:16:52: [l4d_sm_respawn.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" teleported "Francis<435><BOT><>" after respawning him
+L 12/29/2025 - 20:17:56: [all4dead2.smx] [NOTICE]: ([T-T]MoY<2><STEAM_1:0:511491787><>) has spawned a tank
+L 12/29/2025 - 20:17:57: [all4dead2.smx] [NOTICE]: ([T-T]MoY<2><STEAM_1:0:511491787><>) has spawned a tank
+L 12/29/2025 - 20:17:57: [all4dead2.smx] [NOTICE]: ([T-T]MoY<2><STEAM_1:0:511491787><>) has spawned a tank
+L 12/29/2025 - 20:17:57: [all4dead2.smx] [NOTICE]: ([T-T]MoY<2><STEAM_1:0:511491787><>) has spawned a tank
+L 12/29/2025 - 20:18:47: Log file closed.

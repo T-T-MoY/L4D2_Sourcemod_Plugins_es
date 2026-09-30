@@ -1,0 +1,31 @@
+L 10/02/2025 - 01:19:18: SourceMod log file session started (file "z:\home\moy\.steam\debian-installation\steamapps\common\left 4 dead 2\left4dead2\addons\sourcemod\logs\L20251002.log") (Version "1.12.0.7207")
+L 10/02/2025 - 01:19:18: [GEOIP] GeoIP2 database loaded: GeoLite2-ASN (2024-08-21 08:15:21 UTC) (z:\home\moy\.steam\debian-installation\steamapps\common\left 4 dead 2\left4dead2\addons\sourcemod\configs\geoip\GeoLite2-ASN.mmdb)
+L 10/02/2025 - 01:19:18: [GEOIP] GeoIP2 supported languages: en
+L 10/02/2025 - 01:19:18: [GEOIP] Your database is older than 90 days. You should consider downloading a newer version from e.g. https://dev.maxmind.com/geoip/geolite2-free-geolocation-data
+L 10/02/2025 - 01:19:37: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_consistency") (value "0")
+L 10/02/2025 - 01:19:37: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_allow_lobby_connect_only") (value "0")
+L 10/02/2025 - 01:19:37: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxplayers") (value "8")
+L 10/02/2025 - 01:19:37: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_visiblemaxplayers") (value "-1")
+L 10/02/2025 - 01:23:43: Log file closed.
+L 10/02/2025 - 01:36:00: SourceMod log file session started (file "z:\home\moy\.steam\debian-installation\steamapps\common\left 4 dead 2\left4dead2\addons\sourcemod\logs\L20251002.log") (Version "1.12.0.7207")
+L 10/02/2025 - 01:36:00: [GEOIP] GeoIP2 database loaded: GeoLite2-ASN (2024-08-21 08:15:21 UTC) (z:\home\moy\.steam\debian-installation\steamapps\common\left 4 dead 2\left4dead2\addons\sourcemod\configs\geoip\GeoLite2-ASN.mmdb)
+L 10/02/2025 - 01:36:00: [GEOIP] GeoIP2 supported languages: en
+L 10/02/2025 - 01:36:00: [GEOIP] Your database is older than 90 days. You should consider downloading a newer version from e.g. https://dev.maxmind.com/geoip/geolite2-free-geolocation-data
+L 10/02/2025 - 01:36:11: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_consistency") (value "0")
+L 10/02/2025 - 01:36:11: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_allow_lobby_connect_only") (value "0")
+L 10/02/2025 - 01:36:11: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxplayers") (value "8")
+L 10/02/2025 - 01:36:11: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_visiblemaxplayers") (value "-1")
+L 10/02/2025 - 01:37:49: [basecommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" kicked "AUDI<6><STEAM_1:0:900447088><>" (reason "")
+L 10/02/2025 - 01:39:14: [basecommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" kicked "KEN RIKI ORIGINAL X<7><STEAM_1:1:81319983><>" (reason "")
+L 10/02/2025 - 01:45:08: Log file closed.
+L 10/02/2025 - 01:47:28: SourceMod log file session started (file "z:\home\moy\.steam\debian-installation\steamapps\common\left 4 dead 2\left4dead2\addons\sourcemod\logs\L20251002.log") (Version "1.12.0.7207")
+L 10/02/2025 - 01:47:28: [GEOIP] GeoIP2 database loaded: GeoLite2-ASN (2024-08-21 08:15:21 UTC) (z:\home\moy\.steam\debian-installation\steamapps\common\left 4 dead 2\left4dead2\addons\sourcemod\configs\geoip\GeoLite2-ASN.mmdb)
+L 10/02/2025 - 01:47:28: [GEOIP] GeoIP2 supported languages: en
+L 10/02/2025 - 01:47:28: [GEOIP] Your database is older than 90 days. You should consider downloading a newer version from e.g. https://dev.maxmind.com/geoip/geolite2-free-geolocation-data
+L 10/02/2025 - 01:47:30: [simple-chatprocessor.smx] [SCP] Recognized mod [Left 4 Dead 2].
+L 10/02/2025 - 01:47:57: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_consistency") (value "0")
+L 10/02/2025 - 01:47:57: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_allow_lobby_connect_only") (value "0")
+L 10/02/2025 - 01:47:57: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxplayers") (value "8")
+L 10/02/2025 - 01:47:57: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_visiblemaxplayers") (value "-1")
+L 10/02/2025 - 01:47:57: [custom-chatcolors-menu.smx] Loaded 156 colors from configuration file addons\sourcemod\configs\custom-chatcolors-menu.cfg.
+L 10/02/2025 - 01:50:51: Log file closed.

@@ -1,0 +1,297 @@
+L 08/09/2026 - 00:00:09: SourceMod error session started
+L 08/09/2026 - 00:00:09: Info (map "c2m3_coaster") (file "d:\steamlibrary\steamapps\common\left 4 dead 2\left4dead2\addons\sourcemod\logs\errors_20260809.log")
+L 08/09/2026 - 00:00:09: [SM] Exception reported: Invalid timer handle e790059c (error 3)
+L 08/09/2026 - 00:00:09: [SM] Blaming: l4d2_playerjoining_v3.smx
+L 08/09/2026 - 00:00:09: [SM] Call stack trace:
+L 08/09/2026 - 00:00:09: [SM]   [0] KillTimer
+L 08/09/2026 - 00:00:09: [SM]   [1] Line 56, D:\SteamLibrary\steamapps\common\Left 4 Dead 2\left4dead2\addons\sourcemod\scripting\l4d2_playerjoining_v3.sp::OnClientDisconnect
+L 08/09/2026 - 00:00:27: [SM] Exception reported: Language phrase "Please wait to be revived or rescued" not found (arg 6)
+L 08/09/2026 - 00:00:27: [SM] Blaming: l4dmultislots.smx
+L 08/09/2026 - 00:00:27: [SM] Call stack trace:
+L 08/09/2026 - 00:00:27: [SM]   [0] PrintToChat
+L 08/09/2026 - 00:00:27: [SM]   [1] Line 953, d:\Github\Private-Work\L4D2-插件\scripting_1.11\l4dmultislots.sp::Timer_SpecCheck
+L 08/09/2026 - 00:00:32: [SM] Exception reported: Invalid timer handle 182005a7 (error 3)
+L 08/09/2026 - 00:00:32: [SM] Blaming: l4d2_playerjoining_v3.smx
+L 08/09/2026 - 00:00:32: [SM] Call stack trace:
+L 08/09/2026 - 00:00:32: [SM]   [0] KillTimer
+L 08/09/2026 - 00:00:32: [SM]   [1] Line 56, D:\SteamLibrary\steamapps\common\Left 4 Dead 2\left4dead2\addons\sourcemod\scripting\l4d2_playerjoining_v3.sp::OnClientDisconnect
+L 08/09/2026 - 00:00:36: [SM] Exception reported: Array index out-of-bounds (index 13, limit 12)
+L 08/09/2026 - 00:00:36: [SM] Blaming: l4d2_tank_props_rock_v3.smx
+L 08/09/2026 - 00:00:36: [SM] Call stack trace:
+L 08/09/2026 - 00:00:36: [SM]   [1] Line 222, D:\SteamLibrary\steamapps\common\Left 4 Dead 2\left4dead2\addons\sourcemod\scripting\l4d2_tank_props_rock_v3.sp::Throw
+L 08/09/2026 - 00:00:52: [SM] Exception reported: Language phrase "Please wait to be revived or rescued" not found (arg 6)
+L 08/09/2026 - 00:00:52: [SM] Blaming: l4dmultislots.smx
+L 08/09/2026 - 00:00:52: [SM] Call stack trace:
+L 08/09/2026 - 00:00:52: [SM]   [0] PrintToChat
+L 08/09/2026 - 00:00:52: [SM]   [1] Line 953, d:\Github\Private-Work\L4D2-插件\scripting_1.11\l4dmultislots.sp::Timer_SpecCheck
+L 08/09/2026 - 00:01:09: [SM] Exception reported: Invalid timer handle e3100549 (error 3)
+L 08/09/2026 - 00:01:09: [SM] Blaming: l4d2_playerjoining_v3.smx
+L 08/09/2026 - 00:01:09: [SM] Call stack trace:
+L 08/09/2026 - 00:01:09: [SM]   [0] KillTimer
+L 08/09/2026 - 00:01:09: [SM]   [1] Line 56, D:\SteamLibrary\steamapps\common\Left 4 Dead 2\left4dead2\addons\sourcemod\scripting\l4d2_playerjoining_v3.sp::OnClientDisconnect
+L 08/09/2026 - 00:01:09: [SM] Exception reported: Invalid timer handle bde00599 (error 1)
+L 08/09/2026 - 00:01:09: [SM] Blaming: l4d2_playerjoining_v3.smx
+L 08/09/2026 - 00:01:09: [SM] Call stack trace:
+L 08/09/2026 - 00:01:09: [SM]   [0] KillTimer
+L 08/09/2026 - 00:01:09: [SM]   [1] Line 56, D:\SteamLibrary\steamapps\common\Left 4 Dead 2\left4dead2\addons\sourcemod\scripting\l4d2_playerjoining_v3.sp::OnClientDisconnect
+L 08/09/2026 - 00:01:09: [SM] Exception reported: Invalid timer handle 182005a7 (error 1)
+L 08/09/2026 - 00:01:09: [SM] Blaming: l4d2_playerjoining_v3.smx
+L 08/09/2026 - 00:01:09: [SM] Call stack trace:
+L 08/09/2026 - 00:01:09: [SM]   [0] KillTimer
+L 08/09/2026 - 00:01:09: [SM]   [1] Line 56, D:\SteamLibrary\steamapps\common\Left 4 Dead 2\left4dead2\addons\sourcemod\scripting\l4d2_playerjoining_v3.sp::OnClientDisconnect
+L 08/09/2026 - 00:01:09: [SM] Exception reported: Invalid timer handle e790059c (error 1)
+L 08/09/2026 - 00:01:09: [SM] Blaming: l4d2_playerjoining_v3.smx
+L 08/09/2026 - 00:01:09: [SM] Call stack trace:
+L 08/09/2026 - 00:01:09: [SM]   [0] KillTimer
+L 08/09/2026 - 00:01:09: [SM]   [1] Line 56, D:\SteamLibrary\steamapps\common\Left 4 Dead 2\left4dead2\addons\sourcemod\scripting\l4d2_playerjoining_v3.sp::OnClientDisconnect
+L 08/09/2026 - 00:01:34: [SM] Exception reported: Language phrase "Please wait to be revived or rescued" not found (arg 6)
+L 08/09/2026 - 00:01:34: [SM] Blaming: l4dmultislots.smx
+L 08/09/2026 - 00:01:34: [SM] Call stack trace:
+L 08/09/2026 - 00:01:34: [SM]   [0] PrintToChat
+L 08/09/2026 - 00:01:34: [SM]   [1] Line 953, d:\Github\Private-Work\L4D2-插件\scripting_1.11\l4dmultislots.sp::Timer_SpecCheck
+L 08/09/2026 - 00:01:59: [SM] Exception reported: Language phrase "Please wait to be revived or rescued" not found (arg 6)
+L 08/09/2026 - 00:01:59: [SM] Blaming: l4dmultislots.smx
+L 08/09/2026 - 00:01:59: [SM] Call stack trace:
+L 08/09/2026 - 00:01:59: [SM]   [0] PrintToChat
+L 08/09/2026 - 00:01:59: [SM]   [1] Line 953, d:\Github\Private-Work\L4D2-插件\scripting_1.11\l4dmultislots.sp::Timer_SpecCheck
+L 08/09/2026 - 00:02:17: [SM] Exception reported: Invalid timer handle d040059c (error 1)
+L 08/09/2026 - 00:02:17: [SM] Blaming: l4d2_playerjoining_v3.smx
+L 08/09/2026 - 00:02:17: [SM] Call stack trace:
+L 08/09/2026 - 00:02:17: [SM]   [0] KillTimer
+L 08/09/2026 - 00:02:17: [SM]   [1] Line 56, D:\SteamLibrary\steamapps\common\Left 4 Dead 2\left4dead2\addons\sourcemod\scripting\l4d2_playerjoining_v3.sp::OnClientDisconnect
+L 08/09/2026 - 00:02:17: [SM] Exception reported: Invalid timer handle bde00599 (error 1)
+L 08/09/2026 - 00:02:17: [SM] Blaming: l4d2_playerjoining_v3.smx
+L 08/09/2026 - 00:02:17: [SM] Call stack trace:
+L 08/09/2026 - 00:02:17: [SM]   [0] KillTimer
+L 08/09/2026 - 00:02:17: [SM]   [1] Line 56, D:\SteamLibrary\steamapps\common\Left 4 Dead 2\left4dead2\addons\sourcemod\scripting\l4d2_playerjoining_v3.sp::OnClientDisconnect
+L 08/09/2026 - 00:02:17: [SM] Exception reported: Invalid timer handle e790059c (error 1)
+L 08/09/2026 - 00:02:17: [SM] Blaming: l4d2_playerjoining_v3.smx
+L 08/09/2026 - 00:02:17: [SM] Call stack trace:
+L 08/09/2026 - 00:02:17: [SM]   [0] KillTimer
+L 08/09/2026 - 00:02:17: [SM]   [1] Line 56, D:\SteamLibrary\steamapps\common\Left 4 Dead 2\left4dead2\addons\sourcemod\scripting\l4d2_playerjoining_v3.sp::OnClientDisconnect
+L 08/09/2026 - 00:03:05: [SM] Exception reported: Array index out-of-bounds (index 15, limit 12)
+L 08/09/2026 - 00:03:05: [SM] Blaming: l4d2_tank_props_rock_v3.smx
+L 08/09/2026 - 00:03:05: [SM] Call stack trace:
+L 08/09/2026 - 00:03:05: [SM]   [1] Line 222, D:\SteamLibrary\steamapps\common\Left 4 Dead 2\left4dead2\addons\sourcemod\scripting\l4d2_tank_props_rock_v3.sp::Throw
+L 08/09/2026 - 00:03:14: [SM] Exception reported: Array index out-of-bounds (index 12, limit 12)
+L 08/09/2026 - 00:03:14: [SM] Blaming: l4d2_tank_props_rock_v3.smx
+L 08/09/2026 - 00:03:14: [SM] Call stack trace:
+L 08/09/2026 - 00:03:14: [SM]   [1] Line 222, D:\SteamLibrary\steamapps\common\Left 4 Dead 2\left4dead2\addons\sourcemod\scripting\l4d2_tank_props_rock_v3.sp::Throw
+L 08/09/2026 - 00:03:22: [SM] Exception reported: Invalid timer handle 182005a7 (error 3)
+L 08/09/2026 - 00:03:22: [SM] Blaming: l4d2_playerjoining_v3.smx
+L 08/09/2026 - 00:03:22: [SM] Call stack trace:
+L 08/09/2026 - 00:03:22: [SM]   [0] KillTimer
+L 08/09/2026 - 00:03:22: [SM]   [1] Line 56, D:\SteamLibrary\steamapps\common\Left 4 Dead 2\left4dead2\addons\sourcemod\scripting\l4d2_playerjoining_v3.sp::OnClientDisconnect
+L 08/09/2026 - 00:03:32: [SM] Exception reported: Language phrase "Please wait to be revived or rescued" not found (arg 6)
+L 08/09/2026 - 00:03:32: [SM] Blaming: l4dmultislots.smx
+L 08/09/2026 - 00:03:32: [SM] Call stack trace:
+L 08/09/2026 - 00:03:32: [SM]   [0] PrintToChat
+L 08/09/2026 - 00:03:32: [SM]   [1] Line 953, d:\Github\Private-Work\L4D2-插件\scripting_1.11\l4dmultislots.sp::Timer_SpecCheck
+L 08/09/2026 - 00:03:44: [SM] Exception reported: Invalid timer handle d040059c (error 1)
+L 08/09/2026 - 00:03:44: [SM] Blaming: l4d2_playerjoining_v3.smx
+L 08/09/2026 - 00:03:44: [SM] Call stack trace:
+L 08/09/2026 - 00:03:44: [SM]   [0] KillTimer
+L 08/09/2026 - 00:03:44: [SM]   [1] Line 56, D:\SteamLibrary\steamapps\common\Left 4 Dead 2\left4dead2\addons\sourcemod\scripting\l4d2_playerjoining_v3.sp::OnClientDisconnect
+L 08/09/2026 - 00:03:55: [SM] Exception reported: Invalid timer handle e3100549 (error 3)
+L 08/09/2026 - 00:03:55: [SM] Blaming: l4d2_playerjoining_v3.smx
+L 08/09/2026 - 00:03:55: [SM] Call stack trace:
+L 08/09/2026 - 00:03:55: [SM]   [0] KillTimer
+L 08/09/2026 - 00:03:55: [SM]   [1] Line 56, D:\SteamLibrary\steamapps\common\Left 4 Dead 2\left4dead2\addons\sourcemod\scripting\l4d2_playerjoining_v3.sp::OnClientDisconnect
+L 08/09/2026 - 00:03:57: [SM] Exception reported: Language phrase "Please wait to be revived or rescued" not found (arg 6)
+L 08/09/2026 - 00:03:57: [SM] Blaming: l4dmultislots.smx
+L 08/09/2026 - 00:03:57: [SM] Call stack trace:
+L 08/09/2026 - 00:03:57: [SM]   [0] PrintToChat
+L 08/09/2026 - 00:03:57: [SM]   [1] Line 953, d:\Github\Private-Work\L4D2-插件\scripting_1.11\l4dmultislots.sp::Timer_SpecCheck
+L 08/09/2026 - 00:04:15: [SM] Exception reported: Property "m_vecAngularVelocity" not found (entity 682/weapon_smg)
+L 08/09/2026 - 00:04:15: [SM] Blaming: l4d2_tank_core v4_7.smx
+L 08/09/2026 - 00:04:15: [SM] Call stack trace:
+L 08/09/2026 - 00:04:15: [SM]   [0] SetEntPropVector
+L 08/09/2026 - 00:04:15: [SM]   [1] Line 597, D:\SteamLibrary\steamapps\common\Left 4 Dead 2\left4dead2\addons\sourcemod\scripting\l4d2_tank_core v4_7.sp::DropItemsPhysically
+L 08/09/2026 - 00:04:15: [SM]   [2] Line 516, D:\SteamLibrary\steamapps\common\Left 4 Dead 2\left4dead2\addons\sourcemod\scripting\l4d2_tank_core v4_7.sp::Event_PlayerHurt
+L 08/09/2026 - 00:04:22: [SM] Exception reported: Language phrase "Please wait to be revived or rescued" not found (arg 6)
+L 08/09/2026 - 00:04:22: [SM] Blaming: l4dmultislots.smx
+L 08/09/2026 - 00:04:22: [SM] Call stack trace:
+L 08/09/2026 - 00:04:22: [SM]   [0] PrintToChat
+L 08/09/2026 - 00:04:22: [SM]   [1] Line 953, d:\Github\Private-Work\L4D2-插件\scripting_1.11\l4dmultislots.sp::Timer_SpecCheck
+L 08/09/2026 - 00:04:27: [SM] Exception reported: Invalid timer handle bde00599 (error 3)
+L 08/09/2026 - 00:04:27: [SM] Blaming: l4d2_playerjoining_v3.smx
+L 08/09/2026 - 00:04:27: [SM] Call stack trace:
+L 08/09/2026 - 00:04:27: [SM]   [0] KillTimer
+L 08/09/2026 - 00:04:27: [SM]   [1] Line 56, D:\SteamLibrary\steamapps\common\Left 4 Dead 2\left4dead2\addons\sourcemod\scripting\l4d2_playerjoining_v3.sp::OnClientDisconnect
+L 08/09/2026 - 00:04:47: [SM] Exception reported: Language phrase "Please wait to be revived or rescued" not found (arg 6)
+L 08/09/2026 - 00:04:47: [SM] Blaming: l4dmultislots.smx
+L 08/09/2026 - 00:04:47: [SM] Call stack trace:
+L 08/09/2026 - 00:04:47: [SM]   [0] PrintToChat
+L 08/09/2026 - 00:04:47: [SM]   [1] Line 953, d:\Github\Private-Work\L4D2-插件\scripting_1.11\l4dmultislots.sp::Timer_SpecCheck
+L 08/09/2026 - 00:04:56: [SM] Exception reported: Array index out-of-bounds (index 12, limit 12)
+L 08/09/2026 - 00:04:56: [SM] Blaming: l4d2_tank_props_rock_v3.smx
+L 08/09/2026 - 00:04:56: [SM] Call stack trace:
+L 08/09/2026 - 00:04:56: [SM]   [1] Line 222, D:\SteamLibrary\steamapps\common\Left 4 Dead 2\left4dead2\addons\sourcemod\scripting\l4d2_tank_props_rock_v3.sp::Throw
+L 08/09/2026 - 00:04:56: [SM] Exception reported: Array index out-of-bounds (index 12, limit 12)
+L 08/09/2026 - 00:04:56: [SM] Blaming: l4d2_tank_props_rock_v3.smx
+L 08/09/2026 - 00:04:56: [SM] Call stack trace:
+L 08/09/2026 - 00:04:56: [SM]   [1] Line 222, D:\SteamLibrary\steamapps\common\Left 4 Dead 2\left4dead2\addons\sourcemod\scripting\l4d2_tank_props_rock_v3.sp::Throw
+L 08/09/2026 - 00:04:56: [SM] Exception reported: Array index out-of-bounds (index 13, limit 12)
+L 08/09/2026 - 00:04:56: [SM] Blaming: l4d2_tank_props_rock_v3.smx
+L 08/09/2026 - 00:04:56: [SM] Call stack trace:
+L 08/09/2026 - 00:04:56: [SM]   [1] Line 222, D:\SteamLibrary\steamapps\common\Left 4 Dead 2\left4dead2\addons\sourcemod\scripting\l4d2_tank_props_rock_v3.sp::Throw
+L 08/09/2026 - 00:05:02: [SM] Exception reported: Invalid timer handle bde00599 (error 1)
+L 08/09/2026 - 00:05:02: [SM] Blaming: l4d2_playerjoining_v3.smx
+L 08/09/2026 - 00:05:02: [SM] Call stack trace:
+L 08/09/2026 - 00:05:02: [SM]   [0] KillTimer
+L 08/09/2026 - 00:05:02: [SM]   [1] Line 56, D:\SteamLibrary\steamapps\common\Left 4 Dead 2\left4dead2\addons\sourcemod\scripting\l4d2_playerjoining_v3.sp::OnClientDisconnect
+L 08/09/2026 - 00:05:02: [SM] Exception reported: Invalid timer handle e3100549 (error 3)
+L 08/09/2026 - 00:05:02: [SM] Blaming: l4d2_playerjoining_v3.smx
+L 08/09/2026 - 00:05:02: [SM] Call stack trace:
+L 08/09/2026 - 00:05:02: [SM]   [0] KillTimer
+L 08/09/2026 - 00:05:02: [SM]   [1] Line 56, D:\SteamLibrary\steamapps\common\Left 4 Dead 2\left4dead2\addons\sourcemod\scripting\l4d2_playerjoining_v3.sp::OnClientDisconnect
+L 08/09/2026 - 00:05:02: [SM] Exception reported: Invalid timer handle d040059c (error 1)
+L 08/09/2026 - 00:05:02: [SM] Blaming: l4d2_playerjoining_v3.smx
+L 08/09/2026 - 00:05:02: [SM] Call stack trace:
+L 08/09/2026 - 00:05:02: [SM]   [0] KillTimer
+L 08/09/2026 - 00:05:02: [SM]   [1] Line 56, D:\SteamLibrary\steamapps\common\Left 4 Dead 2\left4dead2\addons\sourcemod\scripting\l4d2_playerjoining_v3.sp::OnClientDisconnect
+L 08/09/2026 - 00:05:02: [SM] Exception reported: Invalid timer handle 182005a7 (error 1)
+L 08/09/2026 - 00:05:02: [SM] Blaming: l4d2_playerjoining_v3.smx
+L 08/09/2026 - 00:05:02: [SM] Call stack trace:
+L 08/09/2026 - 00:05:02: [SM]   [0] KillTimer
+L 08/09/2026 - 00:05:02: [SM]   [1] Line 56, D:\SteamLibrary\steamapps\common\Left 4 Dead 2\left4dead2\addons\sourcemod\scripting\l4d2_playerjoining_v3.sp::OnClientDisconnect
+L 08/09/2026 - 00:05:52: [SM] Exception reported: Language phrase "Please wait to be revived or rescued" not found (arg 6)
+L 08/09/2026 - 00:05:52: [SM] Blaming: l4dmultislots.smx
+L 08/09/2026 - 00:05:52: [SM] Call stack trace:
+L 08/09/2026 - 00:05:52: [SM]   [0] PrintToChat
+L 08/09/2026 - 00:05:52: [SM]   [1] Line 953, d:\Github\Private-Work\L4D2-插件\scripting_1.11\l4dmultislots.sp::Timer_SpecCheck
+L 08/09/2026 - 00:06:00: [SM] Exception reported: Invalid timer handle d040059c (error 3)
+L 08/09/2026 - 00:06:00: [SM] Blaming: l4d2_playerjoining_v3.smx
+L 08/09/2026 - 00:06:00: [SM] Call stack trace:
+L 08/09/2026 - 00:06:00: [SM]   [0] KillTimer
+L 08/09/2026 - 00:06:00: [SM]   [1] Line 56, D:\SteamLibrary\steamapps\common\Left 4 Dead 2\left4dead2\addons\sourcemod\scripting\l4d2_playerjoining_v3.sp::OnClientDisconnect
+L 08/09/2026 - 00:06:17: [SM] Exception reported: Language phrase "Please wait to be revived or rescued" not found (arg 6)
+L 08/09/2026 - 00:06:17: [SM] Blaming: l4dmultislots.smx
+L 08/09/2026 - 00:06:17: [SM] Call stack trace:
+L 08/09/2026 - 00:06:17: [SM]   [0] PrintToChat
+L 08/09/2026 - 00:06:17: [SM]   [1] Line 953, d:\Github\Private-Work\L4D2-插件\scripting_1.11\l4dmultislots.sp::Timer_SpecCheck
+L 08/09/2026 - 00:06:40: [SM] Exception reported: Array index out-of-bounds (index 15, limit 12)
+L 08/09/2026 - 00:06:40: [SM] Blaming: l4d2_tank_props_rock_v3.smx
+L 08/09/2026 - 00:06:40: [SM] Call stack trace:
+L 08/09/2026 - 00:06:40: [SM]   [1] Line 222, D:\SteamLibrary\steamapps\common\Left 4 Dead 2\left4dead2\addons\sourcemod\scripting\l4d2_tank_props_rock_v3.sp::Throw
+L 08/09/2026 - 00:06:47: [SM] Exception reported: Invalid timer handle d040059c (error 3)
+L 08/09/2026 - 00:06:47: [SM] Blaming: l4d2_playerjoining_v3.smx
+L 08/09/2026 - 00:06:47: [SM] Call stack trace:
+L 08/09/2026 - 00:06:47: [SM]   [0] KillTimer
+L 08/09/2026 - 00:06:47: [SM]   [1] Line 56, D:\SteamLibrary\steamapps\common\Left 4 Dead 2\left4dead2\addons\sourcemod\scripting\l4d2_playerjoining_v3.sp::OnClientDisconnect
+L 08/09/2026 - 00:07:04: [SM] Exception reported: Invalid timer handle bde00599 (error 3)
+L 08/09/2026 - 00:07:04: [SM] Blaming: l4d2_playerjoining_v3.smx
+L 08/09/2026 - 00:07:04: [SM] Call stack trace:
+L 08/09/2026 - 00:07:04: [SM]   [0] KillTimer
+L 08/09/2026 - 00:07:04: [SM]   [1] Line 56, D:\SteamLibrary\steamapps\common\Left 4 Dead 2\left4dead2\addons\sourcemod\scripting\l4d2_playerjoining_v3.sp::OnClientDisconnect
+L 08/09/2026 - 00:08:06: [SM] Exception reported: Invalid timer handle 182005a7 (error 1)
+L 08/09/2026 - 00:08:06: [SM] Blaming: l4d2_playerjoining_v3.smx
+L 08/09/2026 - 00:08:06: [SM] Call stack trace:
+L 08/09/2026 - 00:08:06: [SM]   [0] KillTimer
+L 08/09/2026 - 00:08:06: [SM]   [1] Line 56, D:\SteamLibrary\steamapps\common\Left 4 Dead 2\left4dead2\addons\sourcemod\scripting\l4d2_playerjoining_v3.sp::OnClientDisconnect
+L 08/09/2026 - 00:08:22: [SM] Exception reported: Language phrase "Please wait to be revived or rescued" not found (arg 6)
+L 08/09/2026 - 00:08:22: [SM] Blaming: l4dmultislots.smx
+L 08/09/2026 - 00:08:22: [SM] Call stack trace:
+L 08/09/2026 - 00:08:22: [SM]   [0] PrintToChat
+L 08/09/2026 - 00:08:22: [SM]   [1] Line 953, d:\Github\Private-Work\L4D2-插件\scripting_1.11\l4dmultislots.sp::Timer_SpecCheck
+L 08/09/2026 - 00:08:24: [SM] Exception reported: Array index out-of-bounds (index 13, limit 12)
+L 08/09/2026 - 00:08:24: [SM] Blaming: l4d2_tank_props_rock_v3.smx
+L 08/09/2026 - 00:08:24: [SM] Call stack trace:
+L 08/09/2026 - 00:08:24: [SM]   [1] Line 222, D:\SteamLibrary\steamapps\common\Left 4 Dead 2\left4dead2\addons\sourcemod\scripting\l4d2_tank_props_rock_v3.sp::Throw
+L 08/09/2026 - 00:08:34: [SM] Exception reported: Invalid timer handle e3100549 (error 3)
+L 08/09/2026 - 00:08:34: [SM] Blaming: l4d2_playerjoining_v3.smx
+L 08/09/2026 - 00:08:34: [SM] Call stack trace:
+L 08/09/2026 - 00:08:34: [SM]   [0] KillTimer
+L 08/09/2026 - 00:08:34: [SM]   [1] Line 56, D:\SteamLibrary\steamapps\common\Left 4 Dead 2\left4dead2\addons\sourcemod\scripting\l4d2_playerjoining_v3.sp::OnClientDisconnect
+L 08/09/2026 - 00:08:47: [SM] Exception reported: Language phrase "Please wait to be revived or rescued" not found (arg 6)
+L 08/09/2026 - 00:08:47: [SM] Blaming: l4dmultislots.smx
+L 08/09/2026 - 00:08:47: [SM] Call stack trace:
+L 08/09/2026 - 00:08:47: [SM]   [0] PrintToChat
+L 08/09/2026 - 00:08:47: [SM]   [1] Line 953, d:\Github\Private-Work\L4D2-插件\scripting_1.11\l4dmultislots.sp::Timer_SpecCheck
+L 08/09/2026 - 00:08:52: [SM] Exception reported: Invalid timer handle d040059c (error 3)
+L 08/09/2026 - 00:08:52: [SM] Blaming: l4d2_playerjoining_v3.smx
+L 08/09/2026 - 00:08:52: [SM] Call stack trace:
+L 08/09/2026 - 00:08:52: [SM]   [0] KillTimer
+L 08/09/2026 - 00:08:52: [SM]   [1] Line 56, D:\SteamLibrary\steamapps\common\Left 4 Dead 2\left4dead2\addons\sourcemod\scripting\l4d2_playerjoining_v3.sp::OnClientDisconnect
+L 08/09/2026 - 00:08:59: [SM] Exception reported: Invalid timer handle bde00599 (error 3)
+L 08/09/2026 - 00:08:59: [SM] Blaming: l4d2_playerjoining_v3.smx
+L 08/09/2026 - 00:08:59: [SM] Call stack trace:
+L 08/09/2026 - 00:08:59: [SM]   [0] KillTimer
+L 08/09/2026 - 00:08:59: [SM]   [1] Line 56, D:\SteamLibrary\steamapps\common\Left 4 Dead 2\left4dead2\addons\sourcemod\scripting\l4d2_playerjoining_v3.sp::OnClientDisconnect
+L 08/09/2026 - 00:09:00: [SM] Exception reported: Invalid timer handle 182005a7 (error 1)
+L 08/09/2026 - 00:09:00: [SM] Blaming: l4d2_playerjoining_v3.smx
+L 08/09/2026 - 00:09:00: [SM] Call stack trace:
+L 08/09/2026 - 00:09:00: [SM]   [0] KillTimer
+L 08/09/2026 - 00:09:00: [SM]   [1] Line 56, D:\SteamLibrary\steamapps\common\Left 4 Dead 2\left4dead2\addons\sourcemod\scripting\l4d2_playerjoining_v3.sp::OnClientDisconnect
+L 08/09/2026 - 00:09:19: [SM] Exception reported: Invalid timer handle 4bf0052f (error 1)
+L 08/09/2026 - 00:09:19: [SM] Blaming: l4d2_playerjoining_v3.smx
+L 08/09/2026 - 00:09:19: [SM] Call stack trace:
+L 08/09/2026 - 00:09:19: [SM]   [0] KillTimer
+L 08/09/2026 - 00:09:19: [SM]   [1] Line 56, D:\SteamLibrary\steamapps\common\Left 4 Dead 2\left4dead2\addons\sourcemod\scripting\l4d2_playerjoining_v3.sp::OnClientDisconnect
+L 08/09/2026 - 00:09:19: [SM] Exception reported: Invalid timer handle d040059c (error 3)
+L 08/09/2026 - 00:09:19: [SM] Blaming: l4d2_playerjoining_v3.smx
+L 08/09/2026 - 00:09:19: [SM] Call stack trace:
+L 08/09/2026 - 00:09:19: [SM]   [0] KillTimer
+L 08/09/2026 - 00:09:19: [SM]   [1] Line 56, D:\SteamLibrary\steamapps\common\Left 4 Dead 2\left4dead2\addons\sourcemod\scripting\l4d2_playerjoining_v3.sp::OnClientDisconnect
+L 08/09/2026 - 00:09:20: Error log file session closed.
+L 08/09/2026 - 00:09:20: SourceMod error session started
+L 08/09/2026 - 00:09:20: Info (map "c2m4_barns") (file "d:\steamlibrary\steamapps\common\left 4 dead 2\left4dead2\addons\sourcemod\logs\errors_20260809.log")
+L 08/09/2026 - 00:09:20: [SM] Fatal error encountered parsing translation file "l4d_nth.phrases.txt"
+L 08/09/2026 - 00:09:20: [SM] Error (line 0, column 0): Stream failed to open
+L 08/09/2026 - 00:09:20: [SM] Fatal error encountered parsing translation file "chargersteering.phrases.txt"
+L 08/09/2026 - 00:09:20: [SM] Error (line 0, column 0): Stream failed to open
+L 08/09/2026 - 00:09:23: [l4d2_publicity.smx] [Publicity] No se encontraron mensajes en el archivo de configuración
+L 08/09/2026 - 00:09:23: [SM] Exception reported: Array index out-of-bounds (index 12, limit 12)
+L 08/09/2026 - 00:09:23: [SM] Blaming: l4d2_tank_props_rock_v3.smx
+L 08/09/2026 - 00:09:23: [SM] Call stack trace:
+L 08/09/2026 - 00:09:23: [SM]   [1] Line 142, D:\SteamLibrary\steamapps\common\Left 4 Dead 2\left4dead2\addons\sourcemod\scripting\l4d2_tank_props_rock_v3.sp::OnMapStart
+L 08/09/2026 - 00:09:49: [SM] Exception reported: Invalid timer handle bde00599 (error 3)
+L 08/09/2026 - 00:09:49: [SM] Blaming: l4d2_playerjoining_v3.smx
+L 08/09/2026 - 00:09:49: [SM] Call stack trace:
+L 08/09/2026 - 00:09:49: [SM]   [0] KillTimer
+L 08/09/2026 - 00:09:49: [SM]   [1] Line 56, D:\SteamLibrary\steamapps\common\Left 4 Dead 2\left4dead2\addons\sourcemod\scripting\l4d2_playerjoining_v3.sp::OnClientDisconnect
+L 08/09/2026 - 00:09:49: [SM] Exception reported: Invalid timer handle d040059c (error 3)
+L 08/09/2026 - 00:09:49: [SM] Blaming: l4d2_playerjoining_v3.smx
+L 08/09/2026 - 00:09:49: [SM] Call stack trace:
+L 08/09/2026 - 00:09:49: [SM]   [0] KillTimer
+L 08/09/2026 - 00:09:49: [SM]   [1] Line 56, D:\SteamLibrary\steamapps\common\Left 4 Dead 2\left4dead2\addons\sourcemod\scripting\l4d2_playerjoining_v3.sp::OnClientDisconnect
+L 08/09/2026 - 00:10:10: [SM] Exception reported: Array index out-of-bounds (index 13, limit 12)
+L 08/09/2026 - 00:10:10: [SM] Blaming: l4d2_tank_props_rock_v3.smx
+L 08/09/2026 - 00:10:10: [SM] Call stack trace:
+L 08/09/2026 - 00:10:10: [SM]   [1] Line 222, D:\SteamLibrary\steamapps\common\Left 4 Dead 2\left4dead2\addons\sourcemod\scripting\l4d2_tank_props_rock_v3.sp::Throw
+L 08/09/2026 - 00:10:50: [SM] Exception reported: Invalid timer handle 182005a7 (error 1)
+L 08/09/2026 - 00:10:50: [SM] Blaming: l4d2_playerjoining_v3.smx
+L 08/09/2026 - 00:10:50: [SM] Call stack trace:
+L 08/09/2026 - 00:10:50: [SM]   [0] KillTimer
+L 08/09/2026 - 00:10:50: [SM]   [1] Line 56, D:\SteamLibrary\steamapps\common\Left 4 Dead 2\left4dead2\addons\sourcemod\scripting\l4d2_playerjoining_v3.sp::OnClientDisconnect
+L 08/09/2026 - 00:11:49: [SM] Exception reported: Invalid timer handle e3100549 (error 1)
+L 08/09/2026 - 00:11:49: [SM] Blaming: l4d2_playerjoining_v3.smx
+L 08/09/2026 - 00:11:49: [SM] Call stack trace:
+L 08/09/2026 - 00:11:49: [SM]   [0] KillTimer
+L 08/09/2026 - 00:11:49: [SM]   [1] Line 56, D:\SteamLibrary\steamapps\common\Left 4 Dead 2\left4dead2\addons\sourcemod\scripting\l4d2_playerjoining_v3.sp::OnClientDisconnect
+L 08/09/2026 - 00:11:49: [SM] Exception reported: Invalid timer handle d040059c (error 1)
+L 08/09/2026 - 00:11:49: [SM] Blaming: l4d2_playerjoining_v3.smx
+L 08/09/2026 - 00:11:49: [SM] Call stack trace:
+L 08/09/2026 - 00:11:49: [SM]   [0] KillTimer
+L 08/09/2026 - 00:11:49: [SM]   [1] Line 56, D:\SteamLibrary\steamapps\common\Left 4 Dead 2\left4dead2\addons\sourcemod\scripting\l4d2_playerjoining_v3.sp::OnClientDisconnect
+L 08/09/2026 - 00:11:49: [SM] Exception reported: Invalid timer handle bde00599 (error 1)
+L 08/09/2026 - 00:11:49: [SM] Blaming: l4d2_playerjoining_v3.smx
+L 08/09/2026 - 00:11:49: [SM] Call stack trace:
+L 08/09/2026 - 00:11:49: [SM]   [0] KillTimer
+L 08/09/2026 - 00:11:49: [SM]   [1] Line 56, D:\SteamLibrary\steamapps\common\Left 4 Dead 2\left4dead2\addons\sourcemod\scripting\l4d2_playerjoining_v3.sp::OnClientDisconnect
+L 08/09/2026 - 00:12:25: [SM] Exception reported: Invalid timer handle 4bf0052f (error 3)
+L 08/09/2026 - 00:12:25: [SM] Blaming: l4d2_playerjoining_v3.smx
+L 08/09/2026 - 00:12:25: [SM] Call stack trace:
+L 08/09/2026 - 00:12:25: [SM]   [0] KillTimer
+L 08/09/2026 - 00:12:25: [SM]   [1] Line 56, D:\SteamLibrary\steamapps\common\Left 4 Dead 2\left4dead2\addons\sourcemod\scripting\l4d2_playerjoining_v3.sp::OnClientDisconnect
+L 08/09/2026 - 00:12:25: [SM] Exception reported: Invalid timer handle 182005a7 (error 3)
+L 08/09/2026 - 00:12:25: [SM] Blaming: l4d2_playerjoining_v3.smx
+L 08/09/2026 - 00:12:25: [SM] Call stack trace:
+L 08/09/2026 - 00:12:25: [SM]   [0] KillTimer
+L 08/09/2026 - 00:12:25: [SM]   [1] Line 56, D:\SteamLibrary\steamapps\common\Left 4 Dead 2\left4dead2\addons\sourcemod\scripting\l4d2_playerjoining_v3.sp::OnClientDisconnect
+L 08/09/2026 - 00:12:25: [SM] Exception reported: Invalid timer handle 7e30058d (error 3)
+L 08/09/2026 - 00:12:25: [SM] Blaming: l4d2_playerjoining_v3.smx
+L 08/09/2026 - 00:12:25: [SM] Call stack trace:
+L 08/09/2026 - 00:12:25: [SM]   [0] KillTimer
+L 08/09/2026 - 00:12:25: [SM]   [1] Line 56, D:\SteamLibrary\steamapps\common\Left 4 Dead 2\left4dead2\addons\sourcemod\scripting\l4d2_playerjoining_v3.sp::OnClientDisconnect
+L 08/09/2026 - 00:12:28: Error log file session closed.

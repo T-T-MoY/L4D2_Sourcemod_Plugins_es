@@ -1,0 +1,154 @@
+L 02/18/2026 - 00:00:37: SourceMod log file session started (file "d:\steamlibrary\steamapps\common\left 4 dead 2\left4dead2\addons\sourcemod\logs\L20260218.log") (Version "1.12.0.7207")
+L 02/18/2026 - 00:00:37: [basecommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" changed cvar (cvar "director_no_specials") (value "1")
+L 02/18/2026 - 00:00:37: [basecommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" changed cvar (cvar "z_max_player_zombies") (value "0")
+L 02/18/2026 - 00:02:13: [l4d_sm_respawn.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" teleported "Nick<491><BOT><>" after respawning him
+L 02/18/2026 - 00:02:14: [l4d_sm_respawn.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" teleported "joche<81><STEAM_1:1:146668683><>" after respawning him
+L 02/18/2026 - 00:02:18: [basecommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" changed cvar (cvar "z_common_limit") (value "0")
+L 02/18/2026 - 00:02:53: [l4d_sm_respawn.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" teleported "Nick<491><BOT><>" after respawning him
+L 02/18/2026 - 00:04:03: [l4d2_shop.smx] [UPDATE]: "[T-T]MoY<2><STEAM_1:0:511491787><>" saved. Points: "380"
+L 02/18/2026 - 00:05:55: [l4d_sm_respawn.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" teleported "joche<81><STEAM_1:1:146668683><>" after respawning him
+L 02/18/2026 - 00:06:37: [l4d_sm_respawn.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" teleported "joche<81><STEAM_1:1:146668683><>" after respawning him
+L 02/18/2026 - 00:06:37: [l4d_sm_respawn.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" teleported "Nick<520><BOT><>" after respawning him
+L 02/18/2026 - 00:07:11: [l4d_sm_respawn.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" teleported "dodoria903<518><STEAM_1:0:933197840><>" after respawning him
+L 02/18/2026 - 00:07:11: [l4d_sm_respawn.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" teleported "joche<81><STEAM_1:1:146668683><>" after respawning him
+L 02/18/2026 - 00:09:04: [l4d2_shop.smx] [Buy]: "chriss<206><STEAM_1:1:957560997><>" bought "molotov" (price: "28"), remaining points: "603"
+L 02/18/2026 - 00:09:04: [l4d_sm_respawn.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" teleported "joche<81><STEAM_1:1:146668683><>" after respawning him
+L 02/18/2026 - 00:10:10: [l4d_sm_respawn.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" teleported "dodoria903<518><STEAM_1:0:933197840><>" after respawning him
+L 02/18/2026 - 00:10:10: [l4d_sm_respawn.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" teleported "Bill<521><BOT><>" after respawning him
+L 02/18/2026 - 00:12:17: [l4d_sm_respawn.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" teleported "dodoria903<518><STEAM_1:0:933197840><>" after respawning him
+L 02/18/2026 - 00:13:05: [l4d_sm_respawn.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" teleported "Kentaツ<527><STEAM_1:0:752502084><>" after respawning him
+L 02/18/2026 - 00:13:31: [playercommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" slayed "joche<81><STEAM_1:1:146668683><>"
+L 02/18/2026 - 00:13:33: [l4d_sm_respawn.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" teleported "joche<81><STEAM_1:1:146668683><>" after respawning him
+L 02/18/2026 - 00:13:48: [l4d_sm_respawn.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" teleported "Coach<531><BOT><>" after respawning him
+L 02/18/2026 - 00:13:55: [l4d2_shop.smx] [Buy]: "chriss<206><STEAM_1:1:957560997><>" bought "molotov" (price: "28"), remaining points: "593"
+L 02/18/2026 - 00:14:33: [l4d2_shop.smx] [UPDATE]: "[T-T]MoY<2><STEAM_1:0:511491787><>" saved. Points: "400"
+L 02/18/2026 - 00:14:34: [l4d_sm_respawn.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" teleported "chriss<206><STEAM_1:1:957560997><>" after respawning him
+L 02/18/2026 - 21:32:19: SourceMod log file session started (file "d:\steamlibrary\steamapps\common\left 4 dead 2\left4dead2\addons\sourcemod\logs\L20260218.log") (Version "1.12.0.7207")
+L 02/18/2026 - 21:32:19: [GEOIP] GeoIP2 database loaded: GeoLite2-ASN (2024-08-21 08:15:21 UTC) (d:\steamlibrary\steamapps\common\left 4 dead 2\left4dead2\addons\sourcemod\configs\geoip\GeoLite2-ASN.mmdb)
+L 02/18/2026 - 21:32:19: [GEOIP] GeoIP2 supported languages: en
+L 02/18/2026 - 21:32:19: [GEOIP] Your database is older than 90 days. You should consider downloading a newer version from e.g. https://dev.maxmind.com/geoip/geolite2-free-geolocation-data
+L 02/18/2026 - 21:32:19: [l4d2_map_rotation.smx] [Rotation] Lista cargada con 4 campañas.
+L 02/18/2026 - 21:32:20: [l4d_extinguisher.smx] 
+==========
+Warning: You should install "[L4D2] Scavenge Score Fix - Gascan Pouring" to prevent affecting the score when filling gas in Scavenge style events: https://forums.alliedmods.net/showthread.php?t=187686
+==========
+
+L 02/18/2026 - 21:32:20: [l4d_extinguisher.smx] 
+==========
+Warning: You should install "[L4D & L4D2] Use Priority Patch" to fix attached models blocking +USE action: https://forums.alliedmods.net/showthread.php?t=327511
+==========
+
+L 02/18/2026 - 21:32:28: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_consistency") (value "0")
+L 02/18/2026 - 21:32:28: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_allow_lobby_connect_only") (value "0")
+L 02/18/2026 - 21:32:28: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxplayers") (value "8")
+L 02/18/2026 - 21:32:28: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_visiblemaxplayers") (value "-1")
+L 02/18/2026 - 21:32:29: [chat-processor.smx] Message formats generated for game 'left4dead2'.
+L 02/18/2026 - 21:32:29: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 02/18/2026 - 21:33:07: [basecommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" changed cvar (cvar "sv_gravity") (value "200")
+L 02/18/2026 - 21:33:41: -------- Mapchange to bwm1_climb_night --------
+L 02/18/2026 - 21:33:44: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_consistency") (value "0")
+L 02/18/2026 - 21:33:44: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_allow_lobby_connect_only") (value "0")
+L 02/18/2026 - 21:33:44: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxplayers") (value "8")
+L 02/18/2026 - 21:33:44: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_visiblemaxplayers") (value "-1")
+L 02/18/2026 - 21:33:44: [chat-processor.smx] Message formats generated for game 'left4dead2'.
+L 02/18/2026 - 21:33:44: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 02/18/2026 - 21:34:57: [l4d2_shop.smx] [UPDATE]: "[T-T]MoY<6><STEAM_1:0:511491787><>" saved. Points: "0"
+L 02/18/2026 - 21:36:36: [l4d2_shop.smx] [UPDATE]: "[T-T]MoY<6><STEAM_1:0:511491787><>" saved. Points: "0"
+L 02/18/2026 - 21:36:36: [l4d2_shop.smx] [UPDATE]: "pedritoelmascapito<12><STEAM_1:1:639552062><>" saved. Points: "0"
+L 02/18/2026 - 21:38:16: [l4d2_shop.smx] [UPDATE]: "[T-T]MoY<6><STEAM_1:0:511491787><>" saved. Points: "0"
+L 02/18/2026 - 21:38:16: [l4d2_shop.smx] [UPDATE]: "pedritoelmascapito<12><STEAM_1:1:639552062><>" saved. Points: "0"
+L 02/18/2026 - 21:40:44: -------- Mapchange to bwm2_city_night --------
+L 02/18/2026 - 21:40:47: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_consistency") (value "0")
+L 02/18/2026 - 21:40:47: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_allow_lobby_connect_only") (value "0")
+L 02/18/2026 - 21:40:47: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxplayers") (value "8")
+L 02/18/2026 - 21:40:47: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_visiblemaxplayers") (value "-1")
+L 02/18/2026 - 21:40:48: [chat-processor.smx] Message formats generated for game 'left4dead2'.
+L 02/18/2026 - 21:40:48: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 02/18/2026 - 21:43:04: [l4d2_shop.smx] [UPDATE]: "[T-T]MoY<6><STEAM_1:0:511491787><>" saved. Points: "2"
+L 02/18/2026 - 21:43:04: [l4d2_shop.smx] [UPDATE]: "pedritoelmascapito<12><STEAM_1:1:639552062><>" saved. Points: "2"
+L 02/18/2026 - 21:46:23: -------- Mapchange to bwm3_forest_night --------
+L 02/18/2026 - 21:46:26: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_consistency") (value "0")
+L 02/18/2026 - 21:46:26: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_allow_lobby_connect_only") (value "0")
+L 02/18/2026 - 21:46:26: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxplayers") (value "8")
+L 02/18/2026 - 21:46:26: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_visiblemaxplayers") (value "-1")
+L 02/18/2026 - 21:46:26: [chat-processor.smx] Message formats generated for game 'left4dead2'.
+L 02/18/2026 - 21:46:26: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 02/18/2026 - 21:48:59: [l4d2_shop.smx] [UPDATE]: "[T-T]MoY<6><STEAM_1:0:511491787><>" saved. Points: "22"
+L 02/18/2026 - 21:48:59: [l4d2_shop.smx] [UPDATE]: "pedritoelmascapito<12><STEAM_1:1:639552062><>" saved. Points: "22"
+L 02/18/2026 - 21:52:23: [l4d2_shop.smx] [UPDATE]: "[T-T]MoY<6><STEAM_1:0:511491787><>" saved. Points: "38"
+L 02/18/2026 - 21:52:23: [l4d2_shop.smx] [UPDATE]: "pedritoelmascapito<12><STEAM_1:1:639552062><>" saved. Points: "38"
+L 02/18/2026 - 21:53:26: [l4d2_shop.smx] [UPDATE]: "[T-T]MoY<6><STEAM_1:0:511491787><>" saved. Points: "38"
+L 02/18/2026 - 21:53:26: [l4d2_shop.smx] [UPDATE]: "pedritoelmascapito<12><STEAM_1:1:639552062><>" saved. Points: "38"
+L 02/18/2026 - 21:55:49: -------- Mapchange to bwm4_rooftops_night --------
+L 02/18/2026 - 21:55:53: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_consistency") (value "0")
+L 02/18/2026 - 21:55:53: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_allow_lobby_connect_only") (value "0")
+L 02/18/2026 - 21:55:53: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxplayers") (value "8")
+L 02/18/2026 - 21:55:53: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_visiblemaxplayers") (value "-1")
+L 02/18/2026 - 21:55:53: [chat-processor.smx] Message formats generated for game 'left4dead2'.
+L 02/18/2026 - 21:55:53: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 02/18/2026 - 21:57:56: [l4d2_shop.smx] [UPDATE]: "[T-T]MoY<6><STEAM_1:0:511491787><>" saved. Points: "40"
+L 02/18/2026 - 21:57:56: [l4d2_shop.smx] [UPDATE]: "pedritoelmascapito<12><STEAM_1:1:639552062><>" saved. Points: "43"
+L 02/18/2026 - 21:59:18: [l4d2_shop.smx] [UPDATE]: "[T-T]MoY<6><STEAM_1:0:511491787><>" saved. Points: "44"
+L 02/18/2026 - 21:59:18: [l4d2_shop.smx] [UPDATE]: "pedritoelmascapito<12><STEAM_1:1:639552062><>" saved. Points: "47"
+L 02/18/2026 - 22:01:42: -------- Mapchange to bwm5_bridge_night --------
+L 02/18/2026 - 22:01:45: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_consistency") (value "0")
+L 02/18/2026 - 22:01:45: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_allow_lobby_connect_only") (value "0")
+L 02/18/2026 - 22:01:45: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxplayers") (value "8")
+L 02/18/2026 - 22:01:45: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_visiblemaxplayers") (value "-1")
+L 02/18/2026 - 22:01:45: [chat-processor.smx] Message formats generated for game 'left4dead2'.
+L 02/18/2026 - 22:01:45: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 02/18/2026 - 22:04:05: [l4d2_shop.smx] [UPDATE]: "[T-T]MoY<6><STEAM_1:0:511491787><>" saved. Points: "56"
+L 02/18/2026 - 22:04:05: [l4d2_shop.smx] [UPDATE]: "pedritoelmascapito<12><STEAM_1:1:639552062><>" saved. Points: "59"
+L 02/18/2026 - 22:05:24: [l4d2_shop.smx] [UPDATE]: "[T-T]MoY<6><STEAM_1:0:511491787><>" saved. Points: "58"
+L 02/18/2026 - 22:05:24: [l4d2_shop.smx] [UPDATE]: "pedritoelmascapito<12><STEAM_1:1:639552062><>" saved. Points: "61"
+L 02/18/2026 - 22:08:05: [l4d2_shop.smx] [UPDATE]: "[T-T]MoY<6><STEAM_1:0:511491787><>" saved. Points: "68"
+L 02/18/2026 - 22:08:05: [l4d2_shop.smx] [UPDATE]: "pedritoelmascapito<12><STEAM_1:1:639552062><>" saved. Points: "71"
+L 02/18/2026 - 22:10:44: -------- Mapchange to c1m1_hotel --------
+L 02/18/2026 - 22:10:47: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_consistency") (value "0")
+L 02/18/2026 - 22:10:47: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_allow_lobby_connect_only") (value "0")
+L 02/18/2026 - 22:10:47: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxplayers") (value "8")
+L 02/18/2026 - 22:10:47: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_visiblemaxplayers") (value "-1")
+L 02/18/2026 - 22:10:47: [chat-processor.smx] Message formats generated for game 'left4dead2'.
+L 02/18/2026 - 22:10:47: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 02/18/2026 - 22:13:37: [l4d2_shop.smx] [UPDATE]: "[T-T]MoY<6><STEAM_1:0:511491787><>" saved. Points: "86"
+L 02/18/2026 - 22:17:27: -------- Mapchange to c1m2_streets --------
+L 02/18/2026 - 22:17:31: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_consistency") (value "0")
+L 02/18/2026 - 22:17:31: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_allow_lobby_connect_only") (value "0")
+L 02/18/2026 - 22:17:31: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxplayers") (value "8")
+L 02/18/2026 - 22:17:31: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_visiblemaxplayers") (value "-1")
+L 02/18/2026 - 22:17:31: [chat-processor.smx] Message formats generated for game 'left4dead2'.
+L 02/18/2026 - 22:17:31: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 02/18/2026 - 22:21:44: [basevotes.smx] "[T-T]MoY<6><STEAM_1:0:511491787><>" initiated a generic vote (question "hola" / answers "hola" "hola").
+L 02/18/2026 - 22:22:04: [basevotes.smx] Vote successful. (Received "100" of 2 votes)
+L 02/18/2026 - 22:22:04: [basevotes.smx] The answer to hola is: hola.
+L 02/18/2026 - 22:23:10: [l4d2_shop.smx] [UPDATE]: "[T-T]MoY<6><STEAM_1:0:511491787><>" saved. Points: "128"
+L 02/18/2026 - 22:23:18: [l4d2_shop.smx] [UPDATE]: "[T-T]MoY<6><STEAM_1:0:511491787><>" saved. Points: "628"
+L 02/18/2026 - 22:23:18: [l4d2_shop.smx] [Admin]: "[T-T]MoY<6><STEAM_1:0:511491787><>" rewarded "500" points for "[T-T]MoY<6><STEAM_1:0:511491787><>" (current: "628")
+L 02/18/2026 - 22:23:20: [l4d2_shop.smx] [Admin]: "[T-T]MoY<6><STEAM_1:0:511491787><>" rewarded "500" points for "DEGENERADO<140><STEAM_1:0:929364245><>" (current: "532")
+L 02/18/2026 - 22:23:20: [l4d2_shop.smx] [Admin]: "[T-T]MoY<6><STEAM_1:0:511491787><>" rewarded "500" points for "@Aurelio<129><STEAM_1:1:216861465><>" (current: "576")
+L 02/18/2026 - 22:23:21: [l4d2_shop.smx] [Admin]: "[T-T]MoY<6><STEAM_1:0:511491787><>" rewarded "500" points for "estarossaperedo009<173><STEAM_1:0:639913042><>" (current: "634")
+L 02/18/2026 - 22:23:21: [l4d2_shop.smx] [Admin]: "[T-T]MoY<6><STEAM_1:0:511491787><>" rewarded "500" points for "Papa Noel Pozzo<191><STEAM_1:1:780945294><>" (current: "504")
+L 02/18/2026 - 22:23:22: [l4d2_shop.smx] [Admin]: "[T-T]MoY<6><STEAM_1:0:511491787><>" rewarded "500" points for "RIP_OBITO2<177><STEAM_1:1:402433838><>" (current: "504")
+L 02/18/2026 - 22:23:42: [l4d2_shop.smx] [Buy]: "@Aurelio<129><STEAM_1:1:216861465><>" bought "molotov" (price: "28"), remaining points: "548"
+L 02/18/2026 - 22:26:11: [l4d2_shop.smx] [Buy]: "@Aurelio<129><STEAM_1:1:216861465><>" bought "molotov" (price: "28"), remaining points: "534"
+L 02/18/2026 - 22:26:22: [l4d2_shop.smx] [Buy]: "@Aurelio<129><STEAM_1:1:216861465><>" bought "adrenaline" (price: "43"), remaining points: "493"
+L 02/18/2026 - 22:27:43: -------- Mapchange to c1m3_mall --------
+L 02/18/2026 - 22:27:47: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_consistency") (value "0")
+L 02/18/2026 - 22:27:47: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_allow_lobby_connect_only") (value "0")
+L 02/18/2026 - 22:27:47: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxplayers") (value "8")
+L 02/18/2026 - 22:27:47: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_visiblemaxplayers") (value "-1")
+L 02/18/2026 - 22:27:47: [chat-processor.smx] Message formats generated for game 'left4dead2'.
+L 02/18/2026 - 22:27:47: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 02/18/2026 - 22:28:37: [l4d2_shop.smx] [Buy]: "@Aurelio<129><STEAM_1:1:216861465><>" bought "rifle_ak47" (price: "30"), remaining points: "482"
+L 02/18/2026 - 22:30:57: [l4d2_shop.smx] [Buy]: "@Aurelio<129><STEAM_1:1:216861465><>" bought "adrenaline" (price: "43"), remaining points: "447"
+L 02/18/2026 - 22:30:59: [l4d2_shop.smx] [Buy]: "[T-T]MoY<6><STEAM_1:0:511491787><>" bought "health" (price: "98"), remaining points: "578"
+L 02/18/2026 - 22:32:27: [l4d2_shop.smx] [Buy]: "[T-T]MoY<6><STEAM_1:0:511491787><>" bought "extinguisher" (price: "40"), remaining points: "538"
+L 02/18/2026 - 22:32:54: -------- Mapchange to c1m4_atrium --------
+L 02/18/2026 - 22:32:57: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_consistency") (value "0")
+L 02/18/2026 - 22:32:57: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_allow_lobby_connect_only") (value "0")
+L 02/18/2026 - 22:32:57: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxplayers") (value "8")
+L 02/18/2026 - 22:32:57: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_visiblemaxplayers") (value "-1")
+L 02/18/2026 - 22:32:57: [chat-processor.smx] Message formats generated for game 'left4dead2'.
+L 02/18/2026 - 22:32:57: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 02/18/2026 - 22:33:40: [l4d2_shop.smx] [Buy]: "[T-T]MoY<6><STEAM_1:0:511491787><>" bought "extinguisher" (price: "40"), remaining points: "500"
+L 02/18/2026 - 22:33:59: [l4d2_shop.smx] [Buy]: "@Aurelio<129><STEAM_1:1:216861465><>" bought "extinguisher" (price: "40"), remaining points: "409"

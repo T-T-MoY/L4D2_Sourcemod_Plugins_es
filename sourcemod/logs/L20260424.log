@@ -1,0 +1,272 @@
+L 04/24/2026 - 00:00:11: SourceMod log file session started (file "d:\steamlibrary\steamapps\common\left 4 dead 2\left4dead2\addons\sourcemod\logs\L20260424.log") (Version "1.12.0.7207")
+L 04/24/2026 - 00:00:11: [l4d_sm_respawn.smx] "[T-T]MoY<10><STEAM_1:0:511491787><>" teleported "[T-T]MoY<10><STEAM_1:0:511491787><>" after respawning him
+L 04/24/2026 - 00:00:12: [l4d_sm_respawn.smx] "[T-T]MoY<10><STEAM_1:0:511491787><>" teleported "Dailer-GG<387><STEAM_1:0:393158013><>" after respawning him
+L 04/24/2026 - 00:00:12: [l4d_sm_respawn.smx] "[T-T]MoY<10><STEAM_1:0:511491787><>" teleported "panut5f<357><STEAM_1:0:392603044><>" after respawning him
+L 04/24/2026 - 00:00:12: [l4d_sm_respawn.smx] "[T-T]MoY<10><STEAM_1:0:511491787><>" teleported "manuel666 giordota.com<469><STEAM_1:1:127577137><>" after respawning him
+L 04/24/2026 - 00:01:22: -------- Mapchange to c5m4_quarter --------
+L 04/24/2026 - 00:01:27: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_consistency") (value "0")
+L 04/24/2026 - 00:01:27: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_allow_lobby_connect_only") (value "0")
+L 04/24/2026 - 00:01:27: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxplayers") (value "8")
+L 04/24/2026 - 00:01:27: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_visiblemaxplayers") (value "-1")
+L 04/24/2026 - 00:01:28: [chat-processor.smx] Message formats generated for game 'left4dead2'.
+L 04/24/2026 - 00:01:28: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 04/24/2026 - 00:01:45: [l4d2_shop.smx] [LOAD]: "kradner<335><STEAM_1:1:922324955><>" loaded the record successfully! Points: "20"
+L 04/24/2026 - 00:01:48: [l4d2_shop.smx] [LOAD]: "panut5f<357><STEAM_1:0:392603044><>" loaded the record successfully! Points: "14"
+L 04/24/2026 - 00:01:49: [l4d2_shop.smx] [LOAD]: "Dailer-GG<387><STEAM_1:0:393158013><>" loaded the record successfully! Points: "14"
+L 04/24/2026 - 00:01:49: [l4d2_shop.smx] [LOAD]: "manuel666 giordota.com<469><STEAM_1:1:127577137><>" loaded the record successfully! Points: "8"
+L 04/24/2026 - 00:01:52: [l4d2_shop.smx] [LOAD]: "Goat  Rock<373><STEAM_1:1:654853815><>" loaded the record successfully! Points: "20"
+L 04/24/2026 - 00:01:58: [l4d2_shop.smx] [LOAD]: "[T-T]MoY<10><STEAM_1:0:511491787><>" loaded the record successfully! Points: "9961"
+L 04/24/2026 - 00:03:47: [l4d2_shop.smx] [UPDATE]: "[T-T]MoY<10><STEAM_1:0:511491787><>" saved. Points: "9963"
+L 04/24/2026 - 00:03:47: [l4d2_shop.smx] UPDATE SpecialFunctions SET isEnabled = 1 WHERE steamId = 'STEAM_1:0:511491787' AND (functionNo = 'GRAY_AMMO' OR functionNo = 'BLUE_AMMO' OR functionNo = 'GOLD_AMMO')
+L 04/24/2026 - 00:03:47: [l4d2_shop.smx] [UPDATE]: "Dailer-GG<387><STEAM_1:0:393158013><>" saved. Points: "16"
+L 04/24/2026 - 00:03:47: [l4d2_shop.smx] [UPDATE]: "Goat  Rock<373><STEAM_1:1:654853815><>" saved. Points: "24"
+L 04/24/2026 - 00:03:47: [l4d2_shop.smx] [UPDATE]: "panut5f<357><STEAM_1:0:392603044><>" saved. Points: "16"
+L 04/24/2026 - 00:03:47: [l4d2_shop.smx] [UPDATE]: "kradner<335><STEAM_1:1:922324955><>" saved. Points: "22"
+L 04/24/2026 - 00:03:47: [l4d2_shop.smx] [UPDATE]: "manuel666 giordota.com<469><STEAM_1:1:127577137><>" saved. Points: "10"
+L 04/24/2026 - 00:05:34: [l4d2_shop.smx] [UPDATE]: "[T-T]MoY<10><STEAM_1:0:511491787><>" saved. Points: "9970"
+L 04/24/2026 - 00:05:34: [l4d2_shop.smx] UPDATE SpecialFunctions SET isEnabled = 1 WHERE steamId = 'STEAM_1:0:511491787' AND (functionNo = 'GRAY_AMMO' OR functionNo = 'BLUE_AMMO' OR functionNo = 'GOLD_AMMO')
+L 04/24/2026 - 00:05:34: [l4d2_shop.smx] [UPDATE]: "Dailer-GG<387><STEAM_1:0:393158013><>" saved. Points: "23"
+L 04/24/2026 - 00:05:34: [l4d2_shop.smx] [UPDATE]: "Goat  Rock<373><STEAM_1:1:654853815><>" saved. Points: "28"
+L 04/24/2026 - 00:05:34: [l4d2_shop.smx] [UPDATE]: "panut5f<357><STEAM_1:0:392603044><>" saved. Points: "20"
+L 04/24/2026 - 00:05:34: [l4d2_shop.smx] [UPDATE]: "kradner<335><STEAM_1:1:922324955><>" saved. Points: "26"
+L 04/24/2026 - 00:05:34: [l4d2_shop.smx] [UPDATE]: "manuel666 giordota.com<469><STEAM_1:1:127577137><>" saved. Points: "14"
+L 04/24/2026 - 00:06:01: [l4d2_shop.smx] [INSERT]: "Alison<504><STEAM_1:1:528218253><>" is a new user!!
+L 04/24/2026 - 00:07:28: [l4d2_shop.smx] [UPDATE]: "[T-T]MoY<10><STEAM_1:0:511491787><>" saved. Points: "9970"
+L 04/24/2026 - 00:07:29: [l4d2_shop.smx] UPDATE SpecialFunctions SET isEnabled = 1 WHERE steamId = 'STEAM_1:0:511491787' AND (functionNo = 'GRAY_AMMO' OR functionNo = 'BLUE_AMMO' OR functionNo = 'GOLD_AMMO')
+L 04/24/2026 - 00:07:29: [l4d2_shop.smx] [UPDATE]: "Dailer-GG<387><STEAM_1:0:393158013><>" saved. Points: "23"
+L 04/24/2026 - 00:07:29: [l4d2_shop.smx] [UPDATE]: "Goat  Rock<373><STEAM_1:1:654853815><>" saved. Points: "28"
+L 04/24/2026 - 00:07:29: [l4d2_shop.smx] [UPDATE]: "panut5f<357><STEAM_1:0:392603044><>" saved. Points: "20"
+L 04/24/2026 - 00:07:29: [l4d2_shop.smx] [UPDATE]: "kradner<335><STEAM_1:1:922324955><>" saved. Points: "26"
+L 04/24/2026 - 00:07:29: [l4d2_shop.smx] [UPDATE]: "manuel666 giordota.com<469><STEAM_1:1:127577137><>" saved. Points: "14"
+L 04/24/2026 - 00:07:29: [l4d2_shop.smx] [UPDATE]: "Alison<504><STEAM_1:1:528218253><>" saved. Points: "0"
+L 04/24/2026 - 00:09:02: [l4d2_shop.smx] [INSERT]: "LUXOK<514><STEAM_1:0:806609271><>" is a new user!!
+L 04/24/2026 - 00:09:21: [l4d2_shop.smx] [UPDATE]: "[T-T]MoY<10><STEAM_1:0:511491787><>" saved. Points: "9970"
+L 04/24/2026 - 00:09:21: [l4d2_shop.smx] UPDATE SpecialFunctions SET isEnabled = 1 WHERE steamId = 'STEAM_1:0:511491787' AND (functionNo = 'GRAY_AMMO' OR functionNo = 'BLUE_AMMO' OR functionNo = 'GOLD_AMMO')
+L 04/24/2026 - 00:09:21: [l4d2_shop.smx] [UPDATE]: "Dailer-GG<387><STEAM_1:0:393158013><>" saved. Points: "23"
+L 04/24/2026 - 00:09:21: [l4d2_shop.smx] [UPDATE]: "Goat  Rock<373><STEAM_1:1:654853815><>" saved. Points: "28"
+L 04/24/2026 - 00:09:21: [l4d2_shop.smx] [UPDATE]: "LUXOK<514><STEAM_1:0:806609271><>" saved. Points: "0"
+L 04/24/2026 - 00:09:21: [l4d2_shop.smx] [UPDATE]: "panut5f<357><STEAM_1:0:392603044><>" saved. Points: "20"
+L 04/24/2026 - 00:09:21: [l4d2_shop.smx] [UPDATE]: "kradner<335><STEAM_1:1:922324955><>" saved. Points: "26"
+L 04/24/2026 - 00:09:21: [l4d2_shop.smx] [UPDATE]: "manuel666 giordota.com<469><STEAM_1:1:127577137><>" saved. Points: "14"
+L 04/24/2026 - 00:09:21: [l4d2_shop.smx] [UPDATE]: "Alison<504><STEAM_1:1:528218253><>" saved. Points: "0"
+L 04/24/2026 - 00:12:46: [l4d2_shop.smx] [UPDATE]: "[T-T]MoY<10><STEAM_1:0:511491787><>" saved. Points: "9997"
+L 04/24/2026 - 00:12:46: [l4d2_shop.smx] UPDATE SpecialFunctions SET isEnabled = 1 WHERE steamId = 'STEAM_1:0:511491787' AND (functionNo = 'GRAY_AMMO' OR functionNo = 'BLUE_AMMO' OR functionNo = 'GOLD_AMMO')
+L 04/24/2026 - 00:12:46: [l4d2_shop.smx] [UPDATE]: "Goat  Rock<373><STEAM_1:1:654853815><>" saved. Points: "40"
+L 04/24/2026 - 00:12:46: [l4d2_shop.smx] [UPDATE]: "LUXOK<514><STEAM_1:0:806609271><>" saved. Points: "12"
+L 04/24/2026 - 00:12:46: [l4d2_shop.smx] [UPDATE]: "panut5f<357><STEAM_1:0:392603044><>" saved. Points: "32"
+L 04/24/2026 - 00:12:46: [l4d2_shop.smx] [UPDATE]: "kradner<335><STEAM_1:1:922324955><>" saved. Points: "48"
+L 04/24/2026 - 00:12:46: [l4d2_shop.smx] [UPDATE]: "manuel666 giordota.com<469><STEAM_1:1:127577137><>" saved. Points: "26"
+L 04/24/2026 - 00:12:46: [l4d2_shop.smx] [UPDATE]: "Alison<504><STEAM_1:1:528218253><>" saved. Points: "12"
+L 04/24/2026 - 00:14:24: [l4d2_shop.smx] [INSERT]: "leoj7<538><STEAM_1:0:523790985><>" is a new user!!
+L 04/24/2026 - 00:15:02: [l4d2_shop.smx] [Buy]: "[T-T]MoY<10><STEAM_1:0:511491787><>" bought "extinguisher" (price: "40"), remaining points: "9963"
+L 04/24/2026 - 00:15:14: [l4d2_shop.smx] [LOAD]: "Babyaga ♥↓<544><STEAM_1:0:863836068><>" loaded the record successfully! Points: "44"
+L 04/24/2026 - 00:16:33: -------- Mapchange to c5m5_bridge --------
+L 04/24/2026 - 00:16:38: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_consistency") (value "0")
+L 04/24/2026 - 00:16:38: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_allow_lobby_connect_only") (value "0")
+L 04/24/2026 - 00:16:38: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxplayers") (value "8")
+L 04/24/2026 - 00:16:38: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_visiblemaxplayers") (value "-1")
+L 04/24/2026 - 00:16:38: [chat-processor.smx] Message formats generated for game 'left4dead2'.
+L 04/24/2026 - 00:16:38: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 04/24/2026 - 00:16:56: [l4d2_shop.smx] [LOAD]: "kradner<335><STEAM_1:1:922324955><>" loaded the record successfully! Points: "48"
+L 04/24/2026 - 00:16:59: [l4d2_shop.smx] [LOAD]: "panut5f<357><STEAM_1:0:392603044><>" loaded the record successfully! Points: "32"
+L 04/24/2026 - 00:17:07: [l4d2_shop.smx] [LOAD]: "Goat  Rock<373><STEAM_1:1:654853815><>" loaded the record successfully! Points: "40"
+L 04/24/2026 - 00:17:08: [l4d2_shop.smx] [LOAD]: "Alison<504><STEAM_1:1:528218253><>" loaded the record successfully! Points: "12"
+L 04/24/2026 - 00:17:09: [l4d2_shop.smx] [LOAD]: "Babyaga ♥↓<544><STEAM_1:0:863836068><>" loaded the record successfully! Points: "44"
+L 04/24/2026 - 00:17:09: [l4d2_shop.smx] [LOAD]: "[T-T]MoY<10><STEAM_1:0:511491787><>" loaded the record successfully! Points: "9997"
+L 04/24/2026 - 00:17:33: [l4d2_shop.smx] [INSERT]: "Golum<558><STEAM_1:0:955892091><>" is a new user!!
+L 04/24/2026 - 00:17:56: [l4d2_shop.smx] [LOAD]: "LUXOK<514><STEAM_1:0:806609271><>" loaded the record successfully! Points: "12"
+L 04/24/2026 - 00:19:57: [l4d2_shop.smx] [INSERT]: "CoMiCCoM<566><STEAM_1:0:490866213><>" is a new user!!
+L 04/24/2026 - 00:21:38: Log file closed.
+L 04/24/2026 - 14:11:02: SourceMod log file session started (file "d:\steamlibrary\steamapps\common\left 4 dead 2\left4dead2\addons\sourcemod\logs\L20260424.log") (Version "1.12.0.7207")
+L 04/24/2026 - 14:11:02: [GEOIP] GeoIP2 database loaded: GeoLite2-ASN (2024-08-21 08:15:21 UTC) (d:\steamlibrary\steamapps\common\left 4 dead 2\left4dead2\addons\sourcemod\configs\geoip\GeoLite2-ASN.mmdb)
+L 04/24/2026 - 14:11:02: [GEOIP] GeoIP2 supported languages: en
+L 04/24/2026 - 14:11:02: [GEOIP] Your database is older than 90 days. You should consider downloading a newer version from e.g. https://dev.maxmind.com/geoip/geolite2-free-geolocation-data
+L 04/24/2026 - 14:11:02: [l4d2_map_rotation.smx] [Rotation] Lista cargada con 6 campañas.
+L 04/24/2026 - 14:11:03: [l4d_extinguisher.smx] 
+==========
+Warning: You should install "[L4D2] Scavenge Score Fix - Gascan Pouring" to prevent affecting the score when filling gas in Scavenge style events: https://forums.alliedmods.net/showthread.php?t=187686
+==========
+
+L 04/24/2026 - 14:11:03: [l4d_extinguisher.smx] 
+==========
+Warning: You should install "[L4D & L4D2] Use Priority Patch" to fix attached models blocking +USE action: https://forums.alliedmods.net/showthread.php?t=327511
+==========
+
+L 04/24/2026 - 14:11:15: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_consistency") (value "0")
+L 04/24/2026 - 14:11:15: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_allow_lobby_connect_only") (value "0")
+L 04/24/2026 - 14:11:15: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxplayers") (value "8")
+L 04/24/2026 - 14:11:15: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_visiblemaxplayers") (value "-1")
+L 04/24/2026 - 14:11:15: [chat-processor.smx] Message formats generated for game 'left4dead2'.
+L 04/24/2026 - 14:11:15: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 04/24/2026 - 14:11:46: [l4d2_shop.smx] [LOAD]: "[T-T]MoY<2><STEAM_1:0:511491787><>" loaded the record successfully! Points: "9997"
+L 04/24/2026 - 14:16:09: Log file closed.
+L 04/24/2026 - 14:20:59: SourceMod log file session started (file "d:\steamlibrary\steamapps\common\left 4 dead 2\left4dead2\addons\sourcemod\logs\L20260424.log") (Version "1.12.0.7207")
+L 04/24/2026 - 14:20:59: [GEOIP] GeoIP2 database loaded: GeoLite2-ASN (2024-08-21 08:15:21 UTC) (d:\steamlibrary\steamapps\common\left 4 dead 2\left4dead2\addons\sourcemod\configs\geoip\GeoLite2-ASN.mmdb)
+L 04/24/2026 - 14:20:59: [GEOIP] GeoIP2 supported languages: en
+L 04/24/2026 - 14:20:59: [GEOIP] Your database is older than 90 days. You should consider downloading a newer version from e.g. https://dev.maxmind.com/geoip/geolite2-free-geolocation-data
+L 04/24/2026 - 14:20:59: [l4d2_map_rotation.smx] [Rotation] Lista cargada con 6 campañas.
+L 04/24/2026 - 14:21:01: [l4d_extinguisher.smx] 
+==========
+Warning: You should install "[L4D2] Scavenge Score Fix - Gascan Pouring" to prevent affecting the score when filling gas in Scavenge style events: https://forums.alliedmods.net/showthread.php?t=187686
+==========
+
+L 04/24/2026 - 14:21:01: [l4d_extinguisher.smx] 
+==========
+Warning: You should install "[L4D & L4D2] Use Priority Patch" to fix attached models blocking +USE action: https://forums.alliedmods.net/showthread.php?t=327511
+==========
+
+L 04/24/2026 - 14:21:06: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_consistency") (value "0")
+L 04/24/2026 - 14:21:06: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_allow_lobby_connect_only") (value "0")
+L 04/24/2026 - 14:21:06: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxplayers") (value "8")
+L 04/24/2026 - 14:21:06: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_visiblemaxplayers") (value "-1")
+L 04/24/2026 - 14:21:06: [chat-processor.smx] Message formats generated for game 'left4dead2'.
+L 04/24/2026 - 14:21:06: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 04/24/2026 - 14:21:37: [l4d2_shop.smx] [LOAD]: "[T-T]MoY<2><STEAM_1:0:511491787><>" loaded the record successfully! Points: "9997"
+L 04/24/2026 - 14:34:15: SourceMod log file session started (file "d:\steamlibrary\steamapps\common\left 4 dead 2\left4dead2\addons\sourcemod\logs\L20260424.log") (Version "1.12.0.7207")
+L 04/24/2026 - 14:34:15: [GEOIP] GeoIP2 database loaded: GeoLite2-ASN (2024-08-21 08:15:21 UTC) (d:\steamlibrary\steamapps\common\left 4 dead 2\left4dead2\addons\sourcemod\configs\geoip\GeoLite2-ASN.mmdb)
+L 04/24/2026 - 14:34:15: [GEOIP] GeoIP2 supported languages: en
+L 04/24/2026 - 14:34:15: [GEOIP] Your database is older than 90 days. You should consider downloading a newer version from e.g. https://dev.maxmind.com/geoip/geolite2-free-geolocation-data
+L 04/24/2026 - 14:34:15: [l4d2_map_rotation.smx] [Rotation] Lista cargada con 6 campañas.
+L 04/24/2026 - 14:34:16: [l4d_extinguisher.smx] 
+==========
+Warning: You should install "[L4D2] Scavenge Score Fix - Gascan Pouring" to prevent affecting the score when filling gas in Scavenge style events: https://forums.alliedmods.net/showthread.php?t=187686
+==========
+
+L 04/24/2026 - 14:34:16: [l4d_extinguisher.smx] 
+==========
+Warning: You should install "[L4D & L4D2] Use Priority Patch" to fix attached models blocking +USE action: https://forums.alliedmods.net/showthread.php?t=327511
+==========
+
+L 04/24/2026 - 14:34:21: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_consistency") (value "0")
+L 04/24/2026 - 14:34:21: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_allow_lobby_connect_only") (value "0")
+L 04/24/2026 - 14:34:21: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxplayers") (value "8")
+L 04/24/2026 - 14:34:21: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_visiblemaxplayers") (value "-1")
+L 04/24/2026 - 14:34:22: [chat-processor.smx] Message formats generated for game 'left4dead2'.
+L 04/24/2026 - 14:34:22: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 04/24/2026 - 14:34:52: [l4d2_shop.smx] [LOAD]: "[T-T]MoY<2><STEAM_1:0:511491787><>" loaded the record successfully! Points: "9997"
+L 04/24/2026 - 14:38:45: Log file closed.
+L 04/24/2026 - 15:07:28: SourceMod log file session started (file "d:\steamlibrary\steamapps\common\left 4 dead 2\left4dead2\addons\sourcemod\logs\L20260424.log") (Version "1.12.0.7207")
+L 04/24/2026 - 15:07:28: [GEOIP] GeoIP2 database loaded: GeoLite2-ASN (2024-08-21 08:15:21 UTC) (d:\steamlibrary\steamapps\common\left 4 dead 2\left4dead2\addons\sourcemod\configs\geoip\GeoLite2-ASN.mmdb)
+L 04/24/2026 - 15:07:28: [GEOIP] GeoIP2 supported languages: en
+L 04/24/2026 - 15:07:28: [GEOIP] Your database is older than 90 days. You should consider downloading a newer version from e.g. https://dev.maxmind.com/geoip/geolite2-free-geolocation-data
+L 04/24/2026 - 15:07:28: [l4d2_map_rotation.smx] [Rotation] Lista cargada con 6 campañas.
+L 04/24/2026 - 15:07:30: [l4d_extinguisher.smx] 
+==========
+Warning: You should install "[L4D2] Scavenge Score Fix - Gascan Pouring" to prevent affecting the score when filling gas in Scavenge style events: https://forums.alliedmods.net/showthread.php?t=187686
+==========
+
+L 04/24/2026 - 15:07:30: [l4d_extinguisher.smx] 
+==========
+Warning: You should install "[L4D & L4D2] Use Priority Patch" to fix attached models blocking +USE action: https://forums.alliedmods.net/showthread.php?t=327511
+==========
+
+L 04/24/2026 - 15:07:35: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_consistency") (value "0")
+L 04/24/2026 - 15:07:35: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_allow_lobby_connect_only") (value "0")
+L 04/24/2026 - 15:07:35: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxplayers") (value "8")
+L 04/24/2026 - 15:07:35: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_visiblemaxplayers") (value "-1")
+L 04/24/2026 - 15:07:35: [chat-processor.smx] Message formats generated for game 'left4dead2'.
+L 04/24/2026 - 15:07:35: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 04/24/2026 - 15:08:05: [l4d2_shop.smx] [LOAD]: "[T-T]MoY<2><STEAM_1:0:511491787><>" loaded the record successfully! Points: "9997"
+L 04/24/2026 - 17:11:08: Log file closed.
+L 04/24/2026 - 18:34:52: SourceMod log file session started (file "d:\steamlibrary\steamapps\common\left 4 dead 2\left4dead2\addons\sourcemod\logs\L20260424.log") (Version "1.12.0.7207")
+L 04/24/2026 - 18:34:52: [GEOIP] GeoIP2 database loaded: GeoLite2-ASN (2024-08-21 08:15:21 UTC) (d:\steamlibrary\steamapps\common\left 4 dead 2\left4dead2\addons\sourcemod\configs\geoip\GeoLite2-ASN.mmdb)
+L 04/24/2026 - 18:34:52: [GEOIP] GeoIP2 supported languages: en
+L 04/24/2026 - 18:34:52: [GEOIP] Your database is older than 90 days. You should consider downloading a newer version from e.g. https://dev.maxmind.com/geoip/geolite2-free-geolocation-data
+L 04/24/2026 - 18:34:52: [l4d2_map_rotation.smx] [Rotation] Lista cargada con 6 campañas.
+L 04/24/2026 - 18:34:54: [l4d_extinguisher.smx] 
+==========
+Warning: You should install "[L4D2] Scavenge Score Fix - Gascan Pouring" to prevent affecting the score when filling gas in Scavenge style events: https://forums.alliedmods.net/showthread.php?t=187686
+==========
+
+L 04/24/2026 - 18:34:54: [l4d_extinguisher.smx] 
+==========
+Warning: You should install "[L4D & L4D2] Use Priority Patch" to fix attached models blocking +USE action: https://forums.alliedmods.net/showthread.php?t=327511
+==========
+
+L 04/24/2026 - 18:35:00: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_consistency") (value "0")
+L 04/24/2026 - 18:35:00: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_allow_lobby_connect_only") (value "0")
+L 04/24/2026 - 18:35:00: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxplayers") (value "8")
+L 04/24/2026 - 18:35:00: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_visiblemaxplayers") (value "-1")
+L 04/24/2026 - 18:35:01: [chat-processor.smx] Message formats generated for game 'left4dead2'.
+L 04/24/2026 - 18:35:01: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 04/24/2026 - 18:35:31: [l4d2_shop.smx] [LOAD]: "[T-T]MoY<2><STEAM_1:0:511491787><>" loaded the record successfully! Points: "9997"
+L 04/24/2026 - 18:37:17: -------- Mapchange to c2m1_highway --------
+L 04/24/2026 - 18:37:22: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_consistency") (value "0")
+L 04/24/2026 - 18:37:22: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_allow_lobby_connect_only") (value "0")
+L 04/24/2026 - 18:37:22: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxplayers") (value "8")
+L 04/24/2026 - 18:37:22: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_visiblemaxplayers") (value "-1")
+L 04/24/2026 - 18:37:22: [chat-processor.smx] Message formats generated for game 'left4dead2'.
+L 04/24/2026 - 18:37:22: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 04/24/2026 - 18:37:33: [l4d2_shop.smx] [LOAD]: "[T-T]MoY<6><STEAM_ID_PENDING><>" loaded the record successfully! Points: "0"
+L 04/24/2026 - 19:02:30: SourceMod log file session started (file "d:\steamlibrary\steamapps\common\left 4 dead 2\left4dead2\addons\sourcemod\logs\L20260424.log") (Version "1.12.0.7207")
+L 04/24/2026 - 19:02:30: [GEOIP] GeoIP2 database loaded: GeoLite2-ASN (2024-08-21 08:15:21 UTC) (d:\steamlibrary\steamapps\common\left 4 dead 2\left4dead2\addons\sourcemod\configs\geoip\GeoLite2-ASN.mmdb)
+L 04/24/2026 - 19:02:30: [GEOIP] GeoIP2 supported languages: en
+L 04/24/2026 - 19:02:30: [GEOIP] Your database is older than 90 days. You should consider downloading a newer version from e.g. https://dev.maxmind.com/geoip/geolite2-free-geolocation-data
+L 04/24/2026 - 19:02:30: [l4d2_map_rotation.smx] [Rotation] Lista cargada con 6 campañas.
+L 04/24/2026 - 19:02:31: [l4d_extinguisher.smx] 
+==========
+Warning: You should install "[L4D2] Scavenge Score Fix - Gascan Pouring" to prevent affecting the score when filling gas in Scavenge style events: https://forums.alliedmods.net/showthread.php?t=187686
+==========
+
+L 04/24/2026 - 19:02:31: [l4d_extinguisher.smx] 
+==========
+Warning: You should install "[L4D & L4D2] Use Priority Patch" to fix attached models blocking +USE action: https://forums.alliedmods.net/showthread.php?t=327511
+==========
+
+L 04/24/2026 - 19:02:41: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_consistency") (value "0")
+L 04/24/2026 - 19:02:41: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_allow_lobby_connect_only") (value "0")
+L 04/24/2026 - 19:02:41: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxplayers") (value "8")
+L 04/24/2026 - 19:02:41: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_visiblemaxplayers") (value "-1")
+L 04/24/2026 - 19:02:41: [chat-processor.smx] Message formats generated for game 'left4dead2'.
+L 04/24/2026 - 19:02:41: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 04/24/2026 - 19:03:12: [l4d2_shop.smx] [LOAD]: "[T-T]MoY<2><STEAM_1:0:511491787><>" loaded the record successfully! Points: "9997"
+L 04/24/2026 - 19:03:59: [playercommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" slayed "Nick<3><BOT><>"
+L 04/24/2026 - 19:03:59: [playercommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" slayed "Rochelle<4><BOT><>"
+L 04/24/2026 - 19:03:59: [playercommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" slayed "Coach<5><BOT><>"
+L 04/24/2026 - 19:04:09: [l4d2_shop.smx] [UPDATE]: "[T-T]MoY<2><STEAM_1:0:511491787><>" saved. Points: "9997"
+L 04/24/2026 - 19:04:09: [l4d2_shop.smx] UPDATE SpecialFunctions SET isEnabled = 1 WHERE steamId = 'STEAM_1:0:511491787' AND (functionNo = 'GRAY_AMMO' OR functionNo = 'BLUE_AMMO' OR functionNo = 'GOLD_AMMO')
+L 04/24/2026 - 19:04:23: [basecommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" changed cvar (cvar "sv_gravity") (value "200")
+L 04/24/2026 - 19:04:32: [playercommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" slayed "Nick<3><BOT><>"
+L 04/24/2026 - 19:04:33: [playercommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" slayed "Rochelle<4><BOT><>"
+L 04/24/2026 - 19:04:33: [playercommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" slayed "Coach<5><BOT><>"
+L 04/24/2026 - 19:05:49: [l4d2_shop.smx] [UPDATE]: "[T-T]MoY<2><STEAM_1:0:511491787><>" saved. Points: "10011"
+L 04/24/2026 - 19:05:49: [l4d2_shop.smx] UPDATE SpecialFunctions SET isEnabled = 1 WHERE steamId = 'STEAM_1:0:511491787' AND (functionNo = 'GRAY_AMMO' OR functionNo = 'BLUE_AMMO' OR functionNo = 'GOLD_AMMO')
+L 04/24/2026 - 19:06:06: [playercommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" slayed "Nick<3><BOT><>"
+L 04/24/2026 - 19:06:07: [playercommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" slayed "Rochelle<4><BOT><>"
+L 04/24/2026 - 19:06:07: [playercommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" slayed "Coach<5><BOT><>"
+L 04/24/2026 - 19:08:47: SourceMod log file session started (file "d:\steamlibrary\steamapps\common\left 4 dead 2\left4dead2\addons\sourcemod\logs\L20260424.log") (Version "1.12.0.7207")
+L 04/24/2026 - 19:08:47: [GEOIP] GeoIP2 database loaded: GeoLite2-ASN (2024-08-21 08:15:21 UTC) (d:\steamlibrary\steamapps\common\left 4 dead 2\left4dead2\addons\sourcemod\configs\geoip\GeoLite2-ASN.mmdb)
+L 04/24/2026 - 19:08:47: [GEOIP] GeoIP2 supported languages: en
+L 04/24/2026 - 19:08:47: [GEOIP] Your database is older than 90 days. You should consider downloading a newer version from e.g. https://dev.maxmind.com/geoip/geolite2-free-geolocation-data
+L 04/24/2026 - 19:08:47: [l4d2_map_rotation.smx] [Rotation] Lista cargada con 6 campañas.
+L 04/24/2026 - 19:08:48: [l4d_extinguisher.smx] 
+==========
+Warning: You should install "[L4D2] Scavenge Score Fix - Gascan Pouring" to prevent affecting the score when filling gas in Scavenge style events: https://forums.alliedmods.net/showthread.php?t=187686
+==========
+
+L 04/24/2026 - 19:08:48: [l4d_extinguisher.smx] 
+==========
+Warning: You should install "[L4D & L4D2] Use Priority Patch" to fix attached models blocking +USE action: https://forums.alliedmods.net/showthread.php?t=327511
+==========
+
+L 04/24/2026 - 19:08:54: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_consistency") (value "0")
+L 04/24/2026 - 19:08:54: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_allow_lobby_connect_only") (value "0")
+L 04/24/2026 - 19:08:54: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxplayers") (value "8")
+L 04/24/2026 - 19:08:54: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_visiblemaxplayers") (value "-1")
+L 04/24/2026 - 19:08:54: [chat-processor.smx] Message formats generated for game 'left4dead2'.
+L 04/24/2026 - 19:08:54: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 04/24/2026 - 19:09:24: [l4d2_shop.smx] [LOAD]: "[T-T]MoY<2><STEAM_1:0:511491787><>" loaded the record successfully! Points: "10011"
+L 04/24/2026 - 19:09:38: [basecommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" changed cvar (cvar "sv_gravity") (value "200")
+L 04/24/2026 - 19:09:54: [playercommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" slayed "Nick<3><BOT><>"
+L 04/24/2026 - 19:09:54: [playercommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" slayed "Coach<4><BOT><>"
+L 04/24/2026 - 19:09:54: [playercommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" slayed "Rochelle<5><BOT><>"
+L 04/24/2026 - 19:11:25: [l4d2_shop.smx] [UPDATE]: "[T-T]MoY<2><STEAM_1:0:511491787><>" saved. Points: "10027"
+L 04/24/2026 - 19:11:25: [l4d2_shop.smx] UPDATE SpecialFunctions SET isEnabled = 1 WHERE steamId = 'STEAM_1:0:511491787' AND (functionNo = 'GRAY_AMMO' OR functionNo = 'BLUE_AMMO' OR functionNo = 'GOLD_AMMO')
+L 04/24/2026 - 19:11:45: [playercommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" slayed "Nick<3><BOT><>"
+L 04/24/2026 - 19:11:45: [playercommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" slayed "Coach<4><BOT><>"
+L 04/24/2026 - 19:11:46: [playercommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" slayed "Rochelle<5><BOT><>"
+L 04/24/2026 - 19:13:08: [l4d2_shop.smx] [UPDATE]: "[T-T]MoY<2><STEAM_1:0:511491787><>" saved. Points: "10029"
+L 04/24/2026 - 19:13:08: [l4d2_shop.smx] UPDATE SpecialFunctions SET isEnabled = 1 WHERE steamId = 'STEAM_1:0:511491787' AND (functionNo = 'GRAY_AMMO' OR functionNo = 'BLUE_AMMO' OR functionNo = 'GOLD_AMMO')
+L 04/24/2026 - 19:14:10: [l4d2_shop.smx] [UPDATE]: "[T-T]MoY<2><STEAM_1:0:511491787><>" saved. Points: "10033"
+L 04/24/2026 - 19:14:10: [l4d2_shop.smx] UPDATE SpecialFunctions SET isEnabled = 1 WHERE steamId = 'STEAM_1:0:511491787' AND (functionNo = 'GRAY_AMMO' OR functionNo = 'BLUE_AMMO' OR functionNo = 'GOLD_AMMO')
+L 04/24/2026 - 19:14:33: Log file closed.

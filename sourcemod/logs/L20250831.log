@@ -1,0 +1,51 @@
+L 08/31/2025 - 14:21:08: SourceMod log file session started (file "e:\steamlibrary\steamapps\common\left 4 dead 2\left4dead2\addons\sourcemod\logs\L20250831.log") (Version "1.12.0.7207")
+L 08/31/2025 - 14:21:08: [GEOIP] GeoIP2 database loaded: GeoLite2-ASN (2024-08-21 08:15:21 UTC) (e:\steamlibrary\steamapps\common\left 4 dead 2\left4dead2\addons\sourcemod\configs\geoip\GeoLite2-ASN.mmdb)
+L 08/31/2025 - 14:21:08: [GEOIP] GeoIP2 supported languages: en
+L 08/31/2025 - 14:21:08: [GEOIP] Your database is older than 90 days. You should consider downloading a newer version from e.g. https://dev.maxmind.com/geoip/geolite2-free-geolocation-data
+L 08/31/2025 - 14:21:24: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_consistency") (value "0")
+L 08/31/2025 - 14:21:24: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_allow_lobby_connect_only") (value "0")
+L 08/31/2025 - 14:21:24: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxplayers") (value "8")
+L 08/31/2025 - 14:21:24: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_visiblemaxplayers") (value "-1")
+L 08/31/2025 - 14:22:19: [basecommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" changed cvar (cvar "sv_gravity") (value "200")
+L 08/31/2025 - 14:27:20: -------- Mapchange to c1m2_streets --------
+L 08/31/2025 - 14:27:28: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_consistency") (value "0")
+L 08/31/2025 - 14:27:28: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_allow_lobby_connect_only") (value "0")
+L 08/31/2025 - 14:27:28: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxplayers") (value "8")
+L 08/31/2025 - 14:27:28: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_visiblemaxplayers") (value "-1")
+L 08/31/2025 - 14:52:17: [playercommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" slayed "Tank<121><BOT><>"
+L 08/31/2025 - 14:52:18: [playercommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" slayed "(1)Tank<122><BOT><>"
+L 08/31/2025 - 14:52:19: [playercommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" slayed "(2)Tank<124><BOT><>"
+L 08/31/2025 - 14:52:19: [playercommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" slayed "(3)Tank<125><BOT><>"
+L 08/31/2025 - 14:52:48: [l4d_sm_respawn.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" teleported "MasterF<7><STEAM_1:1:807663869><>" after respawning him
+L 08/31/2025 - 14:55:58: -------- Mapchange to c1m3_mall --------
+L 08/31/2025 - 14:56:05: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_consistency") (value "0")
+L 08/31/2025 - 14:56:05: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_allow_lobby_connect_only") (value "0")
+L 08/31/2025 - 14:56:05: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxplayers") (value "8")
+L 08/31/2025 - 14:56:05: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_visiblemaxplayers") (value "-1")
+L 08/31/2025 - 14:59:58: -------- Mapchange to c1m4_atrium --------
+L 08/31/2025 - 15:00:05: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_consistency") (value "0")
+L 08/31/2025 - 15:00:05: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_allow_lobby_connect_only") (value "0")
+L 08/31/2025 - 15:00:05: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxplayers") (value "8")
+L 08/31/2025 - 15:00:05: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_visiblemaxplayers") (value "-1")
+L 08/31/2025 - 15:03:09: [basevotes.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" initiated a generic vote (question "se los violan verdad?" / answers "Yes" "No").
+L 08/31/2025 - 15:03:29: [basevotes.smx] Vote successful. (Received "67" of 3 votes)
+L 08/31/2025 - 15:03:29: [basevotes.smx] The answer to se los violan verdad? is: Yes.
+L 08/31/2025 - 15:04:08: [basecommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" changed map to "c2m1_highway"
+L 08/31/2025 - 15:04:11: [SM] Changed map to "c2m1_highway"
+L 08/31/2025 - 15:04:13: -------- Mapchange to c2m1_highway --------
+L 08/31/2025 - 15:04:20: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_consistency") (value "0")
+L 08/31/2025 - 15:04:20: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_allow_lobby_connect_only") (value "0")
+L 08/31/2025 - 15:04:20: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxplayers") (value "8")
+L 08/31/2025 - 15:04:20: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_visiblemaxplayers") (value "-1")
+L 08/31/2025 - 15:05:10: [l4d_sm_respawn.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" teleported "FUK<9><STEAM_1:0:130081106><>" after respawning him
+L 08/31/2025 - 15:07:34: -------- Mapchange to c2m2_fairgrounds --------
+L 08/31/2025 - 15:07:41: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_consistency") (value "0")
+L 08/31/2025 - 15:07:41: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_allow_lobby_connect_only") (value "0")
+L 08/31/2025 - 15:07:41: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxplayers") (value "8")
+L 08/31/2025 - 15:07:41: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_visiblemaxplayers") (value "-1")
+L 08/31/2025 - 15:12:41: -------- Mapchange to c2m3_coaster --------
+L 08/31/2025 - 15:12:48: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_consistency") (value "0")
+L 08/31/2025 - 15:12:48: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_allow_lobby_connect_only") (value "0")
+L 08/31/2025 - 15:12:48: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxplayers") (value "8")
+L 08/31/2025 - 15:12:48: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_visiblemaxplayers") (value "-1")
+L 08/31/2025 - 15:13:01: Log file closed.

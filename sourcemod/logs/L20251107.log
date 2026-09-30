@@ -1,0 +1,446 @@
+L 11/07/2025 - 14:52:10: SourceMod log file session started (file "d:\steamlibrary\steamapps\common\left 4 dead 2\left4dead2\addons\sourcemod\logs\L20251107.log") (Version "1.12.0.7207")
+L 11/07/2025 - 14:52:10: [GEOIP] GeoIP2 database loaded: GeoLite2-ASN (2024-08-21 08:15:21 UTC) (d:\steamlibrary\steamapps\common\left 4 dead 2\left4dead2\addons\sourcemod\configs\geoip\GeoLite2-ASN.mmdb)
+L 11/07/2025 - 14:52:10: [GEOIP] GeoIP2 supported languages: en
+L 11/07/2025 - 14:52:10: [GEOIP] Your database is older than 90 days. You should consider downloading a newer version from e.g. https://dev.maxmind.com/geoip/geolite2-free-geolocation-data
+L 11/07/2025 - 14:52:19: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_consistency") (value "0")
+L 11/07/2025 - 14:52:19: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_allow_lobby_connect_only") (value "0")
+L 11/07/2025 - 14:52:19: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxplayers") (value "8")
+L 11/07/2025 - 14:52:19: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_visiblemaxplayers") (value "-1")
+L 11/07/2025 - 14:52:19: [chat-processor.smx] Message formats generated for game 'left4dead2'.
+L 11/07/2025 - 14:52:19: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 11/07/2025 - 14:53:36: [basecommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" changed cvar (cvar "sv_gravity") (value "200")
+L 11/07/2025 - 14:53:41: [playercommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" slayed "Nick<3><BOT><>"
+L 11/07/2025 - 14:53:41: [playercommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" slayed "Rochelle<4><BOT><>"
+L 11/07/2025 - 14:53:41: [playercommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" slayed "Coach<5><BOT><>"
+L 11/07/2025 - 14:53:41: [playercommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" slayed "Tank<6><BOT><>"
+L 11/07/2025 - 14:53:59: [playercommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" slayed "[T-T]MoY<2><STEAM_1:0:511491787><>"
+L 11/07/2025 - 14:56:43: [playercommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" slayed "Tank<11><BOT><>"
+L 11/07/2025 - 14:56:43: [playercommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" slayed "(4)Tank<17><BOT><>"
+L 11/07/2025 - 14:56:43: [playercommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" slayed "(2)Tank<12><BOT><>"
+L 11/07/2025 - 14:56:44: [playercommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" slayed "(1)Tank<14><BOT><>"
+L 11/07/2025 - 14:56:44: [playercommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" slayed "(3)Tank<15><BOT><>"
+L 11/07/2025 - 14:56:55: [funcommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" toggled noclip on "[T-T]MoY<2><STEAM_1:0:511491787><>"
+L 11/07/2025 - 14:57:23: [playercommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" slayed "(3)Tank<22><BOT><>"
+L 11/07/2025 - 14:57:23: [playercommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" slayed "(4)Tank<23><BOT><>"
+L 11/07/2025 - 14:57:23: [playercommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" slayed "(5)Tank<18><BOT><>"
+L 11/07/2025 - 14:57:23: [playercommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" slayed "(6)Tank<24><BOT><>"
+L 11/07/2025 - 14:57:48: [playercommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" slayed "Tank<25><BOT><>"
+L 11/07/2025 - 14:57:58: [all4dead2.smx] [NOTICE]: ([T-T]MoY<2><STEAM_1:0:511491787><>) has spawned a tank
+L 11/07/2025 - 14:58:20: [playercommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" slayed "Tank<27><BOT><>"
+L 11/07/2025 - 14:58:20: [playercommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" slayed "(2)Tank<28><BOT><>"
+L 11/07/2025 - 14:58:20: [playercommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" slayed "(3)Tank<29><BOT><>"
+L 11/07/2025 - 14:58:42: [playercommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" slayed "Tank<31><BOT><>"
+L 11/07/2025 - 14:58:42: [playercommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" slayed "(1)Tank<30><BOT><>"
+L 11/07/2025 - 14:58:42: [playercommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" slayed "(2)Tank<32><BOT><>"
+L 11/07/2025 - 14:58:43: [playercommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" slayed "(3)Tank<33><BOT><>"
+L 11/07/2025 - 15:00:10: [basecommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" kicked "Likan 4k<43><STEAM_1:1:806132742><>" (reason "")
+L 11/07/2025 - 15:00:24: [playercommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" slayed "(3)Tank<46><BOT><>"
+L 11/07/2025 - 15:00:25: [playercommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" slayed "Tank<35><BOT><>"
+L 11/07/2025 - 15:00:25: [playercommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" slayed "(4)Tank<53><BOT><>"
+L 11/07/2025 - 15:00:25: [playercommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" slayed "(1)Tank<47><BOT><>"
+L 11/07/2025 - 15:00:25: [playercommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" slayed "(2)Tank<48><BOT><>"
+L 11/07/2025 - 15:00:25: [playercommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" slayed "(7)Tank<50><BOT><>"
+L 11/07/2025 - 15:00:26: [playercommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" slayed "(5)Tank<45><BOT><>"
+L 11/07/2025 - 15:00:26: [playercommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" slayed "(6)Tank<41><BOT><>"
+L 11/07/2025 - 15:00:26: [playercommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" slayed "(8)Tank<44><BOT><>"
+L 11/07/2025 - 15:01:24: Log file closed.
+L 11/07/2025 - 15:13:54: SourceMod log file session started (file "d:\steamlibrary\steamapps\common\left 4 dead 2\left4dead2\addons\sourcemod\logs\L20251107.log") (Version "1.12.0.7207")
+L 11/07/2025 - 15:13:54: [GEOIP] GeoIP2 database loaded: GeoLite2-ASN (2024-08-21 08:15:21 UTC) (d:\steamlibrary\steamapps\common\left 4 dead 2\left4dead2\addons\sourcemod\configs\geoip\GeoLite2-ASN.mmdb)
+L 11/07/2025 - 15:13:54: [GEOIP] GeoIP2 supported languages: en
+L 11/07/2025 - 15:13:54: [GEOIP] Your database is older than 90 days. You should consider downloading a newer version from e.g. https://dev.maxmind.com/geoip/geolite2-free-geolocation-data
+L 11/07/2025 - 15:13:59: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_consistency") (value "0")
+L 11/07/2025 - 15:13:59: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_allow_lobby_connect_only") (value "0")
+L 11/07/2025 - 15:13:59: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxplayers") (value "8")
+L 11/07/2025 - 15:13:59: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_visiblemaxplayers") (value "-1")
+L 11/07/2025 - 15:13:59: [chat-processor.smx] Message formats generated for game 'left4dead2'.
+L 11/07/2025 - 15:13:59: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 11/07/2025 - 15:15:17: [basecommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" changed cvar (cvar "sv_gravity") (value "200")
+L 11/07/2025 - 15:15:59: [playercommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" slayed "Rochelle<4><BOT><>"
+L 11/07/2025 - 15:15:59: [playercommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" slayed "Coach<5><BOT><>"
+L 11/07/2025 - 15:15:59: [playercommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" slayed "Tank<6><BOT><>"
+L 11/07/2025 - 15:16:00: [playercommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" slayed "(1)Tank<7><BOT><>"
+L 11/07/2025 - 15:18:20: Log file closed.
+L 11/07/2025 - 15:26:30: SourceMod log file session started (file "d:\steamlibrary\steamapps\common\left 4 dead 2\left4dead2\addons\sourcemod\logs\L20251107.log") (Version "1.12.0.7207")
+L 11/07/2025 - 15:26:30: [GEOIP] GeoIP2 database loaded: GeoLite2-ASN (2024-08-21 08:15:21 UTC) (d:\steamlibrary\steamapps\common\left 4 dead 2\left4dead2\addons\sourcemod\configs\geoip\GeoLite2-ASN.mmdb)
+L 11/07/2025 - 15:26:30: [GEOIP] GeoIP2 supported languages: en
+L 11/07/2025 - 15:26:30: [GEOIP] Your database is older than 90 days. You should consider downloading a newer version from e.g. https://dev.maxmind.com/geoip/geolite2-free-geolocation-data
+L 11/07/2025 - 15:26:35: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_consistency") (value "0")
+L 11/07/2025 - 15:26:35: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_allow_lobby_connect_only") (value "0")
+L 11/07/2025 - 15:26:35: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxplayers") (value "8")
+L 11/07/2025 - 15:26:35: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_visiblemaxplayers") (value "-1")
+L 11/07/2025 - 15:26:35: [chat-processor.smx] Message formats generated for game 'left4dead2'.
+L 11/07/2025 - 15:26:35: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 11/07/2025 - 15:27:56: [basecommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" changed cvar (cvar "sv_gravity") (value "200")
+L 11/07/2025 - 15:28:19: [playercommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" slayed "Tank<6><BOT><>"
+L 11/07/2025 - 15:30:21: [funcommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" toggled noclip on "[T-T]MoY<2><STEAM_1:0:511491787><>"
+L 11/07/2025 - 15:30:38: [playercommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" slayed "Tank<11><BOT><>"
+L 11/07/2025 - 15:30:39: [playercommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" slayed "Rochelle<12><BOT><>"
+L 11/07/2025 - 15:30:39: [playercommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" slayed "(1)Tank<13><BOT><>"
+L 11/07/2025 - 15:30:39: [playercommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" slayed "(2)Tank<14><BOT><>"
+L 11/07/2025 - 15:30:39: [playercommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" slayed "(3)Tank<15><BOT><>"
+L 11/07/2025 - 15:30:39: [playercommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" slayed "(4)Tank<16><BOT><>"
+L 11/07/2025 - 15:31:13: [playercommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" slayed "Tank<18><BOT><>"
+L 11/07/2025 - 15:31:13: [playercommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" slayed "(1)Tank<19><BOT><>"
+L 11/07/2025 - 15:31:13: [playercommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" slayed "(2)Tank<20><BOT><>"
+L 11/07/2025 - 15:31:13: [playercommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" slayed "(3)Tank<21><BOT><>"
+L 11/07/2025 - 15:31:13: [playercommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" slayed "(4)Tank<22><BOT><>"
+L 11/07/2025 - 15:31:37: [playercommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" slayed "Tank<24><BOT><>"
+L 11/07/2025 - 15:31:37: [playercommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" slayed "(1)Tank<25><BOT><>"
+L 11/07/2025 - 15:31:38: [playercommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" slayed "(5)Tank<23><BOT><>"
+L 11/07/2025 - 15:32:30: [basecommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" kicked "Biogark<30><STEAM_1:1:28428067><>" (reason "")
+L 11/07/2025 - 15:32:35: [playercommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" slayed "Tank<27><BOT><>"
+L 11/07/2025 - 15:32:36: [playercommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" slayed "(1)Tank<35><BOT><>"
+L 11/07/2025 - 15:32:36: [playercommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" slayed "(2)Tank<26><BOT><>"
+L 11/07/2025 - 15:32:36: [playercommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" slayed "(3)Tank<29><BOT><>"
+L 11/07/2025 - 15:32:36: [playercommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" slayed "(4)Tank<31><BOT><>"
+L 11/07/2025 - 15:32:36: [playercommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" slayed "(5)Tank<32><BOT><>"
+L 11/07/2025 - 15:32:37: [playercommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" slayed "(6)Tank<33><BOT><>"
+L 11/07/2025 - 15:32:37: [playercommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" slayed "(7)Tank<34><BOT><>"
+L 11/07/2025 - 15:33:24: [playercommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" slayed "Tank<37><BOT><>"
+L 11/07/2025 - 15:33:25: [playercommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" slayed "(1)Tank<38><BOT><>"
+L 11/07/2025 - 15:33:25: [playercommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" slayed "(2)Tank<39><BOT><>"
+L 11/07/2025 - 15:33:25: [playercommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" slayed "(3)Tank<40><BOT><>"
+L 11/07/2025 - 15:33:25: [playercommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" slayed "(4)Tank<42><BOT><>"
+L 11/07/2025 - 15:34:03: [basecommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" kicked "Jaby<47><STEAM_1:0:963216824><>" (reason "")
+L 11/07/2025 - 15:34:06: [basecommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" kicked "Davoooor<41><STEAM_1:0:76935570><>" (reason "")
+L 11/07/2025 - 15:34:13: [playercommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" slayed "Tank<45><BOT><>"
+L 11/07/2025 - 15:34:13: [playercommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" slayed "(1)Tank<46><BOT><>"
+L 11/07/2025 - 15:34:13: [playercommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" slayed "(7)Tank<52><BOT><>"
+L 11/07/2025 - 15:34:13: [playercommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" slayed "(2)Tank<48><BOT><>"
+L 11/07/2025 - 15:34:14: [playercommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" slayed "(3)Tank<49><BOT><>"
+L 11/07/2025 - 15:34:14: [playercommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" slayed "(5)Tank<43><BOT><>"
+L 11/07/2025 - 15:34:14: [playercommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" slayed "(6)Tank<44><BOT><>"
+L 11/07/2025 - 15:34:14: [playercommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" slayed "(4)Tank<50><BOT><>"
+L 11/07/2025 - 15:34:25: [all4dead2.smx] [NOTICE]: ([T-T]MoY<2><STEAM_1:0:511491787><>) has spawned a tank
+L 11/07/2025 - 15:34:26: [all4dead2.smx] [NOTICE]: ([T-T]MoY<2><STEAM_1:0:511491787><>) has spawned a tank
+L 11/07/2025 - 15:34:26: [all4dead2.smx] [NOTICE]: ([T-T]MoY<2><STEAM_1:0:511491787><>) has spawned a tank
+L 11/07/2025 - 15:34:26: [all4dead2.smx] [NOTICE]: ([T-T]MoY<2><STEAM_1:0:511491787><>) has spawned a tank
+L 11/07/2025 - 15:34:26: [all4dead2.smx] [NOTICE]: ([T-T]MoY<2><STEAM_1:0:511491787><>) has spawned a tank
+L 11/07/2025 - 15:34:27: [all4dead2.smx] [NOTICE]: ([T-T]MoY<2><STEAM_1:0:511491787><>) has spawned a tank
+L 11/07/2025 - 15:34:27: [all4dead2.smx] [NOTICE]: ([T-T]MoY<2><STEAM_1:0:511491787><>) has spawned a tank
+L 11/07/2025 - 15:34:27: [all4dead2.smx] [NOTICE]: ([T-T]MoY<2><STEAM_1:0:511491787><>) has spawned a tank
+L 11/07/2025 - 15:34:27: [all4dead2.smx] [NOTICE]: ([T-T]MoY<2><STEAM_1:0:511491787><>) has spawned a tank
+L 11/07/2025 - 15:34:27: [all4dead2.smx] [NOTICE]: ([T-T]MoY<2><STEAM_1:0:511491787><>) has spawned a tank
+L 11/07/2025 - 15:34:27: [all4dead2.smx] [NOTICE]: ([T-T]MoY<2><STEAM_1:0:511491787><>) has spawned a tank
+L 11/07/2025 - 15:34:28: [all4dead2.smx] [NOTICE]: ([T-T]MoY<2><STEAM_1:0:511491787><>) has spawned a tank
+L 11/07/2025 - 15:34:28: [all4dead2.smx] [NOTICE]: ([T-T]MoY<2><STEAM_1:0:511491787><>) has spawned a tank
+L 11/07/2025 - 15:34:29: [all4dead2.smx] [NOTICE]: ([T-T]MoY<2><STEAM_1:0:511491787><>) has spawned a tank
+L 11/07/2025 - 15:34:49: [all4dead2.smx] [NOTICE]: ([T-T]MoY<2><STEAM_1:0:511491787><>) has spawned a tank
+L 11/07/2025 - 15:36:12: [playercommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" slayed "Tank<53><BOT><>"
+L 11/07/2025 - 15:36:12: [playercommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" slayed "(1)Tank<54><BOT><>"
+L 11/07/2025 - 15:36:12: [playercommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" slayed "(2)Tank<55><BOT><>"
+L 11/07/2025 - 15:36:12: [playercommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" slayed "(3)Tank<56><BOT><>"
+L 11/07/2025 - 15:36:12: [playercommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" slayed "(4)Tank<57><BOT><>"
+L 11/07/2025 - 15:36:12: [playercommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" slayed "(5)Tank<58><BOT><>"
+L 11/07/2025 - 15:36:13: [playercommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" slayed "(6)Tank<59><BOT><>"
+L 11/07/2025 - 15:36:13: [playercommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" slayed "(7)Tank<60><BOT><>"
+L 11/07/2025 - 15:36:13: [playercommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" slayed "(9)Tank<72><BOT><>"
+L 11/07/2025 - 15:36:14: [playercommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" slayed "(10)Tank<63><BOT><>"
+L 11/07/2025 - 15:36:14: [playercommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" slayed "(11)Tank<64><BOT><>"
+L 11/07/2025 - 15:36:14: [playercommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" slayed "(8)Tank<68><BOT><>"
+L 11/07/2025 - 15:36:15: [playercommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" slayed "(13)Tank<66><BOT><>"
+L 11/07/2025 - 15:36:23: [all4dead2.smx] [NOTICE]: ([T-T]MoY<2><STEAM_1:0:511491787><>) has spawned a tank
+L 11/07/2025 - 15:36:24: [all4dead2.smx] [NOTICE]: ([T-T]MoY<2><STEAM_1:0:511491787><>) has spawned a tank
+L 11/07/2025 - 15:36:24: [all4dead2.smx] [NOTICE]: ([T-T]MoY<2><STEAM_1:0:511491787><>) has spawned a tank
+L 11/07/2025 - 15:36:24: [all4dead2.smx] [NOTICE]: ([T-T]MoY<2><STEAM_1:0:511491787><>) has spawned a tank
+L 11/07/2025 - 15:36:24: [all4dead2.smx] [NOTICE]: ([T-T]MoY<2><STEAM_1:0:511491787><>) has spawned a tank
+L 11/07/2025 - 15:36:25: [all4dead2.smx] [NOTICE]: ([T-T]MoY<2><STEAM_1:0:511491787><>) has spawned a tank
+L 11/07/2025 - 15:36:25: [all4dead2.smx] [NOTICE]: ([T-T]MoY<2><STEAM_1:0:511491787><>) has spawned a tank
+L 11/07/2025 - 15:36:25: [all4dead2.smx] [NOTICE]: ([T-T]MoY<2><STEAM_1:0:511491787><>) has spawned a tank
+L 11/07/2025 - 15:36:26: [all4dead2.smx] [NOTICE]: ([T-T]MoY<2><STEAM_1:0:511491787><>) has spawned a tank
+L 11/07/2025 - 15:36:26: [all4dead2.smx] [NOTICE]: ([T-T]MoY<2><STEAM_1:0:511491787><>) has spawned a tank
+L 11/07/2025 - 15:36:27: [all4dead2.smx] [NOTICE]: ([T-T]MoY<2><STEAM_1:0:511491787><>) has spawned a tank
+L 11/07/2025 - 15:36:27: [all4dead2.smx] [NOTICE]: ([T-T]MoY<2><STEAM_1:0:511491787><>) has spawned a tank
+L 11/07/2025 - 15:37:52: [playercommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" slayed "Tank<73><BOT><>"
+L 11/07/2025 - 15:37:52: [playercommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" slayed "(1)Tank<74><BOT><>"
+L 11/07/2025 - 15:37:53: [playercommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" slayed "(2)Tank<75><BOT><>"
+L 11/07/2025 - 15:37:53: [playercommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" slayed "(3)Tank<76><BOT><>"
+L 11/07/2025 - 15:37:53: [playercommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" slayed "(4)Tank<77><BOT><>"
+L 11/07/2025 - 15:37:53: [playercommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" slayed "(5)Tank<78><BOT><>"
+L 11/07/2025 - 15:37:53: [playercommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" slayed "(6)Tank<79><BOT><>"
+L 11/07/2025 - 15:37:53: [playercommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" slayed "(7)Tank<80><BOT><>"
+L 11/07/2025 - 15:37:54: [playercommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" slayed "(8)Tank<81><BOT><>"
+L 11/07/2025 - 15:37:54: [playercommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" slayed "(9)Tank<82><BOT><>"
+L 11/07/2025 - 15:37:54: [playercommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" slayed "(10)Tank<83><BOT><>"
+L 11/07/2025 - 15:37:54: [playercommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" slayed "(11)Tank<84><BOT><>"
+L 11/07/2025 - 15:37:55: [playercommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" slayed "(12)Tank<87><BOT><>"
+L 11/07/2025 - 15:38:39: [playercommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" slayed "Tank<88><BOT><>"
+L 11/07/2025 - 15:38:39: [playercommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" slayed "(8)Tank<96><BOT><>"
+L 11/07/2025 - 15:38:39: [playercommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" slayed "(1)Tank<89><BOT><>"
+L 11/07/2025 - 15:38:40: [playercommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" slayed "(3)Tank<91><BOT><>"
+L 11/07/2025 - 15:38:40: [playercommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" slayed "(4)Tank<92><BOT><>"
+L 11/07/2025 - 15:38:40: [playercommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" slayed "(2)Tank<98><BOT><>"
+L 11/07/2025 - 15:38:40: [playercommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" slayed "(5)Tank<93><BOT><>"
+L 11/07/2025 - 15:38:40: [playercommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" slayed "(6)Tank<94><BOT><>"
+L 11/07/2025 - 15:38:41: [playercommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" slayed "(7)Tank<95><BOT><>"
+L 11/07/2025 - 15:38:49: [basecommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" kicked "Rochelle<85><BOT><>" (reason "")
+L 11/07/2025 - 15:38:50: [basecommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" kicked "Ellis<70><BOT><>" (reason "")
+L 11/07/2025 - 15:38:50: [basecommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" kicked "Coach<97><BOT><>" (reason "")
+L 11/07/2025 - 15:39:46: [playercommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" slayed "Tank<99><BOT><>"
+L 11/07/2025 - 15:39:46: [playercommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" slayed "(1)Tank<106><BOT><>"
+L 11/07/2025 - 15:39:46: [playercommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" slayed "(2)Tank<101><BOT><>"
+L 11/07/2025 - 15:39:46: [playercommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" slayed "(3)Tank<102><BOT><>"
+L 11/07/2025 - 15:39:47: [playercommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" slayed "(4)Tank<103><BOT><>"
+L 11/07/2025 - 15:39:47: [playercommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" slayed "(5)Tank<104><BOT><>"
+L 11/07/2025 - 15:39:47: [playercommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" slayed "(6)Tank<105><BOT><>"
+L 11/07/2025 - 15:39:47: [playercommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" slayed "(7)Tank<107><BOT><>"
+L 11/07/2025 - 17:57:48: SourceMod log file session started (file "d:\steamlibrary\steamapps\common\left 4 dead 2\left4dead2\addons\sourcemod\logs\L20251107.log") (Version "1.12.0.7207")
+L 11/07/2025 - 17:57:48: [GEOIP] GeoIP2 database loaded: GeoLite2-ASN (2024-08-21 08:15:21 UTC) (d:\steamlibrary\steamapps\common\left 4 dead 2\left4dead2\addons\sourcemod\configs\geoip\GeoLite2-ASN.mmdb)
+L 11/07/2025 - 17:57:48: [GEOIP] GeoIP2 supported languages: en
+L 11/07/2025 - 17:57:48: [GEOIP] Your database is older than 90 days. You should consider downloading a newer version from e.g. https://dev.maxmind.com/geoip/geolite2-free-geolocation-data
+L 11/07/2025 - 17:57:54: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_consistency") (value "0")
+L 11/07/2025 - 17:57:54: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_allow_lobby_connect_only") (value "0")
+L 11/07/2025 - 17:57:54: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxplayers") (value "8")
+L 11/07/2025 - 17:57:54: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_visiblemaxplayers") (value "-1")
+L 11/07/2025 - 17:57:54: [chat-processor.smx] Message formats generated for game 'left4dead2'.
+L 11/07/2025 - 17:57:54: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 11/07/2025 - 17:58:52: [basecommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" changed cvar (cvar "sv_gravity") (value "200")
+L 11/07/2025 - 18:00:36: [funcommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" toggled noclip on "[T-T]MoY<2><STEAM_1:0:511491787><>"
+L 11/07/2025 - 18:01:12: [basecommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" kicked "takumi_28<6><STEAM_1:1:573395797><>" (reason "")
+L 11/07/2025 - 18:01:27: [playercommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" slayed "(2)Tank<9><BOT><>"
+L 11/07/2025 - 18:01:27: [playercommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" slayed "Nick<4><BOT><>"
+L 11/07/2025 - 18:01:27: [playercommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" slayed "Coach<5><BOT><>"
+L 11/07/2025 - 18:01:27: [playercommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" slayed "Tank<13><BOT><>"
+L 11/07/2025 - 18:01:28: [playercommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" slayed "Rochelle<12><BOT><>"
+L 11/07/2025 - 18:01:28: [playercommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" slayed "(1)Tank<8><BOT><>"
+L 11/07/2025 - 18:01:28: [playercommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" slayed "(3)Tank<10><BOT><>"
+L 11/07/2025 - 18:01:28: [playercommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" slayed "(4)Tank<11><BOT><>"
+L 11/07/2025 - 18:01:29: [playercommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" slayed "(5)Tank<14><BOT><>"
+L 11/07/2025 - 18:01:32: [basecommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" kicked "(2)Tank<9><BOT><>" (reason "")
+L 11/07/2025 - 18:01:33: [basecommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" kicked "Nick<4><BOT><>" (reason "")
+L 11/07/2025 - 18:01:33: [basecommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" kicked "Coach<5><BOT><>" (reason "")
+L 11/07/2025 - 18:01:33: [basecommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" kicked "Tank<13><BOT><>" (reason "")
+L 11/07/2025 - 18:01:34: [basecommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" kicked "Rochelle<12><BOT><>" (reason "")
+L 11/07/2025 - 18:01:34: [basecommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" kicked "(1)Tank<8><BOT><>" (reason "")
+L 11/07/2025 - 18:01:34: [basecommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" kicked "(3)Tank<10><BOT><>" (reason "")
+L 11/07/2025 - 18:01:34: [basecommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" kicked "(4)Tank<11><BOT><>" (reason "")
+L 11/07/2025 - 18:01:35: [basecommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" kicked "(5)Tank<14><BOT><>" (reason "")
+L 11/07/2025 - 18:01:43: [all4dead2.smx] [NOTICE]: ([T-T]MoY<2><STEAM_1:0:511491787><>) has spawned a tank
+L 11/07/2025 - 18:01:47: [all4dead2.smx] [NOTICE]: ([T-T]MoY<2><STEAM_1:0:511491787><>) has spawned a tank
+L 11/07/2025 - 18:01:53: [playercommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" slayed "Tank<15><BOT><>"
+L 11/07/2025 - 18:01:53: [playercommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" slayed "(1)Tank<16><BOT><>"
+L 11/07/2025 - 18:01:53: [playercommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" slayed "(2)Tank<17><BOT><>"
+L 11/07/2025 - 18:02:32: [playercommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" slayed "Tank<20><BOT><>"
+L 11/07/2025 - 18:02:32: [playercommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" slayed "(1)Tank<21><BOT><>"
+L 11/07/2025 - 18:02:32: [playercommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" slayed "(2)Tank<22><BOT><>"
+L 11/07/2025 - 18:02:32: [playercommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" slayed "(3)Tank<18><BOT><>"
+L 11/07/2025 - 18:03:11: [playercommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" slayed "Tank<25><BOT><>"
+L 11/07/2025 - 18:03:11: [playercommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" slayed "(1)Tank<26><BOT><>"
+L 11/07/2025 - 18:03:11: [playercommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" slayed "(2)Tank<27><BOT><>"
+L 11/07/2025 - 18:03:11: [playercommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" slayed "(4)Tank<23><BOT><>"
+L 11/07/2025 - 18:03:12: [playercommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" slayed "(5)Tank<24><BOT><>"
+L 11/07/2025 - 18:03:45: [playercommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" slayed "Tank<30><BOT><>"
+L 11/07/2025 - 18:03:45: [playercommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" slayed "(1)Tank<31><BOT><>"
+L 11/07/2025 - 18:03:45: [playercommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" slayed "(3)Tank<28><BOT><>"
+L 11/07/2025 - 18:03:46: [playercommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" slayed "(6)Tank<29><BOT><>"
+L 11/07/2025 - 18:03:49: [all4dead2.smx] [NOTICE]: ([T-T]MoY<2><STEAM_1:0:511491787><>) has spawned a tank
+L 11/07/2025 - 18:03:49: [all4dead2.smx] [NOTICE]: ([T-T]MoY<2><STEAM_1:0:511491787><>) has spawned a tank
+L 11/07/2025 - 18:03:49: [all4dead2.smx] [NOTICE]: ([T-T]MoY<2><STEAM_1:0:511491787><>) has spawned a tank
+L 11/07/2025 - 18:03:49: [all4dead2.smx] [NOTICE]: ([T-T]MoY<2><STEAM_1:0:511491787><>) has spawned a tank
+L 11/07/2025 - 18:03:50: [all4dead2.smx] [NOTICE]: ([T-T]MoY<2><STEAM_1:0:511491787><>) has spawned a tank
+L 11/07/2025 - 18:03:50: [all4dead2.smx] [NOTICE]: ([T-T]MoY<2><STEAM_1:0:511491787><>) has spawned a tank
+L 11/07/2025 - 18:03:50: [all4dead2.smx] [NOTICE]: ([T-T]MoY<2><STEAM_1:0:511491787><>) has spawned a tank
+L 11/07/2025 - 18:03:50: [all4dead2.smx] [NOTICE]: ([T-T]MoY<2><STEAM_1:0:511491787><>) has spawned a tank
+L 11/07/2025 - 18:03:50: [all4dead2.smx] [NOTICE]: ([T-T]MoY<2><STEAM_1:0:511491787><>) has spawned a tank
+L 11/07/2025 - 18:03:51: [all4dead2.smx] [NOTICE]: ([T-T]MoY<2><STEAM_1:0:511491787><>) has spawned a tank
+L 11/07/2025 - 18:03:51: [all4dead2.smx] [NOTICE]: ([T-T]MoY<2><STEAM_1:0:511491787><>) has spawned a tank
+L 11/07/2025 - 18:03:52: [all4dead2.smx] [NOTICE]: ([T-T]MoY<2><STEAM_1:0:511491787><>) has spawned a tank
+L 11/07/2025 - 18:03:59: [playercommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" slayed "(2)Tank<32><BOT><>"
+L 11/07/2025 - 18:03:59: [playercommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" slayed "(4)Tank<33><BOT><>"
+L 11/07/2025 - 18:03:59: [playercommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" slayed "(5)Tank<34><BOT><>"
+L 11/07/2025 - 18:03:59: [playercommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" slayed "(7)Tank<35><BOT><>"
+L 11/07/2025 - 18:04:00: [playercommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" slayed "(8)Tank<36><BOT><>"
+L 11/07/2025 - 18:04:00: [playercommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" slayed "(9)Tank<37><BOT><>"
+L 11/07/2025 - 18:04:00: [playercommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" slayed "(10)Tank<38><BOT><>"
+L 11/07/2025 - 18:04:00: [playercommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" slayed "(11)Tank<39><BOT><>"
+L 11/07/2025 - 18:04:00: [playercommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" slayed "(12)Tank<40><BOT><>"
+L 11/07/2025 - 18:04:01: [playercommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" slayed "(13)Tank<41><BOT><>"
+L 11/07/2025 - 18:04:01: [playercommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" slayed "Tank<45><BOT><>"
+L 11/07/2025 - 18:04:01: [playercommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" slayed "(14)Tank<42><BOT><>"
+L 11/07/2025 - 18:04:02: [playercommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" slayed "(15)Tank<43><BOT><>"
+L 11/07/2025 - 18:04:34: [basecommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" kicked "MayronJMC<44><STEAM_1:1:938468174><>" (reason "")
+L 11/07/2025 - 18:04:38: [basecommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" kicked "Tank<46><BOT><>" (reason "")
+L 11/07/2025 - 18:04:38: [basecommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" kicked "Nick<50><BOT><>" (reason "")
+L 11/07/2025 - 18:04:38: [basecommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" kicked "Rochelle<48><BOT><>" (reason "")
+L 11/07/2025 - 18:04:38: [basecommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" kicked "Coach<49><BOT><>" (reason "")
+L 11/07/2025 - 18:04:57: [playercommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" slayed "Tank<51><BOT><>"
+L 11/07/2025 - 18:04:57: [playercommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" slayed "(1)Tank<52><BOT><>"
+L 11/07/2025 - 18:05:22: [playercommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" slayed "Tank<54><BOT><>"
+L 11/07/2025 - 18:05:22: [playercommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" slayed "(2)Tank<53><BOT><>"
+L 11/07/2025 - 18:06:14: [playercommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" slayed "Tank<56><BOT><>"
+L 11/07/2025 - 18:06:14: [playercommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" slayed "(1)Tank<55><BOT><>"
+L 11/07/2025 - 18:06:14: [playercommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" slayed "(2)Tank<57><BOT><>"
+L 11/07/2025 - 18:06:15: [playercommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" slayed "(3)Tank<58><BOT><>"
+L 11/07/2025 - 18:06:15: [playercommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" slayed "(4)Tank<59><BOT><>"
+L 11/07/2025 - 18:06:37: [all4dead2.smx] [NOTICE]: ([T-T]MoY<2><STEAM_1:0:511491787><>) has spawned a tank
+L 11/07/2025 - 18:06:38: [all4dead2.smx] [NOTICE]: ([T-T]MoY<2><STEAM_1:0:511491787><>) has spawned a tank
+L 11/07/2025 - 18:06:38: [all4dead2.smx] [NOTICE]: ([T-T]MoY<2><STEAM_1:0:511491787><>) has spawned a tank
+L 11/07/2025 - 18:06:38: [all4dead2.smx] [NOTICE]: ([T-T]MoY<2><STEAM_1:0:511491787><>) has spawned a tank
+L 11/07/2025 - 18:06:38: [all4dead2.smx] [NOTICE]: ([T-T]MoY<2><STEAM_1:0:511491787><>) has spawned a tank
+L 11/07/2025 - 18:06:38: [all4dead2.smx] [NOTICE]: ([T-T]MoY<2><STEAM_1:0:511491787><>) has spawned a tank
+L 11/07/2025 - 18:06:38: [all4dead2.smx] [NOTICE]: ([T-T]MoY<2><STEAM_1:0:511491787><>) has spawned a tank
+L 11/07/2025 - 18:06:39: [all4dead2.smx] [NOTICE]: ([T-T]MoY<2><STEAM_1:0:511491787><>) has spawned a tank
+L 11/07/2025 - 18:06:39: [all4dead2.smx] [NOTICE]: ([T-T]MoY<2><STEAM_1:0:511491787><>) has spawned a tank
+L 11/07/2025 - 18:06:39: [all4dead2.smx] [NOTICE]: ([T-T]MoY<2><STEAM_1:0:511491787><>) has spawned a tank
+L 11/07/2025 - 18:06:55: [playercommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" slayed "(7)Tank<67><BOT><>"
+L 11/07/2025 - 18:06:55: [playercommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" slayed "(9)Tank<69><BOT><>"
+L 11/07/2025 - 18:06:55: [playercommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" slayed "(10)Tank<70><BOT><>"
+L 11/07/2025 - 18:06:55: [playercommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" slayed "(11)Tank<71><BOT><>"
+L 11/07/2025 - 18:07:09: [playercommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" slayed "Tank<72><BOT><>"
+L 11/07/2025 - 18:07:46: [basecommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" kicked "takumi_28<73><STEAM_1:1:573395797><>" (reason "")
+L 11/07/2025 - 18:07:53: [basecommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" kicked "Rochelle<76><BOT><>" (reason "")
+L 11/07/2025 - 18:07:53: [basecommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" kicked "Coach<77><BOT><>" (reason "")
+L 11/07/2025 - 18:07:53: [basecommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" kicked "(1)Tank<78><BOT><>" (reason "")
+L 11/07/2025 - 18:07:53: [basecommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" kicked "Nick<79><BOT><>" (reason "")
+L 11/07/2025 - 18:08:11: [all4dead2.smx] [NOTICE]: ([T-T]MoY<2><STEAM_1:0:511491787><>) has spawned a tank
+L 11/07/2025 - 18:08:11: [all4dead2.smx] [NOTICE]: ([T-T]MoY<2><STEAM_1:0:511491787><>) has spawned a tank
+L 11/07/2025 - 18:08:12: [all4dead2.smx] [NOTICE]: ([T-T]MoY<2><STEAM_1:0:511491787><>) has spawned a tank
+L 11/07/2025 - 18:08:12: [all4dead2.smx] [NOTICE]: ([T-T]MoY<2><STEAM_1:0:511491787><>) has spawned a tank
+L 11/07/2025 - 18:08:12: [all4dead2.smx] [NOTICE]: ([T-T]MoY<2><STEAM_1:0:511491787><>) has spawned a tank
+L 11/07/2025 - 18:08:12: [all4dead2.smx] [NOTICE]: ([T-T]MoY<2><STEAM_1:0:511491787><>) has spawned a tank
+L 11/07/2025 - 18:08:12: [all4dead2.smx] [NOTICE]: ([T-T]MoY<2><STEAM_1:0:511491787><>) has spawned a tank
+L 11/07/2025 - 18:08:13: [all4dead2.smx] [NOTICE]: ([T-T]MoY<2><STEAM_1:0:511491787><>) has spawned a tank
+L 11/07/2025 - 18:08:13: [all4dead2.smx] [NOTICE]: ([T-T]MoY<2><STEAM_1:0:511491787><>) has spawned a tank
+L 11/07/2025 - 18:08:13: [all4dead2.smx] [NOTICE]: ([T-T]MoY<2><STEAM_1:0:511491787><>) has spawned a tank
+L 11/07/2025 - 18:08:13: [all4dead2.smx] [NOTICE]: ([T-T]MoY<2><STEAM_1:0:511491787><>) has spawned a tank
+L 11/07/2025 - 18:08:13: [all4dead2.smx] [NOTICE]: ([T-T]MoY<2><STEAM_1:0:511491787><>) has spawned a tank
+L 11/07/2025 - 18:08:15: [all4dead2.smx] [NOTICE]: ([T-T]MoY<2><STEAM_1:0:511491787><>) has spawned a tank
+L 11/07/2025 - 18:08:17: [all4dead2.smx] [NOTICE]: ([T-T]MoY<2><STEAM_1:0:511491787><>) has spawned a tank
+L 11/07/2025 - 18:08:17: [all4dead2.smx] [NOTICE]: ([T-T]MoY<2><STEAM_1:0:511491787><>) has spawned a tank
+L 11/07/2025 - 18:08:17: [all4dead2.smx] [NOTICE]: ([T-T]MoY<2><STEAM_1:0:511491787><>) has spawned a tank
+L 11/07/2025 - 18:08:53: Log file closed.
+L 11/07/2025 - 18:18:10: SourceMod log file session started (file "d:\steamlibrary\steamapps\common\left 4 dead 2\left4dead2\addons\sourcemod\logs\L20251107.log") (Version "1.12.0.7207")
+L 11/07/2025 - 18:18:10: [GEOIP] GeoIP2 database loaded: GeoLite2-ASN (2024-08-21 08:15:21 UTC) (d:\steamlibrary\steamapps\common\left 4 dead 2\left4dead2\addons\sourcemod\configs\geoip\GeoLite2-ASN.mmdb)
+L 11/07/2025 - 18:18:10: [GEOIP] GeoIP2 supported languages: en
+L 11/07/2025 - 18:18:10: [GEOIP] Your database is older than 90 days. You should consider downloading a newer version from e.g. https://dev.maxmind.com/geoip/geolite2-free-geolocation-data
+L 11/07/2025 - 18:18:15: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_consistency") (value "0")
+L 11/07/2025 - 18:18:15: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_allow_lobby_connect_only") (value "0")
+L 11/07/2025 - 18:18:15: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxplayers") (value "8")
+L 11/07/2025 - 18:18:15: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_visiblemaxplayers") (value "-1")
+L 11/07/2025 - 18:18:16: [chat-processor.smx] Message formats generated for game 'left4dead2'.
+L 11/07/2025 - 18:18:16: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 11/07/2025 - 18:19:18: [basecommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" kicked "stitch detona trabas<6><STEAM_1:0:934227116><>" (reason "")
+L 11/07/2025 - 18:19:30: [basecommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" changed cvar (cvar "sv_gravity") (value "200")
+L 11/07/2025 - 18:20:14: [funcommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" toggled noclip on "[T-T]MoY<2><STEAM_1:0:511491787><>"
+L 11/07/2025 - 18:20:25: [basecommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" kicked "Juanín Juan Harry<7><STEAM_1:1:566520877><>" (reason "")
+L 11/07/2025 - 18:20:31: [basecommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" kicked "Rochelle<3><BOT><>" (reason "")
+L 11/07/2025 - 18:20:32: [basecommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" kicked "Ellis<10><BOT><>" (reason "")
+L 11/07/2025 - 18:20:32: [basecommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" kicked "Coach<5><BOT><>" (reason "")
+L 11/07/2025 - 18:20:32: [basecommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" kicked "L<11><STEAM_1:1:787974268><>" (reason "")
+L 11/07/2025 - 18:20:32: [basecommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" kicked "Tank<8><BOT><>" (reason "")
+L 11/07/2025 - 18:20:33: [basecommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" kicked "(1)Tank<9><BOT><>" (reason "")
+L 11/07/2025 - 18:21:14: [all4dead2.smx] [NOTICE]: ([T-T]MoY<2><STEAM_1:0:511491787><>) has spawned a tank
+L 11/07/2025 - 18:21:14: [all4dead2.smx] [NOTICE]: ([T-T]MoY<2><STEAM_1:0:511491787><>) has spawned a tank
+L 11/07/2025 - 18:21:14: [all4dead2.smx] [NOTICE]: ([T-T]MoY<2><STEAM_1:0:511491787><>) has spawned a tank
+L 11/07/2025 - 18:21:15: [all4dead2.smx] [NOTICE]: ([T-T]MoY<2><STEAM_1:0:511491787><>) has spawned a tank
+L 11/07/2025 - 18:21:15: [all4dead2.smx] [NOTICE]: ([T-T]MoY<2><STEAM_1:0:511491787><>) has spawned a tank
+L 11/07/2025 - 18:21:15: [all4dead2.smx] [NOTICE]: ([T-T]MoY<2><STEAM_1:0:511491787><>) has spawned a tank
+L 11/07/2025 - 18:21:15: [all4dead2.smx] [NOTICE]: ([T-T]MoY<2><STEAM_1:0:511491787><>) has spawned a tank
+L 11/07/2025 - 18:22:17: [all4dead2.smx] [NOTICE]: ([T-T]MoY<2><STEAM_1:0:511491787><>) has spawned a tank
+L 11/07/2025 - 18:22:20: [all4dead2.smx] [NOTICE]: ([T-T]MoY<2><STEAM_1:0:511491787><>) has spawned a tank
+L 11/07/2025 - 18:22:59: [basecommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" kicked "Tank<12><BOT><>" (reason "")
+L 11/07/2025 - 18:22:59: [basecommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" kicked "(1)Tank<14><BOT><>" (reason "")
+L 11/07/2025 - 18:23:00: [basecommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" kicked "(2)Tank<15><BOT><>" (reason "")
+L 11/07/2025 - 18:23:00: [basecommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" kicked "(3)Tank<16><BOT><>" (reason "")
+L 11/07/2025 - 18:23:00: [basecommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" kicked "(4)Tank<17><BOT><>" (reason "")
+L 11/07/2025 - 18:23:00: [basecommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" kicked "(5)Tank<29><BOT><>" (reason "")
+L 11/07/2025 - 18:23:00: [basecommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" kicked "Rochelle<19><BOT><>" (reason "")
+L 11/07/2025 - 18:23:01: [basecommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" kicked "Ellis<20><BOT><>" (reason "")
+L 11/07/2025 - 18:23:01: [basecommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" kicked "(6)Tank<21><BOT><>" (reason "")
+L 11/07/2025 - 18:23:01: [basecommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" kicked "(7)Tank<22><BOT><>" (reason "")
+L 11/07/2025 - 18:23:01: [basecommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" kicked "(8)Tank<23><BOT><>" (reason "")
+L 11/07/2025 - 18:23:01: [basecommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" kicked "Tank<31><BOT><>" (reason "")
+L 11/07/2025 - 18:23:02: [basecommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" kicked "(9)Tank<24><BOT><>" (reason "")
+L 11/07/2025 - 18:23:02: [basecommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" kicked "(10)Tank<25><BOT><>" (reason "")
+L 11/07/2025 - 18:23:02: [basecommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" kicked "(11)Tank<26><BOT><>" (reason "")
+L 11/07/2025 - 18:23:02: [basecommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" kicked "(12)Tank<30><BOT><>" (reason "")
+L 11/07/2025 - 18:23:03: [basecommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" kicked "(13)Tank<28><BOT><>" (reason "")
+L 11/07/2025 - 18:23:12: [all4dead2.smx] [NOTICE]: ([T-T]MoY<2><STEAM_1:0:511491787><>) has spawned a tank
+L 11/07/2025 - 18:23:13: [all4dead2.smx] [NOTICE]: ([T-T]MoY<2><STEAM_1:0:511491787><>) has spawned a tank
+L 11/07/2025 - 18:23:13: [all4dead2.smx] [NOTICE]: ([T-T]MoY<2><STEAM_1:0:511491787><>) has spawned a tank
+L 11/07/2025 - 18:23:13: [all4dead2.smx] [NOTICE]: ([T-T]MoY<2><STEAM_1:0:511491787><>) has spawned a tank
+L 11/07/2025 - 18:23:13: [all4dead2.smx] [NOTICE]: ([T-T]MoY<2><STEAM_1:0:511491787><>) has spawned a tank
+L 11/07/2025 - 18:23:14: [all4dead2.smx] [NOTICE]: ([T-T]MoY<2><STEAM_1:0:511491787><>) has spawned a tank
+L 11/07/2025 - 18:23:14: [all4dead2.smx] [NOTICE]: ([T-T]MoY<2><STEAM_1:0:511491787><>) has spawned a tank
+L 11/07/2025 - 18:23:14: [all4dead2.smx] [NOTICE]: ([T-T]MoY<2><STEAM_1:0:511491787><>) has spawned a tank
+L 11/07/2025 - 18:23:19: [all4dead2.smx] [NOTICE]: ([T-T]MoY<2><STEAM_1:0:511491787><>) has spawned a tank
+L 11/07/2025 - 18:23:27: [all4dead2.smx] [NOTICE]: ([T-T]MoY<2><STEAM_1:0:511491787><>) has spawned a tank
+L 11/07/2025 - 18:23:36: [all4dead2.smx] [NOTICE]: ([T-T]MoY<2><STEAM_1:0:511491787><>) has spawned a tank
+L 11/07/2025 - 18:23:46: [all4dead2.smx] [NOTICE]: ([T-T]MoY<2><STEAM_1:0:511491787><>) has spawned a tank
+L 11/07/2025 - 18:24:27: [funcommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" toggled noclip on "[T-T]MoY<2><STEAM_1:0:511491787><>"
+L 11/07/2025 - 18:24:36: [playercommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" slayed "[T-T]MoY<2><STEAM_1:0:511491787><>"
+L 11/07/2025 - 18:24:36: [playercommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" slayed "Tank<32><BOT><>"
+L 11/07/2025 - 18:24:36: [playercommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" slayed "(1)Tank<33><BOT><>"
+L 11/07/2025 - 18:24:37: [playercommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" slayed "(2)Tank<34><BOT><>"
+L 11/07/2025 - 18:24:37: [playercommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" slayed "(3)Tank<35><BOT><>"
+L 11/07/2025 - 18:24:37: [playercommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" slayed "(4)Tank<36><BOT><>"
+L 11/07/2025 - 18:24:37: [playercommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" slayed "(5)Tank<37><BOT><>"
+L 11/07/2025 - 18:24:37: [playercommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" slayed "(6)Tank<38><BOT><>"
+L 11/07/2025 - 18:24:38: [playercommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" slayed "(7)Tank<39><BOT><>"
+L 11/07/2025 - 18:24:38: [playercommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" slayed "(8)Tank<40><BOT><>"
+L 11/07/2025 - 18:24:38: [playercommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" slayed "(9)Tank<41><BOT><>"
+L 11/07/2025 - 18:24:38: [playercommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" slayed "(10)Tank<42><BOT><>"
+L 11/07/2025 - 18:24:38: [playercommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" slayed "(11)Tank<43><BOT><>"
+L 11/07/2025 - 18:24:39: [playercommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" slayed "woltemade_000sas0:V<44><STEAM_1:0:944387935><>"
+L 11/07/2025 - 18:24:39: [playercommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" slayed "(12)Tank<48><BOT><>"
+L 11/07/2025 - 18:25:12: [basecommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" kicked "woltemade_000sas0:V<44><STEAM_1:0:944387935><>" (reason "")
+L 11/07/2025 - 18:25:24: [l4d_sm_respawn.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" teleported "[T-T]MoY<2><STEAM_1:0:511491787><>" after respawning him
+L 11/07/2025 - 18:31:36: -------- Mapchange to c2m2_fairgrounds --------
+L 11/07/2025 - 18:31:39: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_consistency") (value "0")
+L 11/07/2025 - 18:31:39: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_allow_lobby_connect_only") (value "0")
+L 11/07/2025 - 18:31:39: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxplayers") (value "8")
+L 11/07/2025 - 18:31:39: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_visiblemaxplayers") (value "-1")
+L 11/07/2025 - 18:31:40: [chat-processor.smx] Message formats generated for game 'left4dead2'.
+L 11/07/2025 - 18:31:40: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 11/07/2025 - 18:34:19: -------- Mapchange to c2m3_coaster --------
+L 11/07/2025 - 18:34:22: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_consistency") (value "0")
+L 11/07/2025 - 18:34:22: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_allow_lobby_connect_only") (value "0")
+L 11/07/2025 - 18:34:22: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxplayers") (value "8")
+L 11/07/2025 - 18:34:22: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_visiblemaxplayers") (value "-1")
+L 11/07/2025 - 18:34:22: [chat-processor.smx] Message formats generated for game 'left4dead2'.
+L 11/07/2025 - 18:34:22: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 11/07/2025 - 18:38:44: -------- Mapchange to c2m4_barns --------
+L 11/07/2025 - 18:38:47: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_consistency") (value "0")
+L 11/07/2025 - 18:38:47: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_allow_lobby_connect_only") (value "0")
+L 11/07/2025 - 18:38:47: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxplayers") (value "8")
+L 11/07/2025 - 18:38:47: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_visiblemaxplayers") (value "-1")
+L 11/07/2025 - 18:38:47: [chat-processor.smx] Message formats generated for game 'left4dead2'.
+L 11/07/2025 - 18:38:47: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 11/07/2025 - 18:42:42: -------- Mapchange to c2m5_concert --------
+L 11/07/2025 - 18:42:44: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_consistency") (value "0")
+L 11/07/2025 - 18:42:44: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_allow_lobby_connect_only") (value "0")
+L 11/07/2025 - 18:42:44: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxplayers") (value "8")
+L 11/07/2025 - 18:42:44: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_visiblemaxplayers") (value "-1")
+L 11/07/2025 - 18:42:45: [chat-processor.smx] Message formats generated for game 'left4dead2'.
+L 11/07/2025 - 18:42:45: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 11/07/2025 - 18:47:49: [basecommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" changed map to "c1m1_hotel"
+L 11/07/2025 - 18:47:52: [SM] Changed map to "c1m1_hotel"
+L 11/07/2025 - 18:47:54: -------- Mapchange to c1m1_hotel --------
+L 11/07/2025 - 18:47:57: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_consistency") (value "0")
+L 11/07/2025 - 18:47:57: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_allow_lobby_connect_only") (value "0")
+L 11/07/2025 - 18:47:57: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxplayers") (value "8")
+L 11/07/2025 - 18:47:57: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_visiblemaxplayers") (value "-1")
+L 11/07/2025 - 18:47:58: [chat-processor.smx] Message formats generated for game 'left4dead2'.
+L 11/07/2025 - 18:47:58: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 11/07/2025 - 18:53:49: -------- Mapchange to c1m2_streets --------
+L 11/07/2025 - 18:53:52: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_consistency") (value "0")
+L 11/07/2025 - 18:53:52: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_allow_lobby_connect_only") (value "0")
+L 11/07/2025 - 18:53:52: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxplayers") (value "8")
+L 11/07/2025 - 18:53:52: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_visiblemaxplayers") (value "-1")
+L 11/07/2025 - 18:53:52: [chat-processor.smx] Message formats generated for game 'left4dead2'.
+L 11/07/2025 - 18:53:52: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 11/07/2025 - 19:03:40: -------- Mapchange to c1m3_mall --------
+L 11/07/2025 - 19:03:43: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_consistency") (value "0")
+L 11/07/2025 - 19:03:43: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_allow_lobby_connect_only") (value "0")
+L 11/07/2025 - 19:03:43: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxplayers") (value "8")
+L 11/07/2025 - 19:03:43: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_visiblemaxplayers") (value "-1")
+L 11/07/2025 - 19:03:43: [chat-processor.smx] Message formats generated for game 'left4dead2'.
+L 11/07/2025 - 19:03:43: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 11/07/2025 - 19:09:24: -------- Mapchange to c1m4_atrium --------
+L 11/07/2025 - 19:09:27: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_consistency") (value "0")
+L 11/07/2025 - 19:09:27: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_allow_lobby_connect_only") (value "0")
+L 11/07/2025 - 19:09:27: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxplayers") (value "8")
+L 11/07/2025 - 19:09:27: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_visiblemaxplayers") (value "-1")
+L 11/07/2025 - 19:09:28: [chat-processor.smx] Message formats generated for game 'left4dead2'.
+L 11/07/2025 - 19:09:28: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 11/07/2025 - 19:09:33: Log file closed.

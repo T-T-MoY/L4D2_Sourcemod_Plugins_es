@@ -1,0 +1,263 @@
+L 11/24/2025 - 14:49:17: SourceMod log file session started (file "d:\steamlibrary\steamapps\common\left 4 dead 2\left4dead2\addons\sourcemod\logs\L20251124.log") (Version "1.12.0.7207")
+L 11/24/2025 - 14:49:17: [GEOIP] GeoIP2 database loaded: GeoLite2-ASN (2024-08-21 08:15:21 UTC) (d:\steamlibrary\steamapps\common\left 4 dead 2\left4dead2\addons\sourcemod\configs\geoip\GeoLite2-ASN.mmdb)
+L 11/24/2025 - 14:49:18: [GEOIP] GeoIP2 supported languages: en
+L 11/24/2025 - 14:49:18: [GEOIP] Your database is older than 90 days. You should consider downloading a newer version from e.g. https://dev.maxmind.com/geoip/geolite2-free-geolocation-data
+L 11/24/2025 - 14:49:29: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_consistency") (value "0")
+L 11/24/2025 - 14:49:29: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_allow_lobby_connect_only") (value "0")
+L 11/24/2025 - 14:49:29: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxplayers") (value "8")
+L 11/24/2025 - 14:49:29: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_visiblemaxplayers") (value "-1")
+L 11/24/2025 - 14:49:29: [chat-processor.smx] Message formats generated for game 'left4dead2'.
+L 11/24/2025 - 14:49:29: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 11/24/2025 - 14:50:59: -------- Mapchange to c2m1_highway --------
+L 11/24/2025 - 14:51:02: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_consistency") (value "0")
+L 11/24/2025 - 14:51:02: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_allow_lobby_connect_only") (value "0")
+L 11/24/2025 - 14:51:02: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxplayers") (value "8")
+L 11/24/2025 - 14:51:02: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_visiblemaxplayers") (value "-1")
+L 11/24/2025 - 14:51:02: [chat-processor.smx] Message formats generated for game 'left4dead2'.
+L 11/24/2025 - 14:51:02: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 11/24/2025 - 14:53:48: [basecommands.smx] "[T-T]MoY<6><STEAM_1:0:511491787><>" kicked "Makey<10><STEAM_1:1:52741938><>" (reason "")
+L 11/24/2025 - 14:57:05: -------- Mapchange to c2m1_highway --------
+L 11/24/2025 - 14:57:08: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_consistency") (value "0")
+L 11/24/2025 - 14:57:08: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_allow_lobby_connect_only") (value "0")
+L 11/24/2025 - 14:57:08: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxplayers") (value "8")
+L 11/24/2025 - 14:57:08: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_visiblemaxplayers") (value "-1")
+L 11/24/2025 - 14:57:09: [chat-processor.smx] Message formats generated for game 'left4dead2'.
+L 11/24/2025 - 14:57:09: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 11/24/2025 - 14:58:50: Log file closed.
+L 11/24/2025 - 14:59:49: SourceMod log file session started (file "d:\steamlibrary\steamapps\common\left 4 dead 2\left4dead2\addons\sourcemod\logs\L20251124.log") (Version "1.12.0.7207")
+L 11/24/2025 - 14:59:49: [GEOIP] GeoIP2 database loaded: GeoLite2-ASN (2024-08-21 08:15:21 UTC) (d:\steamlibrary\steamapps\common\left 4 dead 2\left4dead2\addons\sourcemod\configs\geoip\GeoLite2-ASN.mmdb)
+L 11/24/2025 - 14:59:49: [GEOIP] GeoIP2 supported languages: en
+L 11/24/2025 - 14:59:49: [GEOIP] Your database is older than 90 days. You should consider downloading a newer version from e.g. https://dev.maxmind.com/geoip/geolite2-free-geolocation-data
+L 11/24/2025 - 14:59:54: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_consistency") (value "0")
+L 11/24/2025 - 14:59:54: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_allow_lobby_connect_only") (value "0")
+L 11/24/2025 - 14:59:54: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxplayers") (value "8")
+L 11/24/2025 - 14:59:54: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_visiblemaxplayers") (value "-1")
+L 11/24/2025 - 14:59:54: [chat-processor.smx] Message formats generated for game 'left4dead2'.
+L 11/24/2025 - 14:59:54: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 11/24/2025 - 15:01:37: [test_1.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" cambió la dificultad a impossible
+L 11/24/2025 - 15:07:28: [funcommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" toggled noclip on "[T-T]MoY<2><STEAM_1:0:511491787><>"
+L 11/24/2025 - 15:08:08: [playercommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" slayed "Tank<22><BOT><>"
+L 11/24/2025 - 15:08:08: [playercommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" slayed "(1)Tank<19><BOT><>"
+L 11/24/2025 - 15:08:08: [playercommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" slayed "(3)Tank<21><BOT><>"
+L 11/24/2025 - 15:16:55: -------- Mapchange to Glubtastic3_1 --------
+L 11/24/2025 - 15:16:58: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_consistency") (value "0")
+L 11/24/2025 - 15:16:58: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_allow_lobby_connect_only") (value "0")
+L 11/24/2025 - 15:16:58: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxplayers") (value "8")
+L 11/24/2025 - 15:16:58: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_visiblemaxplayers") (value "-1")
+L 11/24/2025 - 15:16:58: [chat-processor.smx] Message formats generated for game 'left4dead2'.
+L 11/24/2025 - 15:16:58: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 11/24/2025 - 15:37:09: [all4dead2.smx] [NOTICE]: ([T-T]MoY<27><STEAM_1:0:511491787><>) has spawned a rifle_ak47
+L 11/24/2025 - 15:37:20: [all4dead2.smx] [NOTICE]: ([T-T]MoY<27><STEAM_1:0:511491787><>) has spawned a rifle_ak47
+L 11/24/2025 - 15:37:28: [all4dead2.smx] [NOTICE]: ([T-T]MoY<27><STEAM_1:0:511491787><>) has spawned a rifle_ak47
+L 11/24/2025 - 15:44:50: -------- Mapchange to Glubtastic3_2 --------
+L 11/24/2025 - 15:44:53: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_consistency") (value "0")
+L 11/24/2025 - 15:44:53: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_allow_lobby_connect_only") (value "0")
+L 11/24/2025 - 15:44:53: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxplayers") (value "8")
+L 11/24/2025 - 15:44:53: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_visiblemaxplayers") (value "-1")
+L 11/24/2025 - 15:44:53: [chat-processor.smx] Message formats generated for game 'left4dead2'.
+L 11/24/2025 - 15:44:53: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 11/24/2025 - 16:13:36: -------- Mapchange to Glubtastic3_3 --------
+L 11/24/2025 - 16:13:39: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_consistency") (value "0")
+L 11/24/2025 - 16:13:39: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_allow_lobby_connect_only") (value "0")
+L 11/24/2025 - 16:13:39: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxplayers") (value "8")
+L 11/24/2025 - 16:13:39: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_visiblemaxplayers") (value "-1")
+L 11/24/2025 - 16:13:39: [chat-processor.smx] Message formats generated for game 'left4dead2'.
+L 11/24/2025 - 16:13:39: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 11/24/2025 - 16:27:14: [l4d_sm_respawn.smx] "[T-T]MoY<27><STEAM_1:0:511491787><>" teleported "Ellis<345><BOT><>" after respawning him
+L 11/24/2025 - 16:27:15: [l4d_sm_respawn.smx] "[T-T]MoY<27><STEAM_1:0:511491787><>" teleported "vladlml<28><STEAM_1:1:773880850><>" after respawning him
+L 11/24/2025 - 16:27:15: [l4d_sm_respawn.smx] "[T-T]MoY<27><STEAM_1:0:511491787><>" teleported "Coach<346><BOT><>" after respawning him
+L 11/24/2025 - 16:33:38: [l4d_sm_respawn.smx] "[T-T]MoY<27><STEAM_1:0:511491787><>" teleported "Nick<381><BOT><>" after respawning him
+L 11/24/2025 - 16:33:38: [l4d_sm_respawn.smx] "[T-T]MoY<27><STEAM_1:0:511491787><>" teleported "Rochelle<393><BOT><>" after respawning him
+L 11/24/2025 - 16:35:11: -------- Mapchange to glubtastic3_vince --------
+L 11/24/2025 - 16:35:14: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_consistency") (value "0")
+L 11/24/2025 - 16:35:14: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_allow_lobby_connect_only") (value "0")
+L 11/24/2025 - 16:35:14: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxplayers") (value "8")
+L 11/24/2025 - 16:35:14: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_visiblemaxplayers") (value "-1")
+L 11/24/2025 - 16:35:15: [chat-processor.smx] Message formats generated for game 'left4dead2'.
+L 11/24/2025 - 16:35:15: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 11/24/2025 - 16:46:21: -------- Mapchange to Glubtastic3_4 --------
+L 11/24/2025 - 16:46:24: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_consistency") (value "0")
+L 11/24/2025 - 16:46:24: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_allow_lobby_connect_only") (value "0")
+L 11/24/2025 - 16:46:24: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxplayers") (value "8")
+L 11/24/2025 - 16:46:24: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_visiblemaxplayers") (value "-1")
+L 11/24/2025 - 16:46:24: [chat-processor.smx] Message formats generated for game 'left4dead2'.
+L 11/24/2025 - 16:46:24: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 11/24/2025 - 17:03:31: -------- Mapchange to hehe20_1 --------
+L 11/24/2025 - 17:03:34: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_consistency") (value "0")
+L 11/24/2025 - 17:03:34: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_allow_lobby_connect_only") (value "0")
+L 11/24/2025 - 17:03:34: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxplayers") (value "8")
+L 11/24/2025 - 17:03:34: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_visiblemaxplayers") (value "-1")
+L 11/24/2025 - 17:03:34: [chat-processor.smx] Message formats generated for game 'left4dead2'.
+L 11/24/2025 - 17:03:34: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 11/24/2025 - 17:06:13: -------- Mapchange to hehe20_2 --------
+L 11/24/2025 - 17:06:16: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_consistency") (value "0")
+L 11/24/2025 - 17:06:16: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_allow_lobby_connect_only") (value "0")
+L 11/24/2025 - 17:06:16: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxplayers") (value "8")
+L 11/24/2025 - 17:06:16: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_visiblemaxplayers") (value "-1")
+L 11/24/2025 - 17:06:16: [chat-processor.smx] Message formats generated for game 'left4dead2'.
+L 11/24/2025 - 17:06:16: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 11/24/2025 - 17:16:02: [playercommands.smx] "[T-T]MoY<502><STEAM_1:0:511491787><>" slayed "Rochelle<520><BOT><>"
+L 11/24/2025 - 17:16:12: -------- Mapchange to hehe20_3 --------
+L 11/24/2025 - 17:16:15: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_consistency") (value "0")
+L 11/24/2025 - 17:16:15: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_allow_lobby_connect_only") (value "0")
+L 11/24/2025 - 17:16:15: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxplayers") (value "8")
+L 11/24/2025 - 17:16:15: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_visiblemaxplayers") (value "-1")
+L 11/24/2025 - 17:16:15: [chat-processor.smx] Message formats generated for game 'left4dead2'.
+L 11/24/2025 - 17:16:15: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 11/24/2025 - 17:17:57: -------- Mapchange to hehe20_4 --------
+L 11/24/2025 - 17:18:00: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_consistency") (value "0")
+L 11/24/2025 - 17:18:00: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_allow_lobby_connect_only") (value "0")
+L 11/24/2025 - 17:18:00: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxplayers") (value "8")
+L 11/24/2025 - 17:18:00: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_visiblemaxplayers") (value "-1")
+L 11/24/2025 - 17:18:00: [chat-processor.smx] Message formats generated for game 'left4dead2'.
+L 11/24/2025 - 17:18:00: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 11/24/2025 - 17:28:39: [playercommands.smx] "[T-T]MoY<502><STEAM_1:0:511491787><>" slayed "vladlml<503><STEAM_1:1:773880850><>"
+L 11/24/2025 - 17:28:43: [l4d_sm_respawn.smx] "[T-T]MoY<502><STEAM_1:0:511491787><>" teleported "vladlml<503><STEAM_1:1:773880850><>" after respawning him
+L 11/24/2025 - 17:28:44: [l4d_sm_respawn.smx] "[T-T]MoY<502><STEAM_1:0:511491787><>" teleported "Ellis<917><BOT><>" after respawning him
+L 11/24/2025 - 17:28:44: [l4d_sm_respawn.smx] "[T-T]MoY<502><STEAM_1:0:511491787><>" teleported "Rochelle<972><BOT><>" after respawning him
+L 11/24/2025 - 17:32:04: [all4dead2.smx] [NOTICE]: ([T-T]MoY<502><STEAM_1:0:511491787><>) has spawned a first_aid_kit
+L 11/24/2025 - 17:32:04: [all4dead2.smx] [NOTICE]: ([T-T]MoY<502><STEAM_1:0:511491787><>) has spawned a first_aid_kit
+L 11/24/2025 - 17:32:05: [all4dead2.smx] [NOTICE]: ([T-T]MoY<502><STEAM_1:0:511491787><>) has spawned a first_aid_kit
+L 11/24/2025 - 17:32:05: [all4dead2.smx] [NOTICE]: ([T-T]MoY<502><STEAM_1:0:511491787><>) has spawned a first_aid_kit
+L 11/24/2025 - 17:32:05: [all4dead2.smx] [NOTICE]: ([T-T]MoY<502><STEAM_1:0:511491787><>) has spawned a first_aid_kit
+L 11/24/2025 - 17:32:06: [all4dead2.smx] [NOTICE]: ([T-T]MoY<502><STEAM_1:0:511491787><>) has spawned a first_aid_kit
+L 11/24/2025 - 17:32:06: [all4dead2.smx] [NOTICE]: ([T-T]MoY<502><STEAM_1:0:511491787><>) has spawned a first_aid_kit
+L 11/24/2025 - 17:32:06: [all4dead2.smx] [NOTICE]: ([T-T]MoY<502><STEAM_1:0:511491787><>) has spawned a first_aid_kit
+L 11/24/2025 - 17:32:06: [all4dead2.smx] [NOTICE]: ([T-T]MoY<502><STEAM_1:0:511491787><>) has spawned a first_aid_kit
+L 11/24/2025 - 17:32:07: [all4dead2.smx] [NOTICE]: ([T-T]MoY<502><STEAM_1:0:511491787><>) has spawned a first_aid_kit
+L 11/24/2025 - 17:32:07: [all4dead2.smx] [NOTICE]: ([T-T]MoY<502><STEAM_1:0:511491787><>) has spawned a first_aid_kit
+L 11/24/2025 - 17:32:07: [all4dead2.smx] [NOTICE]: ([T-T]MoY<502><STEAM_1:0:511491787><>) has spawned a first_aid_kit
+L 11/24/2025 - 17:32:12: [all4dead2.smx] [NOTICE]: ([T-T]MoY<502><STEAM_1:0:511491787><>) has spawned a rifle_ak47
+L 11/24/2025 - 17:32:12: [all4dead2.smx] [NOTICE]: ([T-T]MoY<502><STEAM_1:0:511491787><>) has spawned a rifle_ak47
+L 11/24/2025 - 17:32:12: [all4dead2.smx] [NOTICE]: ([T-T]MoY<502><STEAM_1:0:511491787><>) has spawned a rifle_ak47
+L 11/24/2025 - 17:32:12: [all4dead2.smx] [NOTICE]: ([T-T]MoY<502><STEAM_1:0:511491787><>) has spawned a rifle_ak47
+L 11/24/2025 - 17:32:12: [all4dead2.smx] [NOTICE]: ([T-T]MoY<502><STEAM_1:0:511491787><>) has spawned a rifle_ak47
+L 11/24/2025 - 17:32:12: [all4dead2.smx] [NOTICE]: ([T-T]MoY<502><STEAM_1:0:511491787><>) has spawned a rifle_ak47
+L 11/24/2025 - 17:32:13: [all4dead2.smx] [NOTICE]: ([T-T]MoY<502><STEAM_1:0:511491787><>) has spawned a rifle_ak47
+L 11/24/2025 - 17:32:13: [all4dead2.smx] [NOTICE]: ([T-T]MoY<502><STEAM_1:0:511491787><>) has spawned a rifle_ak47
+L 11/24/2025 - 17:32:13: [all4dead2.smx] [NOTICE]: ([T-T]MoY<502><STEAM_1:0:511491787><>) has spawned a rifle_ak47
+L 11/24/2025 - 17:32:13: [all4dead2.smx] [NOTICE]: ([T-T]MoY<502><STEAM_1:0:511491787><>) has spawned a rifle_ak47
+L 11/24/2025 - 17:34:01: [all4dead2.smx] [NOTICE]: ([T-T]MoY<502><STEAM_1:0:511491787><>) has spawned a first_aid_kit
+L 11/24/2025 - 17:34:01: [all4dead2.smx] [NOTICE]: ([T-T]MoY<502><STEAM_1:0:511491787><>) has spawned a first_aid_kit
+L 11/24/2025 - 17:34:02: [all4dead2.smx] [NOTICE]: ([T-T]MoY<502><STEAM_1:0:511491787><>) has spawned a first_aid_kit
+L 11/24/2025 - 17:34:02: [all4dead2.smx] [NOTICE]: ([T-T]MoY<502><STEAM_1:0:511491787><>) has spawned a first_aid_kit
+L 11/24/2025 - 17:34:02: [all4dead2.smx] [NOTICE]: ([T-T]MoY<502><STEAM_1:0:511491787><>) has spawned a first_aid_kit
+L 11/24/2025 - 17:34:02: [all4dead2.smx] [NOTICE]: ([T-T]MoY<502><STEAM_1:0:511491787><>) has spawned a first_aid_kit
+L 11/24/2025 - 17:34:02: [all4dead2.smx] [NOTICE]: ([T-T]MoY<502><STEAM_1:0:511491787><>) has spawned a first_aid_kit
+L 11/24/2025 - 17:34:03: [all4dead2.smx] [NOTICE]: ([T-T]MoY<502><STEAM_1:0:511491787><>) has spawned a first_aid_kit
+L 11/24/2025 - 17:34:03: [all4dead2.smx] [NOTICE]: ([T-T]MoY<502><STEAM_1:0:511491787><>) has spawned a first_aid_kit
+L 11/24/2025 - 17:34:03: [all4dead2.smx] [NOTICE]: ([T-T]MoY<502><STEAM_1:0:511491787><>) has spawned a first_aid_kit
+L 11/24/2025 - 17:34:03: [all4dead2.smx] [NOTICE]: ([T-T]MoY<502><STEAM_1:0:511491787><>) has spawned a first_aid_kit
+L 11/24/2025 - 17:34:03: [all4dead2.smx] [NOTICE]: ([T-T]MoY<502><STEAM_1:0:511491787><>) has spawned a first_aid_kit
+L 11/24/2025 - 17:34:03: [all4dead2.smx] [NOTICE]: ([T-T]MoY<502><STEAM_1:0:511491787><>) has spawned a first_aid_kit
+L 11/24/2025 - 17:34:38: [all4dead2.smx] [NOTICE]: ([T-T]MoY<502><STEAM_1:0:511491787><>) has spawned a rifle_ak47
+L 11/24/2025 - 17:34:38: [all4dead2.smx] [NOTICE]: ([T-T]MoY<502><STEAM_1:0:511491787><>) has spawned a rifle_ak47
+L 11/24/2025 - 17:34:39: [all4dead2.smx] [NOTICE]: ([T-T]MoY<502><STEAM_1:0:511491787><>) has spawned a rifle_ak47
+L 11/24/2025 - 17:34:39: [all4dead2.smx] [NOTICE]: ([T-T]MoY<502><STEAM_1:0:511491787><>) has spawned a rifle_ak47
+L 11/24/2025 - 17:34:39: [all4dead2.smx] [NOTICE]: ([T-T]MoY<502><STEAM_1:0:511491787><>) has spawned a rifle_ak47
+L 11/24/2025 - 17:34:39: [all4dead2.smx] [NOTICE]: ([T-T]MoY<502><STEAM_1:0:511491787><>) has spawned a rifle_ak47
+L 11/24/2025 - 17:34:39: [all4dead2.smx] [NOTICE]: ([T-T]MoY<502><STEAM_1:0:511491787><>) has spawned a rifle_ak47
+L 11/24/2025 - 17:34:39: [all4dead2.smx] [NOTICE]: ([T-T]MoY<502><STEAM_1:0:511491787><>) has spawned a rifle_ak47
+L 11/24/2025 - 17:34:40: [all4dead2.smx] [NOTICE]: ([T-T]MoY<502><STEAM_1:0:511491787><>) has spawned a rifle_ak47
+L 11/24/2025 - 17:34:40: [all4dead2.smx] [NOTICE]: ([T-T]MoY<502><STEAM_1:0:511491787><>) has spawned a rifle_ak47
+L 11/24/2025 - 17:36:07: [all4dead2.smx] [NOTICE]: ([T-T]MoY<502><STEAM_1:0:511491787><>) has spawned a rifle_ak47
+L 11/24/2025 - 17:36:07: [all4dead2.smx] [NOTICE]: ([T-T]MoY<502><STEAM_1:0:511491787><>) has spawned a rifle_ak47
+L 11/24/2025 - 17:36:08: [all4dead2.smx] [NOTICE]: ([T-T]MoY<502><STEAM_1:0:511491787><>) has spawned a rifle_ak47
+L 11/24/2025 - 17:36:09: [all4dead2.smx] [NOTICE]: ([T-T]MoY<502><STEAM_1:0:511491787><>) has spawned a rifle_ak47
+L 11/24/2025 - 17:36:10: [all4dead2.smx] [NOTICE]: ([T-T]MoY<502><STEAM_1:0:511491787><>) has spawned a rifle_ak47
+L 11/24/2025 - 17:36:16: [all4dead2.smx] [NOTICE]: ([T-T]MoY<502><STEAM_1:0:511491787><>) has spawned a first_aid_kit
+L 11/24/2025 - 17:36:16: [all4dead2.smx] [NOTICE]: ([T-T]MoY<502><STEAM_1:0:511491787><>) has spawned a first_aid_kit
+L 11/24/2025 - 17:36:17: [all4dead2.smx] [NOTICE]: ([T-T]MoY<502><STEAM_1:0:511491787><>) has spawned a first_aid_kit
+L 11/24/2025 - 17:36:17: [all4dead2.smx] [NOTICE]: ([T-T]MoY<502><STEAM_1:0:511491787><>) has spawned a first_aid_kit
+L 11/24/2025 - 17:36:17: [all4dead2.smx] [NOTICE]: ([T-T]MoY<502><STEAM_1:0:511491787><>) has spawned a first_aid_kit
+L 11/24/2025 - 17:36:17: [all4dead2.smx] [NOTICE]: ([T-T]MoY<502><STEAM_1:0:511491787><>) has spawned a first_aid_kit
+L 11/24/2025 - 17:36:17: [all4dead2.smx] [NOTICE]: ([T-T]MoY<502><STEAM_1:0:511491787><>) has spawned a first_aid_kit
+L 11/24/2025 - 17:36:17: [all4dead2.smx] [NOTICE]: ([T-T]MoY<502><STEAM_1:0:511491787><>) has spawned a first_aid_kit
+L 11/24/2025 - 17:36:18: [all4dead2.smx] [NOTICE]: ([T-T]MoY<502><STEAM_1:0:511491787><>) has spawned a first_aid_kit
+L 11/24/2025 - 17:36:18: [all4dead2.smx] [NOTICE]: ([T-T]MoY<502><STEAM_1:0:511491787><>) has spawned a first_aid_kit
+L 11/24/2025 - 17:36:55: [all4dead2.smx] [NOTICE]: ([T-T]MoY<502><STEAM_1:0:511491787><>) has spawned a first_aid_kit
+L 11/24/2025 - 17:36:56: [all4dead2.smx] [NOTICE]: ([T-T]MoY<502><STEAM_1:0:511491787><>) has spawned a first_aid_kit
+L 11/24/2025 - 17:36:56: [all4dead2.smx] [NOTICE]: ([T-T]MoY<502><STEAM_1:0:511491787><>) has spawned a first_aid_kit
+L 11/24/2025 - 17:36:56: [all4dead2.smx] [NOTICE]: ([T-T]MoY<502><STEAM_1:0:511491787><>) has spawned a first_aid_kit
+L 11/24/2025 - 17:36:56: [all4dead2.smx] [NOTICE]: ([T-T]MoY<502><STEAM_1:0:511491787><>) has spawned a first_aid_kit
+L 11/24/2025 - 17:36:56: [all4dead2.smx] [NOTICE]: ([T-T]MoY<502><STEAM_1:0:511491787><>) has spawned a first_aid_kit
+L 11/24/2025 - 17:36:56: [all4dead2.smx] [NOTICE]: ([T-T]MoY<502><STEAM_1:0:511491787><>) has spawned a first_aid_kit
+L 11/24/2025 - 17:36:57: [all4dead2.smx] [NOTICE]: ([T-T]MoY<502><STEAM_1:0:511491787><>) has spawned a first_aid_kit
+L 11/24/2025 - 17:36:57: [all4dead2.smx] [NOTICE]: ([T-T]MoY<502><STEAM_1:0:511491787><>) has spawned a first_aid_kit
+L 11/24/2025 - 17:36:57: [all4dead2.smx] [NOTICE]: ([T-T]MoY<502><STEAM_1:0:511491787><>) has spawned a first_aid_kit
+L 11/24/2025 - 17:36:59: [all4dead2.smx] [NOTICE]: ([T-T]MoY<502><STEAM_1:0:511491787><>) has spawned a rifle_ak47
+L 11/24/2025 - 17:36:59: [all4dead2.smx] [NOTICE]: ([T-T]MoY<502><STEAM_1:0:511491787><>) has spawned a rifle_ak47
+L 11/24/2025 - 17:36:59: [all4dead2.smx] [NOTICE]: ([T-T]MoY<502><STEAM_1:0:511491787><>) has spawned a rifle_ak47
+L 11/24/2025 - 17:37:00: [all4dead2.smx] [NOTICE]: ([T-T]MoY<502><STEAM_1:0:511491787><>) has spawned a rifle_ak47
+L 11/24/2025 - 17:43:25: -------- Mapchange to hehe20_5 --------
+L 11/24/2025 - 17:43:28: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_consistency") (value "0")
+L 11/24/2025 - 17:43:28: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_allow_lobby_connect_only") (value "0")
+L 11/24/2025 - 17:43:28: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxplayers") (value "8")
+L 11/24/2025 - 17:43:28: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_visiblemaxplayers") (value "-1")
+L 11/24/2025 - 17:43:28: [chat-processor.smx] Message formats generated for game 'left4dead2'.
+L 11/24/2025 - 17:43:28: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 11/24/2025 - 17:53:00: [all4dead2.smx] [NOTICE]: ([T-T]MoY<502><STEAM_1:0:511491787><>) has spawned a rifle_ak47
+L 11/24/2025 - 17:53:00: [all4dead2.smx] [NOTICE]: ([T-T]MoY<502><STEAM_1:0:511491787><>) has spawned a rifle_ak47
+L 11/24/2025 - 17:53:01: [all4dead2.smx] [NOTICE]: ([T-T]MoY<502><STEAM_1:0:511491787><>) has spawned a rifle_ak47
+L 11/24/2025 - 17:53:13: [all4dead2.smx] [NOTICE]: ([T-T]MoY<502><STEAM_1:0:511491787><>) has spawned a fireaxe
+L 11/24/2025 - 17:53:14: [all4dead2.smx] [NOTICE]: ([T-T]MoY<502><STEAM_1:0:511491787><>) has spawned a fireaxe
+L 11/24/2025 - 17:53:16: [all4dead2.smx] [NOTICE]: ([T-T]MoY<502><STEAM_1:0:511491787><>) has spawned a fireaxe
+L 11/24/2025 - 17:53:17: [all4dead2.smx] [NOTICE]: ([T-T]MoY<502><STEAM_1:0:511491787><>) has spawned a fireaxe
+L 11/24/2025 - 17:53:17: [all4dead2.smx] [NOTICE]: ([T-T]MoY<502><STEAM_1:0:511491787><>) has spawned a fireaxe
+L 11/24/2025 - 17:53:45: [all4dead2.smx] [NOTICE]: ([T-T]MoY<502><STEAM_1:0:511491787><>) has spawned a fireaxe
+L 11/24/2025 - 17:53:45: [all4dead2.smx] [NOTICE]: ([T-T]MoY<502><STEAM_1:0:511491787><>) has spawned a fireaxe
+L 11/24/2025 - 17:53:46: [all4dead2.smx] [NOTICE]: ([T-T]MoY<502><STEAM_1:0:511491787><>) has spawned a fireaxe
+L 11/24/2025 - 17:53:46: [all4dead2.smx] [NOTICE]: ([T-T]MoY<502><STEAM_1:0:511491787><>) has spawned a fireaxe
+L 11/24/2025 - 17:53:46: [all4dead2.smx] [NOTICE]: ([T-T]MoY<502><STEAM_1:0:511491787><>) has spawned a fireaxe
+L 11/24/2025 - 17:53:47: [all4dead2.smx] [NOTICE]: ([T-T]MoY<502><STEAM_1:0:511491787><>) has spawned a fireaxe
+L 11/24/2025 - 17:54:52: [all4dead2.smx] [NOTICE]: ([T-T]MoY<502><STEAM_1:0:511491787><>) has spawned a fireaxe
+L 11/24/2025 - 17:54:52: [all4dead2.smx] [NOTICE]: ([T-T]MoY<502><STEAM_1:0:511491787><>) has spawned a fireaxe
+L 11/24/2025 - 17:54:53: [all4dead2.smx] [NOTICE]: ([T-T]MoY<502><STEAM_1:0:511491787><>) has spawned a fireaxe
+L 11/24/2025 - 17:54:53: [all4dead2.smx] [NOTICE]: ([T-T]MoY<502><STEAM_1:0:511491787><>) has spawned a fireaxe
+L 11/24/2025 - 17:55:23: [all4dead2.smx] [NOTICE]: ([T-T]MoY<502><STEAM_1:0:511491787><>) has spawned a fireaxe
+L 11/24/2025 - 17:55:23: [all4dead2.smx] [NOTICE]: ([T-T]MoY<502><STEAM_1:0:511491787><>) has spawned a fireaxe
+L 11/24/2025 - 17:55:28: [all4dead2.smx] [NOTICE]: ([T-T]MoY<502><STEAM_1:0:511491787><>) has spawned a fireaxe
+L 11/24/2025 - 17:55:30: [all4dead2.smx] [NOTICE]: ([T-T]MoY<502><STEAM_1:0:511491787><>) has spawned a fireaxe
+L 11/24/2025 - 17:55:31: [all4dead2.smx] [NOTICE]: ([T-T]MoY<502><STEAM_1:0:511491787><>) has spawned a fireaxe
+L 11/24/2025 - 17:55:31: [all4dead2.smx] [NOTICE]: ([T-T]MoY<502><STEAM_1:0:511491787><>) has spawned a fireaxe
+L 11/24/2025 - 17:55:32: [all4dead2.smx] [NOTICE]: ([T-T]MoY<502><STEAM_1:0:511491787><>) has spawned a fireaxe
+L 11/24/2025 - 17:55:32: [all4dead2.smx] [NOTICE]: ([T-T]MoY<502><STEAM_1:0:511491787><>) has spawned a fireaxe
+L 11/24/2025 - 17:57:09: [all4dead2.smx] [NOTICE]: ([T-T]MoY<502><STEAM_1:0:511491787><>) has spawned a fireaxe
+L 11/24/2025 - 17:57:09: [all4dead2.smx] [NOTICE]: ([T-T]MoY<502><STEAM_1:0:511491787><>) has spawned a fireaxe
+L 11/24/2025 - 17:57:38: [all4dead2.smx] [NOTICE]: ([T-T]MoY<502><STEAM_1:0:511491787><>) has spawned a fireaxe
+L 11/24/2025 - 17:57:39: [all4dead2.smx] [NOTICE]: ([T-T]MoY<502><STEAM_1:0:511491787><>) has spawned a fireaxe
+L 11/24/2025 - 17:57:39: [all4dead2.smx] [NOTICE]: ([T-T]MoY<502><STEAM_1:0:511491787><>) has spawned a fireaxe
+L 11/24/2025 - 17:57:40: [all4dead2.smx] [NOTICE]: ([T-T]MoY<502><STEAM_1:0:511491787><>) has spawned a fireaxe
+L 11/24/2025 - 17:58:59: [all4dead2.smx] [NOTICE]: ([T-T]MoY<502><STEAM_1:0:511491787><>) has spawned a fireaxe
+L 11/24/2025 - 17:58:59: [all4dead2.smx] [NOTICE]: ([T-T]MoY<502><STEAM_1:0:511491787><>) has spawned a fireaxe
+L 11/24/2025 - 17:59:00: [all4dead2.smx] [NOTICE]: ([T-T]MoY<502><STEAM_1:0:511491787><>) has spawned a fireaxe
+L 11/24/2025 - 17:59:00: [all4dead2.smx] [NOTICE]: ([T-T]MoY<502><STEAM_1:0:511491787><>) has spawned a fireaxe
+L 11/24/2025 - 17:59:33: [all4dead2.smx] [NOTICE]: ([T-T]MoY<502><STEAM_1:0:511491787><>) has spawned a fireaxe
+L 11/24/2025 - 17:59:34: [all4dead2.smx] [NOTICE]: ([T-T]MoY<502><STEAM_1:0:511491787><>) has spawned a fireaxe
+L 11/24/2025 - 17:59:34: [all4dead2.smx] [NOTICE]: ([T-T]MoY<502><STEAM_1:0:511491787><>) has spawned a fireaxe
+L 11/24/2025 - 17:59:35: [all4dead2.smx] [NOTICE]: ([T-T]MoY<502><STEAM_1:0:511491787><>) has spawned a fireaxe
+L 11/24/2025 - 18:00:50: [all4dead2.smx] [NOTICE]: ([T-T]MoY<502><STEAM_1:0:511491787><>) has spawned a fireaxe
+L 11/24/2025 - 18:00:51: [all4dead2.smx] [NOTICE]: ([T-T]MoY<502><STEAM_1:0:511491787><>) has spawned a fireaxe
+L 11/24/2025 - 18:00:51: [all4dead2.smx] [NOTICE]: ([T-T]MoY<502><STEAM_1:0:511491787><>) has spawned a fireaxe
+L 11/24/2025 - 18:00:52: [all4dead2.smx] [NOTICE]: ([T-T]MoY<502><STEAM_1:0:511491787><>) has spawned a fireaxe
+L 11/24/2025 - 18:00:52: [all4dead2.smx] [NOTICE]: ([T-T]MoY<502><STEAM_1:0:511491787><>) has spawned a fireaxe
+L 11/24/2025 - 18:01:01: [basecommands.smx] "[T-T]MoY<502><STEAM_1:0:511491787><>" changed cvar (cvar "z_common_limit") (value "0")
+L 11/24/2025 - 18:07:03: -------- Mapchange to hehe20_6 --------
+L 11/24/2025 - 18:07:06: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_consistency") (value "0")
+L 11/24/2025 - 18:07:06: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_allow_lobby_connect_only") (value "0")
+L 11/24/2025 - 18:07:06: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxplayers") (value "8")
+L 11/24/2025 - 18:07:06: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_visiblemaxplayers") (value "-1")
+L 11/24/2025 - 18:07:06: [chat-processor.smx] Message formats generated for game 'left4dead2'.
+L 11/24/2025 - 18:07:06: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 11/24/2025 - 18:07:31: [basecommands.smx] "[T-T]MoY<502><STEAM_1:0:511491787><>" changed cvar (cvar "director_no_specials") (value "1")
+L 11/24/2025 - 18:07:31: [basecommands.smx] "[T-T]MoY<502><STEAM_1:0:511491787><>" changed cvar (cvar "z_max_player_zombies") (value "0")
+L 11/24/2025 - 18:09:43: -------- Mapchange to hehe20_7 --------
+L 11/24/2025 - 18:09:46: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_consistency") (value "0")
+L 11/24/2025 - 18:09:46: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_allow_lobby_connect_only") (value "0")
+L 11/24/2025 - 18:09:46: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxplayers") (value "8")
+L 11/24/2025 - 18:09:46: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_visiblemaxplayers") (value "-1")
+L 11/24/2025 - 18:09:46: [chat-processor.smx] Message formats generated for game 'left4dead2'.
+L 11/24/2025 - 18:09:46: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 11/24/2025 - 18:17:46: [playercommands.smx] "[T-T]MoY<502><STEAM_1:0:511491787><>" slayed "Francis<2182><BOT><>"
+L 11/24/2025 - 18:17:51: [playercommands.smx] "[T-T]MoY<502><STEAM_1:0:511491787><>" slayed "(1)Francis<2190><BOT><>"
+L 11/24/2025 - 18:20:19: Log file closed.

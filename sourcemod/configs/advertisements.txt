@@ -1,0 +1,7 @@
+"Advertisements"
+{
+    "welcome"
+    {
+        "chat"      "Bienvenido al servidor [T-T]_Custom"
+    }
+}

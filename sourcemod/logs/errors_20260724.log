@@ -1,0 +1,55 @@
+L 07/24/2026 - 23:54:13: SourceMod error session started
+L 07/24/2026 - 23:54:13: Info (map "c1m2_streets") (file "d:\steamlibrary\steamapps\common\left 4 dead 2\left4dead2\addons\sourcemod\logs\errors_20260724.log")
+L 07/24/2026 - 23:54:13: [SM] Failed to load plugin "cannounce.smx": Get a dedicated server. This plugin does not work on Listen servers..
+L 07/24/2026 - 23:54:13: [SM] Failed to load plugin "LMCL4D1CDeathHandler.smx": Plugin only supports Left 4 Dead.
+L 07/24/2026 - 23:54:13: [SM] Failed to load plugin "LMCL4D1SetTransmit.smx": Plugin only supports Left 4 Dead.
+L 07/24/2026 - 23:54:13: [SM] Failed to load plugin "LMC_L4D1_Menu_Choosing.smx": Plugin only supports Left 4 Dead.
+L 07/24/2026 - 23:54:13: [SM] Failed to load plugin "LMC_L4D1_RandomSpawns.smx": Plugin only supports Left 4 Dead.
+L 07/24/2026 - 23:54:13: [SM] Failed to load plugin "nextmap.smx": Nextmap is incompatible with this game.
+L 07/24/2026 - 23:54:13: [SM] Failed to load plugin "[L4D2] Left4dhooks.smx": 
+====================
+This plugin replaces Left4Downtown. Delete the extension to run.
+====================.
+L 07/24/2026 - 23:54:13: [SM] Fatal error encountered parsing translation file "l4d_nth.phrases.txt"
+L 07/24/2026 - 23:54:13: [SM] Error (line 0, column 0): Stream failed to open
+L 07/24/2026 - 23:54:13: [SM] Fatal error encountered parsing translation file "chargersteering.phrases.txt"
+L 07/24/2026 - 23:54:13: [SM] Error (line 0, column 0): Stream failed to open
+L 07/24/2026 - 23:54:13: [l4d2_publicity.smx] [Publicity] No se encontraron mensajes en el archivo de configuración
+L 07/24/2026 - 23:54:13: [l4d2_tank_core v4_7.smx] No se pudo cargar la firma Fling desde el GameData.
+L 07/24/2026 - 23:54:14: [SM] Unable to load plugin "lilac_by_l4d2.smx": Native "IRC_MsgFlaggedChannels" was not found
+L 07/24/2026 - 23:54:18: [l4d2_publicity.smx] [Publicity] No se encontraron mensajes en el archivo de configuración
+L 07/24/2026 - 23:54:18: [SM] Exception reported: Array index out-of-bounds (index 12, limit 12)
+L 07/24/2026 - 23:54:18: [SM] Blaming: l4d2_tank_props_rock_v3.smx
+L 07/24/2026 - 23:54:18: [SM] Call stack trace:
+L 07/24/2026 - 23:54:18: [SM]   [1] Line 142, D:\SteamLibrary\steamapps\common\Left 4 Dead 2\left4dead2\addons\sourcemod\scripting\l4d2_tank_props_rock_v3.sp::OnMapStart
+L 07/24/2026 - 23:56:15: [SM] Exception reported: Array index out-of-bounds (index 15, limit 12)
+L 07/24/2026 - 23:56:15: [SM] Blaming: l4d2_tank_props_rock_v3.smx
+L 07/24/2026 - 23:56:15: [SM] Call stack trace:
+L 07/24/2026 - 23:56:15: [SM]   [1] Line 222, D:\SteamLibrary\steamapps\common\Left 4 Dead 2\left4dead2\addons\sourcemod\scripting\l4d2_tank_props_rock_v3.sp::Throw
+L 07/24/2026 - 23:57:11: [SM] Exception reported: Array index out-of-bounds (index 14, limit 12)
+L 07/24/2026 - 23:57:11: [SM] Blaming: l4d2_tank_props_rock_v3.smx
+L 07/24/2026 - 23:57:11: [SM] Call stack trace:
+L 07/24/2026 - 23:57:11: [SM]   [1] Line 222, D:\SteamLibrary\steamapps\common\Left 4 Dead 2\left4dead2\addons\sourcemod\scripting\l4d2_tank_props_rock_v3.sp::Throw
+L 07/24/2026 - 23:57:34: [SM] Exception reported: Array index out-of-bounds (index 13, limit 12)
+L 07/24/2026 - 23:57:34: [SM] Blaming: l4d2_tank_props_rock_v3.smx
+L 07/24/2026 - 23:57:34: [SM] Call stack trace:
+L 07/24/2026 - 23:57:34: [SM]   [1] Line 222, D:\SteamLibrary\steamapps\common\Left 4 Dead 2\left4dead2\addons\sourcemod\scripting\l4d2_tank_props_rock_v3.sp::Throw
+L 07/24/2026 - 23:57:57: [SM] Exception reported: Language phrase "Please wait to be revived or rescued" not found (arg 6)
+L 07/24/2026 - 23:57:57: [SM] Blaming: l4dmultislots.smx
+L 07/24/2026 - 23:57:57: [SM] Call stack trace:
+L 07/24/2026 - 23:57:57: [SM]   [0] PrintToChat
+L 07/24/2026 - 23:57:57: [SM]   [1] Line 953, d:\Github\Private-Work\L4D2-插件\scripting_1.11\l4dmultislots.sp::Timer_SpecCheck
+L 07/24/2026 - 23:58:53: [SM] Exception reported: Array index out-of-bounds (index 13, limit 12)
+L 07/24/2026 - 23:58:53: [SM] Blaming: l4d2_tank_props_rock_v3.smx
+L 07/24/2026 - 23:58:53: [SM] Call stack trace:
+L 07/24/2026 - 23:58:53: [SM]   [1] Line 222, D:\SteamLibrary\steamapps\common\Left 4 Dead 2\left4dead2\addons\sourcemod\scripting\l4d2_tank_props_rock_v3.sp::Throw
+L 07/24/2026 - 23:58:53: [SM] Exception reported: Array index out-of-bounds (index 14, limit 12)
+L 07/24/2026 - 23:58:53: [SM] Blaming: l4d2_tank_props_rock_v3.smx
+L 07/24/2026 - 23:58:53: [SM] Call stack trace:
+L 07/24/2026 - 23:58:53: [SM]   [1] Line 222, D:\SteamLibrary\steamapps\common\Left 4 Dead 2\left4dead2\addons\sourcemod\scripting\l4d2_tank_props_rock_v3.sp::Throw
+L 07/24/2026 - 23:59:54: [SM] Exception reported: Language phrase "Please wait to be revived or rescued" not found (arg 6)
+L 07/24/2026 - 23:59:54: [SM] Blaming: l4dmultislots.smx
+L 07/24/2026 - 23:59:54: [SM] Call stack trace:
+L 07/24/2026 - 23:59:54: [SM]   [0] PrintToChat
+L 07/24/2026 - 23:59:54: [SM]   [1] Line 953, d:\Github\Private-Work\L4D2-插件\scripting_1.11\l4dmultislots.sp::Timer_SpecCheck
+L 07/25/2026 - 00:00:14: Error log file session closed.

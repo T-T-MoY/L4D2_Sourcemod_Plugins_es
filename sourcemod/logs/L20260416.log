@@ -1,0 +1,52 @@
+L 04/16/2026 - 22:15:32: SourceMod log file session started (file "d:\steamlibrary\steamapps\common\left 4 dead 2\left4dead2\addons\sourcemod\logs\L20260416.log") (Version "1.12.0.7207")
+L 04/16/2026 - 22:15:32: [GEOIP] GeoIP2 database loaded: GeoLite2-ASN (2024-08-21 08:15:21 UTC) (d:\steamlibrary\steamapps\common\left 4 dead 2\left4dead2\addons\sourcemod\configs\geoip\GeoLite2-ASN.mmdb)
+L 04/16/2026 - 22:15:32: [GEOIP] GeoIP2 supported languages: en
+L 04/16/2026 - 22:15:32: [GEOIP] Your database is older than 90 days. You should consider downloading a newer version from e.g. https://dev.maxmind.com/geoip/geolite2-free-geolocation-data
+L 04/16/2026 - 22:15:32: [l4d2_map_rotation.smx] [Rotation] Lista cargada con 5 campañas.
+L 04/16/2026 - 22:15:34: [l4d_extinguisher.smx] 
+==========
+Warning: You should install "[L4D2] Scavenge Score Fix - Gascan Pouring" to prevent affecting the score when filling gas in Scavenge style events: https://forums.alliedmods.net/showthread.php?t=187686
+==========
+
+L 04/16/2026 - 22:15:34: [l4d_extinguisher.smx] 
+==========
+Warning: You should install "[L4D & L4D2] Use Priority Patch" to fix attached models blocking +USE action: https://forums.alliedmods.net/showthread.php?t=327511
+==========
+
+L 04/16/2026 - 22:15:43: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_consistency") (value "0")
+L 04/16/2026 - 22:15:43: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_allow_lobby_connect_only") (value "0")
+L 04/16/2026 - 22:15:43: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxplayers") (value "8")
+L 04/16/2026 - 22:15:43: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_visiblemaxplayers") (value "-1")
+L 04/16/2026 - 22:15:44: [chat-processor.smx] Message formats generated for game 'left4dead2'.
+L 04/16/2026 - 22:15:44: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 04/16/2026 - 22:15:59: [l4d2_shop.smx] [LOAD]: "[T-T]MoY<2><STEAM_ID_PENDING><>" loaded the record successfully! Points: "0"
+L 04/16/2026 - 22:16:16: [l4d2_shop.smx] [INSERT]: "Alex Terrible<3><STEAM_1:1:579077814><>" is a new user!!
+L 04/16/2026 - 22:16:39: [l4d2_shop.smx] [INSERT]: "MATA DOWNSS<12><STEAM_1:1:114684835><>" is a new user!!
+L 04/16/2026 - 22:16:44: [l4d2_shop.smx] [INSERT]: "L' Empereur<11><STEAM_1:1:147297225><>" is a new user!!
+L 04/16/2026 - 22:18:09: -------- Mapchange to c1m4_atrium --------
+L 04/16/2026 - 22:18:12: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_consistency") (value "0")
+L 04/16/2026 - 22:18:12: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_allow_lobby_connect_only") (value "0")
+L 04/16/2026 - 22:18:12: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxplayers") (value "8")
+L 04/16/2026 - 22:18:12: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_visiblemaxplayers") (value "-1")
+L 04/16/2026 - 22:18:12: [chat-processor.smx] Message formats generated for game 'left4dead2'.
+L 04/16/2026 - 22:18:12: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 04/16/2026 - 22:18:41: [l4d2_shop.smx] [LOAD]: "[T-T]MoY<17><STEAM_1:0:511491787><>" loaded the record successfully! Points: "600"
+L 04/16/2026 - 22:18:57: [l4d2_shop.smx] [INSERT]: "restless gamblr<18><STEAM_1:1:111631401><>" is a new user!!
+L 04/16/2026 - 22:19:36: [basecommands.smx] "[T-T]MoY<17><STEAM_1:0:511491787><>" changed cvar (cvar "sv_gravity") (value "200")
+L 04/16/2026 - 22:22:01: [l4d2_shop.smx] [UPDATE]: "[T-T]MoY<17><STEAM_1:0:511491787><>" saved. Points: "600"
+L 04/16/2026 - 22:22:01: [l4d2_shop.smx] UPDATE SpecialFunctions SET isEnabled = 1 WHERE steamId = 'STEAM_1:0:511491787' AND (functionNo = 'GRAY_AMMO' OR functionNo = 'BLUE_AMMO' OR functionNo = 'GOLD_AMMO')
+L 04/16/2026 - 22:22:11: [l4d2_shop.smx] [UPDATE]: "[T-T]MoY<17><STEAM_1:0:511491787><>" saved. Points: "600"
+L 04/16/2026 - 22:22:11: [l4d2_shop.smx] UPDATE SpecialFunctions SET isEnabled = 1 WHERE steamId = 'STEAM_1:0:511491787' AND (functionNo = 'GRAY_AMMO' OR functionNo = 'BLUE_AMMO' OR functionNo = 'GOLD_AMMO')
+L 04/16/2026 - 22:23:50: -------- Mapchange to glubtastic5_1 --------
+L 04/16/2026 - 22:24:00: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_consistency") (value "0")
+L 04/16/2026 - 22:24:00: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_allow_lobby_connect_only") (value "0")
+L 04/16/2026 - 22:24:00: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxplayers") (value "8")
+L 04/16/2026 - 22:24:00: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_visiblemaxplayers") (value "-1")
+L 04/16/2026 - 22:24:01: [chat-processor.smx] Message formats generated for game 'left4dead2'.
+L 04/16/2026 - 22:24:01: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 04/16/2026 - 22:24:07: [l4d2_shop.smx] [LOAD]: "[T-T]MoY<48><STEAM_ID_PENDING><>" loaded the record successfully! Points: "0"
+L 04/16/2026 - 22:24:54: [l4d2_shop.smx] [UPDATE]: "[T-T]MoY<48><STEAM_1:0:511491787><>" saved. Points: "10000"
+L 04/16/2026 - 22:24:54: [l4d2_shop.smx] [Admin]: "[T-T]MoY<48><STEAM_1:0:511491787><>" rewarded "10000" points for "[T-T]MoY<48><STEAM_1:0:511491787><>" (current: "10000")
+L 04/16/2026 - 22:25:20: [basecommands.smx] "[T-T]MoY<48><STEAM_1:0:511491787><>" changed cvar (cvar "sv_gravity") (value "200")
+L 04/16/2026 - 22:25:24: [basecommands.smx] "[T-T]MoY<48><STEAM_1:0:511491787><>" changed cvar (cvar "sv_gravity") (value "800")
+L 04/16/2026 - 22:26:23: Log file closed.

@@ -1,0 +1,540 @@
+L 07/05/2025 - 14:39:44: SourceMod log file session started (file "e:\steamlibrary\steamapps\common\left 4 dead 2\left4dead2\addons\sourcemod\logs\L20250705.log") (Version "1.12.0.7207")
+L 07/05/2025 - 14:39:44: [GEOIP] GeoIP2 database loaded: GeoLite2-ASN (2024-08-21 08:15:21 UTC) (e:\steamlibrary\steamapps\common\left 4 dead 2\left4dead2\addons\sourcemod\configs\geoip\GeoLite2-ASN.mmdb)
+L 07/05/2025 - 14:39:44: [GEOIP] GeoIP2 supported languages: en
+L 07/05/2025 - 14:39:44: [GEOIP] Your database is older than 90 days. You should consider downloading a newer version from e.g. https://dev.maxmind.com/geoip/geolite2-free-geolocation-data
+L 07/05/2025 - 14:39:51: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_consistency") (value "0")
+L 07/05/2025 - 14:39:51: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_allow_lobby_connect_only") (value "0")
+L 07/05/2025 - 14:39:51: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxplayers") (value "8")
+L 07/05/2025 - 14:39:51: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_visiblemaxplayers") (value "-1")
+L 07/05/2025 - 14:40:37: [basecommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" changed cvar (cvar "sv_gravity") (value "200")
+L 07/05/2025 - 14:45:57: -------- Mapchange to c1m2_streets --------
+L 07/05/2025 - 14:45:59: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_consistency") (value "0")
+L 07/05/2025 - 14:45:59: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_allow_lobby_connect_only") (value "0")
+L 07/05/2025 - 14:45:59: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxplayers") (value "8")
+L 07/05/2025 - 14:45:59: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_visiblemaxplayers") (value "-1")
+L 07/05/2025 - 14:50:32: [basevotes.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" initiated a generic vote (question "se lo violan?" / answers "Yes" "No").
+L 07/05/2025 - 14:50:53: [basevotes.smx] Vote successful. (Received "100" of 4 votes)
+L 07/05/2025 - 14:50:53: [basevotes.smx] The answer to se lo violan? is: Yes.
+L 07/05/2025 - 14:52:42: [basevotes.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" initiated a generic vote (question "se lo violan?" / answers "Yes" "No").
+L 07/05/2025 - 14:53:03: [basevotes.smx] Vote successful. (Received "100" of 4 votes)
+L 07/05/2025 - 14:53:03: [basevotes.smx] The answer to se lo violan? is: Yes.
+L 07/05/2025 - 15:05:51: -------- Mapchange to c1m3_mall --------
+L 07/05/2025 - 15:05:53: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_consistency") (value "0")
+L 07/05/2025 - 15:05:53: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_allow_lobby_connect_only") (value "0")
+L 07/05/2025 - 15:05:53: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxplayers") (value "8")
+L 07/05/2025 - 15:05:53: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_visiblemaxplayers") (value "-1")
+L 07/05/2025 - 15:15:22: -------- Mapchange to c1m4_atrium --------
+L 07/05/2025 - 15:15:24: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_consistency") (value "0")
+L 07/05/2025 - 15:15:24: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_allow_lobby_connect_only") (value "0")
+L 07/05/2025 - 15:15:24: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxplayers") (value "8")
+L 07/05/2025 - 15:15:24: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_visiblemaxplayers") (value "-1")
+L 07/05/2025 - 15:20:43: [basevotes.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" initiated a generic vote (question "(Voto unanime para que se aplique) los revivo?" / answers "Yes" "No").
+L 07/05/2025 - 15:21:04: [basevotes.smx] Vote successful. (Received "60" of 5 votes)
+L 07/05/2025 - 15:21:04: [basevotes.smx] The answer to (Voto unanime para que se aplique) los revivo? is: Yes.
+L 07/05/2025 - 15:23:41: [basevotes.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" initiated a map vote for c3m1_plankcountry.
+L 07/05/2025 - 15:24:02: [basevotes.smx] Vote failed. 60% vote required. (Received "40" of 5 votes)
+L 07/05/2025 - 15:24:17: [basevotes.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" initiated a generic vote (question "(Voto unanime para que se aplique) los revivo?" / answers "Yes" "No").
+L 07/05/2025 - 15:24:38: [basevotes.smx] Vote successful. (Received "100" of 5 votes)
+L 07/05/2025 - 15:24:38: [basevotes.smx] The answer to (Voto unanime para que se aplique) los revivo? is: Yes.
+L 07/05/2025 - 15:25:22: [basevotes.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" initiated a generic vote (question "(Voto unanime para que se aplique) mato alos tank para dar un respiro?" / answers "Yes" "No").
+L 07/05/2025 - 15:25:42: [basevotes.smx] Vote successful. (Received "71" of 7 votes)
+L 07/05/2025 - 15:25:42: [basevotes.smx] The answer to (Voto unanime para que se aplique) mato alos tank para dar un respiro? is: Yes.
+L 07/05/2025 - 15:25:56: -------- Mapchange to c3m1_plankcountry --------
+L 07/05/2025 - 15:25:58: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_consistency") (value "0")
+L 07/05/2025 - 15:25:58: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_allow_lobby_connect_only") (value "0")
+L 07/05/2025 - 15:25:58: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxplayers") (value "8")
+L 07/05/2025 - 15:25:58: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_visiblemaxplayers") (value "-1")
+L 07/05/2025 - 15:32:36: -------- Mapchange to c7m1_docks --------
+L 07/05/2025 - 15:32:39: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_consistency") (value "0")
+L 07/05/2025 - 15:32:39: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_allow_lobby_connect_only") (value "0")
+L 07/05/2025 - 15:32:39: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxplayers") (value "8")
+L 07/05/2025 - 15:32:39: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_visiblemaxplayers") (value "-1")
+L 07/05/2025 - 15:33:36: [basecommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" changed map to "c3m1_plankcountry"
+L 07/05/2025 - 15:33:39: [SM] Changed map to "c3m1_plankcountry"
+L 07/05/2025 - 15:33:41: -------- Mapchange to c3m1_plankcountry --------
+L 07/05/2025 - 15:33:43: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_consistency") (value "0")
+L 07/05/2025 - 15:33:43: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_allow_lobby_connect_only") (value "0")
+L 07/05/2025 - 15:33:43: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxplayers") (value "8")
+L 07/05/2025 - 15:33:43: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_visiblemaxplayers") (value "-1")
+L 07/05/2025 - 15:34:42: [basecomm.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" silenced "AlejoI03<150><STEAM_1:1:567258799><>"
+L 07/05/2025 - 15:41:35: -------- Mapchange to c3m2_swamp --------
+L 07/05/2025 - 15:41:37: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_consistency") (value "0")
+L 07/05/2025 - 15:41:37: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_allow_lobby_connect_only") (value "0")
+L 07/05/2025 - 15:41:37: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxplayers") (value "8")
+L 07/05/2025 - 15:41:37: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_visiblemaxplayers") (value "-1")
+L 07/05/2025 - 15:43:59: [basevotes.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" initiated a ban vote against "AlejoI03<150><STEAM_1:1:567258799><>"
+L 07/05/2025 - 15:44:19: [basevotes.smx] Vote successful. (Received "71" of 7 votes)
+L 07/05/2025 - 15:44:19: [basevotes.smx] Vote ban successful, banned "AlejoI03<150><STEAM_1:1:567258799><>" (minutes "30") (reason "Votebanned")
+L 07/05/2025 - 15:48:08: -------- Mapchange to c3m3_shantytown --------
+L 07/05/2025 - 15:48:10: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_consistency") (value "0")
+L 07/05/2025 - 15:48:10: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_allow_lobby_connect_only") (value "0")
+L 07/05/2025 - 15:48:10: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxplayers") (value "8")
+L 07/05/2025 - 15:48:10: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_visiblemaxplayers") (value "-1")
+L 07/05/2025 - 15:50:56: -------- Mapchange to c3m4_plantation --------
+L 07/05/2025 - 15:50:59: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_consistency") (value "0")
+L 07/05/2025 - 15:50:59: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_allow_lobby_connect_only") (value "0")
+L 07/05/2025 - 15:50:59: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxplayers") (value "8")
+L 07/05/2025 - 15:50:59: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_visiblemaxplayers") (value "-1")
+L 07/05/2025 - 16:03:51: -------- Mapchange to c4m1_milltown_a --------
+L 07/05/2025 - 16:03:54: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_consistency") (value "0")
+L 07/05/2025 - 16:03:54: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_allow_lobby_connect_only") (value "0")
+L 07/05/2025 - 16:03:54: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxplayers") (value "8")
+L 07/05/2025 - 16:03:54: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_visiblemaxplayers") (value "-1")
+L 07/05/2025 - 16:06:37: -------- Mapchange to c4m2_sugarmill_a --------
+L 07/05/2025 - 16:06:39: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_consistency") (value "0")
+L 07/05/2025 - 16:06:39: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_allow_lobby_connect_only") (value "0")
+L 07/05/2025 - 16:06:39: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxplayers") (value "8")
+L 07/05/2025 - 16:06:39: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_visiblemaxplayers") (value "-1")
+L 07/05/2025 - 16:13:36: [basevotes.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" initiated a generic vote (question "le mando soli a kenedy?" / answers "Yes" "No").
+L 07/05/2025 - 16:13:57: [basevotes.smx] Vote successful. (Received "80" of 5 votes)
+L 07/05/2025 - 16:13:57: [basevotes.smx] The answer to le mando soli a kenedy? is: Yes.
+L 07/05/2025 - 16:14:08: -------- Mapchange to c4m3_sugarmill_b --------
+L 07/05/2025 - 16:14:11: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_consistency") (value "0")
+L 07/05/2025 - 16:14:11: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_allow_lobby_connect_only") (value "0")
+L 07/05/2025 - 16:14:11: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxplayers") (value "8")
+L 07/05/2025 - 16:14:11: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_visiblemaxplayers") (value "-1")
+L 07/05/2025 - 16:15:58: [playercommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" slayed "ÁspidaMávri<355><STEAM_1:0:924054963><>"
+L 07/05/2025 - 16:15:58: [playercommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" slayed "kevving<368><STEAM_1:1:702702944><>"
+L 07/05/2025 - 16:15:58: [playercommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" slayed "Aleex<10><STEAM_1:0:931301575><>"
+L 07/05/2025 - 16:15:58: [playercommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" slayed "(1)Tank<389><BOT><>"
+L 07/05/2025 - 16:15:58: [playercommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" slayed "(2)Tank<390><BOT><>"
+L 07/05/2025 - 16:15:59: [playercommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" slayed "SugarFox<361><STEAM_1:1:845325803><>"
+L 07/05/2025 - 16:15:59: [playercommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" slayed "xDragonGaming83<206><STEAM_1:0:934588592><>"
+L 07/05/2025 - 16:19:36: -------- Mapchange to c4m4_milltown_b --------
+L 07/05/2025 - 16:19:38: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_consistency") (value "0")
+L 07/05/2025 - 16:19:38: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_allow_lobby_connect_only") (value "0")
+L 07/05/2025 - 16:19:38: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxplayers") (value "8")
+L 07/05/2025 - 16:19:38: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_visiblemaxplayers") (value "-1")
+L 07/05/2025 - 16:22:28: -------- Mapchange to c4m5_milltown_escape --------
+L 07/05/2025 - 16:22:31: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_consistency") (value "0")
+L 07/05/2025 - 16:22:31: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_allow_lobby_connect_only") (value "0")
+L 07/05/2025 - 16:22:31: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxplayers") (value "8")
+L 07/05/2025 - 16:22:31: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_visiblemaxplayers") (value "-1")
+L 07/05/2025 - 16:23:11: [playercommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" slayed "ÁspidaMávri<355><STEAM_1:0:924054963><>"
+L 07/05/2025 - 16:23:11: [playercommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" slayed "rain<414><STEAM_1:1:614725176><>"
+L 07/05/2025 - 16:23:11: [playercommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" slayed "coca cola espuma<395><STEAM_1:1:642356345><>"
+L 07/05/2025 - 16:23:11: [playercommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" slayed "ramacaida746<400><STEAM_1:0:484609064><>"
+L 07/05/2025 - 16:23:11: [playercommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" slayed "Kennedy<74><STEAM_1:0:857604802><>"
+L 07/05/2025 - 16:23:26: [playercommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" slayed "ÁspidaMávri<355><STEAM_1:0:924054963><>"
+L 07/05/2025 - 16:23:26: [playercommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" slayed "rain<414><STEAM_1:1:614725176><>"
+L 07/05/2025 - 16:23:26: [playercommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" slayed "kevving<368><STEAM_1:1:702702944><>"
+L 07/05/2025 - 16:23:26: [playercommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" slayed "coca cola espuma<395><STEAM_1:1:642356345><>"
+L 07/05/2025 - 16:23:27: [playercommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" slayed "ramacaida746<400><STEAM_1:0:484609064><>"
+L 07/05/2025 - 16:23:27: [playercommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" slayed "Kennedy<74><STEAM_1:0:857604802><>"
+L 07/05/2025 - 16:23:37: [playercommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" slayed "rain<414><STEAM_1:1:614725176><>"
+L 07/05/2025 - 16:23:43: [playercommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" slayed "kevving<368><STEAM_1:1:702702944><>"
+L 07/05/2025 - 16:24:17: [playercommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" slayed "ÁspidaMávri<355><STEAM_1:0:924054963><>"
+L 07/05/2025 - 16:24:17: [playercommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" slayed "ramacaida746<400><STEAM_1:0:484609064><>"
+L 07/05/2025 - 16:24:17: [playercommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" slayed "Kennedy<74><STEAM_1:0:857604802><>"
+L 07/05/2025 - 16:31:43: Log file closed.
+L 07/05/2025 - 18:25:35: SourceMod log file session started (file "e:\steamlibrary\steamapps\common\left 4 dead 2\left4dead2\addons\sourcemod\logs\L20250705.log") (Version "1.12.0.7207")
+L 07/05/2025 - 18:25:35: [GEOIP] GeoIP2 database loaded: GeoLite2-ASN (2024-08-21 08:15:21 UTC) (e:\steamlibrary\steamapps\common\left 4 dead 2\left4dead2\addons\sourcemod\configs\geoip\GeoLite2-ASN.mmdb)
+L 07/05/2025 - 18:25:35: [GEOIP] GeoIP2 supported languages: en
+L 07/05/2025 - 18:25:35: [GEOIP] Your database is older than 90 days. You should consider downloading a newer version from e.g. https://dev.maxmind.com/geoip/geolite2-free-geolocation-data
+L 07/05/2025 - 18:25:42: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_consistency") (value "0")
+L 07/05/2025 - 18:25:42: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_allow_lobby_connect_only") (value "0")
+L 07/05/2025 - 18:25:42: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxplayers") (value "8")
+L 07/05/2025 - 18:25:42: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_visiblemaxplayers") (value "-1")
+L 07/05/2025 - 18:26:24: [basecommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" changed cvar (cvar "sv_gravity") (value "200")
+L 07/05/2025 - 18:27:42: -------- Mapchange to c11m1_greenhouse --------
+L 07/05/2025 - 18:27:46: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_consistency") (value "0")
+L 07/05/2025 - 18:27:46: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_allow_lobby_connect_only") (value "0")
+L 07/05/2025 - 18:27:46: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxplayers") (value "8")
+L 07/05/2025 - 18:27:46: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_visiblemaxplayers") (value "-1")
+L 07/05/2025 - 18:37:09: -------- Mapchange to c11m2_offices --------
+L 07/05/2025 - 18:37:12: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_consistency") (value "0")
+L 07/05/2025 - 18:37:12: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_allow_lobby_connect_only") (value "0")
+L 07/05/2025 - 18:37:12: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxplayers") (value "8")
+L 07/05/2025 - 18:37:12: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_visiblemaxplayers") (value "-1")
+L 07/05/2025 - 18:41:39: -------- Mapchange to c11m3_garage --------
+L 07/05/2025 - 18:41:42: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_consistency") (value "0")
+L 07/05/2025 - 18:41:42: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_allow_lobby_connect_only") (value "0")
+L 07/05/2025 - 18:41:42: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxplayers") (value "8")
+L 07/05/2025 - 18:41:42: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_visiblemaxplayers") (value "-1")
+L 07/05/2025 - 18:43:01: [funcommands.smx] "[T-T]MoY<9><STEAM_1:0:511491787><>" drugged "NAangel<16><STEAM_1:1:225837088><>"
+L 07/05/2025 - 18:44:26: [playercommands.smx] "[T-T]MoY<9><STEAM_1:0:511491787><>" slayed "NAangel<16><STEAM_1:1:225837088><>"
+L 07/05/2025 - 18:44:35: [playercommands.smx] "[T-T]MoY<9><STEAM_1:0:511491787><>" slayed "Rochelle<58><BOT><>"
+L 07/05/2025 - 18:44:56: [playercommands.smx] "[T-T]MoY<9><STEAM_1:0:511491787><>" slayed "Coach<59><BOT><>"
+L 07/05/2025 - 18:45:06: -------- Mapchange to c11m4_terminal --------
+L 07/05/2025 - 18:45:09: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_consistency") (value "0")
+L 07/05/2025 - 18:45:09: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_allow_lobby_connect_only") (value "0")
+L 07/05/2025 - 18:45:09: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxplayers") (value "8")
+L 07/05/2025 - 18:45:09: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_visiblemaxplayers") (value "-1")
+L 07/05/2025 - 18:48:38: [l4d_sm_respawn.smx] "[T-T]MoY<9><STEAM_1:0:511491787><>" teleported "NAangel<16><STEAM_1:1:225837088><>" after respawning him
+L 07/05/2025 - 18:53:38: -------- Mapchange to c11m5_runway --------
+L 07/05/2025 - 18:53:41: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_consistency") (value "0")
+L 07/05/2025 - 18:53:41: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_allow_lobby_connect_only") (value "0")
+L 07/05/2025 - 18:53:41: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxplayers") (value "8")
+L 07/05/2025 - 18:53:41: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_visiblemaxplayers") (value "-1")
+L 07/05/2025 - 18:54:31: [playercommands.smx] "NAangel<16><STEAM_1:1:225837088><>" slapped "[T-T]MoY<9><STEAM_1:0:511491787><>" (damage "99")
+L 07/05/2025 - 18:54:39: [playercommands.smx] "NAangel<16><STEAM_1:1:225837088><>" slapped "[T-T]MoY<9><STEAM_1:0:511491787><>" (damage "99")
+L 07/05/2025 - 18:54:45: [playercommands.smx] "NAangel<16><STEAM_1:1:225837088><>" slapped "[T-T]MoY<9><STEAM_1:0:511491787><>" (damage "99")
+L 07/05/2025 - 18:54:57: [playercommands.smx] "NAangel<16><STEAM_1:1:225837088><>" slapped "[T-T]MoY<9><STEAM_1:0:511491787><>" (damage "0")
+L 07/05/2025 - 18:54:59: [playercommands.smx] "NAangel<16><STEAM_1:1:225837088><>" slapped "[T-T]MoY<9><STEAM_1:0:511491787><>" (damage "0")
+L 07/05/2025 - 18:55:00: [playercommands.smx] "NAangel<16><STEAM_1:1:225837088><>" slapped "[T-T]MoY<9><STEAM_1:0:511491787><>" (damage "0")
+L 07/05/2025 - 18:55:00: [playercommands.smx] "NAangel<16><STEAM_1:1:225837088><>" slapped "[T-T]MoY<9><STEAM_1:0:511491787><>" (damage "0")
+L 07/05/2025 - 18:55:00: [playercommands.smx] "NAangel<16><STEAM_1:1:225837088><>" slapped "[T-T]MoY<9><STEAM_1:0:511491787><>" (damage "0")
+L 07/05/2025 - 18:55:01: [playercommands.smx] "NAangel<16><STEAM_1:1:225837088><>" slapped "[T-T]MoY<9><STEAM_1:0:511491787><>" (damage "0")
+L 07/05/2025 - 18:55:01: [playercommands.smx] "NAangel<16><STEAM_1:1:225837088><>" slapped "[T-T]MoY<9><STEAM_1:0:511491787><>" (damage "0")
+L 07/05/2025 - 18:55:01: [playercommands.smx] "NAangel<16><STEAM_1:1:225837088><>" slapped "[T-T]MoY<9><STEAM_1:0:511491787><>" (damage "0")
+L 07/05/2025 - 18:55:01: [playercommands.smx] "NAangel<16><STEAM_1:1:225837088><>" slapped "[T-T]MoY<9><STEAM_1:0:511491787><>" (damage "0")
+L 07/05/2025 - 18:55:01: [playercommands.smx] "NAangel<16><STEAM_1:1:225837088><>" slapped "[T-T]MoY<9><STEAM_1:0:511491787><>" (damage "0")
+L 07/05/2025 - 18:55:01: [playercommands.smx] "NAangel<16><STEAM_1:1:225837088><>" slapped "[T-T]MoY<9><STEAM_1:0:511491787><>" (damage "0")
+L 07/05/2025 - 18:55:02: [playercommands.smx] "NAangel<16><STEAM_1:1:225837088><>" slapped "[T-T]MoY<9><STEAM_1:0:511491787><>" (damage "0")
+L 07/05/2025 - 18:55:02: [playercommands.smx] "NAangel<16><STEAM_1:1:225837088><>" slapped "[T-T]MoY<9><STEAM_1:0:511491787><>" (damage "0")
+L 07/05/2025 - 18:55:02: [playercommands.smx] "NAangel<16><STEAM_1:1:225837088><>" slapped "[T-T]MoY<9><STEAM_1:0:511491787><>" (damage "0")
+L 07/05/2025 - 18:55:02: [playercommands.smx] "NAangel<16><STEAM_1:1:225837088><>" slapped "[T-T]MoY<9><STEAM_1:0:511491787><>" (damage "0")
+L 07/05/2025 - 18:55:02: [playercommands.smx] "NAangel<16><STEAM_1:1:225837088><>" slapped "[T-T]MoY<9><STEAM_1:0:511491787><>" (damage "0")
+L 07/05/2025 - 18:55:04: [playercommands.smx] "NAangel<16><STEAM_1:1:225837088><>" slapped "[T-T]MoY<9><STEAM_1:0:511491787><>" (damage "0")
+L 07/05/2025 - 18:55:13: [l4d_sm_respawn.smx] "[T-T]MoY<9><STEAM_1:0:511491787><>" teleported "NAangel<16><STEAM_1:1:225837088><>" after respawning him
+L 07/05/2025 - 18:55:28: [l4d_sm_respawn.smx] "[T-T]MoY<9><STEAM_1:0:511491787><>" teleported "NAangel<16><STEAM_1:1:225837088><>" after respawning him
+L 07/05/2025 - 18:55:42: [funcommands.smx] "[T-T]MoY<9><STEAM_1:0:511491787><>" set blind on "NAangel<16><STEAM_1:1:225837088><>" (amount "240")
+L 07/05/2025 - 18:56:14: [funcommands.smx] "NAangel<16><STEAM_1:1:225837088><>" froze "[T-T]MoY<9><STEAM_1:0:511491787><>"
+L 07/05/2025 - 18:56:27: -------- Mapchange to c12m1_hilltop --------
+L 07/05/2025 - 18:56:30: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_consistency") (value "0")
+L 07/05/2025 - 18:56:30: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_allow_lobby_connect_only") (value "0")
+L 07/05/2025 - 18:56:30: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxplayers") (value "8")
+L 07/05/2025 - 18:56:30: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_visiblemaxplayers") (value "-1")
+L 07/05/2025 - 18:57:30: [funcommands.smx] "[T-T]MoY<9><STEAM_1:0:511491787><>" froze "NAangel<16><STEAM_1:1:225837088><>"
+L 07/05/2025 - 18:57:49: [funcommands.smx] "NAangel<16><STEAM_1:1:225837088><>" drugged "[T-T]MoY<9><STEAM_1:0:511491787><>"
+L 07/05/2025 - 18:57:53: [funcommands.smx] "NAangel<16><STEAM_1:1:225837088><>" drugged "[T-T]MoY<9><STEAM_1:0:511491787><>"
+L 07/05/2025 - 18:58:00: [funcommands.smx] "NAangel<16><STEAM_1:1:225837088><>" drugged "NAangel<16><STEAM_1:1:225837088><>"
+L 07/05/2025 - 18:58:03: [funcommands.smx] "[T-T]MoY<9><STEAM_1:0:511491787><>" froze "NAangel<16><STEAM_1:1:225837088><>"
+L 07/05/2025 - 18:58:19: [funcommands.smx] "NAangel<16><STEAM_1:1:225837088><>" drugged "NAangel<16><STEAM_1:1:225837088><>"
+L 07/05/2025 - 18:58:22: [funcommands.smx] "[T-T]MoY<9><STEAM_1:0:511491787><>" set blind on "NAangel<16><STEAM_1:1:225837088><>" (amount "255")
+L 07/05/2025 - 18:58:52: [funcommands.smx] "[T-T]MoY<9><STEAM_1:0:511491787><>" set blind on "NAangel<16><STEAM_1:1:225837088><>" (amount "0")
+L 07/05/2025 - 18:59:09: [funcommands.smx] "[T-T]MoY<9><STEAM_1:0:511491787><>" set a TimeBomb on "NAangel<16><STEAM_1:1:225837088><>"
+L 07/05/2025 - 18:59:42: [basecommands.smx] "[T-T]MoY<9><STEAM_1:0:511491787><>" changed map to "c1m1_hotel"
+L 07/05/2025 - 18:59:45: [SM] Changed map to "c1m1_hotel"
+L 07/05/2025 - 18:59:47: -------- Mapchange to c1m1_hotel --------
+L 07/05/2025 - 18:59:50: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_consistency") (value "0")
+L 07/05/2025 - 18:59:50: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_allow_lobby_connect_only") (value "0")
+L 07/05/2025 - 18:59:50: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxplayers") (value "8")
+L 07/05/2025 - 18:59:50: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_visiblemaxplayers") (value "-1")
+L 07/05/2025 - 19:01:51: [funcommands.smx] "NAangel<16><STEAM_1:1:225837088><>" drugged "[T-T]MoY<9><STEAM_1:0:511491787><>"
+L 07/05/2025 - 19:01:54: [funcommands.smx] "NAangel<16><STEAM_1:1:225837088><>" drugged "NAangel<16><STEAM_1:1:225837088><>"
+L 07/05/2025 - 19:02:07: [funcommands.smx] "[T-T]MoY<9><STEAM_1:0:511491787><>" undrugged "[T-T]MoY<9><STEAM_1:0:511491787><>"
+L 07/05/2025 - 19:02:43: [playercommands.smx] "NAangel<16><STEAM_1:1:225837088><>" slapped "[T-T]MoY<9><STEAM_1:0:511491787><>" (damage "0")
+L 07/05/2025 - 19:02:46: [playercommands.smx] "NAangel<16><STEAM_1:1:225837088><>" slapped "[T-T]MoY<9><STEAM_1:0:511491787><>" (damage "0")
+L 07/05/2025 - 19:02:48: [playercommands.smx] "NAangel<16><STEAM_1:1:225837088><>" slapped "[T-T]MoY<9><STEAM_1:0:511491787><>" (damage "0")
+L 07/05/2025 - 19:02:49: [playercommands.smx] "NAangel<16><STEAM_1:1:225837088><>" slapped "[T-T]MoY<9><STEAM_1:0:511491787><>" (damage "0")
+L 07/05/2025 - 19:02:49: [playercommands.smx] "NAangel<16><STEAM_1:1:225837088><>" slapped "[T-T]MoY<9><STEAM_1:0:511491787><>" (damage "0")
+L 07/05/2025 - 19:02:50: [playercommands.smx] "NAangel<16><STEAM_1:1:225837088><>" slapped "[T-T]MoY<9><STEAM_1:0:511491787><>" (damage "0")
+L 07/05/2025 - 19:02:50: [playercommands.smx] "NAangel<16><STEAM_1:1:225837088><>" slapped "[T-T]MoY<9><STEAM_1:0:511491787><>" (damage "0")
+L 07/05/2025 - 19:02:50: [playercommands.smx] "NAangel<16><STEAM_1:1:225837088><>" slapped "[T-T]MoY<9><STEAM_1:0:511491787><>" (damage "0")
+L 07/05/2025 - 19:02:50: [playercommands.smx] "NAangel<16><STEAM_1:1:225837088><>" slapped "[T-T]MoY<9><STEAM_1:0:511491787><>" (damage "0")
+L 07/05/2025 - 19:02:50: [playercommands.smx] "NAangel<16><STEAM_1:1:225837088><>" slapped "[T-T]MoY<9><STEAM_1:0:511491787><>" (damage "0")
+L 07/05/2025 - 19:02:51: [playercommands.smx] "NAangel<16><STEAM_1:1:225837088><>" slapped "[T-T]MoY<9><STEAM_1:0:511491787><>" (damage "0")
+L 07/05/2025 - 19:02:51: [playercommands.smx] "NAangel<16><STEAM_1:1:225837088><>" slapped "[T-T]MoY<9><STEAM_1:0:511491787><>" (damage "0")
+L 07/05/2025 - 19:02:51: [playercommands.smx] "NAangel<16><STEAM_1:1:225837088><>" slapped "[T-T]MoY<9><STEAM_1:0:511491787><>" (damage "0")
+L 07/05/2025 - 19:02:51: [playercommands.smx] "NAangel<16><STEAM_1:1:225837088><>" slapped "[T-T]MoY<9><STEAM_1:0:511491787><>" (damage "0")
+L 07/05/2025 - 19:02:51: [playercommands.smx] "NAangel<16><STEAM_1:1:225837088><>" slapped "[T-T]MoY<9><STEAM_1:0:511491787><>" (damage "0")
+L 07/05/2025 - 19:02:51: [playercommands.smx] "NAangel<16><STEAM_1:1:225837088><>" slapped "[T-T]MoY<9><STEAM_1:0:511491787><>" (damage "0")
+L 07/05/2025 - 19:02:52: [playercommands.smx] "NAangel<16><STEAM_1:1:225837088><>" slapped "[T-T]MoY<9><STEAM_1:0:511491787><>" (damage "0")
+L 07/05/2025 - 19:02:52: [playercommands.smx] "NAangel<16><STEAM_1:1:225837088><>" slapped "[T-T]MoY<9><STEAM_1:0:511491787><>" (damage "0")
+L 07/05/2025 - 19:02:52: [playercommands.smx] "NAangel<16><STEAM_1:1:225837088><>" slapped "[T-T]MoY<9><STEAM_1:0:511491787><>" (damage "0")
+L 07/05/2025 - 19:02:52: [playercommands.smx] "NAangel<16><STEAM_1:1:225837088><>" slapped "[T-T]MoY<9><STEAM_1:0:511491787><>" (damage "0")
+L 07/05/2025 - 19:02:52: [playercommands.smx] "NAangel<16><STEAM_1:1:225837088><>" slapped "[T-T]MoY<9><STEAM_1:0:511491787><>" (damage "0")
+L 07/05/2025 - 19:02:52: [playercommands.smx] "NAangel<16><STEAM_1:1:225837088><>" slapped "[T-T]MoY<9><STEAM_1:0:511491787><>" (damage "0")
+L 07/05/2025 - 19:02:53: [playercommands.smx] "NAangel<16><STEAM_1:1:225837088><>" slapped "[T-T]MoY<9><STEAM_1:0:511491787><>" (damage "0")
+L 07/05/2025 - 19:02:53: [playercommands.smx] "NAangel<16><STEAM_1:1:225837088><>" slapped "[T-T]MoY<9><STEAM_1:0:511491787><>" (damage "0")
+L 07/05/2025 - 19:02:53: [playercommands.smx] "NAangel<16><STEAM_1:1:225837088><>" slapped "[T-T]MoY<9><STEAM_1:0:511491787><>" (damage "0")
+L 07/05/2025 - 19:02:53: [playercommands.smx] "NAangel<16><STEAM_1:1:225837088><>" slapped "[T-T]MoY<9><STEAM_1:0:511491787><>" (damage "0")
+L 07/05/2025 - 19:02:53: [playercommands.smx] "NAangel<16><STEAM_1:1:225837088><>" slapped "[T-T]MoY<9><STEAM_1:0:511491787><>" (damage "0")
+L 07/05/2025 - 19:02:53: [playercommands.smx] "NAangel<16><STEAM_1:1:225837088><>" slapped "[T-T]MoY<9><STEAM_1:0:511491787><>" (damage "0")
+L 07/05/2025 - 19:02:53: [playercommands.smx] "NAangel<16><STEAM_1:1:225837088><>" slapped "[T-T]MoY<9><STEAM_1:0:511491787><>" (damage "0")
+L 07/05/2025 - 19:03:00: [playercommands.smx] "NAangel<16><STEAM_1:1:225837088><>" slapped "[T-T]MoY<9><STEAM_1:0:511491787><>" (damage "0")
+L 07/05/2025 - 19:03:05: [playercommands.smx] "NAangel<16><STEAM_1:1:225837088><>" slapped "[T-T]MoY<9><STEAM_1:0:511491787><>" (damage "0")
+L 07/05/2025 - 19:03:07: [playercommands.smx] "NAangel<16><STEAM_1:1:225837088><>" slapped "[T-T]MoY<9><STEAM_1:0:511491787><>" (damage "0")
+L 07/05/2025 - 19:03:08: [playercommands.smx] "NAangel<16><STEAM_1:1:225837088><>" slapped "[T-T]MoY<9><STEAM_1:0:511491787><>" (damage "0")
+L 07/05/2025 - 19:03:09: [playercommands.smx] "NAangel<16><STEAM_1:1:225837088><>" slapped "[T-T]MoY<9><STEAM_1:0:511491787><>" (damage "0")
+L 07/05/2025 - 19:03:09: [playercommands.smx] "NAangel<16><STEAM_1:1:225837088><>" slapped "[T-T]MoY<9><STEAM_1:0:511491787><>" (damage "0")
+L 07/05/2025 - 19:03:09: [playercommands.smx] "NAangel<16><STEAM_1:1:225837088><>" slapped "[T-T]MoY<9><STEAM_1:0:511491787><>" (damage "0")
+L 07/05/2025 - 19:03:09: [playercommands.smx] "NAangel<16><STEAM_1:1:225837088><>" slapped "[T-T]MoY<9><STEAM_1:0:511491787><>" (damage "0")
+L 07/05/2025 - 19:03:09: [playercommands.smx] "NAangel<16><STEAM_1:1:225837088><>" slapped "[T-T]MoY<9><STEAM_1:0:511491787><>" (damage "0")
+L 07/05/2025 - 19:03:09: [playercommands.smx] "NAangel<16><STEAM_1:1:225837088><>" slapped "[T-T]MoY<9><STEAM_1:0:511491787><>" (damage "0")
+L 07/05/2025 - 19:03:10: [playercommands.smx] "NAangel<16><STEAM_1:1:225837088><>" slapped "[T-T]MoY<9><STEAM_1:0:511491787><>" (damage "0")
+L 07/05/2025 - 19:03:10: [playercommands.smx] "NAangel<16><STEAM_1:1:225837088><>" slapped "[T-T]MoY<9><STEAM_1:0:511491787><>" (damage "0")
+L 07/05/2025 - 19:03:10: [playercommands.smx] "NAangel<16><STEAM_1:1:225837088><>" slapped "[T-T]MoY<9><STEAM_1:0:511491787><>" (damage "0")
+L 07/05/2025 - 19:03:10: [playercommands.smx] "NAangel<16><STEAM_1:1:225837088><>" slapped "[T-T]MoY<9><STEAM_1:0:511491787><>" (damage "0")
+L 07/05/2025 - 19:03:10: [playercommands.smx] "NAangel<16><STEAM_1:1:225837088><>" slapped "[T-T]MoY<9><STEAM_1:0:511491787><>" (damage "0")
+L 07/05/2025 - 19:03:11: [playercommands.smx] "NAangel<16><STEAM_1:1:225837088><>" slapped "[T-T]MoY<9><STEAM_1:0:511491787><>" (damage "0")
+L 07/05/2025 - 19:03:11: [playercommands.smx] "NAangel<16><STEAM_1:1:225837088><>" slapped "[T-T]MoY<9><STEAM_1:0:511491787><>" (damage "0")
+L 07/05/2025 - 19:03:11: [playercommands.smx] "NAangel<16><STEAM_1:1:225837088><>" slapped "[T-T]MoY<9><STEAM_1:0:511491787><>" (damage "0")
+L 07/05/2025 - 19:03:11: [playercommands.smx] "NAangel<16><STEAM_1:1:225837088><>" slapped "[T-T]MoY<9><STEAM_1:0:511491787><>" (damage "0")
+L 07/05/2025 - 19:03:11: [playercommands.smx] "NAangel<16><STEAM_1:1:225837088><>" slapped "[T-T]MoY<9><STEAM_1:0:511491787><>" (damage "0")
+L 07/05/2025 - 19:03:11: [playercommands.smx] "NAangel<16><STEAM_1:1:225837088><>" slapped "[T-T]MoY<9><STEAM_1:0:511491787><>" (damage "0")
+L 07/05/2025 - 19:03:11: [playercommands.smx] "NAangel<16><STEAM_1:1:225837088><>" slapped "[T-T]MoY<9><STEAM_1:0:511491787><>" (damage "0")
+L 07/05/2025 - 19:03:12: [playercommands.smx] "NAangel<16><STEAM_1:1:225837088><>" slapped "[T-T]MoY<9><STEAM_1:0:511491787><>" (damage "0")
+L 07/05/2025 - 19:03:12: [playercommands.smx] "NAangel<16><STEAM_1:1:225837088><>" slapped "[T-T]MoY<9><STEAM_1:0:511491787><>" (damage "0")
+L 07/05/2025 - 19:03:12: [playercommands.smx] "NAangel<16><STEAM_1:1:225837088><>" slapped "[T-T]MoY<9><STEAM_1:0:511491787><>" (damage "0")
+L 07/05/2025 - 19:03:12: [playercommands.smx] "NAangel<16><STEAM_1:1:225837088><>" slapped "[T-T]MoY<9><STEAM_1:0:511491787><>" (damage "0")
+L 07/05/2025 - 19:03:12: [playercommands.smx] "NAangel<16><STEAM_1:1:225837088><>" slapped "[T-T]MoY<9><STEAM_1:0:511491787><>" (damage "0")
+L 07/05/2025 - 19:03:13: [playercommands.smx] "NAangel<16><STEAM_1:1:225837088><>" slapped "[T-T]MoY<9><STEAM_1:0:511491787><>" (damage "0")
+L 07/05/2025 - 19:03:13: [playercommands.smx] "NAangel<16><STEAM_1:1:225837088><>" slapped "[T-T]MoY<9><STEAM_1:0:511491787><>" (damage "0")
+L 07/05/2025 - 19:03:13: [playercommands.smx] "NAangel<16><STEAM_1:1:225837088><>" slapped "[T-T]MoY<9><STEAM_1:0:511491787><>" (damage "0")
+L 07/05/2025 - 19:03:13: [playercommands.smx] "NAangel<16><STEAM_1:1:225837088><>" slapped "[T-T]MoY<9><STEAM_1:0:511491787><>" (damage "0")
+L 07/05/2025 - 19:03:13: [playercommands.smx] "NAangel<16><STEAM_1:1:225837088><>" slapped "[T-T]MoY<9><STEAM_1:0:511491787><>" (damage "0")
+L 07/05/2025 - 19:03:13: [playercommands.smx] "NAangel<16><STEAM_1:1:225837088><>" slapped "[T-T]MoY<9><STEAM_1:0:511491787><>" (damage "0")
+L 07/05/2025 - 19:03:14: [playercommands.smx] "NAangel<16><STEAM_1:1:225837088><>" slapped "[T-T]MoY<9><STEAM_1:0:511491787><>" (damage "0")
+L 07/05/2025 - 19:03:14: [playercommands.smx] "NAangel<16><STEAM_1:1:225837088><>" slapped "[T-T]MoY<9><STEAM_1:0:511491787><>" (damage "0")
+L 07/05/2025 - 19:03:14: [playercommands.smx] "NAangel<16><STEAM_1:1:225837088><>" slapped "[T-T]MoY<9><STEAM_1:0:511491787><>" (damage "0")
+L 07/05/2025 - 19:03:14: [playercommands.smx] "NAangel<16><STEAM_1:1:225837088><>" slapped "[T-T]MoY<9><STEAM_1:0:511491787><>" (damage "0")
+L 07/05/2025 - 19:03:19: [playercommands.smx] "NAangel<16><STEAM_1:1:225837088><>" slapped "Tank<114><BOT><>" (damage "0")
+L 07/05/2025 - 19:03:20: [playercommands.smx] "NAangel<16><STEAM_1:1:225837088><>" slapped "Tank<114><BOT><>" (damage "0")
+L 07/05/2025 - 19:03:21: [playercommands.smx] "NAangel<16><STEAM_1:1:225837088><>" slapped "Tank<114><BOT><>" (damage "0")
+L 07/05/2025 - 19:03:21: [playercommands.smx] "NAangel<16><STEAM_1:1:225837088><>" slapped "Tank<114><BOT><>" (damage "0")
+L 07/05/2025 - 19:03:21: [playercommands.smx] "NAangel<16><STEAM_1:1:225837088><>" slapped "Tank<114><BOT><>" (damage "0")
+L 07/05/2025 - 19:03:21: [playercommands.smx] "NAangel<16><STEAM_1:1:225837088><>" slapped "Tank<114><BOT><>" (damage "0")
+L 07/05/2025 - 19:03:22: [playercommands.smx] "NAangel<16><STEAM_1:1:225837088><>" slapped "Tank<114><BOT><>" (damage "0")
+L 07/05/2025 - 19:03:22: [playercommands.smx] "NAangel<16><STEAM_1:1:225837088><>" slapped "Tank<114><BOT><>" (damage "0")
+L 07/05/2025 - 19:03:22: [playercommands.smx] "NAangel<16><STEAM_1:1:225837088><>" slapped "Tank<114><BOT><>" (damage "0")
+L 07/05/2025 - 19:03:22: [playercommands.smx] "NAangel<16><STEAM_1:1:225837088><>" slapped "Tank<114><BOT><>" (damage "0")
+L 07/05/2025 - 19:03:22: [playercommands.smx] "NAangel<16><STEAM_1:1:225837088><>" slapped "Tank<114><BOT><>" (damage "0")
+L 07/05/2025 - 19:03:22: [playercommands.smx] "NAangel<16><STEAM_1:1:225837088><>" slapped "Tank<114><BOT><>" (damage "0")
+L 07/05/2025 - 19:03:23: [playercommands.smx] "NAangel<16><STEAM_1:1:225837088><>" slapped "Tank<114><BOT><>" (damage "0")
+L 07/05/2025 - 19:03:23: [playercommands.smx] "NAangel<16><STEAM_1:1:225837088><>" slapped "Tank<114><BOT><>" (damage "0")
+L 07/05/2025 - 19:03:23: [playercommands.smx] "NAangel<16><STEAM_1:1:225837088><>" slapped "Tank<114><BOT><>" (damage "0")
+L 07/05/2025 - 19:03:23: [playercommands.smx] "NAangel<16><STEAM_1:1:225837088><>" slapped "Tank<114><BOT><>" (damage "0")
+L 07/05/2025 - 19:03:23: [playercommands.smx] "NAangel<16><STEAM_1:1:225837088><>" slapped "Tank<114><BOT><>" (damage "0")
+L 07/05/2025 - 19:03:23: [playercommands.smx] "NAangel<16><STEAM_1:1:225837088><>" slapped "Tank<114><BOT><>" (damage "0")
+L 07/05/2025 - 19:03:24: [playercommands.smx] "NAangel<16><STEAM_1:1:225837088><>" slapped "Tank<114><BOT><>" (damage "0")
+L 07/05/2025 - 19:03:24: [playercommands.smx] "NAangel<16><STEAM_1:1:225837088><>" slapped "Tank<114><BOT><>" (damage "0")
+L 07/05/2025 - 19:03:24: [playercommands.smx] "NAangel<16><STEAM_1:1:225837088><>" slapped "Tank<114><BOT><>" (damage "0")
+L 07/05/2025 - 19:03:24: [playercommands.smx] "NAangel<16><STEAM_1:1:225837088><>" slapped "Tank<114><BOT><>" (damage "0")
+L 07/05/2025 - 19:03:24: [playercommands.smx] "NAangel<16><STEAM_1:1:225837088><>" slapped "Tank<114><BOT><>" (damage "0")
+L 07/05/2025 - 19:03:25: [playercommands.smx] "NAangel<16><STEAM_1:1:225837088><>" slapped "Tank<114><BOT><>" (damage "0")
+L 07/05/2025 - 19:03:25: [playercommands.smx] "NAangel<16><STEAM_1:1:225837088><>" slapped "Tank<114><BOT><>" (damage "0")
+L 07/05/2025 - 19:03:25: [playercommands.smx] "NAangel<16><STEAM_1:1:225837088><>" slapped "Tank<114><BOT><>" (damage "0")
+L 07/05/2025 - 19:03:25: [playercommands.smx] "NAangel<16><STEAM_1:1:225837088><>" slapped "Tank<114><BOT><>" (damage "0")
+L 07/05/2025 - 19:03:25: [playercommands.smx] "NAangel<16><STEAM_1:1:225837088><>" slapped "Tank<114><BOT><>" (damage "0")
+L 07/05/2025 - 19:03:26: [playercommands.smx] "NAangel<16><STEAM_1:1:225837088><>" slapped "Tank<114><BOT><>" (damage "0")
+L 07/05/2025 - 19:03:26: [playercommands.smx] "NAangel<16><STEAM_1:1:225837088><>" slapped "Tank<114><BOT><>" (damage "0")
+L 07/05/2025 - 19:03:26: [playercommands.smx] "NAangel<16><STEAM_1:1:225837088><>" slapped "Tank<114><BOT><>" (damage "0")
+L 07/05/2025 - 19:03:26: [playercommands.smx] "NAangel<16><STEAM_1:1:225837088><>" slapped "Tank<114><BOT><>" (damage "0")
+L 07/05/2025 - 19:03:26: [playercommands.smx] "NAangel<16><STEAM_1:1:225837088><>" slapped "Tank<114><BOT><>" (damage "0")
+L 07/05/2025 - 19:03:26: [playercommands.smx] "NAangel<16><STEAM_1:1:225837088><>" slapped "Tank<114><BOT><>" (damage "0")
+L 07/05/2025 - 19:03:27: [playercommands.smx] "NAangel<16><STEAM_1:1:225837088><>" slapped "Tank<114><BOT><>" (damage "0")
+L 07/05/2025 - 19:03:27: [playercommands.smx] "NAangel<16><STEAM_1:1:225837088><>" slapped "Tank<114><BOT><>" (damage "0")
+L 07/05/2025 - 19:03:27: [playercommands.smx] "NAangel<16><STEAM_1:1:225837088><>" slapped "Tank<114><BOT><>" (damage "0")
+L 07/05/2025 - 19:03:27: [playercommands.smx] "NAangel<16><STEAM_1:1:225837088><>" slapped "Tank<114><BOT><>" (damage "0")
+L 07/05/2025 - 19:03:27: [playercommands.smx] "NAangel<16><STEAM_1:1:225837088><>" slapped "Tank<114><BOT><>" (damage "0")
+L 07/05/2025 - 19:03:28: [playercommands.smx] "NAangel<16><STEAM_1:1:225837088><>" slapped "Tank<114><BOT><>" (damage "0")
+L 07/05/2025 - 19:03:28: [playercommands.smx] "NAangel<16><STEAM_1:1:225837088><>" slapped "Tank<114><BOT><>" (damage "0")
+L 07/05/2025 - 19:03:29: [playercommands.smx] "NAangel<16><STEAM_1:1:225837088><>" slapped "Tank<114><BOT><>" (damage "0")
+L 07/05/2025 - 19:03:29: [playercommands.smx] "NAangel<16><STEAM_1:1:225837088><>" slapped "Tank<114><BOT><>" (damage "0")
+L 07/05/2025 - 19:03:29: [playercommands.smx] "NAangel<16><STEAM_1:1:225837088><>" slapped "Tank<114><BOT><>" (damage "0")
+L 07/05/2025 - 19:03:29: [playercommands.smx] "NAangel<16><STEAM_1:1:225837088><>" slapped "Tank<114><BOT><>" (damage "0")
+L 07/05/2025 - 19:03:29: [playercommands.smx] "NAangel<16><STEAM_1:1:225837088><>" slapped "Tank<114><BOT><>" (damage "0")
+L 07/05/2025 - 19:03:29: [playercommands.smx] "NAangel<16><STEAM_1:1:225837088><>" slapped "Tank<114><BOT><>" (damage "0")
+L 07/05/2025 - 19:03:30: [playercommands.smx] "NAangel<16><STEAM_1:1:225837088><>" slapped "Tank<114><BOT><>" (damage "0")
+L 07/05/2025 - 19:03:30: [playercommands.smx] "NAangel<16><STEAM_1:1:225837088><>" slapped "Tank<114><BOT><>" (damage "0")
+L 07/05/2025 - 19:03:30: [playercommands.smx] "NAangel<16><STEAM_1:1:225837088><>" slapped "Tank<114><BOT><>" (damage "0")
+L 07/05/2025 - 19:03:30: [playercommands.smx] "NAangel<16><STEAM_1:1:225837088><>" slapped "Tank<114><BOT><>" (damage "0")
+L 07/05/2025 - 19:03:31: [playercommands.smx] "NAangel<16><STEAM_1:1:225837088><>" slapped "Tank<114><BOT><>" (damage "0")
+L 07/05/2025 - 19:03:31: [playercommands.smx] "NAangel<16><STEAM_1:1:225837088><>" slapped "Tank<114><BOT><>" (damage "0")
+L 07/05/2025 - 19:03:31: [playercommands.smx] "NAangel<16><STEAM_1:1:225837088><>" slapped "Tank<114><BOT><>" (damage "0")
+L 07/05/2025 - 19:03:31: [playercommands.smx] "NAangel<16><STEAM_1:1:225837088><>" slapped "Tank<114><BOT><>" (damage "0")
+L 07/05/2025 - 19:03:31: [playercommands.smx] "NAangel<16><STEAM_1:1:225837088><>" slapped "Tank<114><BOT><>" (damage "0")
+L 07/05/2025 - 19:03:32: [playercommands.smx] "NAangel<16><STEAM_1:1:225837088><>" slapped "Tank<114><BOT><>" (damage "0")
+L 07/05/2025 - 19:03:32: [playercommands.smx] "NAangel<16><STEAM_1:1:225837088><>" slapped "Tank<114><BOT><>" (damage "0")
+L 07/05/2025 - 19:03:32: [playercommands.smx] "NAangel<16><STEAM_1:1:225837088><>" slapped "Tank<114><BOT><>" (damage "0")
+L 07/05/2025 - 19:03:32: [playercommands.smx] "NAangel<16><STEAM_1:1:225837088><>" slapped "Tank<114><BOT><>" (damage "0")
+L 07/05/2025 - 19:03:32: [playercommands.smx] "NAangel<16><STEAM_1:1:225837088><>" slapped "Tank<114><BOT><>" (damage "0")
+L 07/05/2025 - 19:03:33: [playercommands.smx] "NAangel<16><STEAM_1:1:225837088><>" slapped "Tank<114><BOT><>" (damage "0")
+L 07/05/2025 - 19:03:33: [playercommands.smx] "NAangel<16><STEAM_1:1:225837088><>" slapped "Tank<114><BOT><>" (damage "0")
+L 07/05/2025 - 19:03:33: [playercommands.smx] "NAangel<16><STEAM_1:1:225837088><>" slapped "Tank<114><BOT><>" (damage "0")
+L 07/05/2025 - 19:03:33: [playercommands.smx] "NAangel<16><STEAM_1:1:225837088><>" slapped "Tank<114><BOT><>" (damage "0")
+L 07/05/2025 - 19:03:34: [playercommands.smx] "NAangel<16><STEAM_1:1:225837088><>" slapped "Tank<114><BOT><>" (damage "0")
+L 07/05/2025 - 19:03:34: [playercommands.smx] "NAangel<16><STEAM_1:1:225837088><>" slapped "Tank<114><BOT><>" (damage "0")
+L 07/05/2025 - 19:03:34: [playercommands.smx] "NAangel<16><STEAM_1:1:225837088><>" slapped "Tank<114><BOT><>" (damage "0")
+L 07/05/2025 - 19:03:34: [playercommands.smx] "NAangel<16><STEAM_1:1:225837088><>" slapped "Tank<114><BOT><>" (damage "0")
+L 07/05/2025 - 19:03:34: [playercommands.smx] "NAangel<16><STEAM_1:1:225837088><>" slapped "Tank<114><BOT><>" (damage "0")
+L 07/05/2025 - 19:03:35: [playercommands.smx] "NAangel<16><STEAM_1:1:225837088><>" slapped "Tank<114><BOT><>" (damage "0")
+L 07/05/2025 - 19:03:36: [playercommands.smx] "NAangel<16><STEAM_1:1:225837088><>" slapped "(1)Tank<115><BOT><>" (damage "0")
+L 07/05/2025 - 19:03:58: [funcommands.smx] "[T-T]MoY<9><STEAM_1:0:511491787><>" set gravity on "NAangel<16><STEAM_1:1:225837088><>" (amount "4.000000")
+L 07/05/2025 - 19:04:13: [playercommands.smx] "NAangel<16><STEAM_1:1:225837088><>" slapped "Tank<117><BOT><>" (damage "0")
+L 07/05/2025 - 19:04:14: [playercommands.smx] "NAangel<16><STEAM_1:1:225837088><>" slapped "Tank<117><BOT><>" (damage "0")
+L 07/05/2025 - 19:04:14: [playercommands.smx] "NAangel<16><STEAM_1:1:225837088><>" slapped "Tank<117><BOT><>" (damage "0")
+L 07/05/2025 - 19:04:14: [playercommands.smx] "NAangel<16><STEAM_1:1:225837088><>" slapped "Tank<117><BOT><>" (damage "0")
+L 07/05/2025 - 19:04:14: [playercommands.smx] "NAangel<16><STEAM_1:1:225837088><>" slapped "Tank<117><BOT><>" (damage "0")
+L 07/05/2025 - 19:04:15: [playercommands.smx] "NAangel<16><STEAM_1:1:225837088><>" slapped "Tank<117><BOT><>" (damage "0")
+L 07/05/2025 - 19:04:15: [playercommands.smx] "NAangel<16><STEAM_1:1:225837088><>" slapped "Tank<117><BOT><>" (damage "0")
+L 07/05/2025 - 19:04:15: [playercommands.smx] "NAangel<16><STEAM_1:1:225837088><>" slapped "Tank<117><BOT><>" (damage "0")
+L 07/05/2025 - 19:04:15: [playercommands.smx] "NAangel<16><STEAM_1:1:225837088><>" slapped "Tank<117><BOT><>" (damage "0")
+L 07/05/2025 - 19:04:15: [playercommands.smx] "NAangel<16><STEAM_1:1:225837088><>" slapped "Tank<117><BOT><>" (damage "0")
+L 07/05/2025 - 19:04:17: [playercommands.smx] "NAangel<16><STEAM_1:1:225837088><>" slapped "Tank<117><BOT><>" (damage "0")
+L 07/05/2025 - 19:04:18: [playercommands.smx] "NAangel<16><STEAM_1:1:225837088><>" slapped "Tank<117><BOT><>" (damage "0")
+L 07/05/2025 - 19:04:19: [playercommands.smx] "NAangel<16><STEAM_1:1:225837088><>" slapped "Tank<117><BOT><>" (damage "0")
+L 07/05/2025 - 19:04:19: [playercommands.smx] "NAangel<16><STEAM_1:1:225837088><>" slapped "Tank<117><BOT><>" (damage "0")
+L 07/05/2025 - 19:04:19: [playercommands.smx] "NAangel<16><STEAM_1:1:225837088><>" slapped "Tank<117><BOT><>" (damage "0")
+L 07/05/2025 - 19:04:19: [playercommands.smx] "NAangel<16><STEAM_1:1:225837088><>" slapped "Tank<117><BOT><>" (damage "0")
+L 07/05/2025 - 19:04:24: [playercommands.smx] "NAangel<16><STEAM_1:1:225837088><>" slapped "Rochelle<106><BOT><>" (damage "0")
+L 07/05/2025 - 19:04:25: [playercommands.smx] "NAangel<16><STEAM_1:1:225837088><>" slapped "Rochelle<106><BOT><>" (damage "0")
+L 07/05/2025 - 19:04:30: [playercommands.smx] "NAangel<16><STEAM_1:1:225837088><>" slapped "Tank<117><BOT><>" (damage "0")
+L 07/05/2025 - 19:04:30: [playercommands.smx] "NAangel<16><STEAM_1:1:225837088><>" slapped "NAangel<16><STEAM_1:1:225837088><>" (damage "0")
+L 07/05/2025 - 19:04:30: [playercommands.smx] "NAangel<16><STEAM_1:1:225837088><>" slapped "NAangel<16><STEAM_1:1:225837088><>" (damage "0")
+L 07/05/2025 - 19:04:31: [playercommands.smx] "NAangel<16><STEAM_1:1:225837088><>" slapped "(1)Tank<118><BOT><>" (damage "0")
+L 07/05/2025 - 19:04:31: [playercommands.smx] "NAangel<16><STEAM_1:1:225837088><>" slapped "(1)Tank<118><BOT><>" (damage "0")
+L 07/05/2025 - 19:04:31: [playercommands.smx] "NAangel<16><STEAM_1:1:225837088><>" slapped "(1)Tank<118><BOT><>" (damage "0")
+L 07/05/2025 - 19:04:32: [playercommands.smx] "NAangel<16><STEAM_1:1:225837088><>" slapped "(1)Tank<118><BOT><>" (damage "0")
+L 07/05/2025 - 19:04:32: [playercommands.smx] "NAangel<16><STEAM_1:1:225837088><>" slapped "(1)Tank<118><BOT><>" (damage "0")
+L 07/05/2025 - 19:04:32: [playercommands.smx] "NAangel<16><STEAM_1:1:225837088><>" slapped "(1)Tank<118><BOT><>" (damage "0")
+L 07/05/2025 - 19:04:35: [playercommands.smx] "NAangel<16><STEAM_1:1:225837088><>" slapped "(1)Tank<118><BOT><>" (damage "0")
+L 07/05/2025 - 19:04:35: [playercommands.smx] "NAangel<16><STEAM_1:1:225837088><>" slapped "(1)Tank<118><BOT><>" (damage "0")
+L 07/05/2025 - 19:04:35: [playercommands.smx] "NAangel<16><STEAM_1:1:225837088><>" slapped "(1)Tank<118><BOT><>" (damage "0")
+L 07/05/2025 - 19:04:36: [playercommands.smx] "NAangel<16><STEAM_1:1:225837088><>" slapped "(1)Tank<118><BOT><>" (damage "0")
+L 07/05/2025 - 19:04:38: [funcommands.smx] "[T-T]MoY<9><STEAM_1:0:511491787><>" set gravity on "NAangel<16><STEAM_1:1:225837088><>" (amount "0.100000")
+L 07/05/2025 - 19:04:43: [playercommands.smx] "NAangel<16><STEAM_1:1:225837088><>" slapped "(1)Tank<118><BOT><>" (damage "0")
+L 07/05/2025 - 19:05:01: [playercommands.smx] "NAangel<16><STEAM_1:1:225837088><>" slapped "NAangel<16><STEAM_1:1:225837088><>" (damage "0")
+L 07/05/2025 - 19:05:01: [playercommands.smx] "NAangel<16><STEAM_1:1:225837088><>" slapped "NAangel<16><STEAM_1:1:225837088><>" (damage "0")
+L 07/05/2025 - 19:05:01: [playercommands.smx] "NAangel<16><STEAM_1:1:225837088><>" slapped "NAangel<16><STEAM_1:1:225837088><>" (damage "0")
+L 07/05/2025 - 19:05:02: [playercommands.smx] "NAangel<16><STEAM_1:1:225837088><>" slapped "NAangel<16><STEAM_1:1:225837088><>" (damage "0")
+L 07/05/2025 - 19:05:02: [playercommands.smx] "NAangel<16><STEAM_1:1:225837088><>" slapped "NAangel<16><STEAM_1:1:225837088><>" (damage "0")
+L 07/05/2025 - 19:05:02: [playercommands.smx] "NAangel<16><STEAM_1:1:225837088><>" slapped "NAangel<16><STEAM_1:1:225837088><>" (damage "0")
+L 07/05/2025 - 19:05:02: [playercommands.smx] "NAangel<16><STEAM_1:1:225837088><>" slapped "NAangel<16><STEAM_1:1:225837088><>" (damage "0")
+L 07/05/2025 - 19:05:02: [playercommands.smx] "NAangel<16><STEAM_1:1:225837088><>" slapped "NAangel<16><STEAM_1:1:225837088><>" (damage "0")
+L 07/05/2025 - 19:05:03: [playercommands.smx] "NAangel<16><STEAM_1:1:225837088><>" slapped "NAangel<16><STEAM_1:1:225837088><>" (damage "0")
+L 07/05/2025 - 19:05:03: [playercommands.smx] "NAangel<16><STEAM_1:1:225837088><>" slapped "NAangel<16><STEAM_1:1:225837088><>" (damage "0")
+L 07/05/2025 - 19:05:03: [playercommands.smx] "NAangel<16><STEAM_1:1:225837088><>" slapped "NAangel<16><STEAM_1:1:225837088><>" (damage "0")
+L 07/05/2025 - 19:05:03: [playercommands.smx] "NAangel<16><STEAM_1:1:225837088><>" slapped "NAangel<16><STEAM_1:1:225837088><>" (damage "0")
+L 07/05/2025 - 19:05:03: [playercommands.smx] "NAangel<16><STEAM_1:1:225837088><>" slapped "NAangel<16><STEAM_1:1:225837088><>" (damage "0")
+L 07/05/2025 - 19:05:03: [playercommands.smx] "NAangel<16><STEAM_1:1:225837088><>" slapped "NAangel<16><STEAM_1:1:225837088><>" (damage "0")
+L 07/05/2025 - 19:05:04: [playercommands.smx] "NAangel<16><STEAM_1:1:225837088><>" slapped "NAangel<16><STEAM_1:1:225837088><>" (damage "0")
+L 07/05/2025 - 19:05:04: [playercommands.smx] "NAangel<16><STEAM_1:1:225837088><>" slapped "NAangel<16><STEAM_1:1:225837088><>" (damage "0")
+L 07/05/2025 - 19:05:04: [playercommands.smx] "NAangel<16><STEAM_1:1:225837088><>" slapped "NAangel<16><STEAM_1:1:225837088><>" (damage "0")
+L 07/05/2025 - 19:05:04: [playercommands.smx] "NAangel<16><STEAM_1:1:225837088><>" slapped "NAangel<16><STEAM_1:1:225837088><>" (damage "0")
+L 07/05/2025 - 19:05:04: [playercommands.smx] "NAangel<16><STEAM_1:1:225837088><>" slapped "NAangel<16><STEAM_1:1:225837088><>" (damage "0")
+L 07/05/2025 - 19:05:04: [playercommands.smx] "NAangel<16><STEAM_1:1:225837088><>" slapped "NAangel<16><STEAM_1:1:225837088><>" (damage "0")
+L 07/05/2025 - 19:05:05: [playercommands.smx] "NAangel<16><STEAM_1:1:225837088><>" slapped "NAangel<16><STEAM_1:1:225837088><>" (damage "0")
+L 07/05/2025 - 19:05:05: [playercommands.smx] "NAangel<16><STEAM_1:1:225837088><>" slapped "NAangel<16><STEAM_1:1:225837088><>" (damage "0")
+L 07/05/2025 - 19:05:05: [playercommands.smx] "NAangel<16><STEAM_1:1:225837088><>" slapped "NAangel<16><STEAM_1:1:225837088><>" (damage "0")
+L 07/05/2025 - 19:05:05: [playercommands.smx] "NAangel<16><STEAM_1:1:225837088><>" slapped "NAangel<16><STEAM_1:1:225837088><>" (damage "0")
+L 07/05/2025 - 19:05:05: [playercommands.smx] "NAangel<16><STEAM_1:1:225837088><>" slapped "NAangel<16><STEAM_1:1:225837088><>" (damage "0")
+L 07/05/2025 - 19:05:06: [playercommands.smx] "NAangel<16><STEAM_1:1:225837088><>" slapped "NAangel<16><STEAM_1:1:225837088><>" (damage "0")
+L 07/05/2025 - 19:05:06: [playercommands.smx] "NAangel<16><STEAM_1:1:225837088><>" slapped "NAangel<16><STEAM_1:1:225837088><>" (damage "0")
+L 07/05/2025 - 19:05:06: [playercommands.smx] "NAangel<16><STEAM_1:1:225837088><>" slapped "NAangel<16><STEAM_1:1:225837088><>" (damage "0")
+L 07/05/2025 - 19:05:06: [playercommands.smx] "NAangel<16><STEAM_1:1:225837088><>" slapped "NAangel<16><STEAM_1:1:225837088><>" (damage "0")
+L 07/05/2025 - 19:05:06: [playercommands.smx] "NAangel<16><STEAM_1:1:225837088><>" slapped "NAangel<16><STEAM_1:1:225837088><>" (damage "0")
+L 07/05/2025 - 19:05:06: [playercommands.smx] "NAangel<16><STEAM_1:1:225837088><>" slapped "NAangel<16><STEAM_1:1:225837088><>" (damage "0")
+L 07/05/2025 - 19:05:07: [playercommands.smx] "NAangel<16><STEAM_1:1:225837088><>" slapped "NAangel<16><STEAM_1:1:225837088><>" (damage "0")
+L 07/05/2025 - 19:05:07: [playercommands.smx] "NAangel<16><STEAM_1:1:225837088><>" slapped "NAangel<16><STEAM_1:1:225837088><>" (damage "0")
+L 07/05/2025 - 19:05:07: [playercommands.smx] "NAangel<16><STEAM_1:1:225837088><>" slapped "NAangel<16><STEAM_1:1:225837088><>" (damage "0")
+L 07/05/2025 - 19:05:07: [playercommands.smx] "NAangel<16><STEAM_1:1:225837088><>" slapped "NAangel<16><STEAM_1:1:225837088><>" (damage "0")
+L 07/05/2025 - 19:05:07: [playercommands.smx] "NAangel<16><STEAM_1:1:225837088><>" slapped "NAangel<16><STEAM_1:1:225837088><>" (damage "0")
+L 07/05/2025 - 19:05:08: [playercommands.smx] "NAangel<16><STEAM_1:1:225837088><>" slapped "NAangel<16><STEAM_1:1:225837088><>" (damage "0")
+L 07/05/2025 - 19:05:08: [playercommands.smx] "NAangel<16><STEAM_1:1:225837088><>" slapped "NAangel<16><STEAM_1:1:225837088><>" (damage "0")
+L 07/05/2025 - 19:05:08: [playercommands.smx] "NAangel<16><STEAM_1:1:225837088><>" slapped "NAangel<16><STEAM_1:1:225837088><>" (damage "0")
+L 07/05/2025 - 19:05:08: [playercommands.smx] "NAangel<16><STEAM_1:1:225837088><>" slapped "NAangel<16><STEAM_1:1:225837088><>" (damage "0")
+L 07/05/2025 - 19:05:08: [playercommands.smx] "NAangel<16><STEAM_1:1:225837088><>" slapped "NAangel<16><STEAM_1:1:225837088><>" (damage "0")
+L 07/05/2025 - 19:05:08: [playercommands.smx] "NAangel<16><STEAM_1:1:225837088><>" slapped "NAangel<16><STEAM_1:1:225837088><>" (damage "0")
+L 07/05/2025 - 19:05:09: [playercommands.smx] "NAangel<16><STEAM_1:1:225837088><>" slapped "NAangel<16><STEAM_1:1:225837088><>" (damage "0")
+L 07/05/2025 - 19:05:09: [playercommands.smx] "NAangel<16><STEAM_1:1:225837088><>" slapped "NAangel<16><STEAM_1:1:225837088><>" (damage "0")
+L 07/05/2025 - 19:05:09: [playercommands.smx] "NAangel<16><STEAM_1:1:225837088><>" slapped "NAangel<16><STEAM_1:1:225837088><>" (damage "0")
+L 07/05/2025 - 19:05:09: [playercommands.smx] "NAangel<16><STEAM_1:1:225837088><>" slapped "NAangel<16><STEAM_1:1:225837088><>" (damage "0")
+L 07/05/2025 - 19:05:09: [playercommands.smx] "NAangel<16><STEAM_1:1:225837088><>" slapped "NAangel<16><STEAM_1:1:225837088><>" (damage "0")
+L 07/05/2025 - 19:05:10: [playercommands.smx] "NAangel<16><STEAM_1:1:225837088><>" slapped "NAangel<16><STEAM_1:1:225837088><>" (damage "0")
+L 07/05/2025 - 19:05:10: [playercommands.smx] "NAangel<16><STEAM_1:1:225837088><>" slapped "NAangel<16><STEAM_1:1:225837088><>" (damage "0")
+L 07/05/2025 - 19:05:10: [playercommands.smx] "NAangel<16><STEAM_1:1:225837088><>" slapped "NAangel<16><STEAM_1:1:225837088><>" (damage "0")
+L 07/05/2025 - 19:05:10: [playercommands.smx] "NAangel<16><STEAM_1:1:225837088><>" slapped "NAangel<16><STEAM_1:1:225837088><>" (damage "0")
+L 07/05/2025 - 19:05:11: [playercommands.smx] "NAangel<16><STEAM_1:1:225837088><>" slapped "(2)Tank<120><BOT><>" (damage "0")
+L 07/05/2025 - 19:05:11: [playercommands.smx] "NAangel<16><STEAM_1:1:225837088><>" slapped "(2)Tank<120><BOT><>" (damage "0")
+L 07/05/2025 - 19:05:11: [playercommands.smx] "NAangel<16><STEAM_1:1:225837088><>" slapped "(2)Tank<120><BOT><>" (damage "0")
+L 07/05/2025 - 19:05:11: [playercommands.smx] "NAangel<16><STEAM_1:1:225837088><>" slapped "(2)Tank<120><BOT><>" (damage "0")
+L 07/05/2025 - 19:05:12: [playercommands.smx] "NAangel<16><STEAM_1:1:225837088><>" slapped "NAangel<16><STEAM_1:1:225837088><>" (damage "0")
+L 07/05/2025 - 19:05:12: [playercommands.smx] "NAangel<16><STEAM_1:1:225837088><>" slapped "NAangel<16><STEAM_1:1:225837088><>" (damage "0")
+L 07/05/2025 - 19:05:12: [playercommands.smx] "NAangel<16><STEAM_1:1:225837088><>" slapped "NAangel<16><STEAM_1:1:225837088><>" (damage "0")
+L 07/05/2025 - 19:05:13: [playercommands.smx] "NAangel<16><STEAM_1:1:225837088><>" slapped "NAangel<16><STEAM_1:1:225837088><>" (damage "0")
+L 07/05/2025 - 19:05:13: [playercommands.smx] "NAangel<16><STEAM_1:1:225837088><>" slapped "NAangel<16><STEAM_1:1:225837088><>" (damage "0")
+L 07/05/2025 - 19:05:13: [playercommands.smx] "NAangel<16><STEAM_1:1:225837088><>" slapped "NAangel<16><STEAM_1:1:225837088><>" (damage "0")
+L 07/05/2025 - 19:05:13: [playercommands.smx] "NAangel<16><STEAM_1:1:225837088><>" slapped "NAangel<16><STEAM_1:1:225837088><>" (damage "0")
+L 07/05/2025 - 19:05:13: [playercommands.smx] "NAangel<16><STEAM_1:1:225837088><>" slapped "NAangel<16><STEAM_1:1:225837088><>" (damage "0")
+L 07/05/2025 - 19:05:14: [playercommands.smx] "NAangel<16><STEAM_1:1:225837088><>" slapped "NAangel<16><STEAM_1:1:225837088><>" (damage "0")
+L 07/05/2025 - 19:05:14: [playercommands.smx] "NAangel<16><STEAM_1:1:225837088><>" slapped "NAangel<16><STEAM_1:1:225837088><>" (damage "0")
+L 07/05/2025 - 19:05:14: [playercommands.smx] "NAangel<16><STEAM_1:1:225837088><>" slapped "NAangel<16><STEAM_1:1:225837088><>" (damage "0")
+L 07/05/2025 - 19:05:14: [playercommands.smx] "NAangel<16><STEAM_1:1:225837088><>" slapped "NAangel<16><STEAM_1:1:225837088><>" (damage "0")
+L 07/05/2025 - 19:05:14: [playercommands.smx] "NAangel<16><STEAM_1:1:225837088><>" slapped "NAangel<16><STEAM_1:1:225837088><>" (damage "0")
+L 07/05/2025 - 19:05:15: [playercommands.smx] "NAangel<16><STEAM_1:1:225837088><>" slapped "NAangel<16><STEAM_1:1:225837088><>" (damage "0")
+L 07/05/2025 - 19:05:15: [playercommands.smx] "NAangel<16><STEAM_1:1:225837088><>" slapped "NAangel<16><STEAM_1:1:225837088><>" (damage "0")
+L 07/05/2025 - 19:05:15: [playercommands.smx] "NAangel<16><STEAM_1:1:225837088><>" slapped "NAangel<16><STEAM_1:1:225837088><>" (damage "0")
+L 07/05/2025 - 19:05:15: [playercommands.smx] "NAangel<16><STEAM_1:1:225837088><>" slapped "NAangel<16><STEAM_1:1:225837088><>" (damage "0")
+L 07/05/2025 - 19:05:15: [playercommands.smx] "NAangel<16><STEAM_1:1:225837088><>" slapped "NAangel<16><STEAM_1:1:225837088><>" (damage "0")
+L 07/05/2025 - 19:05:16: [playercommands.smx] "NAangel<16><STEAM_1:1:225837088><>" slapped "NAangel<16><STEAM_1:1:225837088><>" (damage "0")
+L 07/05/2025 - 19:05:16: [playercommands.smx] "NAangel<16><STEAM_1:1:225837088><>" slapped "NAangel<16><STEAM_1:1:225837088><>" (damage "0")
+L 07/05/2025 - 19:05:16: [playercommands.smx] "NAangel<16><STEAM_1:1:225837088><>" slapped "NAangel<16><STEAM_1:1:225837088><>" (damage "0")
+L 07/05/2025 - 19:05:16: [basevotes.smx] "[T-T]MoY<9><STEAM_1:0:511491787><>" initiated a generic vote (question "le quito el admin a Naangel" / answers "Yes" "No").
+L 07/05/2025 - 19:05:37: [basevotes.smx] Vote successful. (Received "100" of 3 votes)
+L 07/05/2025 - 19:05:37: [basevotes.smx] The answer to le quito el admin a Naangel is: Yes.
+L 07/05/2025 - 19:06:08: -------- Mapchange to c1m2_streets --------
+L 07/05/2025 - 19:06:11: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_consistency") (value "0")
+L 07/05/2025 - 19:06:11: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_allow_lobby_connect_only") (value "0")
+L 07/05/2025 - 19:06:11: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxplayers") (value "8")
+L 07/05/2025 - 19:06:11: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_visiblemaxplayers") (value "-1")
+L 07/05/2025 - 19:07:14: [l4d_sm_respawn.smx] "NAangel<16><STEAM_1:1:225837088><>" teleported "NAangel<16><STEAM_1:1:225837088><>" after respawning him
+L 07/05/2025 - 19:11:53: [playercommands.smx] "NAangel<16><STEAM_1:1:225837088><>" slapped "(3)Tank<155><BOT><>" (damage "0")
+L 07/05/2025 - 19:13:06: [basecommands.smx] "[T-T]MoY<9><STEAM_1:0:511491787><>" refreshed the admin cache.
+L 07/05/2025 - 19:15:52: [playercommands.smx] "[T-T]MoY<9><STEAM_1:0:511491787><>" slayed "Madman<140><STEAM_1:0:194222757><>"
+L 07/05/2025 - 19:21:45: [l4d_sm_respawn.smx] "[T-T]MoY<9><STEAM_1:0:511491787><>" teleported "Madman<140><STEAM_1:0:194222757><>" after respawning him
+L 07/05/2025 - 19:21:57: [l4d_sm_respawn.smx] "[T-T]MoY<9><STEAM_1:0:511491787><>" teleported "Madman<140><STEAM_1:0:194222757><>" after respawning him
+L 07/05/2025 - 19:24:21: [l4d_sm_respawn.smx] "[T-T]MoY<9><STEAM_1:0:511491787><>" teleported "Madman<140><STEAM_1:0:194222757><>" after respawning him
+L 07/05/2025 - 19:34:06: [basevotes.smx] "[T-T]MoY<9><STEAM_1:0:511491787><>" initiated a generic vote (question "el NAangel es joto?" / answers "Yes" "No").
+L 07/05/2025 - 19:34:26: [basevotes.smx] Vote successful. (Received "100" of 3 votes)
+L 07/05/2025 - 19:34:26: [basevotes.smx] The answer to el NAangel es joto? is: Yes.
+L 07/05/2025 - 19:37:41: [playercommands.smx] "[T-T]MoY<9><STEAM_1:0:511491787><>" slayed "🇦🇷 JEFE DEL JEFES 👓<183><STEAM_1:1:833520713><>"
+L 07/05/2025 - 19:38:01: [playercommands.smx] "[T-T]MoY<9><STEAM_1:0:511491787><>" slayed "NAangel<16><STEAM_1:1:225837088><>"
+L 07/05/2025 - 19:38:01: [playercommands.smx] "[T-T]MoY<9><STEAM_1:0:511491787><>" slayed "🇦🇷 JEFE DEL JEFES 👓<183><STEAM_1:1:833520713><>"
+L 07/05/2025 - 19:38:11: [playercommands.smx] "[T-T]MoY<9><STEAM_1:0:511491787><>" slayed "🇦🇷 JEFE DEL JEFES 👓<183><STEAM_1:1:833520713><>"
+L 07/05/2025 - 19:38:23: [playercommands.smx] "[T-T]MoY<9><STEAM_1:0:511491787><>" slayed "NAangel<16><STEAM_1:1:225837088><>"
+L 07/05/2025 - 19:40:14: [basevotes.smx] "[T-T]MoY<9><STEAM_1:0:511491787><>" initiated a generic vote (question "silencio al jefe de jefes o a caca seca" / answers "jefe de jefes" "caca seca").
+L 07/05/2025 - 19:40:35: [basevotes.smx] Vote successful. (Received "50" of 2 votes)
+L 07/05/2025 - 19:40:35: [basevotes.smx] The answer to silencio al jefe de jefes o a caca seca is: jefe de jefes.
+L 07/05/2025 - 19:40:43: [basevotes.smx] "[T-T]MoY<9><STEAM_1:0:511491787><>" initiated a generic vote (question "silencio al jefe de jefes o a caca seca" / answers "jefe de jefes" "caca seca").
+L 07/05/2025 - 19:41:03: [basevotes.smx] Vote successful. (Received "75" of 4 votes)
+L 07/05/2025 - 19:41:03: [basevotes.smx] The answer to silencio al jefe de jefes o a caca seca is: jefe de jefes.
+L 07/05/2025 - 19:41:33: [basecomm.smx] "[T-T]MoY<9><STEAM_1:0:511491787><>" silenced "🇦🇷 JEFE DEL JEFES 👓<183><STEAM_1:1:833520713><>"
+L 07/05/2025 - 19:44:40: [l4d_sm_respawn.smx] "[T-T]MoY<9><STEAM_1:0:511491787><>" teleported "[T-T]MoY<9><STEAM_1:0:511491787><>" after respawning him
+L 07/05/2025 - 19:49:39: [basecommands.smx] "[T-T]MoY<9><STEAM_1:0:511491787><>" changed cvar (cvar "director_no_specials") (value "1")
+L 07/05/2025 - 19:49:39: [basecommands.smx] "[T-T]MoY<9><STEAM_1:0:511491787><>" changed cvar (cvar "z_max_player_zombies") (value "0")
+L 07/05/2025 - 19:49:58: [basecommands.smx] "[T-T]MoY<9><STEAM_1:0:511491787><>" changed cvar (cvar "director_no_specials") (value "0")
+L 07/05/2025 - 19:49:58: [basecommands.smx] "[T-T]MoY<9><STEAM_1:0:511491787><>" changed cvar (cvar "z_max_player_zombies") (value "2")
+L 07/05/2025 - 19:56:27: -------- Mapchange to c1m3_mall --------
+L 07/05/2025 - 19:56:30: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_consistency") (value "0")
+L 07/05/2025 - 19:56:30: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_allow_lobby_connect_only") (value "0")
+L 07/05/2025 - 19:56:30: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxplayers") (value "8")
+L 07/05/2025 - 19:56:30: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_visiblemaxplayers") (value "-1")
+L 07/05/2025 - 20:02:57: -------- Mapchange to c1m4_atrium --------
+L 07/05/2025 - 20:02:59: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_consistency") (value "0")
+L 07/05/2025 - 20:02:59: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_allow_lobby_connect_only") (value "0")
+L 07/05/2025 - 20:02:59: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxplayers") (value "8")
+L 07/05/2025 - 20:02:59: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_visiblemaxplayers") (value "-1")
+L 07/05/2025 - 20:03:37: [basecommands.smx] "[T-T]MoY<9><STEAM_1:0:511491787><>" changed cvar (cvar "sv_gravity") (value "800")
+L 07/05/2025 - 20:05:06: [basevotes.smx] "[T-T]MoY<9><STEAM_1:0:511491787><>" initiated a generic vote (question "el ñankrun esta desactivado" / answers "Yes" "No").
+L 07/05/2025 - 20:05:26: [basevotes.smx] Vote failed. 0% vote required. (Received "33" of 3 votes)
+L 07/05/2025 - 20:06:09: [basecommands.smx] "[T-T]MoY<9><STEAM_1:0:511491787><>" changed cvar (cvar "sv_gravity") (value "200")
+L 07/05/2025 - 20:19:22: -------- Mapchange to c2m1_highway --------
+L 07/05/2025 - 20:19:24: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_consistency") (value "0")
+L 07/05/2025 - 20:19:24: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_allow_lobby_connect_only") (value "0")
+L 07/05/2025 - 20:19:24: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxplayers") (value "8")
+L 07/05/2025 - 20:19:24: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_visiblemaxplayers") (value "-1")
+L 07/05/2025 - 20:23:16: -------- Mapchange to c2m2_fairgrounds --------
+L 07/05/2025 - 20:23:18: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_consistency") (value "0")
+L 07/05/2025 - 20:23:18: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_allow_lobby_connect_only") (value "0")
+L 07/05/2025 - 20:23:18: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxplayers") (value "8")
+L 07/05/2025 - 20:23:18: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_visiblemaxplayers") (value "-1")
+L 07/05/2025 - 20:24:23: [funvotes.smx] "[T-T]MoY<438><STEAM_1:0:511491787><>" initiated a slay vote against "coca cola espuma<439><STEAM_1:1:642356345><>"
+L 07/05/2025 - 20:24:44: [funvotes.smx] Vote slay successful, slaying "coca cola espuma<439><STEAM_1:1:642356345><>"
+L 07/05/2025 - 20:27:10: [playercommands.smx] "[T-T]MoY<438><STEAM_1:0:511491787><>" slayed "coca cola espuma<439><STEAM_1:1:642356345><>"
+L 07/05/2025 - 20:27:51: [l4d_sm_respawn.smx] "[T-T]MoY<438><STEAM_1:0:511491787><>" teleported "[T-T]MoY<438><STEAM_1:0:511491787><>" after respawning him
+L 07/05/2025 - 20:28:36: -------- Mapchange to c2m3_coaster --------
+L 07/05/2025 - 20:28:38: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_consistency") (value "0")
+L 07/05/2025 - 20:28:38: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_allow_lobby_connect_only") (value "0")
+L 07/05/2025 - 20:28:38: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxplayers") (value "8")
+L 07/05/2025 - 20:28:38: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_visiblemaxplayers") (value "-1")
+L 07/05/2025 - 20:30:15: [l4d_sm_respawn.smx] "[T-T]MoY<438><STEAM_1:0:511491787><>" teleported "[T-T]MoY<438><STEAM_1:0:511491787><>" after respawning him
+L 07/05/2025 - 20:33:17: [basecommands.smx] "[T-T]MoY<438><STEAM_1:0:511491787><>" kicked "coca cola espuma<508><STEAM_1:1:642356345><>" (reason "")
+L 07/05/2025 - 20:44:27: -------- Mapchange to c2m4_barns --------
+L 07/05/2025 - 20:44:30: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_consistency") (value "0")
+L 07/05/2025 - 20:44:30: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_allow_lobby_connect_only") (value "0")
+L 07/05/2025 - 20:44:30: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxplayers") (value "8")
+L 07/05/2025 - 20:44:30: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_visiblemaxplayers") (value "-1")
+L 07/05/2025 - 20:45:47: Log file closed.

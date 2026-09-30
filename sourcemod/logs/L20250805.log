@@ -1,0 +1,129 @@
+L 08/05/2025 - 21:56:47: SourceMod log file session started (file "e:\steamlibrary\steamapps\common\left 4 dead 2\left4dead2\addons\sourcemod\logs\L20250805.log") (Version "1.12.0.7207")
+L 08/05/2025 - 21:56:47: [GEOIP] GeoIP2 database loaded: GeoLite2-ASN (2024-08-21 08:15:21 UTC) (e:\steamlibrary\steamapps\common\left 4 dead 2\left4dead2\addons\sourcemod\configs\geoip\GeoLite2-ASN.mmdb)
+L 08/05/2025 - 21:56:47: [GEOIP] GeoIP2 supported languages: en
+L 08/05/2025 - 21:56:47: [GEOIP] Your database is older than 90 days. You should consider downloading a newer version from e.g. https://dev.maxmind.com/geoip/geolite2-free-geolocation-data
+L 08/05/2025 - 21:56:57: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_consistency") (value "0")
+L 08/05/2025 - 21:56:57: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_allow_lobby_connect_only") (value "0")
+L 08/05/2025 - 21:56:57: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxplayers") (value "8")
+L 08/05/2025 - 21:56:57: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_visiblemaxplayers") (value "-1")
+L 08/05/2025 - 21:58:03: [basecommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" changed cvar (cvar "sv_gravity") (value "200")
+L 08/05/2025 - 21:59:19: -------- Mapchange to c1m1_hotel --------
+L 08/05/2025 - 21:59:23: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_consistency") (value "0")
+L 08/05/2025 - 21:59:23: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_allow_lobby_connect_only") (value "0")
+L 08/05/2025 - 21:59:23: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxplayers") (value "8")
+L 08/05/2025 - 21:59:23: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_visiblemaxplayers") (value "-1")
+L 08/05/2025 - 22:05:39: [basevotes.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" initiated a generic vote (question "me kachan ?" / answers "Yes" "No").
+L 08/05/2025 - 22:06:00: [basevotes.smx] Vote successful. (Received "50" of 2 votes)
+L 08/05/2025 - 22:06:00: [basevotes.smx] The answer to me kachan ? is: Yes.
+L 08/05/2025 - 22:09:03: -------- Mapchange to c1m2_streets --------
+L 08/05/2025 - 22:09:06: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_consistency") (value "0")
+L 08/05/2025 - 22:09:06: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_allow_lobby_connect_only") (value "0")
+L 08/05/2025 - 22:09:06: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxplayers") (value "8")
+L 08/05/2025 - 22:09:06: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_visiblemaxplayers") (value "-1")
+L 08/05/2025 - 22:10:47: [basevotes.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" initiated a generic vote (question "me kachan ?" / answers "Yes" "No").
+L 08/05/2025 - 22:11:08: [basevotes.smx] Vote successful. (Received "80" of 5 votes)
+L 08/05/2025 - 22:11:08: [basevotes.smx] The answer to me kachan ? is: Yes.
+L 08/05/2025 - 22:15:02: [basevotes.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" initiated a generic vote (question "le kachan al nego ?" / answers "Yes" "No").
+L 08/05/2025 - 22:15:23: [basevotes.smx] Vote successful. (Received "100" of 5 votes)
+L 08/05/2025 - 22:15:23: [basevotes.smx] The answer to le kachan al nego ? is: Yes.
+L 08/05/2025 - 22:15:43: [basevotes.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" initiated a generic vote (question "tanks camperos" / answers "Yes" "No").
+L 08/05/2025 - 22:16:04: [basevotes.smx] Vote successful. (Received "100" of 3 votes)
+L 08/05/2025 - 22:16:04: [basevotes.smx] The answer to tanks camperos is: Yes.
+L 08/05/2025 - 22:16:53: [basevotes.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" initiated a generic vote (question "jugador:artio_8 , si sigues con el chat de voz en ese estado seras muteado" / answers "que lo mutien" "dejale").
+L 08/05/2025 - 22:17:14: [basevotes.smx] Vote successful. (Received "75" of 4 votes)
+L 08/05/2025 - 22:17:14: [basevotes.smx] The answer to jugador:artio_8 , si sigues con el chat de voz en ese estado seras muteado is: dejale.
+L 08/05/2025 - 22:18:08: -------- Mapchange to c1m3_mall --------
+L 08/05/2025 - 22:18:12: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_consistency") (value "0")
+L 08/05/2025 - 22:18:12: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_allow_lobby_connect_only") (value "0")
+L 08/05/2025 - 22:18:12: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxplayers") (value "8")
+L 08/05/2025 - 22:18:12: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_visiblemaxplayers") (value "-1")
+L 08/05/2025 - 22:24:20: -------- Mapchange to c1m4_atrium --------
+L 08/05/2025 - 22:24:23: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_consistency") (value "0")
+L 08/05/2025 - 22:24:23: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_allow_lobby_connect_only") (value "0")
+L 08/05/2025 - 22:24:23: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxplayers") (value "8")
+L 08/05/2025 - 22:24:23: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_visiblemaxplayers") (value "-1")
+L 08/05/2025 - 22:28:33: [basevotes.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" initiated a generic vote (question "el que muera es ultra mega gay" / answers "f" "no en mi guardia").
+L 08/05/2025 - 22:28:53: [basevotes.smx] Vote successful. (Received "80" of 5 votes)
+L 08/05/2025 - 22:28:53: [basevotes.smx] The answer to el que muera es ultra mega gay is: f.
+L 08/05/2025 - 22:29:37: -------- Mapchange to c2m1_highway --------
+L 08/05/2025 - 22:29:40: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_consistency") (value "0")
+L 08/05/2025 - 22:29:40: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_allow_lobby_connect_only") (value "0")
+L 08/05/2025 - 22:29:40: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxplayers") (value "8")
+L 08/05/2025 - 22:29:40: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_visiblemaxplayers") (value "-1")
+L 08/05/2025 - 22:32:58: -------- Mapchange to c2m2_fairgrounds --------
+L 08/05/2025 - 22:33:02: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_consistency") (value "0")
+L 08/05/2025 - 22:33:02: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_allow_lobby_connect_only") (value "0")
+L 08/05/2025 - 22:33:02: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxplayers") (value "8")
+L 08/05/2025 - 22:33:02: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_visiblemaxplayers") (value "-1")
+L 08/05/2025 - 22:35:41: -------- Mapchange to c2m3_coaster --------
+L 08/05/2025 - 22:35:44: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_consistency") (value "0")
+L 08/05/2025 - 22:35:44: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_allow_lobby_connect_only") (value "0")
+L 08/05/2025 - 22:35:44: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxplayers") (value "8")
+L 08/05/2025 - 22:35:44: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_visiblemaxplayers") (value "-1")
+L 08/05/2025 - 22:36:33: [basevotes.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" initiated a generic vote (question "aca vamos a sufrir preparado" / answers "si" "no" "no en mi guardia").
+L 08/05/2025 - 22:36:54: [basevotes.smx] Vote successful. (Received "75" of 4 votes)
+L 08/05/2025 - 22:36:54: [basevotes.smx] The answer to aca vamos a sufrir preparado is: si.
+L 08/05/2025 - 22:41:21: [basevotes.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" initiated a generic vote (question "le kachan ?" / answers "Yes" "No").
+L 08/05/2025 - 22:41:42: [basevotes.smx] Vote successful. (Received "100" of 5 votes)
+L 08/05/2025 - 22:41:42: [basevotes.smx] The answer to le kachan ? is: Yes.
+L 08/05/2025 - 22:47:03: [playercommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" slayed "Tank<195><BOT><>"
+L 08/05/2025 - 22:47:24: [playercommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" slayed "Tank<196><BOT><>"
+L 08/05/2025 - 22:47:43: [playercommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" slayed "Tank<197><BOT><>"
+L 08/05/2025 - 22:49:35: -------- Mapchange to c2m4_barns --------
+L 08/05/2025 - 22:49:38: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_consistency") (value "0")
+L 08/05/2025 - 22:49:38: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_allow_lobby_connect_only") (value "0")
+L 08/05/2025 - 22:49:38: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxplayers") (value "8")
+L 08/05/2025 - 22:49:38: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_visiblemaxplayers") (value "-1")
+L 08/05/2025 - 22:55:34: -------- Mapchange to c2m5_concert --------
+L 08/05/2025 - 22:55:37: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_consistency") (value "0")
+L 08/05/2025 - 22:55:37: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_allow_lobby_connect_only") (value "0")
+L 08/05/2025 - 22:55:37: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxplayers") (value "8")
+L 08/05/2025 - 22:55:37: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_visiblemaxplayers") (value "-1")
+L 08/05/2025 - 22:58:52: -------- Mapchange to c5m1_waterfront --------
+L 08/05/2025 - 22:58:55: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_consistency") (value "0")
+L 08/05/2025 - 22:58:55: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_allow_lobby_connect_only") (value "0")
+L 08/05/2025 - 22:58:55: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxplayers") (value "8")
+L 08/05/2025 - 22:58:55: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_visiblemaxplayers") (value "-1")
+L 08/05/2025 - 23:01:14: -------- Mapchange to c5m2_park --------
+L 08/05/2025 - 23:01:17: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_consistency") (value "0")
+L 08/05/2025 - 23:01:17: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_allow_lobby_connect_only") (value "0")
+L 08/05/2025 - 23:01:17: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxplayers") (value "8")
+L 08/05/2025 - 23:01:17: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_visiblemaxplayers") (value "-1")
+L 08/05/2025 - 23:08:28: -------- Mapchange to bwm1_climb --------
+L 08/05/2025 - 23:08:31: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_consistency") (value "0")
+L 08/05/2025 - 23:08:31: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_allow_lobby_connect_only") (value "0")
+L 08/05/2025 - 23:08:31: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxplayers") (value "8")
+L 08/05/2025 - 23:08:31: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_visiblemaxplayers") (value "-1")
+L 08/05/2025 - 23:16:04: -------- Mapchange to bwm2_city --------
+L 08/05/2025 - 23:16:07: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_consistency") (value "0")
+L 08/05/2025 - 23:16:07: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_allow_lobby_connect_only") (value "0")
+L 08/05/2025 - 23:16:07: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxplayers") (value "8")
+L 08/05/2025 - 23:16:07: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_visiblemaxplayers") (value "-1")
+L 08/05/2025 - 23:33:08: -------- Mapchange to bwm3_forest --------
+L 08/05/2025 - 23:33:11: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_consistency") (value "0")
+L 08/05/2025 - 23:33:11: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_allow_lobby_connect_only") (value "0")
+L 08/05/2025 - 23:33:11: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxplayers") (value "8")
+L 08/05/2025 - 23:33:11: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_visiblemaxplayers") (value "-1")
+L 08/05/2025 - 23:35:54: [basevotes.smx] "[T-T]MoY<269><STEAM_1:0:511491787><>" initiated a generic vote (question "que es mas rico una gotica culona o una rubia tetona" / answers "gotica culona" "rubia tetona").
+L 08/05/2025 - 23:36:14: [basevotes.smx] Vote successful. (Received "100" of 4 votes)
+L 08/05/2025 - 23:36:14: [basevotes.smx] The answer to que es mas rico una gotica culona o una rubia tetona is: gotica culona.
+L 08/05/2025 - 23:45:33: [basevotes.smx] "[T-T]MoY<269><STEAM_1:0:511491787><>" initiated a generic vote (question "que es mas rico una gotica culona o una rubia tetona?" / answers "gotica culona" "rubia tetona").
+L 08/05/2025 - 23:45:54: [basevotes.smx] Vote successful. (Received "50" of 4 votes)
+L 08/05/2025 - 23:45:54: [basevotes.smx] The answer to que es mas rico una gotica culona o una rubia tetona? is: gotica culona.
+L 08/05/2025 - 23:46:08: [playercommands.smx] "[T-T]MoY<269><STEAM_1:0:511491787><>" slayed "(4)Tank<403><BOT><>"
+L 08/05/2025 - 23:46:16: [playercommands.smx] "[T-T]MoY<269><STEAM_1:0:511491787><>" slayed "Tank<405><BOT><>"
+L 08/05/2025 - 23:46:19: [playercommands.smx] "[T-T]MoY<269><STEAM_1:0:511491787><>" slayed "(1)Tank<404><BOT><>"
+L 08/05/2025 - 23:48:19: [basevotes.smx] "[T-T]MoY<269><STEAM_1:0:511491787><>" initiated a generic vote (question "ayudamos a que pasen el pasillo del final (con magia)?" / answers "Yes" "No").
+L 08/05/2025 - 23:48:40: [basevotes.smx] Vote failed. 0% vote required. (Received "25" of 4 votes)
+L 08/05/2025 - 23:48:49: -------- Mapchange to bwm4_rooftops --------
+L 08/05/2025 - 23:48:52: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_consistency") (value "0")
+L 08/05/2025 - 23:48:52: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_allow_lobby_connect_only") (value "0")
+L 08/05/2025 - 23:48:52: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxplayers") (value "8")
+L 08/05/2025 - 23:48:52: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_visiblemaxplayers") (value "-1")
+L 08/05/2025 - 23:57:31: -------- Mapchange to bwm5_bridge --------
+L 08/05/2025 - 23:57:34: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_consistency") (value "0")
+L 08/05/2025 - 23:57:34: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_allow_lobby_connect_only") (value "0")
+L 08/05/2025 - 23:57:34: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxplayers") (value "8")
+L 08/05/2025 - 23:57:34: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_visiblemaxplayers") (value "-1")
+L 08/05/2025 - 23:59:20: [basecomm.smx] "[T-T]MoY<269><STEAM_1:0:511491787><>" silenced "coca cola espuma<270><STEAM_1:1:642356345><>"
+L 08/06/2025 - 00:00:02: Log file closed.

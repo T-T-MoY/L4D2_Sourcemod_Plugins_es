@@ -1,0 +1,655 @@
+L 06/13/2026 - 13:55:14: SourceMod log file session started (file "d:\steamlibrary\steamapps\common\left 4 dead 2\left4dead2\addons\sourcemod\logs\L20260613.log") (Version "1.12.0.7207")
+L 06/13/2026 - 13:55:14: [GEOIP] GeoIP2 database loaded: GeoLite2-ASN (2024-08-21 08:15:21 UTC) (d:\steamlibrary\steamapps\common\left 4 dead 2\left4dead2\addons\sourcemod\configs\geoip\GeoLite2-ASN.mmdb)
+L 06/13/2026 - 13:55:14: [GEOIP] GeoIP2 supported languages: en
+L 06/13/2026 - 13:55:14: [GEOIP] Your database is older than 90 days. You should consider downloading a newer version from e.g. https://dev.maxmind.com/geoip/geolite2-free-geolocation-data
+L 06/13/2026 - 13:55:14: [l4d2_map_rotation.smx] [Rotation] Lista cargada con 5 campañas.
+L 06/13/2026 - 13:55:16: [l4d_extinguisher.smx] 
+==========
+Warning: You should install "[L4D2] Scavenge Score Fix - Gascan Pouring" to prevent affecting the score when filling gas in Scavenge style events: https://forums.alliedmods.net/showthread.php?t=187686
+==========
+
+L 06/13/2026 - 13:55:16: [l4d_extinguisher.smx] 
+==========
+Warning: You should install "[L4D & L4D2] Use Priority Patch" to fix attached models blocking +USE action: https://forums.alliedmods.net/showthread.php?t=327511
+==========
+
+L 06/13/2026 - 13:55:27: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_consistency") (value "0")
+L 06/13/2026 - 13:55:27: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_allow_lobby_connect_only") (value "0")
+L 06/13/2026 - 13:55:27: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxplayers") (value "8")
+L 06/13/2026 - 13:55:27: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_visiblemaxplayers") (value "-1")
+L 06/13/2026 - 13:55:27: [UPDATER] Successfully updated gamedata file "sdktools.games/game.ship.txt"
+L 06/13/2026 - 13:55:27: [UPDATER] Successfully updated gamedata file "sdkhooks.games/game.ship.txt"
+L 06/13/2026 - 13:55:27: [UPDATER] Successfully updated gamedata file "sdkhooks.games/master.games.txt"
+L 06/13/2026 - 13:55:27: [UPDATER] SourceMod has been updated, please reload it or restart your server.
+L 06/13/2026 - 13:55:27: [chat-processor.smx] Message formats generated for game 'left4dead2'.
+L 06/13/2026 - 13:55:27: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 06/13/2026 - 13:55:34: [l4d2_shop.smx] [LOAD]: "[T-T]MoY<2><STEAM_1:0:511491787><>" loaded the record successfully! Points: "2056"
+L 06/13/2026 - 13:56:03: [basecommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" changed cvar (cvar "sv_gravity") (value "200")
+L 06/13/2026 - 13:57:22: [l4d2_shop.smx] [UPDATE]: "[T-T]MoY<2><STEAM_1:0:511491787><>" saved. Points: "2056"
+L 06/13/2026 - 13:57:22: [l4d2_shop.smx] UPDATE SpecialFunctions SET isEnabled = 1 WHERE steamId = 'STEAM_1:0:511491787' AND (functionNo = 'GRAY_AMMO' OR functionNo = 'BLUE_AMMO' OR functionNo = 'GOLD_AMMO')
+L 06/13/2026 - 13:58:52: [l4d2_shop.smx] [UPDATE]: "[T-T]MoY<2><STEAM_1:0:511491787><>" saved. Points: "2056"
+L 06/13/2026 - 13:58:52: [l4d2_shop.smx] UPDATE SpecialFunctions SET isEnabled = 1 WHERE steamId = 'STEAM_1:0:511491787' AND (functionNo = 'GRAY_AMMO' OR functionNo = 'BLUE_AMMO' OR functionNo = 'GOLD_AMMO')
+L 06/13/2026 - 14:00:58: [l4d2_shop.smx] [INSERT]: "Gato<17><STEAM_1:0:590881940><>" is a new user!!
+L 06/13/2026 - 14:01:00: [l4d2_shop.smx] [UPDATE]: "[T-T]MoY<2><STEAM_1:0:511491787><>" saved. Points: "2058"
+L 06/13/2026 - 14:01:00: [l4d2_shop.smx] UPDATE SpecialFunctions SET isEnabled = 1 WHERE steamId = 'STEAM_1:0:511491787' AND (functionNo = 'GRAY_AMMO' OR functionNo = 'BLUE_AMMO' OR functionNo = 'GOLD_AMMO')
+L 06/13/2026 - 14:01:00: [l4d2_shop.smx] [UPDATE]: "Gato<17><STEAM_1:0:590881940><>" saved. Points: "0"
+L 06/13/2026 - 14:02:25: [l4d2_shop.smx] [UPDATE]: "[T-T]MoY<2><STEAM_1:0:511491787><>" saved. Points: "2058"
+L 06/13/2026 - 14:02:25: [l4d2_shop.smx] UPDATE SpecialFunctions SET isEnabled = 1 WHERE steamId = 'STEAM_1:0:511491787' AND (functionNo = 'GRAY_AMMO' OR functionNo = 'BLUE_AMMO' OR functionNo = 'GOLD_AMMO')
+L 06/13/2026 - 14:02:25: [l4d2_shop.smx] [UPDATE]: "Gato<17><STEAM_1:0:590881940><>" saved. Points: "0"
+L 06/13/2026 - 14:04:13: [l4d2_shop.smx] [INSERT]: "Antonio PV<27><STEAM_1:1:888002196><>" is a new user!!
+L 06/13/2026 - 14:05:19: [l4d2_shop.smx] [LOAD]: "Quebuendoby<31><STEAM_1:1:601841727><>" loaded the record successfully! Points: "18646"
+L 06/13/2026 - 14:06:43: [l4d2_shop.smx] [UPDATE]: "[T-T]MoY<2><STEAM_1:0:511491787><>" saved. Points: "2074"
+L 06/13/2026 - 14:06:43: [l4d2_shop.smx] UPDATE SpecialFunctions SET isEnabled = 1 WHERE steamId = 'STEAM_1:0:511491787' AND (functionNo = 'GRAY_AMMO' OR functionNo = 'BLUE_AMMO' OR functionNo = 'GOLD_AMMO')
+L 06/13/2026 - 14:06:43: [l4d2_shop.smx] [UPDATE]: "Gato<17><STEAM_1:0:590881940><>" saved. Points: "16"
+L 06/13/2026 - 14:06:44: [l4d2_shop.smx] [UPDATE]: "Antonio PV<27><STEAM_1:1:888002196><>" saved. Points: "16"
+L 06/13/2026 - 14:06:44: [l4d2_shop.smx] [UPDATE]: "Quebuendoby<31><STEAM_1:1:601841727><>" saved. Points: "18656"
+L 06/13/2026 - 14:08:33: [l4d2_shop.smx] [UPDATE]: "[T-T]MoY<2><STEAM_1:0:511491787><>" saved. Points: "2074"
+L 06/13/2026 - 14:08:33: [l4d2_shop.smx] UPDATE SpecialFunctions SET isEnabled = 1 WHERE steamId = 'STEAM_1:0:511491787' AND (functionNo = 'GRAY_AMMO' OR functionNo = 'BLUE_AMMO' OR functionNo = 'GOLD_AMMO')
+L 06/13/2026 - 14:08:33: [l4d2_shop.smx] [UPDATE]: "Gato<17><STEAM_1:0:590881940><>" saved. Points: "16"
+L 06/13/2026 - 14:08:33: [l4d2_shop.smx] [UPDATE]: "Antonio PV<27><STEAM_1:1:888002196><>" saved. Points: "16"
+L 06/13/2026 - 14:08:33: [l4d2_shop.smx] [UPDATE]: "Quebuendoby<31><STEAM_1:1:601841727><>" saved. Points: "18656"
+L 06/13/2026 - 14:09:27: [l4d2_shop.smx] [INSERT]: "Pablo de los Backyardigans<44><STEAM_1:1:782751932><>" is a new user!!
+L 06/13/2026 - 14:09:56: [l4d2_shop.smx] [UPDATE]: "[T-T]MoY<2><STEAM_1:0:511491787><>" saved. Points: "2074"
+L 06/13/2026 - 14:09:56: [l4d2_shop.smx] UPDATE SpecialFunctions SET isEnabled = 1 WHERE steamId = 'STEAM_1:0:511491787' AND (functionNo = 'GRAY_AMMO' OR functionNo = 'BLUE_AMMO' OR functionNo = 'GOLD_AMMO')
+L 06/13/2026 - 14:09:56: [l4d2_shop.smx] [UPDATE]: "Pablo de los Backyardigans<44><STEAM_1:1:782751932><>" saved. Points: "0"
+L 06/13/2026 - 14:09:56: [l4d2_shop.smx] [UPDATE]: "Gato<17><STEAM_1:0:590881940><>" saved. Points: "16"
+L 06/13/2026 - 14:09:56: [l4d2_shop.smx] [UPDATE]: "Antonio PV<27><STEAM_1:1:888002196><>" saved. Points: "16"
+L 06/13/2026 - 14:09:56: [l4d2_shop.smx] [UPDATE]: "Quebuendoby<31><STEAM_1:1:601841727><>" saved. Points: "18656"
+L 06/13/2026 - 14:10:12: [l4d2_shop.smx] [INSERT]: "HAKUDAL<47><STEAM_1:0:766768045><>" is a new user!!
+L 06/13/2026 - 14:10:46: [l4d2_shop.smx] [INSERT]: "Beckand<52><STEAM_1:0:429990733><>" is a new user!!
+L 06/13/2026 - 14:13:32: [l4d2_shop.smx] [UPDATE]: "[T-T]MoY<2><STEAM_1:0:511491787><>" saved. Points: "2084"
+L 06/13/2026 - 14:13:32: [l4d2_shop.smx] UPDATE SpecialFunctions SET isEnabled = 1 WHERE steamId = 'STEAM_1:0:511491787' AND (functionNo = 'GRAY_AMMO' OR functionNo = 'BLUE_AMMO' OR functionNo = 'GOLD_AMMO')
+L 06/13/2026 - 14:13:32: [l4d2_shop.smx] [UPDATE]: "Beckand<52><STEAM_1:0:429990733><>" saved. Points: "10"
+L 06/13/2026 - 14:13:32: [l4d2_shop.smx] [UPDATE]: "Pablo de los Backyardigans<44><STEAM_1:1:782751932><>" saved. Points: "10"
+L 06/13/2026 - 14:13:32: [l4d2_shop.smx] [UPDATE]: "HAKUDAL<47><STEAM_1:0:766768045><>" saved. Points: "10"
+L 06/13/2026 - 14:13:32: [l4d2_shop.smx] [UPDATE]: "Gato<17><STEAM_1:0:590881940><>" saved. Points: "26"
+L 06/13/2026 - 14:13:32: [l4d2_shop.smx] [UPDATE]: "Antonio PV<27><STEAM_1:1:888002196><>" saved. Points: "26"
+L 06/13/2026 - 14:13:32: [l4d2_shop.smx] [UPDATE]: "Quebuendoby<31><STEAM_1:1:601841727><>" saved. Points: "18667"
+L 06/13/2026 - 14:17:15: [l4d_sm_respawn.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" teleported "[T-T]MoY<2><STEAM_1:0:511491787><>" after respawning him
+L 06/13/2026 - 14:17:15: [l4d_sm_respawn.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" teleported "HAKUDAL<47><STEAM_1:0:766768045><>" after respawning him
+L 06/13/2026 - 14:17:15: [l4d_sm_respawn.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" teleported "Antonio PV<27><STEAM_1:1:888002196><>" after respawning him
+L 06/13/2026 - 14:17:15: [l4d_sm_respawn.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" teleported "Quebuendoby<31><STEAM_1:1:601841727><>" after respawning him
+L 06/13/2026 - 14:18:23: [l4d2_shop.smx] [INSERT]: "omarkill23<78><STEAM_1:1:602298606><>" is a new user!!
+L 06/13/2026 - 14:18:42: [l4d_sm_respawn.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" teleported "[T-T]MoY<2><STEAM_1:0:511491787><>" after respawning him
+L 06/13/2026 - 14:18:43: [l4d_sm_respawn.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" teleported "Beckand<52><STEAM_1:0:429990733><>" after respawning him
+L 06/13/2026 - 14:18:43: [l4d_sm_respawn.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" teleported "Pablo de los Backyardigans<44><STEAM_1:1:782751932><>" after respawning him
+L 06/13/2026 - 14:20:00: [l4d2_shop.smx] [INSERT]: "Milton LV<85><STEAM_1:1:758293559><>" is a new user!!
+L 06/13/2026 - 14:21:28: -------- Mapchange to hls_06 --------
+L 06/13/2026 - 14:21:35: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_consistency") (value "0")
+L 06/13/2026 - 14:21:35: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_allow_lobby_connect_only") (value "0")
+L 06/13/2026 - 14:21:35: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxplayers") (value "8")
+L 06/13/2026 - 14:21:35: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_visiblemaxplayers") (value "-1")
+L 06/13/2026 - 14:21:35: [chat-processor.smx] Message formats generated for game 'left4dead2'.
+L 06/13/2026 - 14:21:35: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 06/13/2026 - 14:21:41: [l4d2_shop.smx] [LOAD]: "[T-T]MoY<2><STEAM_1:0:511491787><>" loaded the record successfully! Points: "2084"
+L 06/13/2026 - 14:21:42: [l4d2_shop.smx] [LOAD]: "Beckand<52><STEAM_1:0:429990733><>" loaded the record successfully! Points: "10"
+L 06/13/2026 - 14:21:43: [l4d2_shop.smx] [LOAD]: "Pablo de los Backyardigans<44><STEAM_1:1:782751932><>" loaded the record successfully! Points: "10"
+L 06/13/2026 - 14:21:43: [l4d2_shop.smx] [LOAD]: "Milton LV<85><STEAM_1:1:758293559><>" loaded the record successfully! Points: "0"
+L 06/13/2026 - 14:21:45: [l4d2_shop.smx] [LOAD]: "HAKUDAL<47><STEAM_1:0:766768045><>" loaded the record successfully! Points: "10"
+L 06/13/2026 - 14:21:55: [l4d2_shop.smx] [LOAD]: "Quebuendoby<31><STEAM_1:1:601841727><>" loaded the record successfully! Points: "18667"
+L 06/13/2026 - 14:22:01: [l4d2_shop.smx] [LOAD]: "omarkill23<78><STEAM_1:1:602298606><>" loaded the record successfully! Points: "0"
+L 06/13/2026 - 14:23:04: [l4d_sm_respawn.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" teleported "[T-T]MoY<2><STEAM_1:0:511491787><>" after respawning him
+L 06/13/2026 - 14:23:04: [l4d_sm_respawn.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" teleported "Beckand<52><STEAM_1:0:429990733><>" after respawning him
+L 06/13/2026 - 14:23:04: [l4d_sm_respawn.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" teleported "Pablo de los Backyardigans<44><STEAM_1:1:782751932><>" after respawning him
+L 06/13/2026 - 14:23:05: [l4d_sm_respawn.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" teleported "HAKUDAL<47><STEAM_1:0:766768045><>" after respawning him
+L 06/13/2026 - 14:23:05: [l4d_sm_respawn.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" teleported "Quebuendoby<31><STEAM_1:1:601841727><>" after respawning him
+L 06/13/2026 - 14:24:45: [l4d2_shop.smx] [UPDATE]: "[T-T]MoY<2><STEAM_1:0:511491787><>" saved. Points: "2098"
+L 06/13/2026 - 14:24:45: [l4d2_shop.smx] UPDATE SpecialFunctions SET isEnabled = 1 WHERE steamId = 'STEAM_1:0:511491787' AND (functionNo = 'GRAY_AMMO' OR functionNo = 'BLUE_AMMO' OR functionNo = 'GOLD_AMMO')
+L 06/13/2026 - 14:24:45: [l4d2_shop.smx] [UPDATE]: "Beckand<52><STEAM_1:0:429990733><>" saved. Points: "24"
+L 06/13/2026 - 14:24:45: [l4d2_shop.smx] [UPDATE]: "Pablo de los Backyardigans<44><STEAM_1:1:782751932><>" saved. Points: "24"
+L 06/13/2026 - 14:24:45: [l4d2_shop.smx] [UPDATE]: "HAKUDAL<47><STEAM_1:0:766768045><>" saved. Points: "24"
+L 06/13/2026 - 14:24:45: [l4d2_shop.smx] [UPDATE]: "Quebuendoby<31><STEAM_1:1:601841727><>" saved. Points: "18681"
+L 06/13/2026 - 14:24:45: [l4d2_shop.smx] [UPDATE]: "Milton LV<85><STEAM_1:1:758293559><>" saved. Points: "14"
+L 06/13/2026 - 14:24:56: [l4d2_shop.smx] [INSERT]: "anny<108><STEAM_1:1:807503506><>" is a new user!!
+L 06/13/2026 - 14:25:15: [l4d_sm_respawn.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" teleported "Beckand<52><STEAM_1:0:429990733><>" after respawning him
+L 06/13/2026 - 14:25:25: [funcommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" froze "Pablo de los Backyardigans<44><STEAM_1:1:782751932><>"
+L 06/13/2026 - 14:25:38: [basevotes.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" initiated a ban vote against "Pablo de los Backyardigans<44><STEAM_1:1:782751932><>"
+L 06/13/2026 - 14:25:58: [basevotes.smx] Vote successful. (Received "75" of 4 votes)
+L 06/13/2026 - 14:25:58: [basevotes.smx] Vote ban successful, banned "Pablo de los Backyardigans" (STEAM_1:1:782751932) (minutes "30") (reason "Votebanned")
+L 06/13/2026 - 14:26:07: [l4d_sm_respawn.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" teleported "[T-T]MoY<2><STEAM_1:0:511491787><>" after respawning him
+L 06/13/2026 - 14:26:07: [l4d_sm_respawn.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" teleported "anny<108><STEAM_1:1:807503506><>" after respawning him
+L 06/13/2026 - 14:26:08: [l4d_sm_respawn.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" teleported "Beckand<52><STEAM_1:0:429990733><>" after respawning him
+L 06/13/2026 - 14:26:08: [l4d_sm_respawn.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" teleported "Milton LV<85><STEAM_1:1:758293559><>" after respawning him
+L 06/13/2026 - 14:26:13: [l4d_sm_respawn.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" teleported "HAKUDAL<47><STEAM_1:0:766768045><>" after respawning him
+L 06/13/2026 - 14:26:40: [l4d2_shop.smx] [Buy]: "Quebuendoby<31><STEAM_1:1:601841727><>" bought "Revivir (Costo actual: 50)" (price: "50"), remaining points: "18631"
+L 06/13/2026 - 14:27:01: [l4d2_shop.smx] [UPDATE]: "[T-T]MoY<2><STEAM_1:0:511491787><>" saved. Points: "2098"
+L 06/13/2026 - 14:27:01: [l4d2_shop.smx] UPDATE SpecialFunctions SET isEnabled = 1 WHERE steamId = 'STEAM_1:0:511491787' AND (functionNo = 'GRAY_AMMO' OR functionNo = 'BLUE_AMMO' OR functionNo = 'GOLD_AMMO')
+L 06/13/2026 - 14:27:01: [l4d2_shop.smx] [UPDATE]: "anny<108><STEAM_1:1:807503506><>" saved. Points: "0"
+L 06/13/2026 - 14:27:01: [l4d2_shop.smx] [UPDATE]: "Beckand<52><STEAM_1:0:429990733><>" saved. Points: "24"
+L 06/13/2026 - 14:27:01: [l4d2_shop.smx] [UPDATE]: "HAKUDAL<47><STEAM_1:0:766768045><>" saved. Points: "24"
+L 06/13/2026 - 14:27:01: [l4d2_shop.smx] [UPDATE]: "Quebuendoby<31><STEAM_1:1:601841727><>" saved. Points: "18631"
+L 06/13/2026 - 14:27:01: [l4d2_shop.smx] [UPDATE]: "Milton LV<85><STEAM_1:1:758293559><>" saved. Points: "14"
+L 06/13/2026 - 14:29:16: [l4d_sm_respawn.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" teleported "[T-T]MoY<2><STEAM_1:0:511491787><>" after respawning him
+L 06/13/2026 - 14:29:16: [l4d_sm_respawn.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" teleported "anny<108><STEAM_1:1:807503506><>" after respawning him
+L 06/13/2026 - 14:29:16: [l4d_sm_respawn.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" teleported "Beckand<52><STEAM_1:0:429990733><>" after respawning him
+L 06/13/2026 - 14:29:17: [l4d_sm_respawn.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" teleported "Quebuendoby<31><STEAM_1:1:601841727><>" after respawning him
+L 06/13/2026 - 14:31:02: [l4d_sm_respawn.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" teleported "[T-T]MoY<2><STEAM_1:0:511491787><>" after respawning him
+L 06/13/2026 - 14:31:03: [l4d_sm_respawn.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" teleported "Beckand<52><STEAM_1:0:429990733><>" after respawning him
+L 06/13/2026 - 14:31:03: [l4d_sm_respawn.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" teleported "HAKUDAL<47><STEAM_1:0:766768045><>" after respawning him
+L 06/13/2026 - 14:31:03: [l4d_sm_respawn.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" teleported "Quebuendoby<31><STEAM_1:1:601841727><>" after respawning him
+L 06/13/2026 - 14:31:03: [l4d_sm_respawn.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" teleported "Milton LV<85><STEAM_1:1:758293559><>" after respawning him
+L 06/13/2026 - 14:33:37: [l4d2_shop.smx] [UPDATE]: "[T-T]MoY<2><STEAM_1:0:511491787><>" saved. Points: "2135"
+L 06/13/2026 - 14:33:37: [l4d2_shop.smx] UPDATE SpecialFunctions SET isEnabled = 1 WHERE steamId = 'STEAM_1:0:511491787' AND (functionNo = 'GRAY_AMMO' OR functionNo = 'BLUE_AMMO' OR functionNo = 'GOLD_AMMO')
+L 06/13/2026 - 14:33:37: [l4d2_shop.smx] [UPDATE]: "anny<108><STEAM_1:1:807503506><>" saved. Points: "36"
+L 06/13/2026 - 14:33:37: [l4d2_shop.smx] [UPDATE]: "HAKUDAL<47><STEAM_1:0:766768045><>" saved. Points: "60"
+L 06/13/2026 - 14:33:37: [l4d2_shop.smx] [UPDATE]: "Quebuendoby<31><STEAM_1:1:601841727><>" saved. Points: "18667"
+L 06/13/2026 - 14:33:37: [l4d2_shop.smx] [UPDATE]: "Milton LV<85><STEAM_1:1:758293559><>" saved. Points: "50"
+L 06/13/2026 - 14:34:07: [l4d2_shop.smx] [LOAD]: "Beckand<141><STEAM_1:0:429990733><>" loaded the record successfully! Points: "24"
+L 06/13/2026 - 14:35:54: [l4d_sm_respawn.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" teleported "[T-T]MoY<2><STEAM_1:0:511491787><>" after respawning him
+L 06/13/2026 - 14:35:54: [l4d_sm_respawn.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" teleported "anny<108><STEAM_1:1:807503506><>" after respawning him
+L 06/13/2026 - 14:35:54: [l4d_sm_respawn.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" teleported "HAKUDAL<47><STEAM_1:0:766768045><>" after respawning him
+L 06/13/2026 - 14:35:55: [l4d_sm_respawn.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" teleported "Quebuendoby<31><STEAM_1:1:601841727><>" after respawning him
+L 06/13/2026 - 14:36:21: [l4d2_shop.smx] [Buy]: "HAKUDAL<47><STEAM_1:0:766768045><>" bought "adrenaline" (price: "43"), remaining points: "21"
+L 06/13/2026 - 14:37:03: [l4d2_shop.smx] [UPDATE]: "[T-T]MoY<2><STEAM_1:0:511491787><>" saved. Points: "2141"
+L 06/13/2026 - 14:37:03: [l4d2_shop.smx] UPDATE SpecialFunctions SET isEnabled = 1 WHERE steamId = 'STEAM_1:0:511491787' AND (functionNo = 'GRAY_AMMO' OR functionNo = 'BLUE_AMMO' OR functionNo = 'GOLD_AMMO')
+L 06/13/2026 - 14:37:03: [l4d2_shop.smx] [UPDATE]: "anny<108><STEAM_1:1:807503506><>" saved. Points: "42"
+L 06/13/2026 - 14:37:03: [l4d2_shop.smx] [UPDATE]: "Beckand<141><STEAM_1:0:429990733><>" saved. Points: "30"
+L 06/13/2026 - 14:37:03: [l4d2_shop.smx] [UPDATE]: "HAKUDAL<47><STEAM_1:0:766768045><>" saved. Points: "23"
+L 06/13/2026 - 14:37:03: [l4d2_shop.smx] [UPDATE]: "Quebuendoby<31><STEAM_1:1:601841727><>" saved. Points: "18673"
+L 06/13/2026 - 14:37:44: [l4d2_shop.smx] [Buy]: "Quebuendoby<31><STEAM_1:1:601841727><>" bought "pipe_bomb" (price: "28"), remaining points: "18645"
+L 06/13/2026 - 14:38:40: [l4d_sm_respawn.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" teleported "[T-T]MoY<2><STEAM_1:0:511491787><>" after respawning him
+L 06/13/2026 - 14:38:40: [l4d_sm_respawn.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" teleported "Beckand<141><STEAM_1:0:429990733><>" after respawning him
+L 06/13/2026 - 14:38:40: [l4d_sm_respawn.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" teleported "HAKUDAL<47><STEAM_1:0:766768045><>" after respawning him
+L 06/13/2026 - 14:38:41: [l4d_sm_respawn.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" teleported "Quebuendoby<31><STEAM_1:1:601841727><>" after respawning him
+L 06/13/2026 - 14:38:53: [l4d2_shop.smx] [Buy]: "Quebuendoby<31><STEAM_1:1:601841727><>" bought "pipe_bomb" (price: "28"), remaining points: "18621"
+L 06/13/2026 - 14:39:46: [l4d2_shop.smx] [UPDATE]: "[T-T]MoY<2><STEAM_1:0:511491787><>" saved. Points: "2145"
+L 06/13/2026 - 14:39:46: [l4d2_shop.smx] UPDATE SpecialFunctions SET isEnabled = 1 WHERE steamId = 'STEAM_1:0:511491787' AND (functionNo = 'GRAY_AMMO' OR functionNo = 'BLUE_AMMO' OR functionNo = 'GOLD_AMMO')
+L 06/13/2026 - 14:39:46: [l4d2_shop.smx] [UPDATE]: "Beckand<141><STEAM_1:0:429990733><>" saved. Points: "34"
+L 06/13/2026 - 14:39:46: [l4d2_shop.smx] [UPDATE]: "HAKUDAL<47><STEAM_1:0:766768045><>" saved. Points: "27"
+L 06/13/2026 - 14:39:46: [l4d2_shop.smx] [UPDATE]: "Quebuendoby<31><STEAM_1:1:601841727><>" saved. Points: "18621"
+L 06/13/2026 - 14:40:12: [l4d2_shop.smx] [Buy]: "Quebuendoby<31><STEAM_1:1:601841727><>" bought "pipe_bomb" (price: "28"), remaining points: "18593"
+L 06/13/2026 - 14:41:34: [l4d_sm_respawn.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" teleported "[T-T]MoY<2><STEAM_1:0:511491787><>" after respawning him
+L 06/13/2026 - 14:41:34: [l4d_sm_respawn.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" teleported "HAKUDAL<47><STEAM_1:0:766768045><>" after respawning him
+L 06/13/2026 - 14:41:34: [l4d_sm_respawn.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" teleported "Quebuendoby<31><STEAM_1:1:601841727><>" after respawning him
+L 06/13/2026 - 14:41:39: [l4d_sm_respawn.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" teleported "Beckand<141><STEAM_1:0:429990733><>" after respawning him
+L 06/13/2026 - 14:42:48: [l4d2_shop.smx] [UPDATE]: "[T-T]MoY<2><STEAM_1:0:511491787><>" saved. Points: "2155"
+L 06/13/2026 - 14:42:48: [l4d2_shop.smx] UPDATE SpecialFunctions SET isEnabled = 1 WHERE steamId = 'STEAM_1:0:511491787' AND (functionNo = 'GRAY_AMMO' OR functionNo = 'BLUE_AMMO' OR functionNo = 'GOLD_AMMO')
+L 06/13/2026 - 14:42:48: [l4d2_shop.smx] [UPDATE]: "Beckand<141><STEAM_1:0:429990733><>" saved. Points: "44"
+L 06/13/2026 - 14:42:48: [l4d2_shop.smx] [UPDATE]: "HAKUDAL<47><STEAM_1:0:766768045><>" saved. Points: "37"
+L 06/13/2026 - 14:42:48: [l4d2_shop.smx] [UPDATE]: "Quebuendoby<31><STEAM_1:1:601841727><>" saved. Points: "18603"
+L 06/13/2026 - 14:44:08: [l4d2_shop.smx] [Buy]: "Quebuendoby<31><STEAM_1:1:601841727><>" bought "pipe_bomb" (price: "28"), remaining points: "18577"
+L 06/13/2026 - 14:44:45: [l4d_sm_respawn.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" teleported "[T-T]MoY<2><STEAM_1:0:511491787><>" after respawning him
+L 06/13/2026 - 14:44:45: [l4d_sm_respawn.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" teleported "HAKUDAL<47><STEAM_1:0:766768045><>" after respawning him
+L 06/13/2026 - 14:44:46: [l4d_sm_respawn.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" teleported "Quebuendoby<31><STEAM_1:1:601841727><>" after respawning him
+L 06/13/2026 - 14:45:31: [l4d_sm_respawn.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" teleported "Beckand<141><STEAM_1:0:429990733><>" after respawning him
+L 06/13/2026 - 14:45:33: [l4d_sm_respawn.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" teleported "[T-T]MoY<2><STEAM_1:0:511491787><>" after respawning him
+L 06/13/2026 - 14:46:31: [l4d_sm_respawn.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" teleported "HAKUDAL<47><STEAM_1:0:766768045><>" after respawning him
+L 06/13/2026 - 14:46:31: [l4d_sm_respawn.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" teleported "Quebuendoby<31><STEAM_1:1:601841727><>" after respawning him
+L 06/13/2026 - 14:47:02: [l4d2_shop.smx] [UPDATE]: "[T-T]MoY<2><STEAM_1:0:511491787><>" saved. Points: "2169"
+L 06/13/2026 - 14:47:02: [l4d2_shop.smx] UPDATE SpecialFunctions SET isEnabled = 1 WHERE steamId = 'STEAM_1:0:511491787' AND (functionNo = 'GRAY_AMMO' OR functionNo = 'BLUE_AMMO' OR functionNo = 'GOLD_AMMO')
+L 06/13/2026 - 14:47:02: [l4d2_shop.smx] [UPDATE]: "Beckand<141><STEAM_1:0:429990733><>" saved. Points: "73"
+L 06/13/2026 - 14:47:02: [l4d2_shop.smx] [UPDATE]: "HAKUDAL<47><STEAM_1:0:766768045><>" saved. Points: "51"
+L 06/13/2026 - 14:47:02: [l4d2_shop.smx] [UPDATE]: "Quebuendoby<31><STEAM_1:1:601841727><>" saved. Points: "18589"
+L 06/13/2026 - 14:48:41: [l4d_sm_respawn.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" teleported "Beckand<141><STEAM_1:0:429990733><>" after respawning him
+L 06/13/2026 - 14:48:41: [l4d_sm_respawn.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" teleported "HAKUDAL<47><STEAM_1:0:766768045><>" after respawning him
+L 06/13/2026 - 14:48:50: [l4d_sm_respawn.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" teleported "Quebuendoby<31><STEAM_1:1:601841727><>" after respawning him
+L 06/13/2026 - 14:49:12: [l4d2_shop.smx] [Buy]: "Quebuendoby<31><STEAM_1:1:601841727><>" bought "pipe_bomb" (price: "28"), remaining points: "18567"
+L 06/13/2026 - 14:49:56: [l4d_sm_respawn.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" teleported "[T-T]MoY<2><STEAM_1:0:511491787><>" after respawning him
+L 06/13/2026 - 14:49:56: [l4d_sm_respawn.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" teleported "HAKUDAL<47><STEAM_1:0:766768045><>" after respawning him
+L 06/13/2026 - 14:49:57: [l4d_sm_respawn.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" teleported "Quebuendoby<31><STEAM_1:1:601841727><>" after respawning him
+L 06/13/2026 - 14:50:02: [l4d_sm_respawn.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" teleported "Beckand<141><STEAM_1:0:429990733><>" after respawning him
+L 06/13/2026 - 14:50:54: [l4d2_shop.smx] [UPDATE]: "[T-T]MoY<2><STEAM_1:0:511491787><>" saved. Points: "2181"
+L 06/13/2026 - 14:50:54: [l4d2_shop.smx] UPDATE SpecialFunctions SET isEnabled = 1 WHERE steamId = 'STEAM_1:0:511491787' AND (functionNo = 'GRAY_AMMO' OR functionNo = 'BLUE_AMMO' OR functionNo = 'GOLD_AMMO')
+L 06/13/2026 - 14:50:54: [l4d2_shop.smx] [UPDATE]: "Beckand<141><STEAM_1:0:429990733><>" saved. Points: "85"
+L 06/13/2026 - 14:50:54: [l4d2_shop.smx] [UPDATE]: "HAKUDAL<47><STEAM_1:0:766768045><>" saved. Points: "63"
+L 06/13/2026 - 14:50:54: [l4d2_shop.smx] [UPDATE]: "Quebuendoby<31><STEAM_1:1:601841727><>" saved. Points: "18573"
+L 06/13/2026 - 14:52:37: [l4d_sm_respawn.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" teleported "[T-T]MoY<2><STEAM_1:0:511491787><>" after respawning him
+L 06/13/2026 - 14:52:38: [l4d_sm_respawn.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" teleported "Beckand<141><STEAM_1:0:429990733><>" after respawning him
+L 06/13/2026 - 14:52:38: [l4d_sm_respawn.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" teleported "HAKUDAL<47><STEAM_1:0:766768045><>" after respawning him
+L 06/13/2026 - 14:54:02: [l4d_sm_respawn.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" teleported "[T-T]MoY<2><STEAM_1:0:511491787><>" after respawning him
+L 06/13/2026 - 14:54:02: [l4d_sm_respawn.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" teleported "Beckand<141><STEAM_1:0:429990733><>" after respawning him
+L 06/13/2026 - 14:54:02: [l4d_sm_respawn.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" teleported "HAKUDAL<47><STEAM_1:0:766768045><>" after respawning him
+L 06/13/2026 - 14:57:00: -------- Mapchange to hls_07 --------
+L 06/13/2026 - 14:57:06: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_consistency") (value "0")
+L 06/13/2026 - 14:57:06: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_allow_lobby_connect_only") (value "0")
+L 06/13/2026 - 14:57:06: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxplayers") (value "8")
+L 06/13/2026 - 14:57:06: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_visiblemaxplayers") (value "-1")
+L 06/13/2026 - 14:57:06: [chat-processor.smx] Message formats generated for game 'left4dead2'.
+L 06/13/2026 - 14:57:06: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 06/13/2026 - 14:57:11: [l4d2_shop.smx] [LOAD]: "[T-T]MoY<2><STEAM_1:0:511491787><>" loaded the record successfully! Points: "2181"
+L 06/13/2026 - 14:57:12: [l4d2_shop.smx] [LOAD]: "Beckand<141><STEAM_1:0:429990733><>" loaded the record successfully! Points: "85"
+L 06/13/2026 - 14:57:15: [l4d2_shop.smx] [LOAD]: "HAKUDAL<47><STEAM_1:0:766768045><>" loaded the record successfully! Points: "63"
+L 06/13/2026 - 14:57:20: [l4d2_shop.smx] [LOAD]: "Quebuendoby<31><STEAM_1:1:601841727><>" loaded the record successfully! Points: "18573"
+L 06/13/2026 - 14:59:48: [l4d_sm_respawn.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" teleported "Rochelle<234><BOT><>" after respawning him
+L 06/13/2026 - 14:59:49: [l4d_sm_respawn.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" teleported "HAKUDAL<47><STEAM_1:0:766768045><>" after respawning him
+L 06/13/2026 - 15:00:31: [l4d_sm_respawn.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" teleported "[T-T]MoY<2><STEAM_1:0:511491787><>" after respawning him
+L 06/13/2026 - 15:00:32: [l4d_sm_respawn.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" teleported "Rochelle<234><BOT><>" after respawning him
+L 06/13/2026 - 15:00:32: [l4d_sm_respawn.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" teleported "HAKUDAL<47><STEAM_1:0:766768045><>" after respawning him
+L 06/13/2026 - 15:00:36: [l4d_sm_respawn.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" teleported "Quebuendoby<31><STEAM_1:1:601841727><>" after respawning him
+L 06/13/2026 - 15:00:55: [l4d2_shop.smx] [Buy]: "Quebuendoby<31><STEAM_1:1:601841727><>" bought "adrenaline" (price: "43"), remaining points: "18546"
+L 06/13/2026 - 15:01:23: [l4d2_shop.smx] [INSERT]: "ZUCUMBIA<241><STEAM_1:1:902048120><>" is a new user!!
+L 06/13/2026 - 15:01:39: [l4d2_shop.smx] [LOAD]: "redwolf<243><STEAM_1:0:659064498><>" loaded the record successfully! Points: "5292"
+L 06/13/2026 - 15:01:59: [l4d_sm_respawn.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" teleported "[T-T]MoY<2><STEAM_1:0:511491787><>" after respawning him
+L 06/13/2026 - 15:01:59: [l4d_sm_respawn.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" teleported "ZUCUMBIA<241><STEAM_1:1:902048120><>" after respawning him
+L 06/13/2026 - 15:03:12: [l4d_sm_respawn.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" teleported "[T-T]MoY<2><STEAM_1:0:511491787><>" after respawning him
+L 06/13/2026 - 15:03:12: [l4d_sm_respawn.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" teleported "HAKUDAL<47><STEAM_1:0:766768045><>" after respawning him
+L 06/13/2026 - 15:03:12: [l4d_sm_respawn.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" teleported "Quebuendoby<31><STEAM_1:1:601841727><>" after respawning him
+L 06/13/2026 - 15:04:27: [l4d_sm_respawn.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" teleported "[T-T]MoY<2><STEAM_1:0:511491787><>" after respawning him
+L 06/13/2026 - 15:04:27: [l4d_sm_respawn.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" teleported "ZUCUMBIA<241><STEAM_1:1:902048120><>" after respawning him
+L 06/13/2026 - 15:04:27: [l4d_sm_respawn.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" teleported "HAKUDAL<47><STEAM_1:0:766768045><>" after respawning him
+L 06/13/2026 - 15:04:30: [l4d2_shop.smx] [Buy]: "Quebuendoby<31><STEAM_1:1:601841727><>" bought "pain_pills" (price: "43"), remaining points: "18521"
+L 06/13/2026 - 15:04:52: [l4d2_shop.smx] [INSERT]: "Ｉｎｍｏ＊<257><STEAM_1:1:557327143><>" is a new user!!
+L 06/13/2026 - 15:06:05: [l4d_sm_respawn.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" teleported "HAKUDAL<47><STEAM_1:0:766768045><>" after respawning him
+L 06/13/2026 - 15:06:05: [l4d_sm_respawn.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" teleported "Ｉｎｍｏ＊<257><STEAM_1:1:557327143><>" after respawning him
+L 06/13/2026 - 15:07:47: [l4d2_shop.smx] [Buy]: "Quebuendoby<31><STEAM_1:1:601841727><>" bought "health" (price: "98"), remaining points: "18433"
+L 06/13/2026 - 15:08:32: [l4d_sm_respawn.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" teleported "[T-T]MoY<2><STEAM_1:0:511491787><>" after respawning him
+L 06/13/2026 - 15:08:32: [l4d_sm_respawn.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" teleported "Ｉｎｍｏ＊<257><STEAM_1:1:557327143><>" after respawning him
+L 06/13/2026 - 15:09:34: [l4d2_shop.smx] [LOAD]: "alexanderdie51<270><STEAM_1:1:636649980><>" loaded the record successfully! Points: "6"
+L 06/13/2026 - 15:10:06: [l4d_sm_respawn.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" teleported "[T-T]MoY<2><STEAM_1:0:511491787><>" after respawning him
+L 06/13/2026 - 15:10:06: [l4d_sm_respawn.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" teleported "ZUCUMBIA<241><STEAM_1:1:902048120><>" after respawning him
+L 06/13/2026 - 15:10:06: [l4d_sm_respawn.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" teleported "HAKUDAL<47><STEAM_1:0:766768045><>" after respawning him
+L 06/13/2026 - 15:10:06: [l4d_sm_respawn.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" teleported "alexanderdie51<270><STEAM_1:1:636649980><>" after respawning him
+L 06/13/2026 - 15:10:06: [l4d_sm_respawn.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" teleported "Nick<275><BOT><>" after respawning him
+L 06/13/2026 - 15:10:10: [l4d2_shop.smx] [INSERT]: "lasi<273><STEAM_1:1:799084465><>" is a new user!!
+L 06/13/2026 - 15:10:34: [l4d2_shop.smx] [Buy]: "HAKUDAL<47><STEAM_1:0:766768045><>" bought "adrenaline" (price: "43"), remaining points: "88"
+L 06/13/2026 - 15:11:33: [l4d_sm_respawn.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" teleported "redwolf<243><STEAM_1:0:659064498><>" after respawning him
+L 06/13/2026 - 15:11:33: [l4d_sm_respawn.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" teleported "Quebuendoby<31><STEAM_1:1:601841727><>" after respawning him
+L 06/13/2026 - 15:11:34: [l4d_sm_respawn.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" teleported "alexanderdie51<270><STEAM_1:1:636649980><>" after respawning him
+L 06/13/2026 - 15:11:48: [l4d2_shop.smx] [Buy]: "Quebuendoby<31><STEAM_1:1:601841727><>" bought "adrenaline" (price: "43"), remaining points: "18426"
+L 06/13/2026 - 15:12:08: [l4d_sm_respawn.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" teleported "[T-T]MoY<2><STEAM_1:0:511491787><>" after respawning him
+L 06/13/2026 - 15:12:08: [l4d_sm_respawn.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" teleported "HAKUDAL<47><STEAM_1:0:766768045><>" after respawning him
+L 06/13/2026 - 15:12:34: [l4d_sm_respawn.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" teleported "redwolf<243><STEAM_1:0:659064498><>" after respawning him
+L 06/13/2026 - 15:12:34: [l4d_sm_respawn.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" teleported "alexanderdie51<270><STEAM_1:1:636649980><>" after respawning him
+L 06/13/2026 - 15:12:52: [l4d_sm_respawn.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" teleported "HAKUDAL<47><STEAM_1:0:766768045><>" after respawning him
+L 06/13/2026 - 15:12:52: [l4d_sm_respawn.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" teleported "Quebuendoby<31><STEAM_1:1:601841727><>" after respawning him
+L 06/13/2026 - 15:12:52: [l4d_sm_respawn.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" teleported "lasi<273><STEAM_1:1:799084465><>" after respawning him
+L 06/13/2026 - 15:13:31: [l4d_sm_respawn.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" teleported "[T-T]MoY<2><STEAM_1:0:511491787><>" after respawning him
+L 06/13/2026 - 15:13:31: [l4d_sm_respawn.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" teleported "alexanderdie51<270><STEAM_1:1:636649980><>" after respawning him
+L 06/13/2026 - 15:13:36: [l4d_sm_respawn.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" teleported "HAKUDAL<47><STEAM_1:0:766768045><>" after respawning him
+L 06/13/2026 - 15:14:28: [l4d_sm_respawn.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" teleported "redwolf<243><STEAM_1:0:659064498><>" after respawning him
+L 06/13/2026 - 15:14:29: [l4d_sm_respawn.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" teleported "HAKUDAL<47><STEAM_1:0:766768045><>" after respawning him
+L 06/13/2026 - 15:14:29: [l4d_sm_respawn.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" teleported "Quebuendoby<31><STEAM_1:1:601841727><>" after respawning him
+L 06/13/2026 - 15:14:29: [l4d_sm_respawn.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" teleported "alexanderdie51<270><STEAM_1:1:636649980><>" after respawning him
+L 06/13/2026 - 15:14:51: [l4d2_shop.smx] [INSERT]: "tony78ar<292><STEAM_1:1:21726164><>" is a new user!!
+L 06/13/2026 - 15:16:03: [l4d2_shop.smx] [INSERT]: "iSyndicateee<296><STEAM_1:1:657780719><>" is a new user!!
+L 06/13/2026 - 15:16:07: -------- Mapchange to hls_09 --------
+L 06/13/2026 - 15:16:12: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_consistency") (value "0")
+L 06/13/2026 - 15:16:12: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_allow_lobby_connect_only") (value "0")
+L 06/13/2026 - 15:16:12: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxplayers") (value "8")
+L 06/13/2026 - 15:16:12: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_visiblemaxplayers") (value "-1")
+L 06/13/2026 - 15:16:12: [chat-processor.smx] Message formats generated for game 'left4dead2'.
+L 06/13/2026 - 15:16:12: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 06/13/2026 - 15:16:17: [l4d2_shop.smx] [LOAD]: "[T-T]MoY<2><STEAM_1:0:511491787><>" loaded the record successfully! Points: "2181"
+L 06/13/2026 - 15:16:18: [l4d2_shop.smx] [LOAD]: "redwolf<243><STEAM_1:0:659064498><>" loaded the record successfully! Points: "5292"
+L 06/13/2026 - 15:16:19: [l4d2_shop.smx] [LOAD]: "alexanderdie51<270><STEAM_1:1:636649980><>" loaded the record successfully! Points: "6"
+L 06/13/2026 - 15:16:20: [l4d2_shop.smx] [LOAD]: "HAKUDAL<47><STEAM_1:0:766768045><>" loaded the record successfully! Points: "63"
+L 06/13/2026 - 15:16:21: [l4d2_shop.smx] [LOAD]: "lasi<273><STEAM_1:1:799084465><>" loaded the record successfully! Points: "0"
+L 06/13/2026 - 15:16:23: [l4d2_shop.smx] [LOAD]: "tony78ar<292><STEAM_1:1:21726164><>" loaded the record successfully! Points: "0"
+L 06/13/2026 - 15:16:24: [l4d2_shop.smx] [LOAD]: "Quebuendoby<31><STEAM_1:1:601841727><>" loaded the record successfully! Points: "18573"
+L 06/13/2026 - 15:17:03: [l4d2_shop.smx] [LOAD]: "iSyndicateee<304><STEAM_1:1:657780719><>" loaded the record successfully! Points: "0"
+L 06/13/2026 - 15:17:31: [l4d_sm_respawn.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" teleported "[T-T]MoY<2><STEAM_1:0:511491787><>" after respawning him
+L 06/13/2026 - 15:17:31: [l4d_sm_respawn.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" teleported "alexanderdie51<270><STEAM_1:1:636649980><>" after respawning him
+L 06/13/2026 - 15:18:19: [l4d_sm_respawn.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" teleported "[T-T]MoY<2><STEAM_1:0:511491787><>" after respawning him
+L 06/13/2026 - 15:18:19: [l4d_sm_respawn.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" teleported "redwolf<243><STEAM_1:0:659064498><>" after respawning him
+L 06/13/2026 - 15:18:19: [l4d_sm_respawn.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" teleported "alexanderdie51<270><STEAM_1:1:636649980><>" after respawning him
+L 06/13/2026 - 15:18:39: [l4d_sm_respawn.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" teleported "Quebuendoby<31><STEAM_1:1:601841727><>" after respawning him
+L 06/13/2026 - 15:18:39: [l4d_sm_respawn.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" teleported "tony78ar<292><STEAM_1:1:21726164><>" after respawning him
+L 06/13/2026 - 15:19:26: [l4d_sm_respawn.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" teleported "iSyndicateee<304><STEAM_1:1:657780719><>" after respawning him
+L 06/13/2026 - 15:19:28: [l4d_sm_respawn.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" teleported "HAKUDAL<47><STEAM_1:0:766768045><>" after respawning him
+L 06/13/2026 - 15:19:28: [l4d_sm_respawn.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" teleported "Quebuendoby<31><STEAM_1:1:601841727><>" after respawning him
+L 06/13/2026 - 15:20:02: [l4d_sm_respawn.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" teleported "alexanderdie51<270><STEAM_1:1:636649980><>" after respawning him
+L 06/13/2026 - 15:20:02: [l4d_sm_respawn.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" teleported "lasi<273><STEAM_1:1:799084465><>" after respawning him
+L 06/13/2026 - 15:20:47: [l4d_sm_respawn.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" teleported "iSyndicateee<304><STEAM_1:1:657780719><>" after respawning him
+L 06/13/2026 - 15:20:48: [l4d_sm_respawn.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" teleported "tony78ar<292><STEAM_1:1:21726164><>" after respawning him
+L 06/13/2026 - 15:21:03: [l4d_sm_respawn.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" teleported "iSyndicateee<304><STEAM_1:1:657780719><>" after respawning him
+L 06/13/2026 - 15:21:48: [l4d_sm_respawn.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" teleported "tony78ar<292><STEAM_1:1:21726164><>" after respawning him
+L 06/13/2026 - 15:22:37: [l4d_sm_respawn.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" teleported "[T-T]MoY<2><STEAM_1:0:511491787><>" after respawning him
+L 06/13/2026 - 15:22:37: [l4d_sm_respawn.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" teleported "tony78ar<292><STEAM_1:1:21726164><>" after respawning him
+L 06/13/2026 - 15:22:42: [l4d_sm_respawn.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" teleported "redwolf<243><STEAM_1:0:659064498><>" after respawning him
+L 06/13/2026 - 20:35:52: SourceMod log file session started (file "d:\steamlibrary\steamapps\common\left 4 dead 2\left4dead2\addons\sourcemod\logs\L20260613.log") (Version "1.12.0.7207")
+L 06/13/2026 - 20:35:52: [GEOIP] GeoIP2 database loaded: GeoLite2-ASN (2024-08-21 08:15:21 UTC) (d:\steamlibrary\steamapps\common\left 4 dead 2\left4dead2\addons\sourcemod\configs\geoip\GeoLite2-ASN.mmdb)
+L 06/13/2026 - 20:35:52: [GEOIP] GeoIP2 supported languages: en
+L 06/13/2026 - 20:35:52: [GEOIP] Your database is older than 90 days. You should consider downloading a newer version from e.g. https://dev.maxmind.com/geoip/geolite2-free-geolocation-data
+L 06/13/2026 - 20:35:52: [l4d2_map_rotation.smx] [Rotation] Lista cargada con 5 campañas.
+L 06/13/2026 - 20:35:54: [l4d_extinguisher.smx] 
+==========
+Warning: You should install "[L4D2] Scavenge Score Fix - Gascan Pouring" to prevent affecting the score when filling gas in Scavenge style events: https://forums.alliedmods.net/showthread.php?t=187686
+==========
+
+L 06/13/2026 - 20:35:54: [l4d_extinguisher.smx] 
+==========
+Warning: You should install "[L4D & L4D2] Use Priority Patch" to fix attached models blocking +USE action: https://forums.alliedmods.net/showthread.php?t=327511
+==========
+
+L 06/13/2026 - 20:36:09: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_consistency") (value "0")
+L 06/13/2026 - 20:36:09: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_allow_lobby_connect_only") (value "0")
+L 06/13/2026 - 20:36:09: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxplayers") (value "8")
+L 06/13/2026 - 20:36:09: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_visiblemaxplayers") (value "-1")
+L 06/13/2026 - 20:36:09: [chat-processor.smx] Message formats generated for game 'left4dead2'.
+L 06/13/2026 - 20:36:09: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 06/13/2026 - 20:36:20: [l4d2_shop.smx] [LOAD]: "[T-T]MoY<2><STEAM_1:0:511491787><>" loaded the record successfully! Points: "2181"
+L 06/13/2026 - 20:36:31: [basecommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" changed cvar (cvar "sv_gravity") (value "200")
+L 06/13/2026 - 20:37:50: [l4d2_shop.smx] [UPDATE]: "[T-T]MoY<2><STEAM_1:0:511491787><>" saved. Points: "2181"
+L 06/13/2026 - 20:37:50: [l4d2_shop.smx] UPDATE SpecialFunctions SET isEnabled = 1 WHERE steamId = 'STEAM_1:0:511491787' AND (functionNo = 'GRAY_AMMO' OR functionNo = 'BLUE_AMMO' OR functionNo = 'GOLD_AMMO')
+L 06/13/2026 - 20:40:19: [l4d2_shop.smx] [UPDATE]: "[T-T]MoY<2><STEAM_1:0:511491787><>" saved. Points: "2184"
+L 06/13/2026 - 20:40:19: [l4d2_shop.smx] UPDATE SpecialFunctions SET isEnabled = 1 WHERE steamId = 'STEAM_1:0:511491787' AND (functionNo = 'GRAY_AMMO' OR functionNo = 'BLUE_AMMO' OR functionNo = 'GOLD_AMMO')
+L 06/13/2026 - 20:41:54: [l4d2_shop.smx] [UPDATE]: "[T-T]MoY<2><STEAM_1:0:511491787><>" saved. Points: "2184"
+L 06/13/2026 - 20:41:54: [l4d2_shop.smx] UPDATE SpecialFunctions SET isEnabled = 1 WHERE steamId = 'STEAM_1:0:511491787' AND (functionNo = 'GRAY_AMMO' OR functionNo = 'BLUE_AMMO' OR functionNo = 'GOLD_AMMO')
+L 06/13/2026 - 20:45:19: [l4d2_shop.smx] [UPDATE]: "[T-T]MoY<2><STEAM_1:0:511491787><>" saved. Points: "2195"
+L 06/13/2026 - 20:45:19: [l4d2_shop.smx] UPDATE SpecialFunctions SET isEnabled = 1 WHERE steamId = 'STEAM_1:0:511491787' AND (functionNo = 'GRAY_AMMO' OR functionNo = 'BLUE_AMMO' OR functionNo = 'GOLD_AMMO')
+L 06/13/2026 - 20:49:50: [l4d2_shop.smx] [LOAD]: "Fredo<37><STEAM_1:0:42015651><>" loaded the record successfully! Points: "65"
+L 06/13/2026 - 20:50:00: [l4d_sm_respawn.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" teleported "Fredo<37><STEAM_1:0:42015651><>" after respawning him
+L 06/13/2026 - 20:50:51: [l4d_sm_respawn.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" teleported "Fredo<37><STEAM_1:0:42015651><>" after respawning him
+L 06/13/2026 - 20:51:22: [l4d2_shop.smx] [UPDATE]: "[T-T]MoY<2><STEAM_1:0:511491787><>" saved. Points: "2215"
+L 06/13/2026 - 20:51:22: [l4d2_shop.smx] UPDATE SpecialFunctions SET isEnabled = 1 WHERE steamId = 'STEAM_1:0:511491787' AND (functionNo = 'GRAY_AMMO' OR functionNo = 'BLUE_AMMO' OR functionNo = 'GOLD_AMMO')
+L 06/13/2026 - 20:51:22: [l4d2_shop.smx] [UPDATE]: "Fredo<37><STEAM_1:0:42015651><>" saved. Points: "71"
+L 06/13/2026 - 20:52:13: [l4d2_shop.smx] [INSERT]: "DELKER ☭<43><STEAM_1:0:449484431><>" is a new user!!
+L 06/13/2026 - 20:52:17: [l4d2_shop.smx] [INSERT]: "king Nasir<45><STEAM_1:0:410532266><>" is a new user!!
+L 06/13/2026 - 20:52:30: [l4d_sm_respawn.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" teleported "DELKER ☭<43><STEAM_1:0:449484431><>" after respawning him
+L 06/13/2026 - 20:52:30: [l4d_sm_respawn.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" teleported "king Nasir<45><STEAM_1:0:410532266><>" after respawning him
+L 06/13/2026 - 20:55:20: [l4d_sm_respawn.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" teleported "DELKER ☭<43><STEAM_1:0:449484431><>" after respawning him
+L 06/13/2026 - 20:55:21: [l4d_sm_respawn.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" teleported "king Nasir<45><STEAM_1:0:410532266><>" after respawning him
+L 06/13/2026 - 20:55:21: [l4d_sm_respawn.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" teleported "Fredo<37><STEAM_1:0:42015651><>" after respawning him
+L 06/13/2026 - 20:57:13: [l4d2_shop.smx] [UPDATE]: "[T-T]MoY<2><STEAM_1:0:511491787><>" saved. Points: "2231"
+L 06/13/2026 - 20:57:13: [l4d2_shop.smx] UPDATE SpecialFunctions SET isEnabled = 1 WHERE steamId = 'STEAM_1:0:511491787' AND (functionNo = 'GRAY_AMMO' OR functionNo = 'BLUE_AMMO' OR functionNo = 'GOLD_AMMO')
+L 06/13/2026 - 20:57:13: [l4d2_shop.smx] [UPDATE]: "DELKER ☭<43><STEAM_1:0:449484431><>" saved. Points: "25"
+L 06/13/2026 - 20:57:13: [l4d2_shop.smx] [UPDATE]: "king Nasir<45><STEAM_1:0:410532266><>" saved. Points: "19"
+L 06/13/2026 - 20:57:13: [l4d2_shop.smx] [UPDATE]: "Fredo<37><STEAM_1:0:42015651><>" saved. Points: "87"
+L 06/13/2026 - 20:57:42: [l4d2_shop.smx] [UPDATE]: "DELKER ☭<43><STEAM_1:0:449484431><>" saved. Points: "1025"
+L 06/13/2026 - 20:57:42: [l4d2_shop.smx] [Admin]: "[T-T]MoY<2><STEAM_1:0:511491787><>" rewarded "1000" points for "DELKER ☭<43><STEAM_1:0:449484431><>" (current: "1025")
+L 06/13/2026 - 20:57:42: [l4d2_shop.smx] [Buy]: "DELKER ☭<43><STEAM_1:0:449484431><>" bought "GOLD_AMMO (1 Ronda)" (price: "600"), remaining points: "425"
+L 06/13/2026 - 20:57:42: [l4d2_shop.smx] [UPDATE]: "king Nasir<45><STEAM_1:0:410532266><>" saved. Points: "1019"
+L 06/13/2026 - 20:57:42: [l4d2_shop.smx] [Admin]: "[T-T]MoY<2><STEAM_1:0:511491787><>" rewarded "1000" points for "king Nasir<45><STEAM_1:0:410532266><>" (current: "1019")
+L 06/13/2026 - 20:57:43: [l4d2_shop.smx] [UPDATE]: "Fredo<37><STEAM_1:0:42015651><>" saved. Points: "1087"
+L 06/13/2026 - 20:57:43: [l4d2_shop.smx] [Admin]: "[T-T]MoY<2><STEAM_1:0:511491787><>" rewarded "1000" points for "Fredo<37><STEAM_1:0:42015651><>" (current: "1087")
+L 06/13/2026 - 20:59:00: [l4d2_shop.smx] [Buy]: "king Nasir<45><STEAM_1:0:410532266><>" bought "adrenaline" (price: "43"), remaining points: "976"
+L 06/13/2026 - 20:59:12: [l4d2_shop.smx] [Buy]: "Fredo<37><STEAM_1:0:42015651><>" bought "adrenaline" (price: "43"), remaining points: "1044"
+L 06/13/2026 - 20:59:29: [l4d2_shop.smx] [INSERT]: "nccmarxperu<65><STEAM_1:0:821302253><>" is a new user!!
+L 06/13/2026 - 20:59:40: [l4d2_shop.smx] [Buy]: "king Nasir<45><STEAM_1:0:410532266><>" bought "Revivir (Costo actual: 50)" (price: "50"), remaining points: "926"
+L 06/13/2026 - 21:00:02: [l4d2_shop.smx] [INSERT]: "KONATA CDDDD<67><STEAM_1:0:637620390><>" is a new user!!
+L 06/13/2026 - 21:00:39: [l4d2_shop.smx] [Buy]: "Fredo<37><STEAM_1:0:42015651><>" bought "molotov" (price: "28"), remaining points: "1016"
+L 06/13/2026 - 21:00:53: [l4d_sm_respawn.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" teleported "nccmarxperu<65><STEAM_1:0:821302253><>" after respawning him
+L 06/13/2026 - 21:01:13: [l4d2_shop.smx] [Buy]: "Fredo<37><STEAM_1:0:42015651><>" bought "Revivir (Costo actual: 50)" (price: "50"), remaining points: "966"
+L 06/13/2026 - 21:01:24: [l4d2_shop.smx] [UPDATE]: "nccmarxperu<65><STEAM_1:0:821302253><>" saved. Points: "1000"
+L 06/13/2026 - 21:01:24: [l4d2_shop.smx] [Admin]: "[T-T]MoY<2><STEAM_1:0:511491787><>" rewarded "1000" points for "nccmarxperu<65><STEAM_1:0:821302253><>" (current: "1000")
+L 06/13/2026 - 21:01:25: [l4d2_shop.smx] [UPDATE]: "Fredo<37><STEAM_1:0:42015651><>" saved. Points: "1966"
+L 06/13/2026 - 21:01:25: [l4d2_shop.smx] [Admin]: "[T-T]MoY<2><STEAM_1:0:511491787><>" rewarded "1000" points for "Fredo<37><STEAM_1:0:42015651><>" (current: "1966")
+L 06/13/2026 - 21:01:26: [l4d2_shop.smx] [Buy]: "king Nasir<45><STEAM_1:0:410532266><>" bought "Revivir (Costo actual: 150)" (price: "150"), remaining points: "776"
+L 06/13/2026 - 21:01:27: [l4d2_shop.smx] [UPDATE]: "KONATA CDDDD<67><STEAM_1:0:637620390><>" saved. Points: "1000"
+L 06/13/2026 - 21:01:27: [l4d2_shop.smx] [Admin]: "[T-T]MoY<2><STEAM_1:0:511491787><>" rewarded "1000" points for "KONATA CDDDD<67><STEAM_1:0:637620390><>" (current: "1000")
+L 06/13/2026 - 21:01:32: [l4d2_shop.smx] [Buy]: "Fredo<37><STEAM_1:0:42015651><>" bought "molotov" (price: "28"), remaining points: "1938"
+L 06/13/2026 - 21:01:51: [l4d2_shop.smx] [Buy]: "Fredo<37><STEAM_1:0:42015651><>" bought "molotov" (price: "28"), remaining points: "1918"
+L 06/13/2026 - 21:02:23: [l4d2_shop.smx] [Buy]: "Fredo<37><STEAM_1:0:42015651><>" bought "molotov" (price: "28"), remaining points: "1900"
+L 06/13/2026 - 21:02:38: [l4d2_shop.smx] [Buy]: "DELKER ☭<43><STEAM_1:0:449484431><>" bought "Revivir (Costo actual: 50)" (price: "50"), remaining points: "383"
+L 06/13/2026 - 21:02:41: [l4d2_shop.smx] [Buy]: "Fredo<37><STEAM_1:0:42015651><>" bought "adrenaline" (price: "43"), remaining points: "1859"
+L 06/13/2026 - 21:03:04: [l4d2_shop.smx] [INSERT]: "EndiihZ<75><STEAM_1:0:454099782><>" is a new user!!
+L 06/13/2026 - 21:03:07: [l4d2_shop.smx] [Buy]: "king Nasir<45><STEAM_1:0:410532266><>" bought "Revivir (Costo actual: 250)" (price: "250"), remaining points: "557"
+L 06/13/2026 - 21:03:18: [l4d_sm_respawn.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" teleported "nccmarxperu<65><STEAM_1:0:821302253><>" after respawning him
+L 06/13/2026 - 21:03:50: [l4d2_shop.smx] [Buy]: "Fredo<37><STEAM_1:0:42015651><>" bought "molotov" (price: "28"), remaining points: "1846"
+L 06/13/2026 - 21:04:11: [l4d2_shop.smx] [Buy]: "Fredo<37><STEAM_1:0:42015651><>" bought "adrenaline" (price: "43"), remaining points: "1808"
+L 06/13/2026 - 21:04:56: [l4d2_shop.smx] [Buy]: "king Nasir<45><STEAM_1:0:410532266><>" bought "molotov" (price: "28"), remaining points: "544"
+L 06/13/2026 - 21:05:01: [l4d2_shop.smx] [Buy]: "[T-T]MoY<2><STEAM_1:0:511491787><>" bought "Revivir (Costo actual: 50)" (price: "50"), remaining points: "2209"
+L 06/13/2026 - 21:05:11: [l4d2_shop.smx] [Buy]: "Fredo<37><STEAM_1:0:42015651><>" bought "Revivir (Costo actual: 150)" (price: "150"), remaining points: "1668"
+L 06/13/2026 - 21:05:33: -------- Mapchange to hls_11 --------
+L 06/13/2026 - 21:05:40: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_consistency") (value "0")
+L 06/13/2026 - 21:05:40: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_allow_lobby_connect_only") (value "0")
+L 06/13/2026 - 21:05:40: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxplayers") (value "8")
+L 06/13/2026 - 21:05:40: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_visiblemaxplayers") (value "-1")
+L 06/13/2026 - 21:05:40: [chat-processor.smx] Message formats generated for game 'left4dead2'.
+L 06/13/2026 - 21:05:40: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 06/13/2026 - 21:05:46: [l4d2_shop.smx] [LOAD]: "[T-T]MoY<2><STEAM_1:0:511491787><>" loaded the record successfully! Points: "2231"
+L 06/13/2026 - 21:05:47: [l4d2_shop.smx] [LOAD]: "king Nasir<45><STEAM_1:0:410532266><>" loaded the record successfully! Points: "1019"
+L 06/13/2026 - 21:05:48: [l4d2_shop.smx] [LOAD]: "nccmarxperu<65><STEAM_1:0:821302253><>" loaded the record successfully! Points: "1000"
+L 06/13/2026 - 21:05:48: [l4d2_shop.smx] [LOAD]: "Fredo<37><STEAM_1:0:42015651><>" loaded the record successfully! Points: "1966"
+L 06/13/2026 - 21:05:49: [l4d2_shop.smx] [LOAD]: "EndiihZ<75><STEAM_1:0:454099782><>" loaded the record successfully! Points: "0"
+L 06/13/2026 - 21:05:59: [l4d2_shop.smx] [LOAD]: "DELKER ☭<43><STEAM_1:0:449484431><>" loaded the record successfully! Points: "1025"
+L 06/13/2026 - 21:05:59: [l4d2_shop.smx] [LOAD]: "KONATA CDDDD<67><STEAM_1:0:637620390><>" loaded the record successfully! Points: "1000"
+L 06/13/2026 - 21:06:04: [l4d2_shop.smx] [Buy]: "Fredo<37><STEAM_1:0:42015651><>" bought "molotov" (price: "28"), remaining points: "1938"
+L 06/13/2026 - 21:06:24: [l4d2_shop.smx] [Buy]: "Fredo<37><STEAM_1:0:42015651><>" bought "Revivir (Costo actual: 50)" (price: "50"), remaining points: "1888"
+L 06/13/2026 - 21:06:26: [l4d2_shop.smx] [Buy]: "king Nasir<45><STEAM_1:0:410532266><>" bought "Revivir (Costo actual: 50)" (price: "50"), remaining points: "969"
+L 06/13/2026 - 21:06:42: [l4d2_shop.smx] [Buy]: "Fredo<37><STEAM_1:0:42015651><>" bought "Revivir (Costo actual: 150)" (price: "150"), remaining points: "1740"
+L 06/13/2026 - 21:06:43: [l4d_sm_respawn.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" teleported "nccmarxperu<65><STEAM_1:0:821302253><>" after respawning him
+L 06/13/2026 - 21:06:51: [l4d2_shop.smx] [Buy]: "DELKER ☭<43><STEAM_1:0:449484431><>" bought "Revivir (Costo actual: 50)" (price: "50"), remaining points: "977"
+L 06/13/2026 - 21:07:17: [l4d2_shop.smx] [Buy]: "Fredo<37><STEAM_1:0:42015651><>" bought "Revivir (Costo actual: 250)" (price: "250"), remaining points: "1490"
+L 06/13/2026 - 21:07:30: [l4d2_shop.smx] [Buy]: "king Nasir<45><STEAM_1:0:410532266><>" bought "Revivir (Costo actual: 150)" (price: "150"), remaining points: "825"
+L 06/13/2026 - 21:07:58: [l4d2_shop.smx] [Buy]: "[T-T]MoY<2><STEAM_1:0:511491787><>" bought "Revivir (Costo actual: 50)" (price: "50"), remaining points: "2187"
+L 06/13/2026 - 21:09:06: [l4d2_shop.smx] [Buy]: "Fredo<37><STEAM_1:0:42015651><>" bought "molotov" (price: "28"), remaining points: "1475"
+L 06/13/2026 - 21:09:23: [l4d2_shop.smx] [Buy]: "Fredo<37><STEAM_1:0:42015651><>" bought "molotov" (price: "28"), remaining points: "1450"
+L 06/13/2026 - 21:09:27: [l4d2_shop.smx] [Buy]: "DELKER ☭<43><STEAM_1:0:449484431><>" bought "Revivir (Costo actual: 150)" (price: "150"), remaining points: "835"
+L 06/13/2026 - 21:09:30: [l4d2_shop.smx] [Buy]: "[T-T]MoY<2><STEAM_1:0:511491787><>" bought "Revivir (Costo actual: 150)" (price: "150"), remaining points: "2041"
+L 06/13/2026 - 21:09:31: [l4d2_shop.smx] [INSERT]: "Pedro Castillo<104><STEAM_1:1:396362340><>" is a new user!!
+L 06/13/2026 - 21:09:38: [l4d2_shop.smx] [Buy]: "DELKER ☭<43><STEAM_1:0:449484431><>" bought "Revivir (Costo actual: 250)" (price: "250"), remaining points: "585"
+L 06/13/2026 - 21:09:43: [l4d2_shop.smx] [Buy]: "Fredo<37><STEAM_1:0:42015651><>" bought "vomitjar" (price: "28"), remaining points: "1442"
+L 06/13/2026 - 21:10:17: [l4d2_shop.smx] [Buy]: "Fredo<37><STEAM_1:0:42015651><>" bought "first_aid_kit" (price: "88"), remaining points: "1368"
+L 06/13/2026 - 21:10:39: [l4d_sm_respawn.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" teleported "EndiihZ<75><STEAM_1:0:454099782><>" after respawning him
+L 06/13/2026 - 21:10:39: [l4d_sm_respawn.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" teleported "nccmarxperu<65><STEAM_1:0:821302253><>" after respawning him
+L 06/13/2026 - 21:10:39: [l4d_sm_respawn.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" teleported "KONATA CDDDD<67><STEAM_1:0:637620390><>" after respawning him
+L 06/13/2026 - 21:11:24: [l4d2_shop.smx] [Buy]: "Fredo<37><STEAM_1:0:42015651><>" bought "Revivir (Costo actual: 350)" (price: "350"), remaining points: "1018"
+L 06/13/2026 - 21:11:44: [l4d2_shop.smx] [Buy]: "king Nasir<45><STEAM_1:0:410532266><>" bought "Revivir (Costo actual: 250)" (price: "250"), remaining points: "597"
+L 06/13/2026 - 21:12:57: [l4d2_shop.smx] [Buy]: "Fredo<37><STEAM_1:0:42015651><>" bought "molotov" (price: "28"), remaining points: "1000"
+L 06/13/2026 - 21:13:10: [l4d2_shop.smx] [Buy]: "Fredo<37><STEAM_1:0:42015651><>" bought "molotov" (price: "28"), remaining points: "975"
+L 06/13/2026 - 21:13:40: [l4d2_shop.smx] [Buy]: "Fredo<37><STEAM_1:0:42015651><>" bought "Revivir (Costo actual: 450)" (price: "450"), remaining points: "545"
+L 06/13/2026 - 21:14:32: [l4d2_shop.smx] [Buy]: "Fredo<37><STEAM_1:0:42015651><>" bought "Revivir (Costo actual: 550)" (price: "550"), remaining points: "8"
+L 06/13/2026 - 21:14:47: [l4d2_shop.smx] [Buy]: "[T-T]MoY<2><STEAM_1:0:511491787><>" bought "extinguisher" (price: "40"), remaining points: "2045"
+L 06/13/2026 - 21:15:41: -------- Mapchange to hls_12 --------
+L 06/13/2026 - 21:15:46: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_consistency") (value "0")
+L 06/13/2026 - 21:15:46: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_allow_lobby_connect_only") (value "0")
+L 06/13/2026 - 21:15:46: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxplayers") (value "8")
+L 06/13/2026 - 21:15:46: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_visiblemaxplayers") (value "-1")
+L 06/13/2026 - 21:15:46: [chat-processor.smx] Message formats generated for game 'left4dead2'.
+L 06/13/2026 - 21:15:46: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 06/13/2026 - 21:15:51: [l4d2_shop.smx] [LOAD]: "[T-T]MoY<2><STEAM_1:0:511491787><>" loaded the record successfully! Points: "2231"
+L 06/13/2026 - 21:15:54: [l4d2_shop.smx] [LOAD]: "Fredo<37><STEAM_1:0:42015651><>" loaded the record successfully! Points: "1966"
+L 06/13/2026 - 21:15:55: [l4d2_shop.smx] [LOAD]: "EndiihZ<75><STEAM_1:0:454099782><>" loaded the record successfully! Points: "0"
+L 06/13/2026 - 21:15:56: [l4d2_shop.smx] [LOAD]: "king Nasir<45><STEAM_1:0:410532266><>" loaded the record successfully! Points: "1019"
+L 06/13/2026 - 21:16:05: [l4d2_shop.smx] [LOAD]: "DELKER ☭<43><STEAM_1:0:449484431><>" loaded the record successfully! Points: "1025"
+L 06/13/2026 - 21:16:06: [l4d2_shop.smx] [LOAD]: "KONATA CDDDD<67><STEAM_1:0:637620390><>" loaded the record successfully! Points: "1000"
+L 06/13/2026 - 21:16:38: [l4d2_shop.smx] [Buy]: "Fredo<37><STEAM_1:0:42015651><>" bought "Revivir (Costo actual: 50)" (price: "50"), remaining points: "1916"
+L 06/13/2026 - 21:17:11: [l4d2_shop.smx] [Buy]: "king Nasir<45><STEAM_1:0:410532266><>" bought "pain_pills" (price: "43"), remaining points: "978"
+L 06/13/2026 - 21:17:27: [l4d2_shop.smx] [Buy]: "Fredo<37><STEAM_1:0:42015651><>" bought "molotov" (price: "28"), remaining points: "1890"
+L 06/13/2026 - 21:18:19: [l4d2_shop.smx] [Buy]: "king Nasir<45><STEAM_1:0:410532266><>" bought "Revivir (Costo actual: 50)" (price: "50"), remaining points: "934"
+L 06/13/2026 - 21:19:18: [l4d2_shop.smx] [Buy]: "Fredo<37><STEAM_1:0:42015651><>" bought "Revivir (Costo actual: 150)" (price: "150"), remaining points: "1773"
+L 06/13/2026 - 21:20:18: [l4d2_shop.smx] [Buy]: "DELKER ☭<43><STEAM_1:0:449484431><>" bought "Revivir (Costo actual: 50)" (price: "50"), remaining points: "999"
+L 06/13/2026 - 21:21:18: [l4d2_shop.smx] [Buy]: "Fredo<37><STEAM_1:0:42015651><>" bought "first_aid_kit" (price: "88"), remaining points: "1701"
+L 06/13/2026 - 21:23:00: [l4d2_shop.smx] [Buy]: "DELKER ☭<43><STEAM_1:0:449484431><>" bought "Revivir (Costo actual: 150)" (price: "150"), remaining points: "871"
+L 06/13/2026 - 21:23:10: [l4d2_shop.smx] [Buy]: "[T-T]MoY<2><STEAM_1:0:511491787><>" bought "Revivir (Costo actual: 50)" (price: "50"), remaining points: "2227"
+L 06/13/2026 - 21:23:21: [l4d2_shop.smx] [Buy]: "[T-T]MoY<2><STEAM_1:0:511491787><>" bought "Revivir (Costo actual: 150)" (price: "150"), remaining points: "2077"
+L 06/13/2026 - 21:23:26: [l4d2_shop.smx] [Buy]: "DELKER ☭<43><STEAM_1:0:449484431><>" bought "Revivir (Costo actual: 250)" (price: "250"), remaining points: "621"
+L 06/13/2026 - 21:24:10: [l4d2_shop.smx] [Buy]: "Fredo<37><STEAM_1:0:42015651><>" bought "Revivir (Costo actual: 250)" (price: "250"), remaining points: "1478"
+L 06/13/2026 - 21:24:31: [l4d2_shop.smx] [Buy]: "[T-T]MoY<2><STEAM_1:0:511491787><>" bought "extinguisher" (price: "40"), remaining points: "2045"
+L 06/13/2026 - 21:24:36: [l4d2_shop.smx] [Buy]: "KONATA CDDDD<67><STEAM_1:0:637620390><>" bought "Revivir (Costo actual: 50)" (price: "50"), remaining points: "1004"
+L 06/13/2026 - 21:24:44: [l4d2_shop.smx] [Buy]: "Fredo<37><STEAM_1:0:42015651><>" bought "Revivir (Costo actual: 250)" (price: "250"), remaining points: "1234"
+L 06/13/2026 - 21:24:47: [l4d2_shop.smx] [Buy]: "king Nasir<45><STEAM_1:0:410532266><>" bought "extinguisher" (price: "40"), remaining points: "943"
+L 06/13/2026 - 21:25:04: [l4d2_shop.smx] [Buy]: "KONATA CDDDD<67><STEAM_1:0:637620390><>" bought "Revivir (Costo actual: 150)" (price: "150"), remaining points: "856"
+L 06/13/2026 - 21:25:43: -------- Mapchange to hls_13 --------
+L 06/13/2026 - 21:25:48: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_consistency") (value "0")
+L 06/13/2026 - 21:25:48: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_allow_lobby_connect_only") (value "0")
+L 06/13/2026 - 21:25:48: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxplayers") (value "8")
+L 06/13/2026 - 21:25:48: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_visiblemaxplayers") (value "-1")
+L 06/13/2026 - 21:25:48: [chat-processor.smx] Message formats generated for game 'left4dead2'.
+L 06/13/2026 - 21:25:48: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 06/13/2026 - 21:25:53: [l4d2_shop.smx] [LOAD]: "[T-T]MoY<2><STEAM_1:0:511491787><>" loaded the record successfully! Points: "2231"
+L 06/13/2026 - 21:25:55: [l4d2_shop.smx] [LOAD]: "king Nasir<45><STEAM_1:0:410532266><>" loaded the record successfully! Points: "1019"
+L 06/13/2026 - 21:25:55: [l4d2_shop.smx] [LOAD]: "Fredo<37><STEAM_1:0:42015651><>" loaded the record successfully! Points: "1966"
+L 06/13/2026 - 21:25:57: [l4d2_shop.smx] [LOAD]: "EndiihZ<75><STEAM_1:0:454099782><>" loaded the record successfully! Points: "0"
+L 06/13/2026 - 21:26:06: [l4d2_shop.smx] [LOAD]: "DELKER ☭<43><STEAM_1:0:449484431><>" loaded the record successfully! Points: "1025"
+L 06/13/2026 - 21:26:11: [l4d2_shop.smx] [LOAD]: "KONATA CDDDD<67><STEAM_1:0:637620390><>" loaded the record successfully! Points: "1000"
+L 06/13/2026 - 21:26:26: [l4d2_shop.smx] [Buy]: "[T-T]MoY<2><STEAM_1:0:511491787><>" bought "Revivir (Costo actual: 50)" (price: "50"), remaining points: "2181"
+L 06/13/2026 - 21:26:33: [l4d2_shop.smx] [Buy]: "king Nasir<45><STEAM_1:0:410532266><>" bought "Revivir (Costo actual: 50)" (price: "50"), remaining points: "969"
+L 06/13/2026 - 21:26:43: [l4d2_shop.smx] [Buy]: "king Nasir<45><STEAM_1:0:410532266><>" bought "extinguisher" (price: "40"), remaining points: "929"
+L 06/13/2026 - 21:26:44: [l4d2_shop.smx] [Buy]: "DELKER ☭<43><STEAM_1:0:449484431><>" bought "Revivir (Costo actual: 50)" (price: "50"), remaining points: "975"
+L 06/13/2026 - 21:27:18: [l4d2_shop.smx] [Buy]: "king Nasir<45><STEAM_1:0:410532266><>" bought "Revivir (Costo actual: 150)" (price: "150"), remaining points: "787"
+L 06/13/2026 - 21:27:57: [l4d2_shop.smx] [Buy]: "king Nasir<45><STEAM_1:0:410532266><>" bought "pain_pills" (price: "43"), remaining points: "746"
+L 06/13/2026 - 21:28:11: [l4d2_shop.smx] [Buy]: "[T-T]MoY<2><STEAM_1:0:511491787><>" bought "Revivir (Costo actual: 150)" (price: "150"), remaining points: "2035"
+L 06/13/2026 - 21:28:15: [l4d2_shop.smx] [Buy]: "king Nasir<45><STEAM_1:0:410532266><>" bought "Revivir (Costo actual: 250)" (price: "250"), remaining points: "496"
+L 06/13/2026 - 21:28:26: [l4d2_shop.smx] [Buy]: "DELKER ☭<43><STEAM_1:0:449484431><>" bought "Revivir (Costo actual: 150)" (price: "150"), remaining points: "829"
+L 06/13/2026 - 21:28:28: [l4d2_shop.smx] [Buy]: "[T-T]MoY<2><STEAM_1:0:511491787><>" bought "Revivir (Costo actual: 250)" (price: "250"), remaining points: "1785"
+L 06/13/2026 - 21:28:31: [l4d2_shop.smx] [Buy]: "Fredo<37><STEAM_1:0:42015651><>" bought "molotov" (price: "28"), remaining points: "1942"
+L 06/13/2026 - 21:29:21: [l4d2_shop.smx] [Buy]: "[T-T]MoY<2><STEAM_1:0:511491787><>" bought "Revivir (Costo actual: 350)" (price: "350"), remaining points: "1441"
+L 06/13/2026 - 21:29:32: [l4d2_shop.smx] [Buy]: "DELKER ☭<43><STEAM_1:0:449484431><>" bought "Revivir (Costo actual: 250)" (price: "250"), remaining points: "589"
+L 06/13/2026 - 21:29:48: [l4d2_shop.smx] [Buy]: "king Nasir<45><STEAM_1:0:410532266><>" bought "Revivir (Costo actual: 350)" (price: "350"), remaining points: "171"
+L 06/13/2026 - 21:30:18: [l4d2_shop.smx] [Buy]: "[T-T]MoY<2><STEAM_1:0:511491787><>" bought "health" (price: "98"), remaining points: "1349"
+L 06/13/2026 - 21:30:22: [l4d2_shop.smx] [Buy]: "Fredo<37><STEAM_1:0:42015651><>" bought "molotov" (price: "28"), remaining points: "1926"
+L 06/13/2026 - 21:30:28: [l4d2_shop.smx] [Buy]: "[T-T]MoY<2><STEAM_1:0:511491787><>" bought "Revivir (Costo actual: 450)" (price: "450"), remaining points: "899"
+L 06/13/2026 - 21:30:57: [l4d2_shop.smx] [Buy]: "Fredo<37><STEAM_1:0:42015651><>" bought "Revivir (Costo actual: 50)" (price: "50"), remaining points: "1896"
+L 06/13/2026 - 21:31:22: [l4d2_shop.smx] [UPDATE]: "[T-T]MoY<2><STEAM_1:0:511491787><>" saved. Points: "1909"
+L 06/13/2026 - 21:31:22: [l4d2_shop.smx] UPDATE SpecialFunctions SET isEnabled = 1 WHERE steamId = 'STEAM_1:0:511491787' AND (functionNo = 'GRAY_AMMO' OR functionNo = 'BLUE_AMMO' OR functionNo = 'GOLD_AMMO')
+L 06/13/2026 - 21:31:22: [l4d2_shop.smx] [Admin]: "[T-T]MoY<2><STEAM_1:0:511491787><>" rewarded "1000" points for "[T-T]MoY<2><STEAM_1:0:511491787><>" (current: "1909")
+L 06/13/2026 - 21:31:22: [l4d2_shop.smx] [UPDATE]: "DELKER ☭<43><STEAM_1:0:449484431><>" saved. Points: "1602"
+L 06/13/2026 - 21:31:22: [l4d2_shop.smx] [Admin]: "[T-T]MoY<2><STEAM_1:0:511491787><>" rewarded "1000" points for "DELKER ☭<43><STEAM_1:0:449484431><>" (current: "1602")
+L 06/13/2026 - 21:31:23: [l4d2_shop.smx] [UPDATE]: "EndiihZ<75><STEAM_1:0:454099782><>" saved. Points: "1026"
+L 06/13/2026 - 21:31:23: [l4d2_shop.smx] [Admin]: "[T-T]MoY<2><STEAM_1:0:511491787><>" rewarded "1000" points for "EndiihZ<75><STEAM_1:0:454099782><>" (current: "1026")
+L 06/13/2026 - 21:31:23: [l4d2_shop.smx] [UPDATE]: "king Nasir<45><STEAM_1:0:410532266><>" saved. Points: "1183"
+L 06/13/2026 - 21:31:23: [l4d2_shop.smx] [Admin]: "[T-T]MoY<2><STEAM_1:0:511491787><>" rewarded "1000" points for "king Nasir<45><STEAM_1:0:410532266><>" (current: "1183")
+L 06/13/2026 - 21:31:24: [l4d2_shop.smx] [UPDATE]: "Fredo<37><STEAM_1:0:42015651><>" saved. Points: "2898"
+L 06/13/2026 - 21:31:24: [l4d2_shop.smx] [Admin]: "[T-T]MoY<2><STEAM_1:0:511491787><>" rewarded "1000" points for "Fredo<37><STEAM_1:0:42015651><>" (current: "2898")
+L 06/13/2026 - 21:31:30: [l4d2_shop.smx] [Buy]: "king Nasir<45><STEAM_1:0:410532266><>" bought "Revivir (Costo actual: 450)" (price: "450"), remaining points: "733"
+L 06/13/2026 - 21:31:32: [l4d2_shop.smx] [Buy]: "[T-T]MoY<2><STEAM_1:0:511491787><>" bought "Revivir (Costo actual: 550)" (price: "550"), remaining points: "1359"
+L 06/13/2026 - 21:31:52: [l4d2_shop.smx] [LOAD]: "Tapir3000<199><STEAM_ID_PENDING><>" loaded the record successfully! Points: "0"
+L 06/13/2026 - 21:32:54: [l4d2_shop.smx] [LOAD]: "anny<205><STEAM_1:1:807503506><>" loaded the record successfully! Points: "42"
+L 06/13/2026 - 21:33:07: [l4d2_shop.smx] [Buy]: "Fredo<37><STEAM_1:0:42015651><>" bought "Revivir (Costo actual: 150)" (price: "150"), remaining points: "2750"
+L 06/13/2026 - 21:34:03: [l4d2_shop.smx] [Buy]: "king Nasir<45><STEAM_1:0:410532266><>" bought "Revivir (Costo actual: 550)" (price: "550"), remaining points: "195"
+L 06/13/2026 - 21:34:46: [l4d2_shop.smx] [Buy]: "Fredo<37><STEAM_1:0:42015651><>" bought "molotov" (price: "28"), remaining points: "2736"
+L 06/13/2026 - 21:35:07: [l4d_sm_respawn.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" teleported "anny<205><STEAM_1:1:807503506><>" after respawning him
+L 06/13/2026 - 21:35:51: [l4d2_shop.smx] [Buy]: "Fredo<37><STEAM_1:0:42015651><>" bought "Revivir (Costo actual: 250)" (price: "250"), remaining points: "2504"
+L 06/13/2026 - 21:36:08: [l4d2_shop.smx] [Buy]: "[T-T]MoY<2><STEAM_1:0:511491787><>" bought "Revivir (Costo actual: 650)" (price: "650"), remaining points: "733"
+L 06/13/2026 - 21:36:19: [l4d2_shop.smx] [Buy]: "king Nasir<45><STEAM_1:0:410532266><>" bought "molotov" (price: "28"), remaining points: "181"
+L 06/13/2026 - 21:36:59: [l4d2_shop.smx] [Buy]: "Fredo<37><STEAM_1:0:42015651><>" bought "molotov" (price: "28"), remaining points: "2484"
+L 06/13/2026 - 21:37:02: [l4d_sm_respawn.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" teleported "anny<205><STEAM_1:1:807503506><>" after respawning him
+L 06/13/2026 - 21:37:43: [l4d_sm_respawn.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" teleported "[T-T]MoY<2><STEAM_1:0:511491787><>" after respawning him
+L 06/13/2026 - 21:38:15: [l4d_sm_respawn.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" teleported "anny<205><STEAM_1:1:807503506><>" after respawning him
+L 06/13/2026 - 21:39:47: [l4d2_shop.smx] [Buy]: "DELKER ☭<43><STEAM_1:0:449484431><>" bought "Revivir (Costo actual: 350)" (price: "350"), remaining points: "1302"
+L 06/13/2026 - 21:39:51: [l4d_sm_respawn.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" teleported "Fredo<37><STEAM_1:0:42015651><>" after respawning him
+L 06/13/2026 - 21:41:00: [l4d_sm_respawn.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" teleported "Fredo<37><STEAM_1:0:42015651><>" after respawning him
+L 06/13/2026 - 21:41:00: [l4d2_shop.smx] [Buy]: "Fredo<37><STEAM_1:0:42015651><>" bought "Revivir (Costo actual: 350)" (price: "350"), remaining points: "2177"
+L 06/13/2026 - 21:41:00: [l4d_sm_respawn.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" teleported "anny<205><STEAM_1:1:807503506><>" after respawning him
+L 06/13/2026 - 21:41:08: [l4d2_shop.smx] [Buy]: "Fredo<37><STEAM_1:0:42015651><>" bought "molotov" (price: "28"), remaining points: "2151"
+L 06/13/2026 - 21:41:39: [l4d2_shop.smx] [INSERT]: "Tapir3000<241><STEAM_1:0:392744624><>" is a new user!!
+L 06/13/2026 - 21:41:44: [l4d2_shop.smx] [Buy]: "DELKER ☭<43><STEAM_1:0:449484431><>" bought "Revivir (Costo actual: 450)" (price: "450"), remaining points: "875"
+L 06/13/2026 - 21:41:46: [l4d2_shop.smx] [Buy]: "[T-T]MoY<2><STEAM_1:0:511491787><>" bought "health" (price: "98"), remaining points: "681"
+L 06/13/2026 - 21:41:55: [l4d2_shop.smx] [Buy]: "Fredo<37><STEAM_1:0:42015651><>" bought "Revivir (Costo actual: 350)" (price: "350"), remaining points: "1836"
+L 06/13/2026 - 21:42:25: [l4d_sm_respawn.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" teleported "Rochelle<246><BOT><>" after respawning him
+L 06/13/2026 - 21:42:33: [l4d2_shop.smx] [Buy]: "[T-T]MoY<2><STEAM_1:0:511491787><>" bought "pipe_bomb" (price: "28"), remaining points: "659"
+L 06/13/2026 - 21:43:00: [l4d_sm_respawn.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" teleported "anny<205><STEAM_1:1:807503506><>" after respawning him
+L 06/13/2026 - 21:43:17: [l4d2_shop.smx] [LOAD]: "Tapir3000<250><STEAM_1:0:392744624><>" loaded the record successfully! Points: "0"
+L 06/13/2026 - 21:43:22: [l4d2_shop.smx] [UPDATE]: "[T-T]MoY<2><STEAM_1:0:511491787><>" saved. Points: "10661"
+L 06/13/2026 - 21:43:22: [l4d2_shop.smx] UPDATE SpecialFunctions SET isEnabled = 1 WHERE steamId = 'STEAM_1:0:511491787' AND (functionNo = 'GRAY_AMMO' OR functionNo = 'BLUE_AMMO' OR functionNo = 'GOLD_AMMO')
+L 06/13/2026 - 21:43:22: [l4d2_shop.smx] [Admin]: "[T-T]MoY<2><STEAM_1:0:511491787><>" rewarded "10000" points for "[T-T]MoY<2><STEAM_1:0:511491787><>" (current: "10661")
+L 06/13/2026 - 21:43:22: [l4d2_shop.smx] [UPDATE]: "DELKER ☭<43><STEAM_1:0:449484431><>" saved. Points: "10883"
+L 06/13/2026 - 21:43:22: [l4d2_shop.smx] [Admin]: "[T-T]MoY<2><STEAM_1:0:511491787><>" rewarded "10000" points for "DELKER ☭<43><STEAM_1:0:449484431><>" (current: "10883")
+L 06/13/2026 - 21:43:23: [l4d2_shop.smx] [UPDATE]: "Tapir3000<250><STEAM_1:0:392744624><>" saved. Points: "10002"
+L 06/13/2026 - 21:43:23: [l4d2_shop.smx] [Admin]: "[T-T]MoY<2><STEAM_1:0:511491787><>" rewarded "10000" points for "Tapir3000<250><STEAM_1:0:392744624><>" (current: "10002")
+L 06/13/2026 - 21:43:23: [l4d2_shop.smx] [UPDATE]: "Fredo<37><STEAM_1:0:42015651><>" saved. Points: "11840"
+L 06/13/2026 - 21:43:23: [l4d2_shop.smx] [Admin]: "[T-T]MoY<2><STEAM_1:0:511491787><>" rewarded "10000" points for "Fredo<37><STEAM_1:0:42015651><>" (current: "11840")
+L 06/13/2026 - 21:43:23: [l4d2_shop.smx] [UPDATE]: "anny<205><STEAM_1:1:807503506><>" saved. Points: "10120"
+L 06/13/2026 - 21:43:23: [l4d2_shop.smx] [Admin]: "[T-T]MoY<2><STEAM_1:0:511491787><>" rewarded "10000" points for "anny<205><STEAM_1:1:807503506><>" (current: "10120")
+L 06/13/2026 - 21:43:28: [l4d2_shop.smx] [Buy]: "[T-T]MoY<2><STEAM_1:0:511491787><>" bought "Revivir (Costo actual: 750)" (price: "750"), remaining points: "9913"
+L 06/13/2026 - 21:43:34: [l4d2_shop.smx] [Buy]: "[T-T]MoY<2><STEAM_1:0:511491787><>" bought "Revivir (Costo actual: 850)" (price: "850"), remaining points: "9065"
+L 06/13/2026 - 21:43:39: [l4d_sm_respawn.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" teleported "DELKER ☭<43><STEAM_1:0:449484431><>" after respawning him
+L 06/13/2026 - 21:43:40: [l4d_sm_respawn.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" teleported "Fredo<37><STEAM_1:0:42015651><>" after respawning him
+L 06/13/2026 - 21:43:40: [l4d_sm_respawn.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" teleported "anny<205><STEAM_1:1:807503506><>" after respawning him
+L 06/13/2026 - 21:44:10: [l4d2_shop.smx] [LOAD]: "PANDITA<256><STEAM_1:1:544610071><>" loaded the record successfully! Points: "5083"
+L 06/13/2026 - 21:44:27: -------- Mapchange to hls_14 --------
+L 06/13/2026 - 21:44:32: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_consistency") (value "0")
+L 06/13/2026 - 21:44:32: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_allow_lobby_connect_only") (value "0")
+L 06/13/2026 - 21:44:32: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxplayers") (value "8")
+L 06/13/2026 - 21:44:32: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_visiblemaxplayers") (value "-1")
+L 06/13/2026 - 21:44:32: [chat-processor.smx] Message formats generated for game 'left4dead2'.
+L 06/13/2026 - 21:44:32: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 06/13/2026 - 21:44:37: [l4d2_shop.smx] [LOAD]: "[T-T]MoY<2><STEAM_1:0:511491787><>" loaded the record successfully! Points: "10661"
+L 06/13/2026 - 21:44:40: [l4d2_shop.smx] [LOAD]: "Fredo<37><STEAM_1:0:42015651><>" loaded the record successfully! Points: "11840"
+L 06/13/2026 - 21:44:50: [l4d2_shop.smx] [LOAD]: "DELKER ☭<43><STEAM_1:0:449484431><>" loaded the record successfully! Points: "10883"
+L 06/13/2026 - 21:44:52: [l4d2_shop.smx] [LOAD]: "anny<205><STEAM_1:1:807503506><>" loaded the record successfully! Points: "10120"
+L 06/13/2026 - 21:45:23: [l4d2_shop.smx] [INSERT]: "eroiujretuiyuitrey<262><STEAM_1:0:787672820><>" is a new user!!
+L 06/13/2026 - 21:45:30: [l4d2_shop.smx] [Buy]: "[T-T]MoY<2><STEAM_1:0:511491787><>" bought "Revivir (Costo actual: 50)" (price: "50"), remaining points: "10611"
+L 06/13/2026 - 21:45:37: [l4d2_shop.smx] [Buy]: "[T-T]MoY<2><STEAM_1:0:511491787><>" bought "Revivir (Costo actual: 150)" (price: "150"), remaining points: "10461"
+L 06/13/2026 - 21:45:44: [l4d2_shop.smx] [LOAD]: "EndiihZ<264><STEAM_1:0:454099782><>" loaded the record successfully! Points: "1026"
+L 06/13/2026 - 21:45:44: [l4d_sm_respawn.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" teleported "Fredo<37><STEAM_1:0:42015651><>" after respawning him
+L 06/13/2026 - 21:45:45: [l4d_sm_respawn.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" teleported "anny<205><STEAM_1:1:807503506><>" after respawning him
+L 06/13/2026 - 21:46:09: [l4d_sm_respawn.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" teleported "EndiihZ<264><STEAM_1:0:454099782><>" after respawning him
+L 06/13/2026 - 21:46:55: [l4d_sm_respawn.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" teleported "eroiujretuiyuitrey<262><STEAM_1:0:787672820><>" after respawning him
+L 06/13/2026 - 21:47:04: [l4d2_shop.smx] [Buy]: "Fredo<37><STEAM_1:0:42015651><>" bought "vomitjar" (price: "28"), remaining points: "11814"
+L 06/13/2026 - 21:47:32: [l4d_sm_respawn.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" teleported "anny<205><STEAM_1:1:807503506><>" after respawning him
+L 06/13/2026 - 21:48:47: [l4d_sm_respawn.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" teleported "Fredo<37><STEAM_1:0:42015651><>" after respawning him
+L 06/13/2026 - 21:48:47: [l4d_sm_respawn.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" teleported "anny<205><STEAM_1:1:807503506><>" after respawning him
+L 06/13/2026 - 21:49:30: [l4d2_shop.smx] [Buy]: "Fredo<37><STEAM_1:0:42015651><>" bought "molotov" (price: "28"), remaining points: "11796"
+L 06/13/2026 - 21:49:37: [l4d2_shop.smx] [Buy]: "Fredo<37><STEAM_1:0:42015651><>" bought "adrenaline" (price: "43"), remaining points: "11753"
+L 06/13/2026 - 21:50:42: [l4d2_shop.smx] [Buy]: "DELKER ☭<43><STEAM_1:0:449484431><>" bought "molotov" (price: "28"), remaining points: "10881"
+L 06/13/2026 - 21:50:55: [l4d2_shop.smx] [LOAD]: "⛑EPIC GAMES⛑<284><STEAM_1:0:588496291><>" loaded the record successfully! Points: "11015"
+L 06/13/2026 - 21:51:24: [l4d2_shop.smx] [Buy]: "[T-T]MoY<2><STEAM_1:0:511491787><>" bought "Revivir (Costo actual: 250)" (price: "250"), remaining points: "10241"
+L 06/13/2026 - 21:51:40: [l4d2_shop.smx] [Buy]: "[T-T]MoY<2><STEAM_1:0:511491787><>" bought "Revivir (Costo actual: 350)" (price: "350"), remaining points: "9893"
+L 06/13/2026 - 21:51:55: [l4d2_shop.smx] [Buy]: "Fredo<37><STEAM_1:0:42015651><>" bought "molotov" (price: "28"), remaining points: "11748"
+L 06/13/2026 - 21:52:09: [l4d2_shop.smx] [LOAD]: "⛑EPIC GAMES⛑<290><STEAM_1:0:588496291><>" loaded the record successfully! Points: "11015"
+L 06/13/2026 - 21:52:10: [l4d2_shop.smx] [Buy]: "DELKER ☭<43><STEAM_1:0:449484431><>" bought "molotov" (price: "28"), remaining points: "10872"
+L 06/13/2026 - 21:52:13: [l4d2_shop.smx] [Buy]: "Fredo<37><STEAM_1:0:42015651><>" bought "molotov" (price: "28"), remaining points: "11735"
+L 06/13/2026 - 21:52:24: [l4d2_shop.smx] [Buy]: "[T-T]MoY<2><STEAM_1:0:511491787><>" bought "Revivir (Costo actual: 450)" (price: "450"), remaining points: "9453"
+L 06/13/2026 - 21:52:44: [l4d2_shop.smx] [Buy]: "Fredo<37><STEAM_1:0:42015651><>" bought "Revivir (Costo actual: 50)" (price: "50"), remaining points: "11698"
+L 06/13/2026 - 21:52:54: [l4d2_shop.smx] [Buy]: "Fredo<37><STEAM_1:0:42015651><>" bought "Revivir (Costo actual: 150)" (price: "150"), remaining points: "11548"
+L 06/13/2026 - 21:53:02: [l4d2_shop.smx] [Buy]: "Fredo<37><STEAM_1:0:42015651><>" bought "molotov" (price: "28"), remaining points: "11520"
+L 06/13/2026 - 21:53:28: [l4d2_shop.smx] [Buy]: "Fredo<37><STEAM_1:0:42015651><>" bought "molotov" (price: "28"), remaining points: "11494"
+L 06/13/2026 - 21:53:29: [l4d2_shop.smx] [Buy]: "DELKER ☭<43><STEAM_1:0:449484431><>" bought "molotov" (price: "28"), remaining points: "10864"
+L 06/13/2026 - 21:53:39: [l4d2_shop.smx] [Buy]: "[T-T]MoY<2><STEAM_1:0:511491787><>" bought "Revivir (Costo actual: 550)" (price: "550"), remaining points: "8909"
+L 06/13/2026 - 21:53:57: [l4d_sm_respawn.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" teleported "[T-T]MoY<2><STEAM_1:0:511491787><>" after respawning him
+L 06/13/2026 - 21:53:58: [l4d_sm_respawn.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" teleported "eroiujretuiyuitrey<262><STEAM_1:0:787672820><>" after respawning him
+L 06/13/2026 - 21:53:58: [l4d_sm_respawn.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" teleported "EndiihZ<264><STEAM_1:0:454099782><>" after respawning him
+L 06/13/2026 - 21:53:58: [l4d_sm_respawn.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" teleported "Fredo<37><STEAM_1:0:42015651><>" after respawning him
+L 06/13/2026 - 21:53:58: [l4d_sm_respawn.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" teleported "⛑EPIC GAMES⛑<290><STEAM_1:0:588496291><>" after respawning him
+L 06/13/2026 - 21:53:58: [l4d_sm_respawn.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" teleported "anny<205><STEAM_1:1:807503506><>" after respawning him
+L 06/13/2026 - 21:54:11: [l4d2_shop.smx] [INSERT]: "Blackthorne<297><STEAM_1:1:26462369><>" is a new user!!
+L 06/13/2026 - 21:54:44: [l4d2_shop.smx] [Buy]: "Fredo<37><STEAM_1:0:42015651><>" bought "Revivir (Costo actual: 250)" (price: "250"), remaining points: "11261"
+L 06/13/2026 - 21:54:50: [l4d2_shop.smx] [Buy]: "Fredo<37><STEAM_1:0:42015651><>" bought "molotov" (price: "28"), remaining points: "11235"
+L 06/13/2026 - 21:54:58: [l4d2_shop.smx] [Buy]: "Fredo<37><STEAM_1:0:42015651><>" bought "molotov" (price: "28"), remaining points: "11209"
+L 06/13/2026 - 21:55:04: [l4d2_shop.smx] [Buy]: "Fredo<37><STEAM_1:0:42015651><>" bought "molotov" (price: "28"), remaining points: "11181"
+L 06/13/2026 - 21:55:12: [l4d2_shop.smx] [UPDATE]: "[T-T]MoY<2><STEAM_1:0:511491787><>" saved. Points: "8919"
+L 06/13/2026 - 21:55:12: [l4d2_shop.smx] UPDATE SpecialFunctions SET isEnabled = 1 WHERE steamId = 'STEAM_1:0:511491787' AND (functionNo = 'GRAY_AMMO' OR functionNo = 'BLUE_AMMO' OR functionNo = 'GOLD_AMMO')
+L 06/13/2026 - 21:55:12: [l4d2_shop.smx] [UPDATE]: "DELKER ☭<43><STEAM_1:0:449484431><>" saved. Points: "10876"
+L 06/13/2026 - 21:55:12: [l4d2_shop.smx] [UPDATE]: "eroiujretuiyuitrey<262><STEAM_1:0:787672820><>" saved. Points: "58"
+L 06/13/2026 - 21:55:12: [l4d2_shop.smx] [UPDATE]: "Blackthorne<297><STEAM_1:1:26462369><>" saved. Points: "6"
+L 06/13/2026 - 21:55:12: [l4d2_shop.smx] [UPDATE]: "EndiihZ<264><STEAM_1:0:454099782><>" saved. Points: "1082"
+L 06/13/2026 - 21:55:12: [l4d2_shop.smx] [UPDATE]: "Fredo<37><STEAM_1:0:42015651><>" saved. Points: "11184"
+L 06/13/2026 - 21:55:12: [l4d2_shop.smx] [UPDATE]: "⛑EPIC GAMES⛑<290><STEAM_1:0:588496291><>" saved. Points: "11037"
+L 06/13/2026 - 21:55:12: [l4d2_shop.smx] [UPDATE]: "anny<205><STEAM_1:1:807503506><>" saved. Points: "10178"
+L 06/13/2026 - 21:55:27: [l4d2_shop.smx] [Buy]: "Fredo<37><STEAM_1:0:42015651><>" bought "molotov" (price: "28"), remaining points: "11161"
+L 06/13/2026 - 21:56:20: [l4d2_shop.smx] [Buy]: "DELKER ☭<43><STEAM_1:0:449484431><>" bought "Revivir (Costo actual: 50)" (price: "50"), remaining points: "10834"
+L 06/13/2026 - 21:56:33: [playercommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" slayed "Tank<306><BOT><>"
+L 06/13/2026 - 21:56:33: [playercommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" slayed "Blackthorne<297><STEAM_1:1:26462369><>"
+L 06/13/2026 - 21:56:33: [l4d2_shop.smx] [UPDATE]: "[T-T]MoY<2><STEAM_1:0:511491787><>" saved. Points: "8923"
+L 06/13/2026 - 21:56:33: [l4d2_shop.smx] UPDATE SpecialFunctions SET isEnabled = 1 WHERE steamId = 'STEAM_1:0:511491787' AND (functionNo = 'GRAY_AMMO' OR functionNo = 'BLUE_AMMO' OR functionNo = 'GOLD_AMMO')
+L 06/13/2026 - 21:56:33: [l4d2_shop.smx] [UPDATE]: "DELKER ☭<43><STEAM_1:0:449484431><>" saved. Points: "10836"
+L 06/13/2026 - 21:56:33: [l4d2_shop.smx] [UPDATE]: "eroiujretuiyuitrey<262><STEAM_1:0:787672820><>" saved. Points: "62"
+L 06/13/2026 - 21:56:33: [l4d2_shop.smx] [UPDATE]: "Blackthorne<297><STEAM_1:1:26462369><>" saved. Points: "10"
+L 06/13/2026 - 21:56:33: [l4d2_shop.smx] [UPDATE]: "⛑EPIC GAMES⛑<290><STEAM_1:0:588496291><>" saved. Points: "11041"
+L 06/13/2026 - 21:56:33: [l4d2_shop.smx] [UPDATE]: "anny<205><STEAM_1:1:807503506><>" saved. Points: "10182"
+L 06/13/2026 - 21:56:33: [playercommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" slayed "(1)Tank<308><BOT><>"
+L 06/13/2026 - 21:56:33: [playercommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" slayed "Nick<312><BOT><>"
+L 06/13/2026 - 21:56:34: [playercommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" slayed "(2)Tank<311><BOT><>"
+L 06/13/2026 - 21:57:03: [l4d_sm_respawn.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" teleported "[T-T]MoY<2><STEAM_1:0:511491787><>" after respawning him
+L 06/13/2026 - 21:57:11: [playercommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" slayed "Nick<317><BOT><>"
+L 06/13/2026 - 21:57:11: [playercommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" slayed "eroiujretuiyuitrey<262><STEAM_1:0:787672820><>"
+L 06/13/2026 - 21:57:11: [playercommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" slayed "Blackthorne<297><STEAM_1:1:26462369><>"
+L 06/13/2026 - 21:57:11: [playercommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" slayed "Tank<318><BOT><>"
+L 06/13/2026 - 21:57:12: [playercommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" slayed "Francis<315><BOT><>"
+L 06/13/2026 - 21:57:14: [playercommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" slayed "anny<205><STEAM_1:1:807503506><>"
+L 06/13/2026 - 21:57:16: [l4d_sm_respawn.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" teleported "eroiujretuiyuitrey<262><STEAM_1:0:787672820><>" after respawning him
+L 06/13/2026 - 21:57:16: [l4d_sm_respawn.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" teleported "Blackthorne<297><STEAM_1:1:26462369><>" after respawning him
+L 06/13/2026 - 21:57:17: [l4d_sm_respawn.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" teleported "anny<205><STEAM_1:1:807503506><>" after respawning him
+L 06/13/2026 - 21:57:42: [l4d2_shop.smx] [LOAD]: "Skipper<320><STEAM_1:1:725096751><>" loaded the record successfully! Points: "0"
+L 06/13/2026 - 21:58:11: [l4d2_shop.smx] [Buy]: "DELKER ☭<43><STEAM_1:0:449484431><>" bought "molotov" (price: "28"), remaining points: "10814"
+L 06/13/2026 - 21:59:00: [l4d_sm_respawn.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" teleported "Skipper<320><STEAM_1:1:725096751><>" after respawning him
+L 06/13/2026 - 21:59:48: [l4d2_shop.smx] [Buy]: "DELKER ☭<43><STEAM_1:0:449484431><>" bought "Revivir (Costo actual: 50)" (price: "50"), remaining points: "10766"
+L 06/13/2026 - 21:59:59: [l4d2_shop.smx] [Buy]: "[T-T]MoY<2><STEAM_1:0:511491787><>" bought "Revivir (Costo actual: 50)" (price: "50"), remaining points: "8881"
+L 06/13/2026 - 22:00:08: [l4d_sm_respawn.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" teleported "eroiujretuiyuitrey<262><STEAM_1:0:787672820><>" after respawning him
+L 06/13/2026 - 22:00:08: [l4d_sm_respawn.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" teleported "Blackthorne<297><STEAM_1:1:26462369><>" after respawning him
+L 06/13/2026 - 22:00:30: [l4d2_shop.smx] [Buy]: "DELKER ☭<43><STEAM_1:0:449484431><>" bought "Revivir (Costo actual: 150)" (price: "150"), remaining points: "10620"
+L 06/13/2026 - 22:00:43: [l4d_sm_respawn.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" teleported "Blackthorne<297><STEAM_1:1:26462369><>" after respawning him
+L 06/13/2026 - 22:00:48: [l4d_sm_respawn.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" teleported "[T-T]MoY<2><STEAM_1:0:511491787><>" after respawning him
+L 06/13/2026 - 22:00:48: [l4d_sm_respawn.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" teleported "Blackthorne<297><STEAM_1:1:26462369><>" after respawning him
+L 06/13/2026 - 22:00:54: [l4d_sm_respawn.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" teleported "Blackthorne<297><STEAM_1:1:26462369><>" after respawning him
+L 06/13/2026 - 22:01:18: [l4d_sm_respawn.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" teleported "Blackthorne<297><STEAM_1:1:26462369><>" after respawning him
+L 06/13/2026 - 22:01:19: [l4d2_shop.smx] [Buy]: "DELKER ☭<43><STEAM_1:0:449484431><>" bought "molotov" (price: "28"), remaining points: "10598"
+L 06/13/2026 - 22:01:32: [l4d2_shop.smx] [Buy]: "[T-T]MoY<2><STEAM_1:0:511491787><>" bought "Revivir (Costo actual: 150)" (price: "150"), remaining points: "8743"
+L 06/13/2026 - 22:01:35: [l4d_sm_respawn.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" teleported "anny<205><STEAM_1:1:807503506><>" after respawning him
+L 06/13/2026 - 22:01:41: [l4d_sm_respawn.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" teleported "Blackthorne<297><STEAM_1:1:26462369><>" after respawning him
+L 06/13/2026 - 22:02:39: [l4d2_shop.smx] [Buy]: "[T-T]MoY<2><STEAM_1:0:511491787><>" bought "Revivir (Costo actual: 250)" (price: "250"), remaining points: "8503"
+L 06/13/2026 - 22:03:02: [l4d_sm_respawn.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" teleported "eroiujretuiyuitrey<262><STEAM_1:0:787672820><>" after respawning him
+L 06/13/2026 - 22:03:39: [l4d_sm_respawn.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" teleported "anny<205><STEAM_1:1:807503506><>" after respawning him
+L 06/13/2026 - 22:04:08: [l4d_sm_respawn.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" teleported "Skipper<320><STEAM_1:1:725096751><>" after respawning him
+L 06/13/2026 - 22:04:30: [l4d2_shop.smx] [Buy]: "DELKER ☭<43><STEAM_1:0:449484431><>" bought "Revivir (Costo actual: 250)" (price: "250"), remaining points: "10376"
+L 06/13/2026 - 22:04:54: [l4d2_shop.smx] [Buy]: "DELKER ☭<43><STEAM_1:0:449484431><>" bought "molotov" (price: "28"), remaining points: "10348"
+L 06/13/2026 - 22:05:38: -------- Mapchange to c1m1_hotel --------
+L 06/13/2026 - 22:05:43: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_consistency") (value "0")
+L 06/13/2026 - 22:05:43: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_allow_lobby_connect_only") (value "0")
+L 06/13/2026 - 22:05:43: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxplayers") (value "8")
+L 06/13/2026 - 22:05:43: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_visiblemaxplayers") (value "-1")
+L 06/13/2026 - 22:05:44: [chat-processor.smx] Message formats generated for game 'left4dead2'.
+L 06/13/2026 - 22:05:44: [chat-processor.smx] Successfully hooked a SayText2 chat hook.

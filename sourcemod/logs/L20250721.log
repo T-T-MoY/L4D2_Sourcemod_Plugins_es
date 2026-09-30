@@ -1,0 +1,120 @@
+L 07/21/2025 - 16:37:24: SourceMod log file session started (file "e:\steamlibrary\steamapps\common\left 4 dead 2\left4dead2\addons\sourcemod\logs\L20250721.log") (Version "1.12.0.7207")
+L 07/21/2025 - 16:37:24: [GEOIP] GeoIP2 database loaded: GeoLite2-ASN (2024-08-21 08:15:21 UTC) (e:\steamlibrary\steamapps\common\left 4 dead 2\left4dead2\addons\sourcemod\configs\geoip\GeoLite2-ASN.mmdb)
+L 07/21/2025 - 16:37:24: [GEOIP] GeoIP2 supported languages: en
+L 07/21/2025 - 16:37:24: [GEOIP] Your database is older than 90 days. You should consider downloading a newer version from e.g. https://dev.maxmind.com/geoip/geolite2-free-geolocation-data
+L 07/21/2025 - 16:37:38: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_consistency") (value "0")
+L 07/21/2025 - 16:37:38: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_allow_lobby_connect_only") (value "0")
+L 07/21/2025 - 16:37:38: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxplayers") (value "8")
+L 07/21/2025 - 16:37:38: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_visiblemaxplayers") (value "-1")
+L 07/21/2025 - 17:24:40: -------- Mapchange to Glubtastic2_2 --------
+L 07/21/2025 - 17:24:47: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_consistency") (value "0")
+L 07/21/2025 - 17:24:47: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_allow_lobby_connect_only") (value "0")
+L 07/21/2025 - 17:24:47: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxplayers") (value "8")
+L 07/21/2025 - 17:24:47: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_visiblemaxplayers") (value "-1")
+L 07/21/2025 - 17:32:01: -------- Mapchange to Glubtastic2_3 --------
+L 07/21/2025 - 17:32:08: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_consistency") (value "0")
+L 07/21/2025 - 17:32:08: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_allow_lobby_connect_only") (value "0")
+L 07/21/2025 - 17:32:08: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxplayers") (value "8")
+L 07/21/2025 - 17:32:08: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_visiblemaxplayers") (value "-1")
+L 07/21/2025 - 17:47:23: [playercommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" slayed "Tank<352><BOT><>"
+L 07/21/2025 - 17:47:24: [playercommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" slayed "(1)Tank<353><BOT><>"
+L 07/21/2025 - 17:50:25: [playercommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" slayed "Tank<370><BOT><>"
+L 07/21/2025 - 17:50:26: [playercommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" slayed "(1)Tank<371><BOT><>"
+L 07/21/2025 - 17:51:12: [l4d_sm_respawn.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" teleported "el hombre-man<178><STEAM_1:0:195950010><>" after respawning him
+L 07/21/2025 - 17:59:33: [basecommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" changed cvar (cvar "sv_gravity") (value "800")
+L 07/21/2025 - 18:12:55: -------- Mapchange to glubtastic2_4 --------
+L 07/21/2025 - 18:13:02: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_consistency") (value "0")
+L 07/21/2025 - 18:13:02: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_allow_lobby_connect_only") (value "0")
+L 07/21/2025 - 18:13:02: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxplayers") (value "8")
+L 07/21/2025 - 18:13:02: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_visiblemaxplayers") (value "-1")
+L 07/21/2025 - 18:15:00: [l4d_sm_respawn.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" teleported "Lean_0<423><STEAM_1:1:695987227><>" after respawning him
+L 07/21/2025 - 18:15:13: [l4d_sm_respawn.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" teleported "Lean_0<423><STEAM_1:1:695987227><>" after respawning him
+L 07/21/2025 - 18:22:46: -------- Mapchange to glubtastic2_5 --------
+L 07/21/2025 - 18:22:53: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_consistency") (value "0")
+L 07/21/2025 - 18:22:53: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_allow_lobby_connect_only") (value "0")
+L 07/21/2025 - 18:22:53: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxplayers") (value "8")
+L 07/21/2025 - 18:22:53: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_visiblemaxplayers") (value "-1")
+L 07/21/2025 - 18:23:51: [basecommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" changed cvar (cvar "sv_gravity") (value "200")
+L 07/21/2025 - 18:24:05: [basecommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" changed cvar (cvar "sv_gravity") (value "800")
+L 07/21/2025 - 18:38:31: -------- Mapchange to glubtastic2_6 --------
+L 07/21/2025 - 18:38:39: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_consistency") (value "0")
+L 07/21/2025 - 18:38:39: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_allow_lobby_connect_only") (value "0")
+L 07/21/2025 - 18:38:39: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxplayers") (value "8")
+L 07/21/2025 - 18:38:39: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_visiblemaxplayers") (value "-1")
+L 07/21/2025 - 18:49:55: Log file closed.
+L 07/21/2025 - 21:39:42: SourceMod log file session started (file "e:\steamlibrary\steamapps\common\left 4 dead 2\left4dead2\addons\sourcemod\logs\L20250721.log") (Version "1.12.0.7207")
+L 07/21/2025 - 21:39:42: [GEOIP] GeoIP2 database loaded: GeoLite2-ASN (2024-08-21 08:15:21 UTC) (e:\steamlibrary\steamapps\common\left 4 dead 2\left4dead2\addons\sourcemod\configs\geoip\GeoLite2-ASN.mmdb)
+L 07/21/2025 - 21:39:42: [GEOIP] GeoIP2 supported languages: en
+L 07/21/2025 - 21:39:42: [GEOIP] Your database is older than 90 days. You should consider downloading a newer version from e.g. https://dev.maxmind.com/geoip/geolite2-free-geolocation-data
+L 07/21/2025 - 21:39:56: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_consistency") (value "0")
+L 07/21/2025 - 21:39:56: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_allow_lobby_connect_only") (value "0")
+L 07/21/2025 - 21:39:56: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxplayers") (value "8")
+L 07/21/2025 - 21:39:56: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_visiblemaxplayers") (value "-1")
+L 07/21/2025 - 21:47:15: -------- Mapchange to glubtastic4_2 --------
+L 07/21/2025 - 21:47:22: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_consistency") (value "0")
+L 07/21/2025 - 21:47:22: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_allow_lobby_connect_only") (value "0")
+L 07/21/2025 - 21:47:22: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxplayers") (value "8")
+L 07/21/2025 - 21:47:22: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_visiblemaxplayers") (value "-1")
+L 07/21/2025 - 21:59:32: -------- Mapchange to glubtastic4_3 --------
+L 07/21/2025 - 21:59:39: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_consistency") (value "0")
+L 07/21/2025 - 21:59:39: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_allow_lobby_connect_only") (value "0")
+L 07/21/2025 - 21:59:39: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxplayers") (value "8")
+L 07/21/2025 - 21:59:39: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_visiblemaxplayers") (value "-1")
+L 07/21/2025 - 22:07:54: -------- Mapchange to glubtastic4_4 --------
+L 07/21/2025 - 22:08:02: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_consistency") (value "0")
+L 07/21/2025 - 22:08:02: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_allow_lobby_connect_only") (value "0")
+L 07/21/2025 - 22:08:02: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxplayers") (value "8")
+L 07/21/2025 - 22:08:02: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_visiblemaxplayers") (value "-1")
+L 07/21/2025 - 22:24:03: -------- Mapchange to glubtastic4_5 --------
+L 07/21/2025 - 22:24:10: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_consistency") (value "0")
+L 07/21/2025 - 22:24:10: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_allow_lobby_connect_only") (value "0")
+L 07/21/2025 - 22:24:10: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxplayers") (value "8")
+L 07/21/2025 - 22:24:10: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_visiblemaxplayers") (value "-1")
+L 07/21/2025 - 22:45:45: [playercommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" slayed "Geats<293><STEAM_1:0:506137240><>"
+L 07/21/2025 - 22:45:56: -------- Mapchange to glubtastic4_6 --------
+L 07/21/2025 - 22:46:03: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_consistency") (value "0")
+L 07/21/2025 - 22:46:03: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_allow_lobby_connect_only") (value "0")
+L 07/21/2025 - 22:46:03: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxplayers") (value "8")
+L 07/21/2025 - 22:46:03: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_visiblemaxplayers") (value "-1")
+L 07/21/2025 - 22:59:37: -------- Mapchange to glubtastic4_7 --------
+L 07/21/2025 - 22:59:44: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_consistency") (value "0")
+L 07/21/2025 - 22:59:44: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_allow_lobby_connect_only") (value "0")
+L 07/21/2025 - 22:59:44: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxplayers") (value "8")
+L 07/21/2025 - 22:59:44: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_visiblemaxplayers") (value "-1")
+L 07/21/2025 - 23:09:07: SourceMod log file session started (file "e:\steamlibrary\steamapps\common\left 4 dead 2\left4dead2\addons\sourcemod\logs\L20250721.log") (Version "1.12.0.7207")
+L 07/21/2025 - 23:09:07: [GEOIP] GeoIP2 database loaded: GeoLite2-ASN (2024-08-21 08:15:21 UTC) (e:\steamlibrary\steamapps\common\left 4 dead 2\left4dead2\addons\sourcemod\configs\geoip\GeoLite2-ASN.mmdb)
+L 07/21/2025 - 23:09:07: [GEOIP] GeoIP2 supported languages: en
+L 07/21/2025 - 23:09:07: [GEOIP] Your database is older than 90 days. You should consider downloading a newer version from e.g. https://dev.maxmind.com/geoip/geolite2-free-geolocation-data
+L 07/21/2025 - 23:09:17: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_consistency") (value "0")
+L 07/21/2025 - 23:09:17: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_allow_lobby_connect_only") (value "0")
+L 07/21/2025 - 23:09:17: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxplayers") (value "8")
+L 07/21/2025 - 23:09:17: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_visiblemaxplayers") (value "-1")
+L 07/21/2025 - 23:20:26: -------- Mapchange to glubtastic5_2 --------
+L 07/21/2025 - 23:20:33: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_consistency") (value "0")
+L 07/21/2025 - 23:20:33: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_allow_lobby_connect_only") (value "0")
+L 07/21/2025 - 23:20:33: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxplayers") (value "8")
+L 07/21/2025 - 23:20:33: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_visiblemaxplayers") (value "-1")
+L 07/21/2025 - 23:28:27: -------- Mapchange to glubtastic5_3 --------
+L 07/21/2025 - 23:28:34: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_consistency") (value "0")
+L 07/21/2025 - 23:28:34: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_allow_lobby_connect_only") (value "0")
+L 07/21/2025 - 23:28:34: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxplayers") (value "8")
+L 07/21/2025 - 23:28:34: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_visiblemaxplayers") (value "-1")
+L 07/21/2025 - 23:30:06: [basevotes.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" initiated a generic vote (question "nerfeo alos tanks?" / answers "Yes" "No").
+L 07/21/2025 - 23:30:27: [basevotes.smx] Vote successful. (Received "60" of 5 votes)
+L 07/21/2025 - 23:30:27: [basevotes.smx] The answer to nerfeo alos tanks? is: Yes.
+L 07/21/2025 - 23:32:24: [basevotes.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" initiated a generic vote (question "nerfeo alos tanks?" / answers "Yes" "No").
+L 07/21/2025 - 23:32:45: [basevotes.smx] Vote successful. (Received "60" of 5 votes)
+L 07/21/2025 - 23:32:45: [basevotes.smx] The answer to nerfeo alos tanks? is: Yes.
+L 07/21/2025 - 23:33:58: [playercommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" slayed "Elcomepolla<39><STEAM_1:1:950535807><>"
+L 07/21/2025 - 23:44:44: -------- Mapchange to glubtastic5_bigtesco --------
+L 07/21/2025 - 23:44:51: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_consistency") (value "0")
+L 07/21/2025 - 23:44:51: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_allow_lobby_connect_only") (value "0")
+L 07/21/2025 - 23:44:51: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxplayers") (value "8")
+L 07/21/2025 - 23:44:51: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_visiblemaxplayers") (value "-1")
+L 07/21/2025 - 23:52:50: [playercommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" slayed "coca cola espuma<13><STEAM_1:1:642356345><>"
+L 07/21/2025 - 23:53:47: -------- Mapchange to glubtastic5_5 --------
+L 07/21/2025 - 23:53:56: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_consistency") (value "0")
+L 07/21/2025 - 23:53:56: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_allow_lobby_connect_only") (value "0")
+L 07/21/2025 - 23:53:56: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxplayers") (value "8")
+L 07/21/2025 - 23:53:56: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_visiblemaxplayers") (value "-1")
+L 07/22/2025 - 00:00:00: Log file closed.

@@ -1,0 +1,78 @@
+L 12/28/2025 - 19:19:38: SourceMod log file session started (file "d:\steamlibrary\steamapps\common\left 4 dead 2\left4dead2\addons\sourcemod\logs\L20251228.log") (Version "1.12.0.7207")
+L 12/28/2025 - 19:19:38: [GEOIP] GeoIP2 database loaded: GeoLite2-ASN (2024-08-21 08:15:21 UTC) (d:\steamlibrary\steamapps\common\left 4 dead 2\left4dead2\addons\sourcemod\configs\geoip\GeoLite2-ASN.mmdb)
+L 12/28/2025 - 19:19:38: [GEOIP] GeoIP2 supported languages: en
+L 12/28/2025 - 19:19:38: [GEOIP] Your database is older than 90 days. You should consider downloading a newer version from e.g. https://dev.maxmind.com/geoip/geolite2-free-geolocation-data
+L 12/28/2025 - 19:19:48: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_consistency") (value "0")
+L 12/28/2025 - 19:19:48: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_allow_lobby_connect_only") (value "0")
+L 12/28/2025 - 19:19:48: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxplayers") (value "8")
+L 12/28/2025 - 19:19:48: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_visiblemaxplayers") (value "-1")
+L 12/28/2025 - 19:19:49: [chat-processor.smx] Message formats generated for game 'left4dead2'.
+L 12/28/2025 - 19:19:49: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 12/28/2025 - 19:23:23: -------- Mapchange to exempt_infinite_fall --------
+L 12/28/2025 - 19:23:27: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_consistency") (value "0")
+L 12/28/2025 - 19:23:27: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_allow_lobby_connect_only") (value "0")
+L 12/28/2025 - 19:23:27: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxplayers") (value "8")
+L 12/28/2025 - 19:23:27: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_visiblemaxplayers") (value "-1")
+L 12/28/2025 - 19:23:27: [chat-processor.smx] Message formats generated for game 'left4dead2'.
+L 12/28/2025 - 19:23:27: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 12/28/2025 - 19:25:21: [basecommands.smx] "[T-T]MoY<42><STEAM_1:0:511491787><>" changed cvar (cvar "sv_gravity") (value "200")
+L 12/28/2025 - 19:26:37: [test_1_v2.smx] "[T-T]MoY<42><STEAM_1:0:511491787><>" cambió la dificultad a hard
+L 12/28/2025 - 19:34:16: -------- Mapchange to bwm1_climb --------
+L 12/28/2025 - 19:34:20: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_consistency") (value "0")
+L 12/28/2025 - 19:34:20: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_allow_lobby_connect_only") (value "0")
+L 12/28/2025 - 19:34:20: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxplayers") (value "8")
+L 12/28/2025 - 19:34:20: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_visiblemaxplayers") (value "-1")
+L 12/28/2025 - 19:34:20: [chat-processor.smx] Message formats generated for game 'left4dead2'.
+L 12/28/2025 - 19:34:20: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 12/28/2025 - 19:41:04: [l4d_sm_respawn.smx] "[T-T]MoY<71><STEAM_1:0:511491787><>" teleported "tuctorojan<98><STEAM_ID_PENDING><>" after respawning him
+L 12/28/2025 - 19:53:24: -------- Mapchange to bwm2_city --------
+L 12/28/2025 - 19:53:28: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_consistency") (value "0")
+L 12/28/2025 - 19:53:28: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_allow_lobby_connect_only") (value "0")
+L 12/28/2025 - 19:53:28: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxplayers") (value "8")
+L 12/28/2025 - 19:53:28: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_visiblemaxplayers") (value "-1")
+L 12/28/2025 - 19:53:28: [chat-processor.smx] Message formats generated for game 'left4dead2'.
+L 12/28/2025 - 19:53:28: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 12/28/2025 - 20:05:45: [l4d_sm_respawn.smx] "[T-T]MoY<71><STEAM_1:0:511491787><>" teleported "ledread07<104><STEAM_1:0:814511445><>" after respawning him
+L 12/28/2025 - 20:05:45: [l4d_sm_respawn.smx] "[T-T]MoY<71><STEAM_1:0:511491787><>" teleported "StrikerekkoHonterGamerPro<152><STEAM_1:0:62197899><>" after respawning him
+L 12/28/2025 - 20:05:45: [l4d_sm_respawn.smx] "[T-T]MoY<71><STEAM_1:0:511491787><>" teleported "Fan de ONESHOT DEIDAD<85><STEAM_1:1:807363444><>" after respawning him
+L 12/28/2025 - 20:05:53: [l4d_sm_respawn.smx] "[T-T]MoY<71><STEAM_1:0:511491787><>" teleported "[T-T]MoY<71><STEAM_1:0:511491787><>" after respawning him
+L 12/28/2025 - 20:06:07: [l4d_sm_respawn.smx] "[T-T]MoY<71><STEAM_1:0:511491787><>" teleported "Fan de ONESHOT DEIDAD<85><STEAM_1:1:807363444><>" after respawning him
+L 12/28/2025 - 20:06:30: [l4d_sm_respawn.smx] "[T-T]MoY<71><STEAM_1:0:511491787><>" teleported "[T-T]MoY<71><STEAM_1:0:511491787><>" after respawning him
+L 12/28/2025 - 20:06:31: [l4d_sm_respawn.smx] "[T-T]MoY<71><STEAM_1:0:511491787><>" teleported "StrikerekkoHonterGamerPro<152><STEAM_1:0:62197899><>" after respawning him
+L 12/28/2025 - 20:06:31: [l4d_sm_respawn.smx] "[T-T]MoY<71><STEAM_1:0:511491787><>" teleported "Fan de ONESHOT DEIDAD<85><STEAM_1:1:807363444><>" after respawning him
+L 12/28/2025 - 20:06:32: [l4d_sm_respawn.smx] "[T-T]MoY<71><STEAM_1:0:511491787><>" teleported "tuctorojan<114><STEAM_1:1:951073803><>" after respawning him
+L 12/28/2025 - 20:08:01: -------- Mapchange to bwm3_forest --------
+L 12/28/2025 - 20:08:04: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_consistency") (value "0")
+L 12/28/2025 - 20:08:04: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_allow_lobby_connect_only") (value "0")
+L 12/28/2025 - 20:08:04: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxplayers") (value "8")
+L 12/28/2025 - 20:08:04: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_visiblemaxplayers") (value "-1")
+L 12/28/2025 - 20:08:05: [chat-processor.smx] Message formats generated for game 'left4dead2'.
+L 12/28/2025 - 20:08:05: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 12/28/2025 - 20:13:26: [funcommands.smx] "[T-T]MoY<71><STEAM_1:0:511491787><>" set gravity on "tuctorojan<114><STEAM_1:1:951073803><>" (amount "4.000000")
+L 12/28/2025 - 20:13:44: [funcommands.smx] "[T-T]MoY<71><STEAM_1:0:511491787><>" froze "tuctorojan<114><STEAM_1:1:951073803><>"
+L 12/28/2025 - 20:17:58: [l4d_sm_respawn.smx] "[T-T]MoY<71><STEAM_1:0:511491787><>" teleported "[T-T]MoY<71><STEAM_1:0:511491787><>" after respawning him
+L 12/28/2025 - 20:17:59: [l4d_sm_respawn.smx] "[T-T]MoY<71><STEAM_1:0:511491787><>" teleported "ledread07<104><STEAM_1:0:814511445><>" after respawning him
+L 12/28/2025 - 20:17:59: [l4d_sm_respawn.smx] "[T-T]MoY<71><STEAM_1:0:511491787><>" teleported "tuctorojan<114><STEAM_1:1:951073803><>" after respawning him
+L 12/28/2025 - 20:17:59: [l4d_sm_respawn.smx] "[T-T]MoY<71><STEAM_1:0:511491787><>" teleported "TU PRESI PPK<196><STEAM_1:0:711622089><>" after respawning him
+L 12/28/2025 - 20:18:12: [l4d_sm_respawn.smx] "[T-T]MoY<71><STEAM_1:0:511491787><>" teleported "StrikerekkoHonterGamerPro<152><STEAM_1:0:62197899><>" after respawning him
+L 12/28/2025 - 20:19:36: [test_1_v2.smx] "[T-T]MoY<71><STEAM_1:0:511491787><>" cambió la dificultad a hard
+L 12/28/2025 - 20:21:57: -------- Mapchange to bwm4_rooftops --------
+L 12/28/2025 - 20:22:00: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_consistency") (value "0")
+L 12/28/2025 - 20:22:00: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_allow_lobby_connect_only") (value "0")
+L 12/28/2025 - 20:22:00: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxplayers") (value "8")
+L 12/28/2025 - 20:22:00: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_visiblemaxplayers") (value "-1")
+L 12/28/2025 - 20:22:00: [chat-processor.smx] Message formats generated for game 'left4dead2'.
+L 12/28/2025 - 20:22:00: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 12/28/2025 - 20:22:43: [test_1_v2.smx] "[T-T]MoY<71><STEAM_1:0:511491787><>" cambió la dificultad a impossible
+L 12/28/2025 - 20:24:42: -------- Mapchange to bwm5_bridge --------
+L 12/28/2025 - 20:24:45: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_consistency") (value "0")
+L 12/28/2025 - 20:24:45: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_allow_lobby_connect_only") (value "0")
+L 12/28/2025 - 20:24:45: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxplayers") (value "8")
+L 12/28/2025 - 20:24:45: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_visiblemaxplayers") (value "-1")
+L 12/28/2025 - 20:24:45: [chat-processor.smx] Message formats generated for game 'left4dead2'.
+L 12/28/2025 - 20:24:45: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 12/28/2025 - 20:25:41: [all4dead2.smx] [NOTICE]: ([T-T]MoY<71><STEAM_1:0:511491787><>) has spawned a tank
+L 12/28/2025 - 20:25:42: [all4dead2.smx] [NOTICE]: ([T-T]MoY<71><STEAM_1:0:511491787><>) has spawned a tank
+L 12/28/2025 - 20:25:42: [all4dead2.smx] [NOTICE]: ([T-T]MoY<71><STEAM_1:0:511491787><>) has spawned a tank
+L 12/28/2025 - 20:25:42: [all4dead2.smx] [NOTICE]: ([T-T]MoY<71><STEAM_1:0:511491787><>) has spawned a tank
+L 12/28/2025 - 20:26:57: Log file closed.

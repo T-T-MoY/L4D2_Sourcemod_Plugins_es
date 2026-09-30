@@ -1,0 +1,33 @@
+L 10/22/2025 - 00:02:11: SourceMod log file session started (file "d:\steamlibrary\steamapps\common\left 4 dead 2\left4dead2\addons\sourcemod\logs\L20251022.log") (Version "1.12.0.7207")
+L 10/22/2025 - 00:02:11: [GEOIP] GeoIP2 database loaded: GeoLite2-ASN (2024-08-21 08:15:21 UTC) (d:\steamlibrary\steamapps\common\left 4 dead 2\left4dead2\addons\sourcemod\configs\geoip\GeoLite2-ASN.mmdb)
+L 10/22/2025 - 00:02:11: [GEOIP] GeoIP2 supported languages: en
+L 10/22/2025 - 00:02:11: [GEOIP] Your database is older than 90 days. You should consider downloading a newer version from e.g. https://dev.maxmind.com/geoip/geolite2-free-geolocation-data
+L 10/22/2025 - 00:02:19: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_consistency") (value "0")
+L 10/22/2025 - 00:02:19: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_allow_lobby_connect_only") (value "0")
+L 10/22/2025 - 00:02:19: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxplayers") (value "8")
+L 10/22/2025 - 00:02:19: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_visiblemaxplayers") (value "-1")
+L 10/22/2025 - 00:02:19: [chat-processor.smx] Message formats generated for game 'left4dead2'.
+L 10/22/2025 - 00:02:19: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 10/22/2025 - 00:03:16: [basecommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" changed cvar (cvar "sv_gravity") (value "200")
+L 10/22/2025 - 00:06:19: [playercommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" slayed "Ellis<3><BOT><>"
+L 10/22/2025 - 00:06:19: [playercommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" slayed "Coach<4><BOT><>"
+L 10/22/2025 - 00:06:20: [playercommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" slayed "Rochelle<5><BOT><>"
+L 10/22/2025 - 00:06:20: [playercommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" slayed "Tank<10><BOT><>"
+L 10/22/2025 - 00:09:41: [playercommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" slayed "Ellis<3><BOT><>"
+L 10/22/2025 - 00:09:41: [playercommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" slayed "Coach<4><BOT><>"
+L 10/22/2025 - 00:09:41: [playercommands.smx] "[T-T]MoY<2><STEAM_1:0:511491787><>" slayed "Rochelle<5><BOT><>"
+L 10/22/2025 - 00:10:23: -------- Mapchange to c2m1_highway --------
+L 10/22/2025 - 00:10:26: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_consistency") (value "0")
+L 10/22/2025 - 00:10:26: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_allow_lobby_connect_only") (value "0")
+L 10/22/2025 - 00:10:26: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxplayers") (value "8")
+L 10/22/2025 - 00:10:26: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_visiblemaxplayers") (value "-1")
+L 10/22/2025 - 00:10:27: [chat-processor.smx] Message formats generated for game 'left4dead2'.
+L 10/22/2025 - 00:10:27: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 10/22/2025 - 00:22:49: -------- Mapchange to bwm1_climb --------
+L 10/22/2025 - 00:22:52: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_consistency") (value "0")
+L 10/22/2025 - 00:22:52: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_allow_lobby_connect_only") (value "0")
+L 10/22/2025 - 00:22:52: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxplayers") (value "8")
+L 10/22/2025 - 00:22:52: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_visiblemaxplayers") (value "-1")
+L 10/22/2025 - 00:22:52: [chat-processor.smx] Message formats generated for game 'left4dead2'.
+L 10/22/2025 - 00:22:52: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 10/22/2025 - 00:26:02: Log file closed.
